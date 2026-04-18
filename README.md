@@ -39,27 +39,6 @@ In your repo → **Settings → Secrets and variables → Actions → New secret
 ```
 ANTHROPIC_API_KEY         your Anthropic API key
 STREAMLIT_APP_URL         https://yourapp.streamlit.app (your deployed URL)
-EMAIL_FROM                your sending email address
-EMAIL_TO                  where you want notifications sent
-SMTP_HOST                 smtp.gmail.com  (or your provider)
-SMTP_PORT                 587
-SMTP_USER                 your Gmail address
-SMTP_PASS                 Gmail App Password (not your login password)
-```
-
-### 5. Set Streamlit Secrets
-
-In Streamlit Cloud → your app → **Settings → Secrets**:
-
-```toml
-ANTHROPIC_API_KEY = "sk-ant-..."
-LINKEDIN_ACCESS_TOKEN = "..."
-FACEBOOK_PAGE_ID = "..."
-FACEBOOK_PAGE_ACCESS_TOKEN = "..."
-GITHUB_OWNER = "your-github-username"
-GITHUB_REPO = "linkedin-agent"
-GITHUB_BRANCH = "main"
-GITHUB_TOKEN = "ghp_..."
 ```
 ---
 

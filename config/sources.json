@@ -25,6 +25,16 @@
       "name": "The Rundown AI",
       "weight": 1.3
     }
+    {
+      "url": "https://venturebeat.com/feed/",
+      "name": "VentureBeat",
+      "weight": 1.3
+    }
+    {
+      "url": "https://a16z.com/feed/",
+      "name": "a16z",
+      "weight": 1.3
+    }
   ],
   "keywords": {
     "high_value": [
@@ -50,6 +60,6 @@
     "medium_value_weight": 1,
     "low_value_weight": 0,
     "exclude_penalty": -10,
-    "min_score_threshold": 2
+    "min_score_threshold": 1.1
   }
 }

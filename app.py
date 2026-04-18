@@ -7,15 +7,35 @@ Deploy to Streamlit Community Cloud connected to this GitHub repo.
 import json
 import os
 import sys
-import time
 from pathlib import Path
 
 import requests
 import streamlit as st
 
+# ── Password Gate ─────────────────────────────────────────────────────────────
+
+def check_password():
+    def password_entered():
+        if st.session_state["password"] == st.secrets["APP_PASSWORD"]:
+            st.session_state["authenticated"] = True
+        else:
+            st.session_state["authenticated"] = False
+
+    if "authenticated" not in st.session_state:
+        st.text_input("Password", type="password",
+                      on_change=password_entered, key="password")
+        st.stop()
+    elif not st.session_state["authenticated"]:
+        st.text_input("Password", type="password",
+                      on_change=password_entered, key="password")
+        st.error("Incorrect password")
+        st.stop()
+
+check_password()
+
 # Add agent dir to path
 sys.path.insert(0, str(Path(__file__).parent / "agent"))
-from generate_post import generate_posts, stream_linkedin_post
+from generate_post import generate_posts, generate_summary
 from post_to_social import post_to_socials
 
 # ── Config ────────────────────────────────────────────────────────────────────
@@ -31,21 +51,18 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-# ── Load State ────────────────────────────────────────────────────────────────
+# ── State Management ──────────────────────────────────────────────────────────
 
-@st.cache_data(ttl=30, show_spinner=False)
 def load_state_from_github():
-    """Fetch state.json directly from GitHub raw content — no redeploy needed."""
     url = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{GITHUB_BRANCH}/state.json"
     try:
-        resp = requests.get(url, timeout=10)
+        resp = requests.get(url, params={"t": str(os.urandom(4).hex())}, timeout=10)
         resp.raise_for_status()
         return resp.json()
-    except Exception as e:
+    except Exception:
         return None
 
 def load_state_local():
-    """Fallback: read from local filesystem (works in dev)."""
     state_path = Path(__file__).parent / "state.json"
     if state_path.exists():
         with open(state_path) as f:
@@ -60,26 +77,20 @@ def get_state():
     return load_state_local()
 
 def update_state_on_github(state: dict):
-    """Commit updated state.json to GitHub via API."""
     token = os.environ.get("GITHUB_TOKEN", "")
     if not token or not GITHUB_OWNER or not GITHUB_REPO:
         return False
-
     url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/state.json"
     headers = {
         "Authorization": f"token {token}",
         "Accept": "application/vnd.github.v3+json",
     }
-
-    # Get current SHA
     resp = requests.get(url, headers=headers)
     sha = resp.json().get("sha", "")
-
     import base64
     content = base64.b64encode(json.dumps(state, indent=2).encode()).decode()
-
     requests.put(url, headers=headers, json={
-        "message": f"Mark article as posted [skip ci]",
+        "message": "Mark article as posted [skip ci]",
         "content": content,
         "sha": sha,
         "branch": GITHUB_BRANCH,
@@ -96,7 +107,7 @@ st.markdown("""
         border-left: 4px solid #0a66c2;
         padding: 16px 20px;
         border-radius: 4px;
-        margin-bottom: 24px;
+        margin-bottom: 16px;
     }
     .source-tag {
         font-size: 12px;
@@ -113,6 +124,15 @@ st.markdown("""
         letter-spacing: 1px;
         margin-bottom: 4px;
     }
+    .summary-box {
+        background: #eef4fb;
+        border-radius: 6px;
+        padding: 14px 18px;
+        margin-bottom: 20px;
+        font-size: 14px;
+        line-height: 1.7;
+        color: #333;
+    }
     .success-box {
         background: #e8f5e9;
         border: 1px solid #4caf50;
@@ -123,18 +143,37 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
+# ── Session State Init ────────────────────────────────────────────────────────
+
+for key, default in [
+    ("linkedin_draft", ""),
+    ("facebook_draft", ""),
+    ("generated", False),
+    ("posted", False),
+    ("ai_summary", ""),
+    ("summary_loaded", False),
+    ("state", None),
+]:
+    if key not in st.session_state:
+        st.session_state[key] = default
+
 # ── Main UI ───────────────────────────────────────────────────────────────────
 
 st.title("✍️ Post Agent")
 
-state = get_state()
+if st.session_state.state is None:
+    st.session_state.state = get_state()
+
+state = st.session_state.state
 
 if not state or not state.get("current"):
-    st.info("No article queued. The agent runs daily — check back after your scheduled time.")
+    st.info("No article queued. The agent runs daily at 8am PT — check back then.")
+    if st.button("🔄 Check Now"):
+        st.session_state.state = get_state()
+        st.rerun()
     st.stop()
 
 article = state["current"]
-stage = article.get("stage", "pending_opinion")
 
 # ── Article Card ──────────────────────────────────────────────────────────────
 
@@ -142,9 +181,6 @@ st.markdown(f"""
 <div class="article-card">
   <div class="source-tag">{article.get('source', 'Unknown Source')}</div>
   <strong style="font-size: 17px; line-height: 1.4;">{article.get('title', '')}</strong>
-  <p style="margin-top: 10px; color: #444; font-size: 14px; line-height: 1.6;">
-    {article.get('summary', '')[:400]}...
-  </p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -152,21 +188,42 @@ col1, col2 = st.columns([1, 1])
 with col1:
     st.link_button("📄 Read Full Article", article.get("url", "#"))
 with col2:
-    if st.button("🔄 Refresh Article"):
-        st.cache_data.clear()
+    if st.button("🔄 Refresh"):
+        st.session_state.state = None
+        st.session_state.summary_loaded = False
+        st.session_state.ai_summary = ""
+        st.session_state.generated = False
+        st.session_state.posted = False
         st.rerun()
+
+st.divider()
+
+# ── AI Summary ────────────────────────────────────────────────────────────────
+
+st.markdown('<div class="step-label">Article Summary</div>', unsafe_allow_html=True)
+
+if not st.session_state.summary_loaded:
+    with st.spinner("Summarizing article..."):
+        try:
+            st.session_state.ai_summary = generate_summary(article)
+            st.session_state.summary_loaded = True
+        except Exception:
+            st.session_state.ai_summary = article.get("summary", "")[:400]
+            st.session_state.summary_loaded = True
+
+st.markdown(f'<div class="summary-box">{st.session_state.ai_summary}</div>', unsafe_allow_html=True)
 
 st.divider()
 
 # ── Step 1: Opinion ───────────────────────────────────────────────────────────
 
 st.markdown('<div class="step-label">Step 1 — Your Take</div>', unsafe_allow_html=True)
-st.caption("Don't polish it. Write what you actually think — the agent does the rest.")
+st.caption("Bullet points or prose — either works. Just write what you actually think.")
 
 opinion = st.text_area(
     label="Your opinion",
-    placeholder="E.g. This confirms what I've been seeing in enterprise AI deployments — companies are buying tools but not changing their decision-making processes. The tech is ready. The org design isn't.",
-    height=120,
+    placeholder="- AI adoption is outpacing org readiness\n- Most teams don't have clean enough data\n- The real bottleneck is decision-making culture, not the tech",
+    height=140,
     label_visibility="collapsed",
 )
 
@@ -174,23 +231,14 @@ generate_clicked = st.button("Generate Posts →", type="primary", disabled=not 
 
 # ── Step 2: Draft ─────────────────────────────────────────────────────────────
 
-if "linkedin_draft" not in st.session_state:
-    st.session_state.linkedin_draft = ""
-if "facebook_draft" not in st.session_state:
-    st.session_state.facebook_draft = ""
-if "generated" not in st.session_state:
-    st.session_state.generated = False
-
 if generate_clicked and opinion.strip():
-    st.divider()
-    st.markdown('<div class="step-label">Step 2 — Review & Edit</div>', unsafe_allow_html=True)
-
     with st.spinner("Writing your posts..."):
         try:
             posts = generate_posts(article, opinion)
             st.session_state.linkedin_draft = posts.get("linkedin", "")
             st.session_state.facebook_draft = posts.get("facebook", "")
             st.session_state.generated = True
+            st.session_state.posted = False
         except Exception as e:
             st.error(f"Generation failed: {e}")
             st.stop()
@@ -208,8 +256,8 @@ if st.session_state.generated:
             height=300,
             label_visibility="collapsed",
         )
-        char_count = len(st.session_state.linkedin_draft)
         word_count = len(st.session_state.linkedin_draft.split())
+        char_count = len(st.session_state.linkedin_draft)
         st.caption(f"{word_count} words · {char_count} chars")
 
     with tab_fb:
@@ -219,63 +267,19 @@ if st.session_state.generated:
             height=300,
             label_visibility="collapsed",
         )
-        char_count_fb = len(st.session_state.facebook_draft)
         word_count_fb = len(st.session_state.facebook_draft.split())
+        char_count_fb = len(st.session_state.facebook_draft)
         st.caption(f"{word_count_fb} words · {char_count_fb} chars")
 
     st.divider()
 
-    # ── Step 3: Approve & Post ────────────────────────────────────────────────
+    # ── Step 3: Copy & Post ───────────────────────────────────────────────────
 
-    st.markdown('<div class="step-label">Step 3 — Approve & Post</div>', unsafe_allow_html=True)
+    st.markdown('<div class="step-label">Step 3 — Copy & Post</div>', unsafe_allow_html=True)
+    st.caption("Select all text in either tab above, copy, and paste directly into LinkedIn or Facebook.")
 
     col_li, col_fb = st.columns(2)
     with col_li:
-        post_linkedin = st.checkbox("Post to LinkedIn", value=True)
+        st.link_button("🔵 Open LinkedIn", "https://www.linkedin.com/feed/")
     with col_fb:
-        post_facebook = st.checkbox("Post to Facebook", value=True)
-
-    if "posted" not in st.session_state:
-        st.session_state.posted = False
-
-    if not st.session_state.posted:
-        if st.button("🚀 Approve & Post Now", type="primary"):
-            with st.spinner("Posting..."):
-                try:
-                    results = post_to_socials(
-                        linkedin_text=st.session_state.linkedin_draft,
-                        facebook_text=st.session_state.facebook_draft,
-                        article_url=article.get("url", ""),
-                        post_linkedin=post_linkedin,
-                        post_facebook=post_facebook,
-                    )
-
-                    # Mark as posted in state
-                    state["current"]["stage"] = "posted"
-                    posted_url = article.get("url", "")
-                    if posted_url not in state.get("history", []):
-                        state.setdefault("history", []).append(posted_url)
-
-                    update_state_on_github(state)
-                    st.session_state.posted = True
-
-                    st.markdown('<div class="success-box">', unsafe_allow_html=True)
-                    st.success("✅ Posted successfully!")
-
-                    for r in results:
-                        platform = r["platform"].capitalize()
-                        if r["success"]:
-                            url = r.get("url")
-                            if url:
-                                st.markdown(f"**{platform}:** [View post]({url})")
-                            else:
-                                st.markdown(f"**{platform}:** Posted ✓")
-                        else:
-                            st.error(f"**{platform} failed:** {r.get('error')}")
-
-                    st.markdown('</div>', unsafe_allow_html=True)
-
-                except Exception as e:
-                    st.error(f"Posting failed: {e}")
-    else:
-        st.success("✅ Already posted this session.")
+        st.link_button("🔷 Open Facebook", "https://www.facebook.com/")

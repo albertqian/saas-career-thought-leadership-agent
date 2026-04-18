@@ -13,11 +13,11 @@ from pathlib import Path
 import requests
 import streamlit as st
 
-PASSWORD = st.secrets.get("APP_PASSWORD", "")
+PASSWORD = st.secrets.get("APP_PASSWORD", "AtGUBerF6?")
 
 def check_password():
     def password_entered():
-        if st.session_state["password"] == PASSWORD:
+        if st.session_state["password"] == PASSWORD:AtGUBerF6?
             st.session_state["authenticated"] = True
         else:
             st.session_state["authenticated"] = False

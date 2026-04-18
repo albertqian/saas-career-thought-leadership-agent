@@ -61,39 +61,6 @@ GITHUB_REPO = "linkedin-agent"
 GITHUB_BRANCH = "main"
 GITHUB_TOKEN = "ghp_..."
 ```
-
----
-
-## LinkedIn Setup
-
-1. Go to [LinkedIn Developer Portal](https://developer.linkedin.com/)
-2. Create an App → add your profile as admin
-3. Request access to **Share on LinkedIn** product
-4. Under Auth → OAuth 2.0 scopes: `w_member_social`, `r_liteprofile`
-5. Generate an access token via OAuth flow (tokens expire in 60 days — you'll need to refresh)
-
-**Token refresh tip:** Use [LinkedIn's token generator tool](https://www.linkedin.com/developers/tools/oauth) in the developer portal.
-
----
-
-## Facebook Setup
-
-1. Go to [Meta for Developers](https://developers.facebook.com/)
-2. Create an App → type: Business
-3. Add **Pages API** product
-4. Generate a Page Access Token for your Page (not your personal profile)
-5. Extend the token to a long-lived token (60 days) via Graph API Explorer
-
-**Note:** Facebook personal profiles cannot be posted to via API. You need a Facebook Page.
-
----
-
-## Gmail App Password (for email notifications)
-
-1. Google Account → Security → 2-Step Verification (must be on)
-2. Search "App passwords" → Generate for "Mail"
-3. Use that 16-character password as `SMTP_PASS`
-
 ---
 
 ## Customizing Your Sources

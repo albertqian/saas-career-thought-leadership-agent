@@ -17,7 +17,7 @@ PASSWORD = st.secrets.get("APP_PASSWORD", "AtGUBerF6?")
 
 def check_password():
     def password_entered():
-        if st.session_state["password"] == PASSWORD:AtGUBerF6?
+        if st.session_state["password"] == st.secrets["APP_PASSWORD"]:
             st.session_state["authenticated"] = True
         else:
             st.session_state["authenticated"] = False

@@ -1,7 +1,6 @@
 """
 app.py — LinkedIn Post Agent
 Streamlit web app for reviewing articles, generating posts, and publishing.
-Deploy to Streamlit Community Cloud connected to this GitHub repo.
 """
 
 import json
@@ -36,6 +35,7 @@ check_password()
 # Add agent dir to path
 sys.path.insert(0, str(Path(__file__).parent / "agent"))
 from generate_post import generate_posts, generate_summary
+from fetch_articles import fetch_and_save_article
 from post_to_social import post_to_socials
 
 # ── Config ────────────────────────────────────────────────────────────────────
@@ -56,7 +56,7 @@ st.set_page_config(
 def load_state_from_github():
     url = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{GITHUB_BRANCH}/state.json"
     try:
-        resp = requests.get(url, params={"t": str(os.urandom(4).hex())}, timeout=10)
+        resp = requests.get(url, params={"t": os.urandom(4).hex()}, timeout=10)
         resp.raise_for_status()
         return resp.json()
     except Exception:
@@ -90,7 +90,7 @@ def update_state_on_github(state: dict):
     import base64
     content = base64.b64encode(json.dumps(state, indent=2).encode()).decode()
     requests.put(url, headers=headers, json={
-        "message": "Mark article as posted [skip ci]",
+        "message": "Update article state [skip ci]",
         "content": content,
         "sha": sha,
         "branch": GITHUB_BRANCH,
@@ -133,13 +133,6 @@ st.markdown("""
         line-height: 1.7;
         color: #333;
     }
-    .success-box {
-        background: #e8f5e9;
-        border: 1px solid #4caf50;
-        border-radius: 6px;
-        padding: 16px;
-        margin-top: 16px;
-    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -157,6 +150,14 @@ for key, default in [
     if key not in st.session_state:
         st.session_state[key] = default
 
+def reset_article_state():
+    st.session_state.summary_loaded = False
+    st.session_state.ai_summary = ""
+    st.session_state.generated = False
+    st.session_state.posted = False
+    st.session_state.linkedin_draft = ""
+    st.session_state.facebook_draft = ""
+
 # ── Main UI ───────────────────────────────────────────────────────────────────
 
 st.title("✍️ Post Agent")
@@ -167,11 +168,17 @@ if st.session_state.state is None:
 state = st.session_state.state
 
 if not state or not state.get("current"):
-    st.info("No article queued. The agent runs daily at 8am PT — check back then.")
-    if st.button("🔄 Check Now"):
-        st.session_state.state = get_state()
-        st.rerun()
-    st.stop()
+    st.info("No article queued yet. Fetching one now...")
+    with st.spinner("Finding the best article for you..."):
+        article = fetch_and_save_article()
+        if article:
+            update_state_on_github({"current": article, "history": []})
+            st.session_state.state = {"current": article, "history": []}
+            reset_article_state()
+            st.rerun()
+        else:
+            st.error("No qualifying articles found right now. Try again later.")
+            st.stop()
 
 article = state["current"]
 
@@ -188,28 +195,36 @@ col1, col2 = st.columns([1, 1])
 with col1:
     st.link_button("📄 Read Full Article", article.get("url", "#"))
 with col2:
-    if st.button("🔄 Refresh"):
-        st.session_state.state = None
-        st.session_state.summary_loaded = False
-        st.session_state.ai_summary = ""
-        st.session_state.generated = False
-        st.session_state.posted = False
-        st.rerun()
+    if st.button("⏭️ Next Article"):
+        with st.spinner("Finding next article..."):
+            current_url = article.get("url", "")
+            # Add current to history so it won't repeat
+            history = state.get("history", [])
+            if current_url not in history:
+                history.append(current_url)
+            new_article = fetch_and_save_article(skip_url=current_url)
+            if new_article:
+                new_state = {"current": new_article, "history": history}
+                update_state_on_github(new_state)
+                st.session_state.state = new_state
+                reset_article_state()
+                st.rerun()
+            else:
+                st.warning("No more qualifying articles available right now.")
 
 st.divider()
 
 # ── AI Summary ────────────────────────────────────────────────────────────────
 
-st.markdown('<div class="step-label">Article Summary</div>', unsafe_allow_html=True)
+st.markdown('<div class="step-label">What This Article Is About</div>', unsafe_allow_html=True)
 
 if not st.session_state.summary_loaded:
-    with st.spinner("Summarizing article..."):
+    with st.spinner("Summarizing..."):
         try:
             st.session_state.ai_summary = generate_summary(article)
-            st.session_state.summary_loaded = True
         except Exception:
             st.session_state.ai_summary = article.get("summary", "")[:400]
-            st.session_state.summary_loaded = True
+        st.session_state.summary_loaded = True
 
 st.markdown(f'<div class="summary-box">{st.session_state.ai_summary}</div>', unsafe_allow_html=True)
 
@@ -276,7 +291,7 @@ if st.session_state.generated:
     # ── Step 3: Copy & Post ───────────────────────────────────────────────────
 
     st.markdown('<div class="step-label">Step 3 — Copy & Post</div>', unsafe_allow_html=True)
-    st.caption("Select all text in either tab above, copy, and paste directly into LinkedIn or Facebook.")
+    st.caption("Select all text in either tab above, copy, and paste into LinkedIn or Facebook.")
 
     col_li, col_fb = st.columns(2)
     with col_li:

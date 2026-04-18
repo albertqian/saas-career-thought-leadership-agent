@@ -33,7 +33,7 @@ st.set_page_config(
 
 # ── Load State ────────────────────────────────────────────────────────────────
 
-@st.cache_data(ttl=60)
+@st.cache_data(ttl=30, show_spinner=False)
 def load_state_from_github():
     """Fetch state.json directly from GitHub raw content — no redeploy needed."""
     url = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{GITHUB_BRANCH}/state.json"

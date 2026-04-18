@@ -130,7 +130,6 @@ def main():
     state["current"] = article
     save_state(state)
 
-    send_notification(article)
     print("[DONE] State updated and email sent.")
 
 if __name__ == "__main__":

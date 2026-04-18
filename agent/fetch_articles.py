@@ -1,29 +1,22 @@
 """
 fetch_articles.py
-Fetches the best article from configured RSS feeds, updates state.json,
-and sends a notification email with a link to the Streamlit review app.
-Run daily via GitHub Actions.
+Fetches the best article from configured RSS feeds.
+Can be run as a GitHub Actions job (main) or imported by the Streamlit app
+for on-demand article refresh.
 """
 
 import feedparser
 import json
 import os
 import re
-import smtplib
 import hashlib
 import sys
 from datetime import datetime, timezone
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 from pathlib import Path
-
-# ── Config ────────────────────────────────────────────────────────────────────
 
 ROOT = Path(__file__).parent.parent
 CONFIG_PATH = ROOT / "config" / "sources.json"
 STATE_PATH = ROOT / "state.json"
-
-STREAMLIT_APP_URL = os.environ["STREAMLIT_APP_URL"]   # e.g. https://yourapp.streamlit.app
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
@@ -70,6 +63,10 @@ def score_article(title, summary, config):
 # ── Core ──────────────────────────────────────────────────────────────────────
 
 def fetch_best_article(config, seen_urls):
+    """
+    Fetches and scores articles from all configured feeds.
+    Returns the single highest-scoring unseen article, or None.
+    """
     candidates = []
     min_score = config["scoring"]["min_score_threshold"]
 
@@ -107,16 +104,37 @@ def fetch_best_article(config, seen_urls):
     return sorted(candidates, key=lambda x: x["score"], reverse=True)[0]
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
+def fetch_and_save_article(skip_url=None):
+    """
+    Callable from both GitHub Actions and the Streamlit app.
+    Fetches a new article, updates state, returns the article dict or None.
+    skip_url: optionally skip a specific URL (the one currently shown)
+    """
+    config = load_config()
+    state = load_state()
+
+    seen_urls = set(state.get("history", []))
+    if skip_url:
+        seen_urls.add(skip_url)
+
+    article = fetch_best_article(config, seen_urls)
+
+    if not article:
+        return None
+
+    state["current"] = article
+    save_state(state)
+    return article
+
+# ── GitHub Actions entrypoint ─────────────────────────────────────────────────
 
 def main():
     config = load_config()
     state = load_state()
     seen_urls = set(state.get("history", []))
 
-    # Don't overwrite an article that hasn't been acted on yet
     if state.get("current") and state["current"].get("stage") == "pending_opinion":
-        print("[SKIP] Previous article still pending opinion. Not replacing.")
+        print("[SKIP] Previous article still pending opinion.")
         sys.exit(0)
 
     article = fetch_best_article(config, seen_urls)
@@ -126,11 +144,9 @@ def main():
         sys.exit(0)
 
     print(f"[OK] Selected: {article['title']} ({article['source']}, score={article['score']:.1f})")
-
     state["current"] = article
     save_state(state)
-
-    print("[DONE] State updated and email sent.")
+    print("[DONE] State updated.")
 
 if __name__ == "__main__":
     main()

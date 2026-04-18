@@ -24,12 +24,6 @@ CONFIG_PATH = ROOT / "config" / "sources.json"
 STATE_PATH = ROOT / "state.json"
 
 STREAMLIT_APP_URL = os.environ["STREAMLIT_APP_URL"]   # e.g. https://yourapp.streamlit.app
-EMAIL_FROM = os.environ["EMAIL_FROM"]
-EMAIL_TO = os.environ["EMAIL_TO"]
-SMTP_HOST = os.environ.get("SMTP_HOST", "smtp.gmail.com")
-SMTP_PORT = int(os.environ.get("SMTP_PORT", "587"))
-SMTP_USER = os.environ["SMTP_USER"]
-SMTP_PASS = os.environ["SMTP_PASS"]
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
@@ -112,52 +106,6 @@ def fetch_best_article(config, seen_urls):
 
     return sorted(candidates, key=lambda x: x["score"], reverse=True)[0]
 
-def send_notification(article):
-    subject = f"📰 New article ready for your take → {article['title'][:60]}..."
-    app_url = STREAMLIT_APP_URL
-
-    body_html = f"""
-    <div style="font-family: Arial, sans-serif; max-width: 600px; padding: 24px;">
-      <h2 style="color: #1a1a2e;">Your daily article is ready</h2>
-      <p style="color: #555; font-size: 14px;">Source: <strong>{article['source']}</strong></p>
-
-      <h3 style="margin-bottom: 4px;">{article['title']}</h3>
-      <p style="color: #333; line-height: 1.6;">{article['summary'][:400]}...</p>
-      <p><a href="{article['url']}" style="color: #0066cc;">Read full article →</a></p>
-
-      <hr style="border: none; border-top: 1px solid #eee; margin: 24px 0;">
-
-      <a href="{app_url}" style="
-        background: #0a66c2;
-        color: white;
-        padding: 12px 24px;
-        border-radius: 6px;
-        text-decoration: none;
-        font-weight: bold;
-        display: inline-block;
-      ">
-        Open Review App →
-      </a>
-
-      <p style="margin-top: 24px; font-size: 12px; color: #aaa;">
-        Add your opinion, review the draft, and post — all in one place.
-      </p>
-    </div>
-    """
-
-    msg = MIMEMultipart("alternative")
-    msg["Subject"] = subject
-    msg["From"] = EMAIL_FROM
-    msg["To"] = EMAIL_TO
-    msg.attach(MIMEText(body_html, "html"))
-
-    with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as server:
-        server.ehlo()
-        server.starttls()
-        server.login(SMTP_USER, SMTP_PASS)
-        server.sendmail(EMAIL_FROM, EMAIL_TO, msg.as_string())
-
-    print(f"[OK] Email sent: {subject}")
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 

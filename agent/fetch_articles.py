@@ -66,6 +66,7 @@ def fetch_best_article(config, seen_urls):
     """
     Fetches and scores articles from all configured feeds.
     Returns the single highest-scoring unseen article, or None.
+    seen_urls: a set of ALL urls to skip — history + session skips combined.
     """
     candidates = []
     min_score = config["scoring"]["min_score_threshold"]
@@ -104,18 +105,19 @@ def fetch_best_article(config, seen_urls):
     return sorted(candidates, key=lambda x: x["score"], reverse=True)[0]
 
 
-def fetch_and_save_article(skip_url=None):
+def fetch_and_save_article(skip_urls=None):
     """
     Callable from both GitHub Actions and the Streamlit app.
-    Fetches a new article, updates state, returns the article dict or None.
-    skip_url: optionally skip a specific URL (the one currently shown)
+    skip_urls: a list or set of URLs to exclude (all previously seen this session)
+    Returns the new article dict or None.
     """
     config = load_config()
     state = load_state()
 
+    # Combine persistent history with any session-level skips
     seen_urls = set(state.get("history", []))
-    if skip_url:
-        seen_urls.add(skip_url)
+    if skip_urls:
+        seen_urls.update(skip_urls)
 
     article = fetch_best_article(config, seen_urls)
 

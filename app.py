@@ -146,6 +146,7 @@ for key, default in [
     ("ai_summary", ""),
     ("summary_loaded", False),
     ("state", None),
+    ("session_skipped_urls", []),   # tracks all skipped URLs this session
 ]:
     if key not in st.session_state:
         st.session_state[key] = default
@@ -170,10 +171,11 @@ state = st.session_state.state
 if not state or not state.get("current"):
     st.info("No article queued yet. Fetching one now...")
     with st.spinner("Finding the best article for you..."):
-        article = fetch_and_save_article()
+        article = fetch_and_save_article(skip_urls=st.session_state.session_skipped_urls)
         if article:
-            update_state_on_github({"current": article, "history": []})
-            st.session_state.state = {"current": article, "history": []}
+            new_state = {"current": article, "history": []}
+            update_state_on_github(new_state)
+            st.session_state.state = new_state
             reset_article_state()
             st.rerun()
         else:
@@ -198,11 +200,21 @@ with col2:
     if st.button("⏭️ Next Article"):
         with st.spinner("Finding next article..."):
             current_url = article.get("url", "")
-            # Add current to history so it won't repeat
+
+            # Add current article to session skip list
+            if current_url not in st.session_state.session_skipped_urls:
+                st.session_state.session_skipped_urls.append(current_url)
+
+            # Also update persistent history on GitHub
             history = state.get("history", [])
             if current_url not in history:
                 history.append(current_url)
-            new_article = fetch_and_save_article(skip_url=current_url)
+
+            # Pass ALL skipped URLs so nothing repeats
+            new_article = fetch_and_save_article(
+                skip_urls=st.session_state.session_skipped_urls
+            )
+
             if new_article:
                 new_state = {"current": new_article, "history": history}
                 update_state_on_github(new_state)
@@ -210,7 +222,7 @@ with col2:
                 reset_article_state()
                 st.rerun()
             else:
-                st.warning("No more qualifying articles available right now.")
+                st.warning("No more qualifying articles available right now. Check back later or add more sources.")
 
 st.divider()
 

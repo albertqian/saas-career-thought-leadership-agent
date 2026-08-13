@@ -1,26 +1,6 @@
 {
   "queue": [
     {
-      "id": "caad26d3c31d",
-      "title": "Silicon Valley startups are about to hand corporate credit cards to AI agents",
-      "url": "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents",
-      "summary": "As AI agents join human cofounders, the digital banking services company Mercury is expanding its offerings with virtual cards for autonomous purchasing.\n\nThe typical early-stage startup team used to comprise a pair of founders and a handful of software engineers. Now that founding team is just as likely to include AI agents as it is human employees\u2014and the companies that serve startups are racing to adapt.&nbsp;",
-      "source": "Fast Company",
-      "score": 8.0,
-      "published": "2026-08-11T15:00:00+00:00",
-      "fetched_at": "2026-08-11T16:58:33.761615+00:00"
-    },
-    {
-      "id": "f6ccf2f928d3",
-      "title": "Frankenstein has left the laboratory, says the man selling Frankensteins\u2014and he couldn\u2019t be happier",
-      "url": "https://www.fastcompany.com/91584883/frankenstein-left-the-laboratory-altman-singularity?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "On July 21, OpenAI disclosed something that sounds like science fiction: Two of its AI models broke out of a supposedly isolated test environment and hacked into the production servers of Hugging Face, one of the world\u2019s largest AI platforms. Anthropic then combed back through 141,006 of its own evaluation runs and found three occasions on which its Claude models had done the same thing.\n\n\n\nAs Hugging Face then said: \u201cAutonomous, AI-driven offensive tooling is no longer theoretical.\u201d This is both a cybersecurity nightmare and the modern face of one of humanity\u2019s most enduring fears: the creati",
-      "source": "Fast Company Tech",
-      "score": 7.7,
-      "published": "2026-08-10T18:42:12+00:00",
-      "fetched_at": "2026-08-11T16:58:33.631800+00:00"
-    },
-    {
       "id": "46391e3b8d60",
       "title": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
       "url": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
@@ -51,26 +31,6 @@
       "fetched_at": "2026-08-12T16:57:38.269852+00:00"
     },
     {
-      "id": "fc955190665c",
-      "title": "Meta\u2019s local AI model prompts enterprises to rethink hardware-software cost trade-off",
-      "url": "https://www.computerworld.com/article/4207598/metas-new-local-model-forces-enterprises-to-recalculate-ai-costs-and-roi.html",
-      "summary": "Meta rolled out a new 30-billion-parameter AI model optimized to run on a PC or Mac with a single GPU on Monday, offering a way to run always-on agentic workflows locally rather than relying on the cloud.\n\n\n\nThe company has dubbed it Muse Glimmer. However, its hardware demands, including a GPU with a minimum of 24GB of VRAM, could make it difficult to justify for deployment at scale.\n\n\n\nAlthough analysts and consultants agree that there is a tremendous enterprise appetite for running models locally, determining whether switching more systems from cloud to local makes fiscal sense is much more ",
-      "source": "Computerworld",
-      "score": 7.0,
-      "published": "2026-08-11T01:38:31+00:00",
-      "fetched_at": "2026-08-12T16:57:40.568242+00:00"
-    },
-    {
-      "id": "0e503caf8a89",
-      "title": "Pylon\u2019s Founders at SaaStr AI Day: A 1,000-Person Support Team Deflected 50% of Its Tickets. Headcount Didn\u2019t Change.",
-      "url": "https://www.saastr.com/pylons-founders-at-saastr-ai-day-a-1000-person-support-team-deflected-50-of-its-tickets-headcount-didnt-change/",
-      "summary": "Marty Kausas and Advith Chelikani on why deflection rate is the wrong numberin CX. And what they&#8217;re replacing it with, and what you should, too. Pylon closed out the latest SaaStr AI Day with the two co-founders walking through the launch they shipped the week before, which they&#8217;re calling agentic customer support. Marty Kausas is... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-08-11T10:40:34+00:00",
-      "fetched_at": "2026-08-12T16:57:38.894573+00:00"
-    },
-    {
       "id": "45fca7a46b39",
       "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
       "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
@@ -91,26 +51,6 @@
       "fetched_at": "2026-08-12T16:57:38.270047+00:00"
     },
     {
-      "id": "226e5e097bdf",
-      "title": "Silicon Valley startups are about to hand corporate credit cards to AI agents",
-      "url": "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "The typical early-stage startup team used to comprise a pair of founders and a handful of software engineers. Now that founding team is just as likely to include AI agents as it is human employees\u2014and the companies that serve startups are racing to adapt.&nbsp;\n\n\n\nFor Mercury, a popular Silicon Valley banking solution, that shift in team composition has prompted the development of a new feature: AI agent cards, or virtual credit cards that businesses can use to delegate and automate purchasing decisions. The cards launch today as part of a broader expansion of Mercury\u2019s spend management tools.",
-      "source": "Fast Company Tech",
-      "score": 5.5,
-      "published": "2026-08-11T15:00:00+00:00",
-      "fetched_at": "2026-08-12T16:57:41.829526+00:00"
-    },
-    {
-      "id": "1e9dd24f2729",
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large&#8230;",
-      "source": "MIT Technology Review",
-      "score": 4.8,
-      "published": "2026-08-11T12:10:00+00:00",
-      "fetched_at": "2026-08-12T16:57:37.631989+00:00"
-    },
-    {
       "id": "0d5dcd365b3a",
       "title": "In the Age of AI, your tech debt is an even bigger issue than you think",
       "url": "https://www.fastcompany.com/91553842/yesterdays-unpaid-data-debts-are-tomorrows-ai-reckoning-tech-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -119,15 +59,69 @@
       "score": 4.4,
       "published": "2026-08-12T10:42:00+00:00",
       "fetched_at": "2026-08-12T16:57:41.828911+00:00"
+    },
+    {
+      "id": "29bc30d27c1b",
+      "title": "Why Capital One built its multi-agent AI platform around open-weight models",
+      "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
+      "summary": "Presented by Capital One At VB Transform 2026, Kel Vanee, MVP of machine learning engineering at Capital One, spoke with Sam Witteveen, Senior Technology Contributor at VentureBeat, about how the bank built a scalable multi-agent AI architecture around deeply customized open-weight models rather than relying on an off-the-shelf foundation model. &quot;At Capital One, we&#x27;re not just using AI, we&#x27;re building AI,&quot; Vanee said.The groundwork was laid years ago with Capital One&#x27;s early investments in data transformation and cloud adoption, which Vanee said were foundational to mo",
+      "source": "VentureBeat",
+      "score": 14.3,
+      "published": "2026-08-13T14:00:00+00:00",
+      "fetched_at": "2026-08-13T16:57:21.713309+00:00"
+    },
+    {
+      "id": "67961521a6b1",
+      "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
+      "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
+      "summary": "Writer, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model Palmyra X6 today, alongside a rebuilt agent orchestration &quot;harness&quot; and new governance tools designed to give IT leaders control over runaway token spending.The headline numbers are striking: Writer says its agent product now operates at an average 52% lower cost, with a 48% improvement in speed and a 10% improvement in quality when paired with Palmyra X6. But the more consequential story may be how the company got there \u2014 and what its choice",
+      "source": "VentureBeat",
+      "score": 13.2,
+      "published": "2026-08-13T13:00:00+00:00",
+      "fetched_at": "2026-08-13T16:57:21.713421+00:00"
+    },
+    {
+      "id": "7a1babd69a7b",
+      "title": "Do you know what your AI is doing right now?",
+      "url": "https://www.fastcompany.com/91588800/do-you-know-what-your-ai-is-doing-right-now",
+      "summary": "Enterprise AI is stalling because few companies have visibility into what\u2019s running and its permissions.  \n\nHere\u2019s the uncomfortable math of enterprise AI in 2026. A recent survey of major enterprises showed that 85% had AI agent pilots underway. Only 5% had moved those agents into production. That 80-point gap is the defining story of this phase of AI adoption, and it has almost nothing to do with model capability. Today&#8217;s AI is the worst it will ever be. It will only improve. Capability is not holding companies back.&nbsp;",
+      "source": "Fast Company",
+      "score": 11.0,
+      "published": "2026-08-13T12:00:00+00:00",
+      "fetched_at": "2026-08-13T16:57:25.342281+00:00"
+    },
+    {
+      "id": "afc23a12a580",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
+      "source": "MIT Technology Review",
+      "score": 10.8,
+      "published": "2026-08-12T16:51:57+00:00",
+      "fetched_at": "2026-08-13T16:57:21.254172+00:00"
+    },
+    {
+      "id": "67f8cdb12ca6",
+      "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
+      "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+      "summary": "DeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.The Chinese AI lab on Thursday launched the official version of DeepSeek-V4-Pro, an updated flagship model focused heavily on agentic workloads, alongside DeepSeek Harness v0.1, a new open-source agent harness that gives developers an alternative to integrated coding-agent environments such as Anthropic\u2019s Claude Code.Together, the releases amount to a broader developer push from DeepSeek. V4-Pro is now available across DeepSeek\u2019s web interface, mobile app and API, with native suppo",
+      "source": "VentureBeat",
+      "score": 8.8,
+      "published": "2026-08-13T16:47:55+00:00",
+      "fetched_at": "2026-08-13T16:57:21.713229+00:00"
+    },
+    {
+      "id": "64f385dc7ba8",
+      "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
+      "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
+      "summary": "Visa&#x27;s president of technology, Rajat Taneja, walked the VB Transform 2026 audience through aiming Anthropic&#x27;s Mythos at Visa&#x27;s own payment network. The model stitched minor weaknesses into working exploit chains, and Visa open-sourced the harness that governed the hunt.That&#x27;s what it looks like when an enterprise has the engineering depth to act on what it finds. Most don&#x27;t get there. Just over half, or 53%, of enterprises have already had an agentic security incident or near-miss. Sixty-five percent enforce agent permissions at runtime, yet only 18% isolate their hig",
+      "source": "VentureBeat",
+      "score": 8.8,
+      "published": "2026-08-12T18:44:50+00:00",
+      "fetched_at": "2026-08-13T16:57:21.713515+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/councils/forbestechcouncil/2026/06/29/from-compliance-to-continuous-assurance-automating-cloud-governance-with-policy-as-code/",
-    "https://www.oreilly.com/radar/what-you-bring-to-ai-determines-the-result/",
-    "https://www.saastr.com/is-it-normal-to-feel-like-a-pest-when-prospecting-for-customers-for-a-startup/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/06/29/giving-data-center-builders-a-real-time-picture-of-whats-actually-built/",
-    "https://www.fastcompany.com/91549044/my-ai-night-shift",
-    "https://www.oreilly.com/radar/agent-memory/",
     "https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/",
     "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/",
     "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow",
@@ -371,7 +365,13 @@
     "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
     "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-    "https://www.fastcompany.com/91553842/yesterdays-unpaid-data-debts-are-tomorrows-ai-reckoning-tech-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+    "https://www.fastcompany.com/91553842/yesterdays-unpaid-data-debts-are-tomorrows-ai-reckoning-tech-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
+    "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
+    "https://www.fastcompany.com/91588800/do-you-know-what-your-ai-is-doing-right-now",
+    "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+    "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue"
   ],
-  "generated_at": "2026-08-12T16:57:41.967696+00:00"
+  "generated_at": "2026-08-13T16:57:25.342814+00:00"
 }

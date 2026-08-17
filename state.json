@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "29bc30d27c1b",
-      "title": "Why Capital One built its multi-agent AI platform around open-weight models",
-      "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
-      "summary": "Presented by Capital One At VB Transform 2026, Kel Vanee, MVP of machine learning engineering at Capital One, spoke with Sam Witteveen, Senior Technology Contributor at VentureBeat, about how the bank built a scalable multi-agent AI architecture around deeply customized open-weight models rather than relying on an off-the-shelf foundation model. &quot;At Capital One, we&#x27;re not just using AI, we&#x27;re building AI,&quot; Vanee said.The groundwork was laid years ago with Capital One&#x27;s early investments in data transformation and cloud adoption, which Vanee said were foundational to mo",
+      "id": "8a831876f348",
+      "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer",
+      "url": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
+      "summary": "Enterprise AI has a new infrastructure problem: companies are accumulating agents faster than they are developing systems to govern them.Gartner estimates that the average global Fortune 500 company will have more than 150,000 AI agents in use by 2028, up from fewer than 15 in 2025. Yet only 13% of organizations believe they currently have the right AI agent governance in place, according to the research firm.That widening gap is creating a market for infrastructure that sits above individual models and agents \u2014 handling execution, permissions, observability, memory, access to enterprise syste",
       "source": "VentureBeat",
-      "score": 14.3,
-      "published": "2026-08-13T14:00:00+00:00",
-      "fetched_at": "2026-08-13T16:57:21.713309+00:00"
+      "score": 9.9,
+      "published": "2026-08-17T14:37:08+00:00",
+      "fetched_at": "2026-08-17T16:29:34.157315+00:00"
     },
     {
-      "id": "67961521a6b1",
-      "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
-      "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
-      "summary": "Writer, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model Palmyra X6 today, alongside a rebuilt agent orchestration &quot;harness&quot; and new governance tools designed to give IT leaders control over runaway token spending.The headline numbers are striking: Writer says its agent product now operates at an average 52% lower cost, with a 48% improvement in speed and a 10% improvement in quality when paired with Palmyra X6. But the more consequential story may be how the company got there \u2014 and what its choice",
-      "source": "VentureBeat",
-      "score": 13.2,
-      "published": "2026-08-13T13:00:00+00:00",
-      "fetched_at": "2026-08-13T16:57:21.713421+00:00"
-    },
-    {
-      "id": "7a1babd69a7b",
-      "title": "Do you know what your AI is doing right now?",
-      "url": "https://www.fastcompany.com/91588800/do-you-know-what-your-ai-is-doing-right-now",
-      "summary": "Enterprise AI is stalling because few companies have visibility into what\u2019s running and its permissions.  \n\nHere\u2019s the uncomfortable math of enterprise AI in 2026. A recent survey of major enterprises showed that 85% had AI agent pilots underway. Only 5% had moved those agents into production. That 80-point gap is the defining story of this phase of AI adoption, and it has almost nothing to do with model capability. Today&#8217;s AI is the worst it will ever be. It will only improve. Capability is not holding companies back.&nbsp;",
-      "source": "Fast Company",
-      "score": 11.0,
-      "published": "2026-08-13T12:00:00+00:00",
-      "fetched_at": "2026-08-13T16:57:25.342281+00:00"
-    },
-    {
-      "id": "67f8cdb12ca6",
-      "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-      "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
-      "summary": "DeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.The Chinese AI lab on Thursday launched the official version of DeepSeek-V4-Pro, an updated flagship model focused heavily on agentic workloads, alongside DeepSeek Harness v0.1, a new open-source agent harness that gives developers an alternative to integrated coding-agent environments such as Anthropic\u2019s Claude Code.Together, the releases amount to a broader developer push from DeepSeek. V4-Pro is now available across DeepSeek\u2019s web interface, mobile app and API, with native suppo",
+      "id": "c6107ae96556",
+      "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
+      "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+      "summary": "There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it&#x27;s tedious, time-consuming, and doesn&#x27;t produce results visible to end users: Verifying that what the model is saying is actually correct. Not fluent, not coherent, not topically relevant \u2014 correct in the sense of accurately identifying the right answer to the specific problem the tool was built to solve.The gap between &quot;this output sounds right to me&quot; and &quot;this output is verifiably correct&quot; is where most LLM-assisted enterprise tools fail quie",
       "source": "VentureBeat",
       "score": 8.8,
-      "published": "2026-08-13T16:47:55+00:00",
-      "fetched_at": "2026-08-13T16:57:21.713229+00:00"
+      "published": "2026-08-15T19:00:00+00:00",
+      "fetched_at": "2026-08-17T16:29:34.157623+00:00"
     },
     {
-      "id": "64f385dc7ba8",
-      "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
-      "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
-      "summary": "Visa&#x27;s president of technology, Rajat Taneja, walked the VB Transform 2026 audience through aiming Anthropic&#x27;s Mythos at Visa&#x27;s own payment network. The model stitched minor weaknesses into working exploit chains, and Visa open-sourced the harness that governed the hunt.That&#x27;s what it looks like when an enterprise has the engineering depth to act on what it finds. Most don&#x27;t get there. Just over half, or 53%, of enterprises have already had an agentic security incident or near-miss. Sixty-five percent enforce agent permissions at runtime, yet only 18% isolate their hig",
+      "id": "257fd1fd964a",
+      "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
+      "url": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
+      "summary": "A company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likely to report the failure happening \u2014 not less.In the past six months, 68% of enterprises have traced a confident but wrong AI agent answer to missing or inconsistent business context. Thirty-seven percent say it happened more than once, ahead of the 32% who saw it happen only once. The figures come from a VB Pulse July 2026 survey of 101 qualified enterprises with more than 100 employees. That&#x27;s up from 57% in a ",
       "source": "VentureBeat",
-      "score": 8.8,
-      "published": "2026-08-12T18:44:50+00:00",
-      "fetched_at": "2026-08-13T16:57:21.713515+00:00"
+      "score": 5.5,
+      "published": "2026-08-17T16:11:44+00:00",
+      "fetched_at": "2026-08-17T16:29:34.157150+00:00"
     },
     {
-      "id": "ef70e14e7fee",
-      "title": "Databricks Just Crossed $7B ARR Growing 80% (!): A 30-Point Acceleration, a $190B Valuation, and the Margin Bill for Agents",
-      "url": "https://www.saastr.com/databricks-just-crossed-7b-arr-growing-80-a-30-point-acceleration-a-190b-valuation-and-the-margin-bill-for-agents/",
-      "summary": "This is almost unprecedented in B2B software Databricks just announced it crossed a $7 billion revenue run-rate in Q2, growing more than 80% year over year, and closed a $5 billion strategic round at a $190 billion valuation led by Coatue. Today, we announced that we crossed $7B in revenue run-rate, growing over 80% year... Continue Reading",
-      "source": "SaaStr",
-      "score": 7.7,
-      "published": "2026-08-14T12:14:14+00:00",
-      "fetched_at": "2026-08-14T16:55:28.606371+00:00"
-    },
-    {
-      "id": "9796f58a43bb",
-      "title": "If you run a solo business, here\u2019s how AI agents can help you",
-      "url": "https://www.fastcompany.com/91586979/if-you-run-solo-business-heres-how-ai-agents-can-help-you",
-      "summary": "Four ways to maximize the technology for your specific needs.\n\nThe word \u201cagentic\u201d is being pushed by every AI company right now, and\u2014for the most part\u2014it\u2019s unclear what \u201cagents\u201d can do. I\u2019ve seen ads for things like \u201csales agents\u201d (automating outreach) or \u201ccoding agents\u201d (deploying software bug fixes). To a solopreneur, that type of agentic work seems irrelevant.",
-      "source": "Fast Company",
-      "score": 7.0,
-      "published": "2026-08-14T13:09:34+00:00",
-      "fetched_at": "2026-08-14T16:55:33.446250+00:00"
-    },
-    {
-      "id": "3b1bf17c7693",
-      "title": "Google\u2019s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
-      "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
-      "summary": "Google is rolling out Gemini 3.7 Flash, a new version of its workhorse AI model that puts coding, agentic workflows and knowledge work at the center of the upgrade \u2014 while temporarily cutting API prices in half.The release arrives just three weeks after the release of Gemini 3.6 Flash, an unusually short turnaround that Google attributes to developer feedback and algorithmic improvements. For enterprise developers, the more consequential story may be the combination of those intelligence gains with lower inference costs: through the end of 2026, Gemini 3.7 Flash costs $0.75 per million input t",
+      "id": "a682f635bdde",
+      "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
+      "url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+      "summary": "Most teams building retrieval augmented generation (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context to sort it out. This works fine in a demo. It falls apart the moment the system has to survive an audit, a regulator, or a compliance officer asking why a specific decision was made six months ago.I have spent the last year building RAG based classification systems in regulated enterprise settings, where the cost of a wrong answer is not a bad chatbot reply. A decision has to ho",
       "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-08-13T18:02:54+00:00",
-      "fetched_at": "2026-08-14T16:55:28.255604+00:00"
-    },
-    {
-      "id": "b377fa89f3ad",
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-08-13T19:19:49+00:00",
-      "fetched_at": "2026-08-14T16:55:26.713356+00:00"
-    },
-    {
-      "id": "b2f7a2e4ad58",
-      "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
-      "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
-      "summary": "Databricks is benefitting off of the agentic AI wave.",
-      "source": "CNBC Tech",
       "score": 5.5,
-      "published": "2026-08-13T16:20:22+00:00",
-      "fetched_at": "2026-08-14T16:55:27.578393+00:00"
+      "published": "2026-08-16T20:45:00+00:00",
+      "fetched_at": "2026-08-17T16:29:34.157464+00:00"
     },
     {
-      "id": "f8ac2a0715c0",
-      "title": "Dear SaaStr: At What ACV Size Do I Need an Account Manager in B2B?",
-      "url": "https://www.saastr.com/dear-saastr-at-what-acv-size-do-i-need-an-account-manager-in-b2b/",
-      "summary": "Dear SaaStr: At What ACV Size Do I Need an Account Manager in B2B? There&#8217;s no hard rule, but here&#8217;s what the data shows: Below $8K-$10K ACV: You can&#8217;t afford dedicated account managers. You need to systematize onboarding and support instead\u2014self-serve + a lean support team. The unit economics don&#8217;t work with humans doing 30+... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-08-13T09:58:57+00:00",
-      "fetched_at": "2026-08-14T16:55:28.606496+00:00"
-    },
-    {
-      "id": "2053deb562e1",
-      "title": "Microsoft brings Copilot apps together ahead of \u2018super app\u2019 overhaul",
-      "url": "https://www.computerworld.com/article/4209764/microsoft-brings-copilot-apps-together-ahead-of-super-app-overhaul.html",
-      "summary": "Microsoft will bring its two Copilot apps into a unified interface for consumer and work users, part of a wider drive to create a Copilot \u201csuper app\u201d that consolidates various features.\n\n\n\nUntil now, Microsoft has offered two Copilot apps across web, desktop and mobile platforms: a simplified, consumer-focused Copilot app, and Microsoft 365 Copilot, which combines the AI assistant with access to Microsoft\u2019s productivity apps and files.\u00a0\n\n\n\nMicrosoft on Thursday announced an \u201cupdated Copilot app\u201d aimed at providing a \u201csimpler, more cohesive experience\u201d for personal and work users. \u00a0\n\n\n\nFor user",
-      "source": "Computerworld",
+      "id": "aa0de5b36247",
+      "title": "$1 billion NYC-startup Dash0 acquires Berlin tech company to build software that fixes itself",
+      "url": "https://www.businessinsider.com/dash0-polar-signals-acquisition-ai-agents-continuous-profiling-2026-8",
+      "summary": "Dash0 is acquiring Polar Signals, gaining continuous profiling tech as it builds AI agents that can monitor and improve software in real time.",
+      "source": "Business Insider",
       "score": 5.0,
-      "published": "2026-08-14T12:40:10+00:00",
-      "fetched_at": "2026-08-14T16:55:31.396304+00:00"
+      "published": "2026-08-17T11:49:04+00:00",
+      "fetched_at": "2026-08-17T16:29:37.576564+00:00"
+    },
+    {
+      "id": "142154f08a00",
+      "title": "Inside Ukraine's war robot revolution",
+      "url": "https://www.businessinsider.com/inside-ukraines-war-robot-revolution-2026-7",
+      "summary": "Inside Ukraine's robotics revolution, drones, ground robots, and autonomous weapons are rapidly reshaping the war with Russia.",
+      "source": "Business Insider",
+      "score": 4.0,
+      "published": "2026-08-17T13:43:29+00:00",
+      "fetched_at": "2026-08-17T16:29:37.576369+00:00"
+    },
+    {
+      "id": "672daca0069a",
+      "title": "What The Nuclear Industry Can Teach About Building Trustworthy Agentic Software",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/17/what-the-nuclear-industry-can-teach-about-building-trustworthy-agentic-software/",
+      "summary": "If you're building an agentic AI system for any industry where mistakes aren't an option, start from what the agent can never do and proceed from there.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-08-17T13:15:00+00:00",
+      "fetched_at": "2026-08-17T16:29:35.607515+00:00"
+    },
+    {
+      "id": "36d0536b9ce8",
+      "title": "What The Cloud Revolution Can Teach About Securing AI Agents",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/17/what-the-cloud-revolution-can-teach-about-securing-ai-agents/",
+      "summary": "As organizations race to embrace AI agents, the temptation is to focus entirely on the visible layer.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-08-17T12:45:00+00:00",
+      "fetched_at": "2026-08-17T16:29:35.607607+00:00"
+    },
+    {
+      "id": "60f824edaed0",
+      "title": "Dear SaaStr: How Can I Become a Better VP of Sales?",
+      "url": "https://www.saastr.com/dear-saastr-how-can-i-become-a-better-vp-of-sales/",
+      "summary": "Dear SaaStr: How Can I Become a Better VP of Sales? The hard truth: most VPs of Sales fail not because they can&#8217;t sell, but because they don&#8217;t understand what the job actually is. It&#8217;s not managing a team. It&#8217;s not building process decks. It&#8217;s not attending QBRs. It&#8217;s making your number \u2014 quarter after... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-08-17T10:00:00+00:00",
+      "fetched_at": "2026-08-17T16:29:34.907174+00:00"
+    },
+    {
+      "id": "634f60dec3bb",
+      "title": "Your AI is emailing my AI\u2014and nobody\u2019s in charge",
+      "url": "https://www.fastcompany.com/91588570/ai-emailing-ai-nobodys-in-charge?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Not long ago, a colleague of mine received a courteous and professionally worded email. It informed him about the current state of a shared project and listed the next steps required and who was accountable for each. A perfectly ordinary email\u2014except it was, from start to finish, the work of an AI agent that had been set up to act on behalf of the person it represented.\n\n\n\nMy colleague\u2019s experience is still relatively unusual, but it is also the canary in the coal mine. In May, Bloomberg profiled Tyler Cadwell, the founder of an Arizona glassware business who has built an AI agent he calls his",
+      "source": "Fast Company Tech",
+      "score": 3.3,
+      "published": "2026-08-17T09:00:00+00:00",
+      "fetched_at": "2026-08-17T16:29:38.008679+00:00"
+    },
+    {
+      "id": "30052e6b4865",
+      "title": "Jason\u2019s Takes on This Week\u2019s 20VC x SaaStr: The Agents Never Suggested Canva, The Meme You Can\u2019t Outrun, and Why I Only Underwrite Founders Now",
+      "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-agents-never-suggested-canva-the-meme-you-cant-outrun-and-why-i-only-underwrite-founders-now/",
+      "summary": "My cut on what Canva&#8217;s drop to 20% growth means if you&#8217;re running a pre-AI product, hiring against Anthropic, and holding a VC/investment mark you set in 2021. Canva cutting 2026 growth from 30% to 20% was the convo this week. We churned Canva at SaaStr. We churned Notion too. Neither did anything wrong, and... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-08-16T18:02:53+00:00",
+      "fetched_at": "2026-08-17T16:29:34.907228+00:00"
+    },
+    {
+      "id": "db18264fc008",
+      "title": "The 0% Quota Club (And Why the Same Mediocre Rep Hits 70% at One Company and 0% at Yours)",
+      "url": "https://www.saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours/",
+      "summary": "In sales orgs with extreme product market fit, tight processes, and substantial support \u2026 medicore sales reps can often hit 50%-90% of quota. Sometimes even more for stretches In sales orgs without all 3, they often hit 0% of quota &#8212; Jason \u2728\ud83d\udc7eSaaStr.Ai\u2728 Lemkin (@jasonlk) August 8, 2026 There&#8217;s a pattern I&#8217;ve seen at hundreds... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-08-16T14:10:52+00:00",
+      "fetched_at": "2026-08-17T16:29:34.907278+00:00"
     }
   ],
   "history": [
-    "https://www.oreilly.com/radar/beyond-prompt-injection/",
-    "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-    "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
-    "https://www.saastr.com/the-agent-playbooks-from-salesforce-snowflake-databricks-harvey-lovable-and-monaco-inside-saastr-ai-annual-2026/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/01/alastair-paterson-is-the-co-founder-and-ceo-of-harmonic-security/",
-    "https://www.businessinsider.com/autonomous-robots-built-robotics-solar-power-meta-hyperion-data-center-2026-7",
-    "https://www.zdnet.com/article/the-new-enterprise-ai-expert-every-company-needs-and-why/",
-    "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
-    "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
-    "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-    "https://www.forbes.com/sites/capitalone/2026/07/02/4-science-led-approaches-to-accelerate-enterprise-ai/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/02/how-ai-agents-are-forcing-a-rethink-of-cybersecurity/",
     "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99",
     "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
     "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
@@ -371,7 +359,19 @@
     "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
     "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
     "https://www.saastr.com/dear-saastr-at-what-acv-size-do-i-need-an-account-manager-in-b2b/",
-    "https://www.computerworld.com/article/4209764/microsoft-brings-copilot-apps-together-ahead-of-super-app-overhaul.html"
+    "https://www.computerworld.com/article/4209764/microsoft-brings-copilot-apps-together-ahead-of-super-app-overhaul.html",
+    "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
+    "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+    "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
+    "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+    "https://www.businessinsider.com/dash0-polar-signals-acquisition-ai-agents-continuous-profiling-2026-8",
+    "https://www.businessinsider.com/inside-ukraines-war-robot-revolution-2026-7",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/08/17/what-the-nuclear-industry-can-teach-about-building-trustworthy-agentic-software/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/08/17/what-the-cloud-revolution-can-teach-about-securing-ai-agents/",
+    "https://www.saastr.com/dear-saastr-how-can-i-become-a-better-vp-of-sales/",
+    "https://www.fastcompany.com/91588570/ai-emailing-ai-nobodys-in-charge?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-agents-never-suggested-canva-the-meme-you-cant-outrun-and-why-i-only-underwrite-founders-now/",
+    "https://www.saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours/"
   ],
-  "generated_at": "2026-08-14T16:55:33.446943+00:00"
+  "generated_at": "2026-08-17T16:29:38.155631+00:00"
 }

@@ -11,16 +11,6 @@
       "fetched_at": "2026-08-17T16:29:34.157315+00:00"
     },
     {
-      "id": "c6107ae96556",
-      "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
-      "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
-      "summary": "There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it&#x27;s tedious, time-consuming, and doesn&#x27;t produce results visible to end users: Verifying that what the model is saying is actually correct. Not fluent, not coherent, not topically relevant \u2014 correct in the sense of accurately identifying the right answer to the specific problem the tool was built to solve.The gap between &quot;this output sounds right to me&quot; and &quot;this output is verifiably correct&quot; is where most LLM-assisted enterprise tools fail quie",
-      "source": "VentureBeat",
-      "score": 8.8,
-      "published": "2026-08-15T19:00:00+00:00",
-      "fetched_at": "2026-08-17T16:29:34.157623+00:00"
-    },
-    {
       "id": "257fd1fd964a",
       "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
       "url": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
@@ -373,5 +363,5 @@
     "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-agents-never-suggested-canva-the-meme-you-cant-outrun-and-why-i-only-underwrite-founders-now/",
     "https://www.saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours/"
   ],
-  "generated_at": "2026-08-17T16:29:38.155631+00:00"
+  "generated_at": "2026-08-17T20:48:47.485532+00:00"
 }

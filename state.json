@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "8a831876f348",
-      "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer",
-      "url": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
-      "summary": "Enterprise AI has a new infrastructure problem: companies are accumulating agents faster than they are developing systems to govern them.Gartner estimates that the average global Fortune 500 company will have more than 150,000 AI agents in use by 2028, up from fewer than 15 in 2025. Yet only 13% of organizations believe they currently have the right AI agent governance in place, according to the research firm.That widening gap is creating a market for infrastructure that sits above individual models and agents \u2014 handling execution, permissions, observability, memory, access to enterprise syste",
-      "source": "VentureBeat",
-      "score": 9.9,
-      "published": "2026-08-17T14:37:08+00:00",
-      "fetched_at": "2026-08-17T16:29:34.157315+00:00"
-    },
-    {
       "id": "257fd1fd964a",
       "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
       "url": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
@@ -109,11 +99,29 @@
       "score": 3.3,
       "published": "2026-08-16T14:10:52+00:00",
       "fetched_at": "2026-08-17T16:29:34.907278+00:00"
+    },
+    {
+      "id": "42b30077a0ec",
+      "title": "Business adoption of AI agents tripled this year - as measurable ROI emerges",
+      "url": "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
+      "summary": "Industries are finding the strategies that work best for their business needs, according to Salesforce's latest Agentic Enterprise Index.",
+      "source": "ZDNet",
+      "score": 8.0,
+      "published": "2026-08-17T18:35:45+00:00",
+      "fetched_at": "2026-08-17T21:19:37.867880+00:00"
+    },
+    {
+      "id": "897dfbe77af7",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-08-17T16:38:44+00:00",
+      "fetched_at": "2026-08-17T21:19:33.467347+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99",
-    "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
     "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
     "https://fortune.com/2026/07/03/microsoft-big-bet-swiss-army-knife-enterprise-ai-frontier/",
     "https://www.saastr.com/20vc-x-saastr-the-token-roi-crisis-comes-for-everyone-anthropic-wants-chinese-open-source-banned-and-microsoft-has-its-worst-month-since-2000/",
@@ -361,7 +369,9 @@
     "https://www.saastr.com/dear-saastr-how-can-i-become-a-better-vp-of-sales/",
     "https://www.fastcompany.com/91588570/ai-emailing-ai-nobodys-in-charge?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-agents-never-suggested-canva-the-meme-you-cant-outrun-and-why-i-only-underwrite-founders-now/",
-    "https://www.saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours/"
+    "https://www.saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours/",
+    "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
+    "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
   ],
-  "generated_at": "2026-08-17T20:48:47.485532+00:00"
+  "generated_at": "2026-08-17T21:19:50.335695+00:00"
 }

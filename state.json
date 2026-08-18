@@ -91,16 +91,6 @@
       "fetched_at": "2026-08-17T16:29:34.907228+00:00"
     },
     {
-      "id": "db18264fc008",
-      "title": "The 0% Quota Club (And Why the Same Mediocre Rep Hits 70% at One Company and 0% at Yours)",
-      "url": "https://www.saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours/",
-      "summary": "In sales orgs with extreme product market fit, tight processes, and substantial support \u2026 medicore sales reps can often hit 50%-90% of quota. Sometimes even more for stretches In sales orgs without all 3, they often hit 0% of quota &#8212; Jason \u2728\ud83d\udc7eSaaStr.Ai\u2728 Lemkin (@jasonlk) August 8, 2026 There&#8217;s a pattern I&#8217;ve seen at hundreds... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-08-16T14:10:52+00:00",
-      "fetched_at": "2026-08-17T16:29:34.907278+00:00"
-    },
-    {
       "id": "42b30077a0ec",
       "title": "Business adoption of AI agents tripled this year - as measurable ROI emerges",
       "url": "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
@@ -119,10 +109,19 @@
       "score": 3.6,
       "published": "2026-08-17T16:38:44+00:00",
       "fetched_at": "2026-08-17T21:19:33.467347+00:00"
+    },
+    {
+      "id": "a66bddcdf013",
+      "title": "Warning to enterprises: Vibe coding can be a threat",
+      "url": "https://www.computerworld.com/article/4210633/warning-to-enterprises-vibe-coding-can-be-a-threat.html",
+      "summary": "Vibe coding is a top security threat to enterprises and could leak data into the public sphere, analysts and executives are saying.\n\n\n\n\u201cThe number one risk at the minute is hard-coded secrets being uploaded through vibe-coded applications to GitHub, and then providing a route in,\u201d said Pete Shoard, chief of research for cybersecurity at Gartner.\n\n\n\nThe term \u201cvibe coding\u201d was coined by Andrej Karpathy as a way to describe how developers can now create applications by chatting with generative AI (genAI) tools and services. AI can quickly generate code to create a program, a dramatic change from ",
+      "source": "Computerworld",
+      "score": 9.0,
+      "published": "2026-08-18T11:00:00+00:00",
+      "fetched_at": "2026-08-18T16:33:27.847198+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
     "https://fortune.com/2026/07/03/microsoft-big-bet-swiss-army-knife-enterprise-ai-frontier/",
     "https://www.saastr.com/20vc-x-saastr-the-token-roi-crisis-comes-for-everyone-anthropic-wants-chinese-open-source-banned-and-microsoft-has-its-worst-month-since-2000/",
     "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
@@ -371,7 +370,8 @@
     "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-agents-never-suggested-canva-the-meme-you-cant-outrun-and-why-i-only-underwrite-founders-now/",
     "https://www.saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours/",
     "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
-    "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
+    "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "https://www.computerworld.com/article/4210633/warning-to-enterprises-vibe-coding-can-be-a-threat.html"
   ],
-  "generated_at": "2026-08-17T21:19:50.335695+00:00"
+  "generated_at": "2026-08-18T16:33:29.998117+00:00"
 }

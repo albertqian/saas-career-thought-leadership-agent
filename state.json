@@ -1,96 +1,6 @@
 {
   "queue": [
     {
-      "id": "257fd1fd964a",
-      "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
-      "url": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
-      "summary": "A company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likely to report the failure happening \u2014 not less.In the past six months, 68% of enterprises have traced a confident but wrong AI agent answer to missing or inconsistent business context. Thirty-seven percent say it happened more than once, ahead of the 32% who saw it happen only once. The figures come from a VB Pulse July 2026 survey of 101 qualified enterprises with more than 100 employees. That&#x27;s up from 57% in a ",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-08-17T16:11:44+00:00",
-      "fetched_at": "2026-08-17T16:29:34.157150+00:00"
-    },
-    {
-      "id": "a682f635bdde",
-      "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
-      "url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
-      "summary": "Most teams building retrieval augmented generation (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context to sort it out. This works fine in a demo. It falls apart the moment the system has to survive an audit, a regulator, or a compliance officer asking why a specific decision was made six months ago.I have spent the last year building RAG based classification systems in regulated enterprise settings, where the cost of a wrong answer is not a bad chatbot reply. A decision has to ho",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-08-16T20:45:00+00:00",
-      "fetched_at": "2026-08-17T16:29:34.157464+00:00"
-    },
-    {
-      "id": "aa0de5b36247",
-      "title": "$1 billion NYC-startup Dash0 acquires Berlin tech company to build software that fixes itself",
-      "url": "https://www.businessinsider.com/dash0-polar-signals-acquisition-ai-agents-continuous-profiling-2026-8",
-      "summary": "Dash0 is acquiring Polar Signals, gaining continuous profiling tech as it builds AI agents that can monitor and improve software in real time.",
-      "source": "Business Insider",
-      "score": 5.0,
-      "published": "2026-08-17T11:49:04+00:00",
-      "fetched_at": "2026-08-17T16:29:37.576564+00:00"
-    },
-    {
-      "id": "142154f08a00",
-      "title": "Inside Ukraine's war robot revolution",
-      "url": "https://www.businessinsider.com/inside-ukraines-war-robot-revolution-2026-7",
-      "summary": "Inside Ukraine's robotics revolution, drones, ground robots, and autonomous weapons are rapidly reshaping the war with Russia.",
-      "source": "Business Insider",
-      "score": 4.0,
-      "published": "2026-08-17T13:43:29+00:00",
-      "fetched_at": "2026-08-17T16:29:37.576369+00:00"
-    },
-    {
-      "id": "672daca0069a",
-      "title": "What The Nuclear Industry Can Teach About Building Trustworthy Agentic Software",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/17/what-the-nuclear-industry-can-teach-about-building-trustworthy-agentic-software/",
-      "summary": "If you're building an agentic AI system for any industry where mistakes aren't an option, start from what the agent can never do and proceed from there.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-08-17T13:15:00+00:00",
-      "fetched_at": "2026-08-17T16:29:35.607515+00:00"
-    },
-    {
-      "id": "36d0536b9ce8",
-      "title": "What The Cloud Revolution Can Teach About Securing AI Agents",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/17/what-the-cloud-revolution-can-teach-about-securing-ai-agents/",
-      "summary": "As organizations race to embrace AI agents, the temptation is to focus entirely on the visible layer.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-08-17T12:45:00+00:00",
-      "fetched_at": "2026-08-17T16:29:35.607607+00:00"
-    },
-    {
-      "id": "60f824edaed0",
-      "title": "Dear SaaStr: How Can I Become a Better VP of Sales?",
-      "url": "https://www.saastr.com/dear-saastr-how-can-i-become-a-better-vp-of-sales/",
-      "summary": "Dear SaaStr: How Can I Become a Better VP of Sales? The hard truth: most VPs of Sales fail not because they can&#8217;t sell, but because they don&#8217;t understand what the job actually is. It&#8217;s not managing a team. It&#8217;s not building process decks. It&#8217;s not attending QBRs. It&#8217;s making your number \u2014 quarter after... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-08-17T10:00:00+00:00",
-      "fetched_at": "2026-08-17T16:29:34.907174+00:00"
-    },
-    {
-      "id": "634f60dec3bb",
-      "title": "Your AI is emailing my AI\u2014and nobody\u2019s in charge",
-      "url": "https://www.fastcompany.com/91588570/ai-emailing-ai-nobodys-in-charge?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Not long ago, a colleague of mine received a courteous and professionally worded email. It informed him about the current state of a shared project and listed the next steps required and who was accountable for each. A perfectly ordinary email\u2014except it was, from start to finish, the work of an AI agent that had been set up to act on behalf of the person it represented.\n\n\n\nMy colleague\u2019s experience is still relatively unusual, but it is also the canary in the coal mine. In May, Bloomberg profiled Tyler Cadwell, the founder of an Arizona glassware business who has built an AI agent he calls his",
-      "source": "Fast Company Tech",
-      "score": 3.3,
-      "published": "2026-08-17T09:00:00+00:00",
-      "fetched_at": "2026-08-17T16:29:38.008679+00:00"
-    },
-    {
-      "id": "30052e6b4865",
-      "title": "Jason\u2019s Takes on This Week\u2019s 20VC x SaaStr: The Agents Never Suggested Canva, The Meme You Can\u2019t Outrun, and Why I Only Underwrite Founders Now",
-      "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-agents-never-suggested-canva-the-meme-you-cant-outrun-and-why-i-only-underwrite-founders-now/",
-      "summary": "My cut on what Canva&#8217;s drop to 20% growth means if you&#8217;re running a pre-AI product, hiring against Anthropic, and holding a VC/investment mark you set in 2021. Canva cutting 2026 growth from 30% to 20% was the convo this week. We churned Canva at SaaStr. We churned Notion too. Neither did anything wrong, and... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-08-16T18:02:53+00:00",
-      "fetched_at": "2026-08-17T16:29:34.907228+00:00"
-    },
-    {
       "id": "42b30077a0ec",
       "title": "Business adoption of AI agents tripled this year - as measurable ROI emerges",
       "url": "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
@@ -119,18 +29,99 @@
       "score": 9.0,
       "published": "2026-08-18T11:00:00+00:00",
       "fetched_at": "2026-08-18T16:33:27.847198+00:00"
+    },
+    {
+      "id": "46cade959d9e",
+      "title": "5 Interesting Learnings from Atlassian at $6.6 Billion in ARR: 28% Growth, 44% RPO Growth, and a 35% One-Day Stock Pop",
+      "url": "https://www.saastr.com/5-interesting-learnings-from-atlassian-at-6-6-billion-in-arr-28-growth-44-rpo-growth-and-a-35-one-day-stock-pop/",
+      "summary": "Atlassian closed its fiscal year on June 30 and reported on August 6. Going in, it was one of the most doubted names in enterprise software. The bear case was simple: AI agents write the code, AI agents file the tickets, and the tools that track the work get squeezed out of the middle. The... Continue Reading",
+      "source": "SaaStr",
+      "score": 9.9,
+      "published": "2026-08-19T14:10:45+00:00",
+      "fetched_at": "2026-08-19T16:33:38.177419+00:00"
+    },
+    {
+      "id": "e9c42c75a9a5",
+      "title": "Microsoft finally patches critical one-click Copilot vulnerability, almost eight months after learning of it",
+      "url": "https://www.computerworld.com/article/4211325/microsoft-finally-patches-critical-one-click-copilot-vulnerability-more-than-eight-months-after-learning-of-it.html",
+      "summary": "Almost eight months after confirming a critical security vulnerability within the personal version of its AI assistant, Copilot, Microsoft on Tuesday issued a patch to close the hole, which relies on an LLM\u2019s inability to distinguish the data in a query from an instruction.\n\n\n\nThe CoSnitch hole was discovered by Varonis, and marked the third Copilot bug that Varonis has reported to Microsoft this year, following Reprompt, which bypassed Copilot guardrails by repeating queries, and SearchLeak, which Varonis said turned Microsoft 365 Copilot Enterprise into \u201ca silent exfiltration tool. All three",
+      "source": "Computerworld",
+      "score": 9.0,
+      "published": "2026-08-19T02:23:18+00:00",
+      "fetched_at": "2026-08-19T16:33:40.971553+00:00"
+    },
+    {
+      "id": "1edefc7a9b72",
+      "title": "AI inference is getting cheaper, but your agents are getting more expensive",
+      "url": "https://www.computerworld.com/article/4210786/ai-inference-is-getting-cheaper-but-your-agents-are-getting-more-expensive.html",
+      "summary": "The good news is that large language model (LLM) token costs are coming down. The conundrum: The overall cost of AI workloads is going up.\n\n\n\nGartner research predicts that, while token costs will fall by 95% by 2030, inference costs for agentic workflows will increase more than fivefold over the next two years. This is because AI app builders are using more, and often more expensive, tokens as LLMs get ever more complex. It is what Gartner calls the \u201cinference paradox.\u201d\n\n\n\nIn other words, \u201cthe rate of innovation is outpacing the cost curve,\u201d Gartner analysts Will Sommer and Sabine Zimmerhansl",
+      "source": "Computerworld",
+      "score": 9.0,
+      "published": "2026-08-18T01:37:54+00:00",
+      "fetched_at": "2026-08-19T16:33:40.972019+00:00"
+    },
+    {
+      "id": "466c5287ef37",
+      "title": "AI Agents Entering The Enterprise, Real Question Is Who's In Charge",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/19/ai-agents-entering-the-enterprise-real-question-is-whos-in-charge/",
+      "summary": "Identity is not a back-office security detail. In the agentic enterprise, it is the control plane for accountability.",
+      "source": "Forbes Innovation",
+      "score": 8.0,
+      "published": "2026-08-19T13:45:00+00:00",
+      "fetched_at": "2026-08-19T16:33:39.267894+00:00"
+    },
+    {
+      "id": "f8a8e90f0b14",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers \u2014 the directors, VPs, CIOs, and CTOs \u2014 who are evaluating, buying, and deploying enterprise AI.The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technical",
+      "source": "VentureBeat",
+      "score": 6.6,
+      "published": "2026-08-19T14:18:12+00:00",
+      "fetched_at": "2026-08-19T16:33:37.569083+00:00"
+    },
+    {
+      "id": "f0372e5bcc3b",
+      "title": "GitHub restores services after nearly 8-hour outage disrupts Actions, APIs, PRs and Copilot",
+      "url": "https://www.computerworld.com/article/4210869/github-restores-services-after-nearly-8-hour-outage-disrupts-actions-apis-prs-and-copilot-2.html",
+      "summary": "GitHub has restored services after a nearly eight-hour outage disrupted several of its core developer tools, including Actions, pull requests, APIs, Git operations, Webhooks, and Copilot, impacting software development workflows across its platform.\n\n\n\n\u201cThis incident has been resolved. Thank you for your patience and understanding as we addressed this issue,\u201d the company wrote on its\u00a0status page.\n\n\n\nThe disruption was first reported at 1:40 PM UTC on August 17, with\u00a0GitHub\u00a0initially flagging degraded performance across parts of its platform. Within minutes, the disruption had spread to API Req",
+      "source": "Computerworld",
+      "score": 6.0,
+      "published": "2026-08-18T08:03:50+00:00",
+      "fetched_at": "2026-08-19T16:33:40.971942+00:00"
+    },
+    {
+      "id": "c5edca23285a",
+      "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
+      "url": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
+      "summary": "Enterprises that already got burned by an AI agent passing its evals and then failing in production are moving faster toward removing humans from deployment decisions, not slower \u2014 even as trust in automated evaluation is rising across the board, new VB Pulse research shows.In July, 13% of 108 enterprises surveyed said they trust automated evaluation, up from just 5% the month prior. Meanwhile, survey respondents citing poor alignment between tests and real-world results as their biggest concern fell 10 points, from 29% to 19%, month over month. Yet, 49% of survey respondents said that an AI a",
+      "source": "VentureBeat",
+      "score": 5.5,
+      "published": "2026-08-18T15:35:16+00:00",
+      "fetched_at": "2026-08-19T16:33:37.569466+00:00"
+    },
+    {
+      "id": "e1ac3e62b8a8",
+      "title": "Commerce AI is fragmenting. Here is why that matters.",
+      "url": "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters",
+      "summary": "Presented by Rezolve AiEnterprise AI investment in commerce has never been higher. And enterprise AI outcomes in commerce have rarely been more inconsistent. That gap is not a coincidence. It is the predictable result of a pattern that has repeated itself across every major technology shift in retail: the industry adds new capabilities faster than it integrates them.That pattern is now playing out in commerce AI.The point solution patternThe dominant approach to commerce AI over the past three years has been an additive one. Brands have layered AI-powered search on top of existing catalog infr",
+      "source": "VentureBeat",
+      "score": 5.5,
+      "published": "2026-08-18T14:30:00+00:00",
+      "fetched_at": "2026-08-19T16:33:37.569535+00:00"
+    },
+    {
+      "id": "93095be3dfff",
+      "title": "Enterprises are overpaying for simple AI queries \u2014 Snowflake's gateway now auto-routes to cut costs up to 3x",
+      "url": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
+      "summary": "Enterprise teams running AI agents at scale are finding that a single model handles every task poorly \u2014 either the model is too expensive for simple questions or not capable enough for hard ones. Model routing, which picks the right model for each task automatically, is becoming the fix.Snowflake\u2019s Cortex AI Gateway now offers dynamic model routing to address that: enterprises can select \u201cauto\u201d instead of a fixed model, and the system routes each task to whichever model offers the best combination of quality and cost. Snowflake said the capability can cut token costs by as much as 3x on some w",
+      "source": "VentureBeat",
+      "score": 5.5,
+      "published": "2026-08-18T13:00:00+00:00",
+      "fetched_at": "2026-08-19T16:33:37.569611+00:00"
     }
   ],
   "history": [
-    "https://fortune.com/2026/07/03/microsoft-big-bet-swiss-army-knife-enterprise-ai-frontier/",
-    "https://www.saastr.com/20vc-x-saastr-the-token-roi-crisis-comes-for-everyone-anthropic-wants-chinese-open-source-banned-and-microsoft-has-its-worst-month-since-2000/",
-    "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
-    "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "https://www.saastr.com/google-clouds-vp-of-growth-on-building-an-ai-native-marketing-team-8-takeaways-from-saastr-ai-2026/",
-    "https://www.businessinsider.com/ai-ransomware-attack-sysdig-jade-puffer-2026-7",
-    "https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/",
-    "https://www.fastcompany.com/91568818/our-interest-in-ai-slop-is-hitting-a-ceiling?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/06/saaspocalypse-an-imminent-demise-of-saas-or-the-new-moat-building-era/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/06/rebuilding-software-development-from-the-ground-up/",
     "https://www.fastcompany.com/91568818/our-interest-in-ai-slop-is-hitting-a-ceiling",
     "https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents",
@@ -371,7 +362,16 @@
     "https://www.saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours/",
     "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
     "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "https://www.computerworld.com/article/4210633/warning-to-enterprises-vibe-coding-can-be-a-threat.html"
+    "https://www.computerworld.com/article/4210633/warning-to-enterprises-vibe-coding-can-be-a-threat.html",
+    "https://www.saastr.com/5-interesting-learnings-from-atlassian-at-6-6-billion-in-arr-28-growth-44-rpo-growth-and-a-35-one-day-stock-pop/",
+    "https://www.computerworld.com/article/4211325/microsoft-finally-patches-critical-one-click-copilot-vulnerability-more-than-eight-months-after-learning-of-it.html",
+    "https://www.computerworld.com/article/4210786/ai-inference-is-getting-cheaper-but-your-agents-are-getting-more-expensive.html",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/08/19/ai-agents-entering-the-enterprise-real-question-is-whos-in-charge/",
+    "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "https://www.computerworld.com/article/4210869/github-restores-services-after-nearly-8-hour-outage-disrupts-actions-apis-prs-and-copilot-2.html",
+    "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
+    "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters",
+    "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x"
   ],
-  "generated_at": "2026-08-18T16:33:29.998117+00:00"
+  "generated_at": "2026-08-19T16:33:43.283280+00:00"
 }

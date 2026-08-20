@@ -1,36 +1,6 @@
 {
   "queue": [
     {
-      "id": "42b30077a0ec",
-      "title": "Business adoption of AI agents tripled this year - as measurable ROI emerges",
-      "url": "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
-      "summary": "Industries are finding the strategies that work best for their business needs, according to Salesforce's latest Agentic Enterprise Index.",
-      "source": "ZDNet",
-      "score": 8.0,
-      "published": "2026-08-17T18:35:45+00:00",
-      "fetched_at": "2026-08-17T21:19:37.867880+00:00"
-    },
-    {
-      "id": "897dfbe77af7",
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-08-17T16:38:44+00:00",
-      "fetched_at": "2026-08-17T21:19:33.467347+00:00"
-    },
-    {
-      "id": "a66bddcdf013",
-      "title": "Warning to enterprises: Vibe coding can be a threat",
-      "url": "https://www.computerworld.com/article/4210633/warning-to-enterprises-vibe-coding-can-be-a-threat.html",
-      "summary": "Vibe coding is a top security threat to enterprises and could leak data into the public sphere, analysts and executives are saying.\n\n\n\n\u201cThe number one risk at the minute is hard-coded secrets being uploaded through vibe-coded applications to GitHub, and then providing a route in,\u201d said Pete Shoard, chief of research for cybersecurity at Gartner.\n\n\n\nThe term \u201cvibe coding\u201d was coined by Andrej Karpathy as a way to describe how developers can now create applications by chatting with generative AI (genAI) tools and services. AI can quickly generate code to create a program, a dramatic change from ",
-      "source": "Computerworld",
-      "score": 9.0,
-      "published": "2026-08-18T11:00:00+00:00",
-      "fetched_at": "2026-08-18T16:33:27.847198+00:00"
-    },
-    {
       "id": "46cade959d9e",
       "title": "5 Interesting Learnings from Atlassian at $6.6 Billion in ARR: 28% Growth, 44% RPO Growth, and a 35% One-Day Stock Pop",
       "url": "https://www.saastr.com/5-interesting-learnings-from-atlassian-at-6-6-billion-in-arr-28-growth-44-rpo-growth-and-a-35-one-day-stock-pop/",
@@ -49,16 +19,6 @@
       "score": 9.0,
       "published": "2026-08-19T02:23:18+00:00",
       "fetched_at": "2026-08-19T16:33:40.971553+00:00"
-    },
-    {
-      "id": "1edefc7a9b72",
-      "title": "AI inference is getting cheaper, but your agents are getting more expensive",
-      "url": "https://www.computerworld.com/article/4210786/ai-inference-is-getting-cheaper-but-your-agents-are-getting-more-expensive.html",
-      "summary": "The good news is that large language model (LLM) token costs are coming down. The conundrum: The overall cost of AI workloads is going up.\n\n\n\nGartner research predicts that, while token costs will fall by 95% by 2030, inference costs for agentic workflows will increase more than fivefold over the next two years. This is because AI app builders are using more, and often more expensive, tokens as LLMs get ever more complex. It is what Gartner calls the \u201cinference paradox.\u201d\n\n\n\nIn other words, \u201cthe rate of innovation is outpacing the cost curve,\u201d Gartner analysts Will Sommer and Sabine Zimmerhansl",
-      "source": "Computerworld",
-      "score": 9.0,
-      "published": "2026-08-18T01:37:54+00:00",
-      "fetched_at": "2026-08-19T16:33:40.972019+00:00"
     },
     {
       "id": "466c5287ef37",
@@ -81,55 +41,87 @@
       "fetched_at": "2026-08-19T16:33:37.569083+00:00"
     },
     {
-      "id": "f0372e5bcc3b",
-      "title": "GitHub restores services after nearly 8-hour outage disrupts Actions, APIs, PRs and Copilot",
-      "url": "https://www.computerworld.com/article/4210869/github-restores-services-after-nearly-8-hour-outage-disrupts-actions-apis-prs-and-copilot-2.html",
-      "summary": "GitHub has restored services after a nearly eight-hour outage disrupted several of its core developer tools, including Actions, pull requests, APIs, Git operations, Webhooks, and Copilot, impacting software development workflows across its platform.\n\n\n\n\u201cThis incident has been resolved. Thank you for your patience and understanding as we addressed this issue,\u201d the company wrote on its\u00a0status page.\n\n\n\nThe disruption was first reported at 1:40 PM UTC on August 17, with\u00a0GitHub\u00a0initially flagging degraded performance across parts of its platform. Within minutes, the disruption had spread to API Req",
-      "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-08-18T08:03:50+00:00",
-      "fetched_at": "2026-08-19T16:33:40.971942+00:00"
+      "id": "586970a0e3de",
+      "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
+      "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+      "summary": "Another day, another new AI agent harness is released.Only this time, it&#x27;s one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents and tools, while reducing cost. TrueFoundry, a San Francisco B2B machine learning startup co-founded in 2021 by former Meta engineers, has released its own custom TrueForge harness under the permissive MIT License on Github. Thus, it can be used with any of a developer (or their parent enterprise&#x27;s) preferred AI models, forked, modified, self-hosted and incorporated into commercial product",
+      "source": "VentureBeat",
+      "score": 11.0,
+      "published": "2026-08-19T23:50:00+00:00",
+      "fetched_at": "2026-08-20T16:36:55.863053+00:00"
     },
     {
-      "id": "c5edca23285a",
-      "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
-      "url": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
-      "summary": "Enterprises that already got burned by an AI agent passing its evals and then failing in production are moving faster toward removing humans from deployment decisions, not slower \u2014 even as trust in automated evaluation is rising across the board, new VB Pulse research shows.In July, 13% of 108 enterprises surveyed said they trust automated evaluation, up from just 5% the month prior. Meanwhile, survey respondents citing poor alignment between tests and real-world results as their biggest concern fell 10 points, from 29% to 19%, month over month. Yet, 49% of survey respondents said that an AI a",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-08-18T15:35:16+00:00",
-      "fetched_at": "2026-08-19T16:33:37.569466+00:00"
+      "id": "69dc666c377e",
+      "title": "Palo Alto Networks and NTT DATA team up on a $1 billion AI security push",
+      "url": "https://www.fastcompany.com/91592991/palo-alto-networks-and-ntt-data-team-up-on-a-1-billion-ai-security-push?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "An AI agent deployed inside a bank or hospital system does not sit still. It queries databases, moves files, and calls other software on its own schedule. To do any of that, it needs credentials, just like an employee does. In February, Palo Alto Networks put the ratio at more than 80 machine accounts for every human one inside a typical enterprise. Most security teams cannot produce a full list of them, so they cannot say who or what has access to their most sensitive systems.\n\n\n\nNTT DATA and Palo Alto Networks are offering a fix. The two companies announced on Thursday a multiyear global all",
+      "source": "Fast Company Tech",
+      "score": 7.7,
+      "published": "2026-08-20T15:11:00+00:00",
+      "fetched_at": "2026-08-20T16:37:01.176647+00:00"
     },
     {
-      "id": "e1ac3e62b8a8",
-      "title": "Commerce AI is fragmenting. Here is why that matters.",
-      "url": "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters",
-      "summary": "Presented by Rezolve AiEnterprise AI investment in commerce has never been higher. And enterprise AI outcomes in commerce have rarely been more inconsistent. That gap is not a coincidence. It is the predictable result of a pattern that has repeated itself across every major technology shift in retail: the industry adds new capabilities faster than it integrates them.That pattern is now playing out in commerce AI.The point solution patternThe dominant approach to commerce AI over the past three years has been an additive one. Brands have layered AI-powered search on top of existing catalog infr",
+      "id": "5c4ab7685d8f",
+      "title": "Serval\u2019s super agent Catalyst creates roving background agents to identify and fix IT issues before they\u2019re ticketed",
+      "url": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
+      "summary": "Serval is making Catalyst, its AI agent for building enterprise automations, generally available Thursday and enabling it by default for customers \u2014 allowing teams of AI agents to decide what should be automated and then build the automation itself.Catalyst sits above Serval\u2019s AI-native service management platform as an admin-facing \u201csuper agent.\u201d It can inspect ticket history, standard operating procedures or natural-language instructions, identify recurring work, and draft the workflows, skills, forms, access policies, journeys and dashboards needed to automate it. Serval is also using Catal",
       "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-08-18T14:30:00+00:00",
-      "fetched_at": "2026-08-19T16:33:37.569535+00:00"
+      "score": 7.7,
+      "published": "2026-08-20T14:42:07+00:00",
+      "fetched_at": "2026-08-20T16:36:55.862940+00:00"
     },
     {
-      "id": "93095be3dfff",
-      "title": "Enterprises are overpaying for simple AI queries \u2014 Snowflake's gateway now auto-routes to cut costs up to 3x",
-      "url": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
-      "summary": "Enterprise teams running AI agents at scale are finding that a single model handles every task poorly \u2014 either the model is too expensive for simple questions or not capable enough for hard ones. Model routing, which picks the right model for each task automatically, is becoming the fix.Snowflake\u2019s Cortex AI Gateway now offers dynamic model routing to address that: enterprises can select \u201cauto\u201d instead of a fixed model, and the system routes each task to whichever model offers the best combination of quality and cost. Snowflake said the capability can cut token costs by as much as 3x on some w",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-08-18T13:00:00+00:00",
-      "fetched_at": "2026-08-19T16:33:37.569611+00:00"
+      "id": "376c0f273c1b",
+      "title": "When Your Buyer Is an AI Agent",
+      "url": "https://www.oreilly.com/radar/when-your-buyer-is-an-ai-agent/",
+      "summary": "In 2021, Maersk, the world\u2019s largest container shipping company, deployed AI agents from a startup called Pactum to negotiate freight lane contracts with its carrier suppliers. The objective was for AI agents to handle negotiations autonomously rather than merely support human procurement staff. Operating entirely autonomously, the system manages the end-to-end agreement process, from reaching [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 7.7,
+      "published": "2026-08-19T16:00:28+00:00",
+      "fetched_at": "2026-08-20T16:36:59.759371+00:00"
+    },
+    {
+      "id": "5e86b723ff64",
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "summary": "\u201cRunaway\u201d AI, \u201crogue\u201d agents, and \u201cautonomous\u201d actors\u2014the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly \u201csuperhuman\u201d systems, while a separate faction, led by policy organizations&#8230;",
+      "source": "MIT Technology Review",
+      "score": 7.2,
+      "published": "2026-08-20T15:42:39+00:00",
+      "fetched_at": "2026-08-20T16:36:55.233496+00:00"
+    },
+    {
+      "id": "6aba2536a5ec",
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-08-19T21:51:23+00:00",
+      "fetched_at": "2026-08-20T16:36:53.828253+00:00"
+    },
+    {
+      "id": "6de24100a201",
+      "title": "Palo Alto Networks and NTT DATA team up on a $1 billion AI security push",
+      "url": "https://www.fastcompany.com/91592991/palo-alto-networks-and-ntt-data-team-up-on-a-1-billion-ai-security-push",
+      "summary": "The companies are expanding their partnership to automate security operations and bring Palo Alto\u2019s identity tools deeper into large enterprises.\n\nAn AI agent deployed inside a bank or hospital system does not sit still. It queries databases, moves files, and calls other software on its own schedule. To do any of that, it needs credentials, just like an employee does. In February, Palo Alto Networks put the ratio at more than 80 machine accounts for every human one inside a typical enterprise. Most security teams cannot produce a full list of them, so they cannot say who or what has access to ",
+      "source": "Fast Company",
+      "score": 7.0,
+      "published": "2026-08-20T15:11:00+00:00",
+      "fetched_at": "2026-08-20T16:37:01.589767+00:00"
+    },
+    {
+      "id": "c47c784fc2f7",
+      "title": "Why Upwork\u2019s CEO insists the AI jobs apocalypse isn\u2019t happening",
+      "url": "https://www.fastcompany.com/91592315/why-upworks-ceo-insists-the-ai-jobs-apocalypse-isnt-happening",
+      "summary": "Hayden Brown has a front-row seat to how AI is reshaping work. Her data shows booming demand for AI skills, but also companies discovering that automation can\u2019t replace humans so easily.\n\nFew leaders have a better real-time read on how AI is actually reshaping the workforce than Hayden Brown. As CEO of Upwork, the platform where 18 million freelancers meet the businesses that need them, she sees what the monthly jobs report can&#8217;t: which skills are surging, which jobs are quietly disappearing, and why 23% of businesses that moved work to AI are already bringing humans back. Brown shares w",
+      "source": "Fast Company",
+      "score": 7.0,
+      "published": "2026-08-20T09:11:00+00:00",
+      "fetched_at": "2026-08-20T16:37:01.590337+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/06/rebuilding-software-development-from-the-ground-up/",
-    "https://www.fastcompany.com/91568818/our-interest-in-ai-slop-is-hitting-a-ceiling",
-    "https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents",
-    "https://www.saastr.com/what-happens-when-you-hire-the-wrong-vp/",
-    "https://www.forbes.com/sites/larsdaniel/2026/07/06/my-ai-did-it-is-the-next-courtroom-excuse-and-it-might-actually-work/",
-    "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
-    "https://www.saastr.com/by-year-end-anthropic-will-out-earn-every-public-software-company-except-microsoft/",
-    "https://venturebeat.com/orchestration/build-for-the-new-ai-era-with-microsoft-and-nvidia",
     "https://venturebeat.com/data/digital-native-startups-are-ditching-rigid-databases-for-their-agentic-stacks",
     "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents",
     "https://www.fastcompany.com/91569927/this-latest-frightening-ransomware-attack-was-orchestrated-entirely-by-an-llm?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -371,7 +363,15 @@
     "https://www.computerworld.com/article/4210869/github-restores-services-after-nearly-8-hour-outage-disrupts-actions-apis-prs-and-copilot-2.html",
     "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
     "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters",
-    "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x"
+    "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
+    "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+    "https://www.fastcompany.com/91592991/palo-alto-networks-and-ntt-data-team-up-on-a-1-billion-ai-security-push?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
+    "https://www.oreilly.com/radar/when-your-buyer-is-an-ai-agent/",
+    "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "https://www.fastcompany.com/91592991/palo-alto-networks-and-ntt-data-team-up-on-a-1-billion-ai-security-push",
+    "https://www.fastcompany.com/91592315/why-upworks-ceo-insists-the-ai-jobs-apocalypse-isnt-happening"
   ],
-  "generated_at": "2026-08-19T16:33:43.283280+00:00"
+  "generated_at": "2026-08-20T16:37:01.590481+00:00"
 }

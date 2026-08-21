@@ -1,46 +1,6 @@
 {
   "queue": [
     {
-      "id": "46cade959d9e",
-      "title": "5 Interesting Learnings from Atlassian at $6.6 Billion in ARR: 28% Growth, 44% RPO Growth, and a 35% One-Day Stock Pop",
-      "url": "https://www.saastr.com/5-interesting-learnings-from-atlassian-at-6-6-billion-in-arr-28-growth-44-rpo-growth-and-a-35-one-day-stock-pop/",
-      "summary": "Atlassian closed its fiscal year on June 30 and reported on August 6. Going in, it was one of the most doubted names in enterprise software. The bear case was simple: AI agents write the code, AI agents file the tickets, and the tools that track the work get squeezed out of the middle. The... Continue Reading",
-      "source": "SaaStr",
-      "score": 9.9,
-      "published": "2026-08-19T14:10:45+00:00",
-      "fetched_at": "2026-08-19T16:33:38.177419+00:00"
-    },
-    {
-      "id": "e9c42c75a9a5",
-      "title": "Microsoft finally patches critical one-click Copilot vulnerability, almost eight months after learning of it",
-      "url": "https://www.computerworld.com/article/4211325/microsoft-finally-patches-critical-one-click-copilot-vulnerability-more-than-eight-months-after-learning-of-it.html",
-      "summary": "Almost eight months after confirming a critical security vulnerability within the personal version of its AI assistant, Copilot, Microsoft on Tuesday issued a patch to close the hole, which relies on an LLM\u2019s inability to distinguish the data in a query from an instruction.\n\n\n\nThe CoSnitch hole was discovered by Varonis, and marked the third Copilot bug that Varonis has reported to Microsoft this year, following Reprompt, which bypassed Copilot guardrails by repeating queries, and SearchLeak, which Varonis said turned Microsoft 365 Copilot Enterprise into \u201ca silent exfiltration tool. All three",
-      "source": "Computerworld",
-      "score": 9.0,
-      "published": "2026-08-19T02:23:18+00:00",
-      "fetched_at": "2026-08-19T16:33:40.971553+00:00"
-    },
-    {
-      "id": "466c5287ef37",
-      "title": "AI Agents Entering The Enterprise, Real Question Is Who's In Charge",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/19/ai-agents-entering-the-enterprise-real-question-is-whos-in-charge/",
-      "summary": "Identity is not a back-office security detail. In the agentic enterprise, it is the control plane for accountability.",
-      "source": "Forbes Innovation",
-      "score": 8.0,
-      "published": "2026-08-19T13:45:00+00:00",
-      "fetched_at": "2026-08-19T16:33:39.267894+00:00"
-    },
-    {
-      "id": "f8a8e90f0b14",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers \u2014 the directors, VPs, CIOs, and CTOs \u2014 who are evaluating, buying, and deploying enterprise AI.The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technical",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-08-19T14:18:12+00:00",
-      "fetched_at": "2026-08-19T16:33:37.569083+00:00"
-    },
-    {
       "id": "586970a0e3de",
       "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
       "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
@@ -69,16 +29,6 @@
       "score": 7.7,
       "published": "2026-08-20T14:42:07+00:00",
       "fetched_at": "2026-08-20T16:36:55.862940+00:00"
-    },
-    {
-      "id": "376c0f273c1b",
-      "title": "When Your Buyer Is an AI Agent",
-      "url": "https://www.oreilly.com/radar/when-your-buyer-is-an-ai-agent/",
-      "summary": "In 2021, Maersk, the world\u2019s largest container shipping company, deployed AI agents from a startup called Pactum to negotiate freight lane contracts with its carrier suppliers. The objective was for AI agents to handle negotiations autonomously rather than merely support human procurement staff. Operating entirely autonomously, the system manages the end-to-end agreement process, from reaching [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 7.7,
-      "published": "2026-08-19T16:00:28+00:00",
-      "fetched_at": "2026-08-20T16:36:59.759371+00:00"
     },
     {
       "id": "5e86b723ff64",
@@ -119,14 +69,59 @@
       "score": 7.0,
       "published": "2026-08-20T09:11:00+00:00",
       "fetched_at": "2026-08-20T16:37:01.590337+00:00"
+    },
+    {
+      "id": "3a9117635252",
+      "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
+      "url": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
+      "summary": "Enterprise AI teams have stopped betting on a single orchestration platform. The median enterprise now runs three at once \u2014 not by accident, but because none of them fully trusts a single vendor to run the show, according to VB Pulse data.This is not just to avoid vendor lock-in and retain flexibility (although that\u2019s a big part of it). There\u2019s still a lot of uncertainty, even distrust, in vendors\u2019 security and permissioning capabilities. Enterprises want the ability to impose their own. Microsoft leads on primary usage today, while Anthropic leads by a wide margin in what enterprises are cons",
+      "source": "VentureBeat",
+      "score": 14.3,
+      "published": "2026-08-20T19:57:01+00:00",
+      "fetched_at": "2026-08-21T16:36:40.727703+00:00"
+    },
+    {
+      "id": "8ccef80e6070",
+      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
+      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "summary": "Adding an AI agent to Slack sounds appealing to many enterprises \u2014 but, as VentureBeat has experienced ourselves first hand \u2014 the reality is often far more complex and clunkier than it first seems.Now NanoCo., the company behind the hit open source, enterprise-friendly, autonomous AI agent harness NanoClaw (a more sandboxed, lower code version of OpenClaw), is hoping to make it just as easy as typing a Slack message. To go one step further: the company&#x27;s new NanoClaw Slack integration lets human users spin up entire teams of agents with their own specialized skills, workflows, and even cu",
+      "source": "VentureBeat",
+      "score": 9.9,
+      "published": "2026-08-20T17:25:44+00:00",
+      "fetched_at": "2026-08-21T16:36:40.727809+00:00"
+    },
+    {
+      "id": "66806890d278",
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been \u201cdiscovered by\u201d its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think&#8230;",
+      "source": "MIT Technology Review",
+      "score": 9.6,
+      "published": "2026-08-21T09:00:00+00:00",
+      "fetched_at": "2026-08-21T16:36:40.165994+00:00"
+    },
+    {
+      "id": "719e8899e173",
+      "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
+      "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
+      "summary": "When an agentic AI system hands a task from a small model to a larger one \u2014 or back down again \u2014 it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, driving up compute costs and latency. This is a major bottleneck for enterprises building long-horizon, multi-LLM workflows.To solve this challenge, researchers at Nvidia have introduced a cross-model KV cache transfer technique that directly maps the prefilled KV cache from a source model into the target model. This technique aligns with real-world agentic applications where large contexts accumulate ac",
+      "source": "VentureBeat",
+      "score": 8.8,
+      "published": "2026-08-21T16:33:56+00:00",
+      "fetched_at": "2026-08-21T16:36:40.727526+00:00"
+    },
+    {
+      "id": "68168fd4f6d1",
+      "title": "This Week in AI: The Web Belongs to Agents Now",
+      "url": "https://www.oreilly.com/radar/this-week-in-ai-the-web-belongs-to-agents-now/",
+      "summary": "AI agents keep getting smarter, but the bigger story this week is how much they\u2019re reshaping the systems around them. Host Eric Freeman, an O\u2019Reilly author and UT Austin professor, pulled one thread through a packed news week. Models are optimizing less for chat and more for autonomous work, with fallout showing up in web [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 7.7,
+      "published": "2026-08-21T13:00:50+00:00",
+      "fetched_at": "2026-08-21T16:36:43.789746+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/data/digital-native-startups-are-ditching-rigid-databases-for-their-agentic-stacks",
-    "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents",
-    "https://www.fastcompany.com/91569927/this-latest-frightening-ransomware-attack-was-orchestrated-entirely-by-an-llm?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-    "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message",
     "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
     "https://venturebeat.com/security/ai-has-collapsed-the-cyber-response-window-resilience-now-starts-before-the-attack",
     "https://www.fastcompany.com/91569569/ai-learning-loops-governance-issue?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -371,7 +366,12 @@
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
     "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
     "https://www.fastcompany.com/91592991/palo-alto-networks-and-ntt-data-team-up-on-a-1-billion-ai-security-push",
-    "https://www.fastcompany.com/91592315/why-upworks-ceo-insists-the-ai-jobs-apocalypse-isnt-happening"
+    "https://www.fastcompany.com/91592315/why-upworks-ceo-insists-the-ai-jobs-apocalypse-isnt-happening",
+    "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
+    "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+    "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
+    "https://www.oreilly.com/radar/this-week-in-ai-the-web-belongs-to-agents-now/"
   ],
-  "generated_at": "2026-08-20T16:37:01.590481+00:00"
+  "generated_at": "2026-08-21T16:36:45.552424+00:00"
 }

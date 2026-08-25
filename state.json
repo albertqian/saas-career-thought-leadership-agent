@@ -11,16 +11,6 @@
       "fetched_at": "2026-08-24T16:39:57.566106+00:00"
     },
     {
-      "id": "e2c8ceb7ee36",
-      "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
-      "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
-      "summary": "For much of the past two years, the general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-step workflows, and give them as much room to run as possible. That assumption is now being tested at scale, in real production environments \u2014 and in a lot of deployments it&#x27;s failing. The companies that end up benefiting from agentic AI won&#x27;t necessarily be the ones that have given their agents the most flexibility. They&#x27;re the ones who create AI agents with specific responsibilities and make sure the",
-      "source": "VentureBeat",
-      "score": 12.1,
-      "published": "2026-08-22T21:30:00+00:00",
-      "fetched_at": "2026-08-24T16:39:57.566212+00:00"
-    },
-    {
       "id": "721163ab5ac9",
       "title": "Anthropic\u2019s new Claude Tag update lets its Slack agent read the full conversation \u2014 and jump in unprompted",
       "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
@@ -101,16 +91,6 @@
       "fetched_at": "2026-08-24T16:39:57.565999+00:00"
     },
     {
-      "id": "359f5cee48a3",
-      "title": "Stripe Buys OpenRouter for $7B, Anthropic Turns Its First Profit, and Silver Lake Circles Workday at $43B: 20VC x SaaStr",
-      "url": "https://www.saastr.com/stripe-buys-openrouter-for-7b-anthropic-turns-its-first-profit-and-silver-lake-circles-workday-at-43b-20vc-x-saastr/",
-      "summary": "Plus the math that has to be true for AI to reach $600B in revenue: $100K of tokens per engineer, and 30% fewer engineers. A heavy week on 20VC x SaaStr with Harry Stebbings, Rory O&#8217;Driscoll and Jason Lemkin: SpaceX closed its $60B all-stock takeover of Cursor Stripe bought OpenRouter for around $7B, four months... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-08-23T12:42:24+00:00",
-      "fetched_at": "2026-08-24T16:39:58.216984+00:00"
-    },
-    {
       "id": "b11795f5f35f",
       "title": "How to encourage smarter AI use in the classroom",
       "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -119,11 +99,29 @@
       "score": 3.6,
       "published": "2026-08-24T14:20:19+00:00",
       "fetched_at": "2026-08-24T16:39:56.903481+00:00"
+    },
+    {
+      "id": "65e1d438937c",
+      "title": "Data Intelligence: Building Your Competitive Advantage in the Era of AI",
+      "url": "https://www.oreilly.com/radar/data-intelligence-building-your-competitive-advantage-in-the-era-of-ai/",
+      "summary": "To keep pace with modern business, data strategy is shifting toward more autonomous real-time systems that deliver intelligence at the moment decisions are made. Driven by agentic AI, modern data teams are moving beyond simply looking at what happened. Now they\u2019re automating complex workflows that analyze what\u2019s happening, anticipate what might happen next, and recommend [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 11.0,
+      "published": "2026-08-24T15:58:27+00:00",
+      "fetched_at": "2026-08-25T16:39:21.846113+00:00"
+    },
+    {
+      "id": "2996a3e466f0",
+      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "summary": "Perplexity is launching Portable Computer today, a version of its agentic &quot;Computer&quot; platform that runs entirely on hardware users already own \u2014 starting with Nvidia&#x27;s DGX Spark desktop supercomputer and Linux machines equipped with Nvidia RTX GPUs.The launch, developed in close partnership with Nvidia, is one of the most aggressive attempts yet to move serious AI agent workloads off the cloud and onto local devices. The model, the user&#x27;s files, and the work itself can all stay on the machine. Work completed locally consumes no billing credits, and the company says every ta",
+      "source": "VentureBeat",
+      "score": 9.9,
+      "published": "2026-08-25T13:00:00+00:00",
+      "fetched_at": "2026-08-25T16:39:17.925341+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
-    "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
     "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
     "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
     "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x",
@@ -371,7 +369,9 @@
     "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
     "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores",
     "https://www.saastr.com/stripe-buys-openrouter-for-7b-anthropic-turns-its-first-profit-and-silver-lake-circles-workday-at-43b-20vc-x-saastr/",
-    "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
+    "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "https://www.oreilly.com/radar/data-intelligence-building-your-competitive-advantage-in-the-era-of-ai/",
+    "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs"
   ],
-  "generated_at": "2026-08-24T16:40:03.283109+00:00"
+  "generated_at": "2026-08-25T16:39:23.440591+00:00"
 }

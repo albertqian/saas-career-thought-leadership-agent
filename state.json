@@ -1,116 +1,6 @@
 {
   "queue": [
     {
-      "id": "bbc5cc3f829e",
-      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
-      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
-      "summary": "Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individual AI applications. While this approach works well for isolated assistants and copilots, it treats enterprise knowledge as application-specific context rather than a shared enterprise asset.As organizations deploy more AI applications and agents, this model begins to break down. Different teams process the same documents, maintain separate embeddings and indexes, and create inconsistent represent",
-      "source": "VentureBeat",
-      "score": 12.1,
-      "published": "2026-08-23T23:00:00+00:00",
-      "fetched_at": "2026-08-24T16:39:57.566106+00:00"
-    },
-    {
-      "id": "721163ab5ac9",
-      "title": "Anthropic\u2019s new Claude Tag update lets its Slack agent read the full conversation \u2014 and jump in unprompted",
-      "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
-      "summary": "Anthropic is making a calculated bet that the biggest bottleneck in enterprise AI isn&#x27;t model intelligence \u2014 it&#x27;s the fact that most people still use AI alone.In an exclusive interview with VentureBeat, Scott White, Anthropic&#x27;s head of product for enterprise, laid out the company&#x27;s thesis for what it calls &quot;multiplayer AI&quot;: a shift away from the single-user chatbot paradigm toward AI agents that operate across teams, read organizational context, and proactively insert themselves into work \u2014 sometimes without being asked.The strategy crystallized earlier this month",
-      "source": "VentureBeat",
-      "score": 8.8,
-      "published": "2026-08-24T13:00:00+00:00",
-      "fetched_at": "2026-08-24T16:39:57.565881+00:00"
-    },
-    {
-      "id": "0565e9e7b154",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-      "source": "TechCrunch AI",
-      "score": 8.4,
-      "published": "2026-08-24T15:24:18+00:00",
-      "fetched_at": "2026-08-24T16:39:54.722180+00:00"
-    },
-    {
-      "id": "44c2b2bb71ad",
-      "title": "Google Halo To Bring Agentic Capability To Android Phones",
-      "url": "https://www.forbes.com/sites/johnwerner/2026/08/24/google-halo-to-bring-agentic-capability-to-android-phones/",
-      "summary": "Google\u2019s Halo and Spark aim to enable hands-free, remotely running AI agents monitored through Android devices.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-08-24T14:56:47+00:00",
-      "fetched_at": "2026-08-24T16:39:59.352283+00:00"
-    },
-    {
-      "id": "69a2af6fb0d5",
-      "title": "Autonomous AI Outgrows Agents As Blitzy, XBOW And Google Deliver",
-      "url": "https://www.forbes.com/sites/sandycarter/2026/08/24/autonomous-ai-outgrows-agents-as-blitzy-xbow-and-google-deliver/",
-      "summary": "Autonomous AI. The world's top hacker is no longer human. Blitzy, XBOW, Google and OpenAI are racing past AI agents to autonomous systems.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-08-24T14:00:00+00:00",
-      "fetched_at": "2026-08-24T16:39:59.352456+00:00"
-    },
-    {
-      "id": "dd7dd89d1cec",
-      "title": "6 tips for better research with Microsoft Copilot",
-      "url": "https://www.computerworld.com/article/4204609/microsoft-copilot-research-tips.html",
-      "summary": "Copilot, Microsoft\u2019s generative AI chatbot, can do many things, but one of its best uses is as a researcher, for pretty much anything you want in business or personal use.\n\n\n\nIf you\u2019re looking for in-depth information, there\u2019s a lot more you can do than type a simple request into Copilot\u2019s search box. Simple prompts can be fine when you\u2019re looking for basic information, but for anything beyond that, you need help. Here are six ways to turbocharge your research with Copilot.\n\n\n\nNote that Copilot is available in several places and with varying capabilities. Everyone can use the free Copilot app ",
-      "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-08-24T11:00:00+00:00",
-      "fetched_at": "2026-08-24T16:40:01.182273+00:00"
-    },
-    {
-      "id": "0b1e55ad9d1e",
-      "title": "AI Agents Are Running Your Business\u2014Do You Know Who's Responsible For Them?",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/24/ai-agents-are-running-your-business-do-you-know-whos-responsible-for-them/",
-      "summary": "One of the more underappreciated dynamics in how enterprises are deploying agents right now is how access accumulates.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-08-24T14:00:00+00:00",
-      "fetched_at": "2026-08-24T16:39:59.352507+00:00"
-    },
-    {
-      "id": "e0099f0b8b45",
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "summary": "Inside the frontier lab\u2019s push to bring AI agents from software engineers to the masses.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-08-24T15:00:00+00:00",
-      "fetched_at": "2026-08-24T16:39:54.722221+00:00"
-    },
-    {
-      "id": "f0b0f472cd00",
-      "title": "IBM\u2019s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores",
-      "url": "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores",
-      "summary": "IBM is announcing today at the annual Hot Chips conference what may be the most consequential change to mainframe architecture in decades: a processor whose cores can natively execute both IBM&#x27;s own instruction set and Arm&#x27;s \u2014 switching between the two in nanoseconds.The chip, which will power the next generation of IBM Z and LinuxONE systems, is the first dual-architecture mainframe processor ever built. It is designed to let enterprises run the vast and fast-growing ecosystem of Arm-native Linux software \u2014 including the AI frameworks that increasingly define modern infrastructure \u2014",
-      "source": "VentureBeat",
-      "score": 4.4,
-      "published": "2026-08-24T11:00:00+00:00",
-      "fetched_at": "2026-08-24T16:39:57.565999+00:00"
-    },
-    {
-      "id": "b11795f5f35f",
-      "title": "How to encourage smarter AI use in the classroom",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
-      "source": "MIT Technology Review",
-      "score": 3.6,
-      "published": "2026-08-24T14:20:19+00:00",
-      "fetched_at": "2026-08-24T16:39:56.903481+00:00"
-    },
-    {
-      "id": "65e1d438937c",
-      "title": "Data Intelligence: Building Your Competitive Advantage in the Era of AI",
-      "url": "https://www.oreilly.com/radar/data-intelligence-building-your-competitive-advantage-in-the-era-of-ai/",
-      "summary": "To keep pace with modern business, data strategy is shifting toward more autonomous real-time systems that deliver intelligence at the moment decisions are made. Driven by agentic AI, modern data teams are moving beyond simply looking at what happened. Now they\u2019re automating complex workflows that analyze what\u2019s happening, anticipate what might happen next, and recommend [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 11.0,
-      "published": "2026-08-24T15:58:27+00:00",
-      "fetched_at": "2026-08-25T16:39:21.846113+00:00"
-    },
-    {
       "id": "2996a3e466f0",
       "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
       "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
@@ -119,20 +9,119 @@
       "score": 9.9,
       "published": "2026-08-25T13:00:00+00:00",
       "fetched_at": "2026-08-25T16:39:17.925341+00:00"
+    },
+    {
+      "id": "c6f5e02f3dc5",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,&quot; Anand says. &quot;As a result, while many enterprises have adopted digital tools, very few have platforms t",
+      "source": "VentureBeat",
+      "score": 11.0,
+      "published": "2026-08-26T14:30:00+00:00",
+      "fetched_at": "2026-08-26T16:48:54.888887+00:00"
+    },
+    {
+      "id": "26bfb8eb611d",
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+      "source": "TechCrunch AI",
+      "score": 10.8,
+      "published": "2026-08-26T12:55:28+00:00",
+      "fetched_at": "2026-08-26T16:48:52.586603+00:00"
+    },
+    {
+      "id": "17566b6df14d",
+      "title": "\u200bBeyond Generative AI: Why Knowledge Management Is The Missing Link To Enterprise AI In Engineering Organizations",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/26/beyond-generative-ai-why-knowledge-management-is-the-missing-link-to-enterprise-ai-in-engineering-organizations/",
+      "summary": "Artificial intelligence is ultimately less an automation challenge than a knowledge management challenge, particularly in engineering project delivery.",
+      "source": "Forbes Innovation",
+      "score": 10.0,
+      "published": "2026-08-26T15:15:00+00:00",
+      "fetched_at": "2026-08-26T16:48:56.339021+00:00"
+    },
+    {
+      "id": "4fdeedcec47c",
+      "title": "Shadow Agents, Standing Privileges, and the Governance Gap Between Deployment and Discovery",
+      "url": "https://www.oreilly.com/radar/shadow-agents-standing-privileges-and-the-governance-gap-between-deployment-and-discovery/",
+      "summary": "There was a brief window where AI agent security felt like a future problem. Organizations deployed copilots, coding assistants, and autonomous workflows on the assumption that the worst case was a bad recommendation or a hallucinated answer. That window closed in the first half of 2026, when a cluster of vulnerabilities and a landmark incident [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 9.9,
+      "published": "2026-08-25T10:56:36+00:00",
+      "fetched_at": "2026-08-26T16:48:58.380521+00:00"
+    },
+    {
+      "id": "1b03fe156ef6",
+      "title": "Bring the AI to your data, not your data to the AI",
+      "url": "https://www.fastcompany.com/91594407/bring-the-ai-to-your-data-not-your-data-to-the-ai",
+      "summary": "The companies succeeding with enterprise AI are keeping their data inside their own perimeter.\n\nFor the past few years, enterprises that wanted to build their own agentic systems adopted AI the same way: Pick a frontier model, copy your knowledge into it, then route your tickets through it. Eventually you&#8217;re piping customer records, contacts, and workflows into someone else&#8217;s system, hoping the contract protects you. The premise was that the capability alone justified moving your data to the model.",
+      "source": "Fast Company",
+      "score": 9.0,
+      "published": "2026-08-26T12:00:00+00:00",
+      "fetched_at": "2026-08-26T16:48:59.811927+00:00"
+    },
+    {
+      "id": "c0735f59ecd6",
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
+      "source": "Ars Technica",
+      "score": 8.0,
+      "published": "2026-08-26T11:10:49+00:00",
+      "fetched_at": "2026-08-26T16:48:56.932518+00:00"
+    },
+    {
+      "id": "842793d398d6",
+      "title": "What are \u2018open\u2019 AI models?",
+      "url": "https://www.computerworld.com/article/4213156/what-are-open-ai-models.html",
+      "summary": "The tech industry faced something of a reckoning in late 2022 with the arrival of OpenAI\u2019s ChatGPT, a simple chatbot that could answer questions, seemingly by magic.\n\n\n\nThe early frontier large language models (LLMs) from OpenAI and rivals like Anthropic and Google could reason, solve problems, and answer detailed queries put to them using  natural language. But no one knew exactly what was in the LLM black boxes underpinning the services.\n\n\n\nSoon, AI models such as Meta\u2019s Llama and Mistral came along to break the proprietary AI monopoly. These kinds of models could be freely downloaded and mo",
+      "source": "Computerworld",
+      "score": 7.0,
+      "published": "2026-08-26T11:00:00+00:00",
+      "fetched_at": "2026-08-26T16:48:58.073162+00:00"
+    },
+    {
+      "id": "cbe393ca0644",
+      "title": "Radar makes podcasts searchable \u2014 and usable by AI agents",
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "summary": "Particle\u2019s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-08-26T15:47:28+00:00",
+      "fetched_at": "2026-08-26T16:48:52.586501+00:00"
+    },
+    {
+      "id": "9831f37a70b7",
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-08-26T13:00:00+00:00",
+      "fetched_at": "2026-08-26T16:48:52.586583+00:00"
+    },
+    {
+      "id": "546adee34e15",
+      "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
+      "url": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
+      "summary": "A security agent read a Cloudflare log, found an attacker\u2019s prompt-injection payload sitting inside it, and rewrote the company\u2019s DNS. The firewall had already blocked that payload, and blocking it is what wrote it into the log.That chain is GhostJacking, which Tenet Security demonstrated on the DEF CON 34 main stage on August 9. A request hits Cloudflare\u2019s managed ruleset, gets blocked, and is stored byte for byte with its poisoned User-Agent header. An AI coding agent reviewing those blocked events reads the attacker&#x27;s text as an instruction \u2014 with no way to tell it apart from one the c",
+      "source": "VentureBeat",
+      "score": 4.4,
+      "published": "2026-08-26T16:13:50+00:00",
+      "fetched_at": "2026-08-26T16:48:54.888828+00:00"
+    },
+    {
+      "id": "f5dcac8c3edd",
+      "title": "Corporate America is embracing AI more slowly than the hype suggests\u2014but the pace is increasing",
+      "url": "https://www.fastcompany.com/91595338/corporate-america-is-embracing-ai-slower-than-the-hype-suggests-but-the-pace-is-increasing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Seeing the never-ending headlines about artificial intelligence, it\u2019s easy to conclude that AI is about to transform society overnight or, just as easily, that it is totally overhyped. We have a different reading than either of those extremes: Adoption across the corporate landscape is coming\u2014not at the blistering pace that some have expected, but steadily and inexorably.\n\n\n\nAt this point, we acknowledge, most big businesses are trundling along in the AI slow lane. We can see this by using a large language model to scour corporations\u2019 federal financial filings and then score each firm over a 1",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-08-26T10:00:00+00:00",
+      "fetched_at": "2026-08-26T16:48:59.547126+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-    "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
-    "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x",
-    "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
-    "https://www.saastr.com/your-agents-should-beat-your-best-rep-not-match-them-and-14-other-hard-truths-in-aib2b-today-from-our-saastr-ai-ama/",
-    "https://venturebeat.com/infrastructure/the-desktop-infrastructure-problem-that-kubernetes-finally-solves",
-    "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words",
-    "https://www.saastr.com/dont-put-ai-on-your-hot-leads-put-it-on-the-ones-your-reps-will-never-call-theres-millions-in-revenue-there/",
-    "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
-    "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/lessons-from-70-triathlons-about-why-enterprise-software-projects-fail/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/when-every-employee-manages-200-ai-agents/",
     "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
@@ -371,7 +360,18 @@
     "https://www.saastr.com/stripe-buys-openrouter-for-7b-anthropic-turns-its-first-profit-and-silver-lake-circles-workday-at-43b-20vc-x-saastr/",
     "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
     "https://www.oreilly.com/radar/data-intelligence-building-your-competitive-advantage-in-the-era-of-ai/",
-    "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs"
+    "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+    "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/08/26/beyond-generative-ai-why-knowledge-management-is-the-missing-link-to-enterprise-ai-in-engineering-organizations/",
+    "https://www.oreilly.com/radar/shadow-agents-standing-privileges-and-the-governance-gap-between-deployment-and-discovery/",
+    "https://www.fastcompany.com/91594407/bring-the-ai-to-your-data-not-your-data-to-the-ai",
+    "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+    "https://www.computerworld.com/article/4213156/what-are-open-ai-models.html",
+    "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+    "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+    "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
+    "https://www.fastcompany.com/91595338/corporate-america-is-embracing-ai-slower-than-the-hype-suggests-but-the-pace-is-increasing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-08-25T16:39:23.440591+00:00"
+  "generated_at": "2026-08-26T16:48:59.812369+00:00"
 }

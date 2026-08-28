@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "2996a3e466f0",
-      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
-      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-      "summary": "Perplexity is launching Portable Computer today, a version of its agentic &quot;Computer&quot; platform that runs entirely on hardware users already own \u2014 starting with Nvidia&#x27;s DGX Spark desktop supercomputer and Linux machines equipped with Nvidia RTX GPUs.The launch, developed in close partnership with Nvidia, is one of the most aggressive attempts yet to move serious AI agent workloads off the cloud and onto local devices. The model, the user&#x27;s files, and the work itself can all stay on the machine. Work completed locally consumes no billing credits, and the company says every ta",
-      "source": "VentureBeat",
-      "score": 9.9,
-      "published": "2026-08-25T13:00:00+00:00",
-      "fetched_at": "2026-08-25T16:39:17.925341+00:00"
-    },
-    {
       "id": "c6f5e02f3dc5",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
@@ -39,16 +29,6 @@
       "score": 10.0,
       "published": "2026-08-26T15:15:00+00:00",
       "fetched_at": "2026-08-26T16:48:56.339021+00:00"
-    },
-    {
-      "id": "4fdeedcec47c",
-      "title": "Shadow Agents, Standing Privileges, and the Governance Gap Between Deployment and Discovery",
-      "url": "https://www.oreilly.com/radar/shadow-agents-standing-privileges-and-the-governance-gap-between-deployment-and-discovery/",
-      "summary": "There was a brief window where AI agent security felt like a future problem. Organizations deployed copilots, coding assistants, and autonomous workflows on the assumption that the worst case was a bad recommendation or a hallucinated answer. That window closed in the first half of 2026, when a cluster of vulnerabilities and a landmark incident [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 9.9,
-      "published": "2026-08-25T10:56:36+00:00",
-      "fetched_at": "2026-08-26T16:48:58.380521+00:00"
     },
     {
       "id": "1b03fe156ef6",
@@ -119,11 +99,29 @@
       "score": 4.4,
       "published": "2026-08-26T10:00:00+00:00",
       "fetched_at": "2026-08-26T16:48:59.547126+00:00"
+    },
+    {
+      "id": "7a4f16581100",
+      "title": "Agentic AI \u2013 Ongoing coverage of its impact on the enterprise",
+      "url": "https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html",
+      "summary": "Over the next few years, agentic AI is expected to bring not only rapid technological breakthroughs, but a societal transformation, redefining how we live, work and interact with the world. And this shift is happening quickly.  \u201cBy 2028, 33% of enterprise software applications will include agentic AI, up from less than 1% in 2024, enabling 15% of day-to-day work decisions to be made autonomously,\u201d according to research firm Gartner.\n\n\n\nUnlike traditional AI, which typically follows preset rules or algorithms, agentic AI adapts to new situations, learns from experiences, and operates independen",
+      "source": "Computerworld",
+      "score": 13.0,
+      "published": "2026-08-26T18:33:01+00:00",
+      "fetched_at": "2026-08-28T00:46:56.112239+00:00"
+    },
+    {
+      "id": "975b7811b08d",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That\u2019s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That&#x27;s the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do things get so opaque so quickly?Add a second agent to a system, and you&#x27;ve added one conne",
+      "source": "VentureBeat",
+      "score": 9.9,
+      "published": "2026-08-27T14:01:00+00:00",
+      "fetched_at": "2026-08-28T00:46:53.592482+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/lessons-from-70-triathlons-about-why-enterprise-software-projects-fail/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/when-every-employee-manages-200-ai-agents/",
     "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
     "https://www.fastcompany.com/91549056/ceo-survey-agentic-ai-promise-fears?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/most-companies-have-ai-tools-but-many-dont-rewire-themselves-for-ai/",
@@ -371,7 +369,9 @@
     "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
     "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
     "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
-    "https://www.fastcompany.com/91595338/corporate-america-is-embracing-ai-slower-than-the-hype-suggests-but-the-pace-is-increasing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+    "https://www.fastcompany.com/91595338/corporate-america-is-embracing-ai-slower-than-the-hype-suggests-but-the-pace-is-increasing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html",
+    "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
   ],
-  "generated_at": "2026-08-26T16:48:59.812369+00:00"
+  "generated_at": "2026-08-28T00:46:57.672533+00:00"
 }

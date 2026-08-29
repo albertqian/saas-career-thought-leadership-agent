@@ -1,116 +1,6 @@
 {
   "queue": [
     {
-      "id": "c6f5e02f3dc5",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,&quot; Anand says. &quot;As a result, while many enterprises have adopted digital tools, very few have platforms t",
-      "source": "VentureBeat",
-      "score": 11.0,
-      "published": "2026-08-26T14:30:00+00:00",
-      "fetched_at": "2026-08-26T16:48:54.888887+00:00"
-    },
-    {
-      "id": "26bfb8eb611d",
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-      "source": "TechCrunch AI",
-      "score": 10.8,
-      "published": "2026-08-26T12:55:28+00:00",
-      "fetched_at": "2026-08-26T16:48:52.586603+00:00"
-    },
-    {
-      "id": "17566b6df14d",
-      "title": "\u200bBeyond Generative AI: Why Knowledge Management Is The Missing Link To Enterprise AI In Engineering Organizations",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/26/beyond-generative-ai-why-knowledge-management-is-the-missing-link-to-enterprise-ai-in-engineering-organizations/",
-      "summary": "Artificial intelligence is ultimately less an automation challenge than a knowledge management challenge, particularly in engineering project delivery.",
-      "source": "Forbes Innovation",
-      "score": 10.0,
-      "published": "2026-08-26T15:15:00+00:00",
-      "fetched_at": "2026-08-26T16:48:56.339021+00:00"
-    },
-    {
-      "id": "1b03fe156ef6",
-      "title": "Bring the AI to your data, not your data to the AI",
-      "url": "https://www.fastcompany.com/91594407/bring-the-ai-to-your-data-not-your-data-to-the-ai",
-      "summary": "The companies succeeding with enterprise AI are keeping their data inside their own perimeter.\n\nFor the past few years, enterprises that wanted to build their own agentic systems adopted AI the same way: Pick a frontier model, copy your knowledge into it, then route your tickets through it. Eventually you&#8217;re piping customer records, contacts, and workflows into someone else&#8217;s system, hoping the contract protects you. The premise was that the capability alone justified moving your data to the model.",
-      "source": "Fast Company",
-      "score": 9.0,
-      "published": "2026-08-26T12:00:00+00:00",
-      "fetched_at": "2026-08-26T16:48:59.811927+00:00"
-    },
-    {
-      "id": "c0735f59ecd6",
-      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
-      "source": "Ars Technica",
-      "score": 8.0,
-      "published": "2026-08-26T11:10:49+00:00",
-      "fetched_at": "2026-08-26T16:48:56.932518+00:00"
-    },
-    {
-      "id": "842793d398d6",
-      "title": "What are \u2018open\u2019 AI models?",
-      "url": "https://www.computerworld.com/article/4213156/what-are-open-ai-models.html",
-      "summary": "The tech industry faced something of a reckoning in late 2022 with the arrival of OpenAI\u2019s ChatGPT, a simple chatbot that could answer questions, seemingly by magic.\n\n\n\nThe early frontier large language models (LLMs) from OpenAI and rivals like Anthropic and Google could reason, solve problems, and answer detailed queries put to them using  natural language. But no one knew exactly what was in the LLM black boxes underpinning the services.\n\n\n\nSoon, AI models such as Meta\u2019s Llama and Mistral came along to break the proprietary AI monopoly. These kinds of models could be freely downloaded and mo",
-      "source": "Computerworld",
-      "score": 7.0,
-      "published": "2026-08-26T11:00:00+00:00",
-      "fetched_at": "2026-08-26T16:48:58.073162+00:00"
-    },
-    {
-      "id": "cbe393ca0644",
-      "title": "Radar makes podcasts searchable \u2014 and usable by AI agents",
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "summary": "Particle\u2019s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-      "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-08-26T15:47:28+00:00",
-      "fetched_at": "2026-08-26T16:48:52.586501+00:00"
-    },
-    {
-      "id": "9831f37a70b7",
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-08-26T13:00:00+00:00",
-      "fetched_at": "2026-08-26T16:48:52.586583+00:00"
-    },
-    {
-      "id": "546adee34e15",
-      "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
-      "url": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
-      "summary": "A security agent read a Cloudflare log, found an attacker\u2019s prompt-injection payload sitting inside it, and rewrote the company\u2019s DNS. The firewall had already blocked that payload, and blocking it is what wrote it into the log.That chain is GhostJacking, which Tenet Security demonstrated on the DEF CON 34 main stage on August 9. A request hits Cloudflare\u2019s managed ruleset, gets blocked, and is stored byte for byte with its poisoned User-Agent header. An AI coding agent reviewing those blocked events reads the attacker&#x27;s text as an instruction \u2014 with no way to tell it apart from one the c",
-      "source": "VentureBeat",
-      "score": 4.4,
-      "published": "2026-08-26T16:13:50+00:00",
-      "fetched_at": "2026-08-26T16:48:54.888828+00:00"
-    },
-    {
-      "id": "f5dcac8c3edd",
-      "title": "Corporate America is embracing AI more slowly than the hype suggests\u2014but the pace is increasing",
-      "url": "https://www.fastcompany.com/91595338/corporate-america-is-embracing-ai-slower-than-the-hype-suggests-but-the-pace-is-increasing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Seeing the never-ending headlines about artificial intelligence, it\u2019s easy to conclude that AI is about to transform society overnight or, just as easily, that it is totally overhyped. We have a different reading than either of those extremes: Adoption across the corporate landscape is coming\u2014not at the blistering pace that some have expected, but steadily and inexorably.\n\n\n\nAt this point, we acknowledge, most big businesses are trundling along in the AI slow lane. We can see this by using a large language model to scour corporations\u2019 federal financial filings and then score each firm over a 1",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-08-26T10:00:00+00:00",
-      "fetched_at": "2026-08-26T16:48:59.547126+00:00"
-    },
-    {
-      "id": "7a4f16581100",
-      "title": "Agentic AI \u2013 Ongoing coverage of its impact on the enterprise",
-      "url": "https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html",
-      "summary": "Over the next few years, agentic AI is expected to bring not only rapid technological breakthroughs, but a societal transformation, redefining how we live, work and interact with the world. And this shift is happening quickly.  \u201cBy 2028, 33% of enterprise software applications will include agentic AI, up from less than 1% in 2024, enabling 15% of day-to-day work decisions to be made autonomously,\u201d according to research firm Gartner.\n\n\n\nUnlike traditional AI, which typically follows preset rules or algorithms, agentic AI adapts to new situations, learns from experiences, and operates independen",
-      "source": "Computerworld",
-      "score": 13.0,
-      "published": "2026-08-26T18:33:01+00:00",
-      "fetched_at": "2026-08-28T00:46:56.112239+00:00"
-    },
-    {
       "id": "975b7811b08d",
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
@@ -119,20 +9,119 @@
       "score": 9.9,
       "published": "2026-08-27T14:01:00+00:00",
       "fetched_at": "2026-08-28T00:46:53.592482+00:00"
+    },
+    {
+      "id": "9e40a309f9ea",
+      "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 \u2014 without the frontier price tag",
+      "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
+      "summary": "Consider an AI agent tasked with a complex enterprise workflow like migrating massive batches of customer records from a legacy CRM to a cloud database. The agent cannot rely solely on its internal context window for a job spanning hours and depends on the runtime layer, aka the harness.This harness provides execution feedback, like server logs, to help the agent maintain an accurate understanding of dynamic API connections. It also provides state trackers and control-flow mechanisms to manage completed and pending subgoals, ensuring the agent doesn&#x27;t skip or duplicate data batches. When ",
+      "source": "VentureBeat",
+      "score": 9.9,
+      "published": "2026-08-28T16:33:16+00:00",
+      "fetched_at": "2026-08-29T00:27:44.549743+00:00"
+    },
+    {
+      "id": "5991f3bbe9ff",
+      "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
+      "url": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
+      "summary": "Presented by Nutanix Autonomous systems that can reason, make their own decisions, and execute actions across an environment introduce a category of risk that application-level controls were never built to contain. Treating that risk as a single problem produces incomplete architectures, says Oscar Wahlberg, senior director of product management at Nutanix.&quot;The guardrails to catch a malicious prompt won&#x27;t stop an agent from hallucinating and doing something it never should have done, like accidentally deleting databases or leaking sensitive data with a credential it was granted but t",
+      "source": "VentureBeat",
+      "score": 7.7,
+      "published": "2026-08-28T17:52:50+00:00",
+      "fetched_at": "2026-08-29T00:27:44.549668+00:00"
+    },
+    {
+      "id": "b6edaf7b0dd8",
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "summary": "Presented by EDB As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?These are your agents, running on your models, touching your data in your infrastructure \u2014 and the responsibility for what they do sits with you. That responsibility can\u2019t be met in hindsight or with a set of abstract policies that live on paper but not in practice. Agents need r",
+      "source": "VentureBeat",
+      "score": 7.7,
+      "published": "2026-08-27T12:01:00+00:00",
+      "fetched_at": "2026-08-29T00:27:44.549930+00:00"
+    },
+    {
+      "id": "5098a6884eed",
+      "title": "Only 7 Public B2B Companies Are Growing Over 30%. In the AI-Native Cohort, That Would Be Last Place",
+      "url": "https://www.saastr.com/only-7-public-b2b-companies-are-growing-over-30-in-the-ai-native-cohort-that-would-be-last-place/",
+      "summary": "Seven public B2B software companies are growing faster than 30%. Here they are, most recently reported quarter, straight from the earnings releases. Annualized is that quarter&#8217;s revenue times four. It&#8217;s a rough figure, and for companies with seasonality it will be off by a few points, but it puts everything on the same footing as... Continue Reading",
+      "source": "SaaStr",
+      "score": 6.6,
+      "published": "2026-08-27T14:10:18+00:00",
+      "fetched_at": "2026-08-29T00:27:45.020550+00:00"
+    },
+    {
+      "id": "fe90d3067422",
+      "title": "Photoshop\u2019s new AI Assisted Editor offers a prompt-based editing option",
+      "url": "https://www.computerworld.com/article/4214985/photoshops-new-ai-assisted-editor-offers-a-prompt-based-editing-option.html",
+      "summary": "Adobe has added a simplified editing mode to Photoshop designed to help new users get acquainted with the popular image editing app.\u00a0\n\n\n\nAI Assisted Editor, now available in beta, is an optional alternative to the standard view \u2014 now called Pro Editor mode \u2014 that provides a prompt-based interface similar to the Firefly editor rather than the full range of Photoshop tools. It includes a side panel that contains generative AI (genAI) features such as Generative Fill, Remove Background, and AI Markup, as well as a text prompt box.\u00a0\n\n\n\nThe more streamlined editor view could also prove useful for e",
+      "source": "Computerworld",
+      "score": 6.0,
+      "published": "2026-08-27T15:49:42+00:00",
+      "fetched_at": "2026-08-29T00:27:46.797777+00:00"
+    },
+    {
+      "id": "ddc7b119b75e",
+      "title": "Making Your Data Ready for Agentic AI",
+      "url": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+      "summary": "Lots of organizations are excited about what AI can do to streamline\n      their processes, save money, and juice margins. But AI's capabilities are\n      founded on the data that AI accesses, and for many organizations that\n      foundation is little more than sand. Pramod Sadalage and\n      Prem Chandrasekaran write about how to build a reliable\n      foundation of data that can be accurate and trusted.\n\nmore\u2026",
+      "source": "Martin Fowler",
+      "score": 4.4,
+      "published": "2026-08-27T13:11:00+00:00",
+      "fetched_at": "2026-08-29T00:27:47.242004+00:00"
+    },
+    {
+      "id": "759fb0345f39",
+      "title": "Visa ships a security AI that patches production code before any human reviews it",
+      "url": "https://venturebeat.com/security/visa-agentic-security-harness-autonomous-fix",
+      "summary": "Visa&#x27;s open-source security harness now finds the vulnerability, writes the fix, and turns an adversarial panel on its own patch before any human reviews it. The whole loop ships on by default. A plain scan of the Visa Vulnerability Agentic Harness runs all 11 stages and edits source files in the target repo unless the operator caps it at detection.The announcement Thursday pairs the release with an expansion of the Visa Consulting &amp; Analytics advisory practice. Visa is shipping that default 18 days after Tenet Security demonstrated GhostJacking on the DEF CON 34 main stage, an attack",
+      "source": "VentureBeat",
+      "score": 4.4,
+      "published": "2026-08-27T12:30:00+00:00",
+      "fetched_at": "2026-08-29T00:27:44.549867+00:00"
+    },
+    {
+      "id": "3bcaee70a2b1",
+      "title": "Dear SaaStr: What Are Some Signs That Your B2B Marketing Programs Won\u2019t Scale Well?",
+      "url": "https://www.saastr.com/what-are-some-signs-that-your-saas-marketing-programs-wont-scale-well/",
+      "summary": "Dear SaaStr: What Are Some Signs That Your B2B Marketing Programs Won&#8217;t Scale Well? The #1 flag your marketing efforts aren&#8217;t working is that you are spending too much \u2014 but importantly, in the aggregate.\u00a0 Don&#8217;t overindex on any individual campaign or initiative. Let me dig in a bit. Most B2B companies, once they have... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-08-27T09:43:54+00:00",
+      "fetched_at": "2026-08-29T00:27:45.020586+00:00"
+    },
+    {
+      "id": "ccf5c8f9afca",
+      "title": "Meta\u2019s plans to replace workers with AI fell flat, report says",
+      "url": "https://www.computerworld.com/article/4214479/metas-plans-to-replace-workers-with-ai-fell-flat-report-says.html",
+      "summary": "Earlier this year, Meta, one of the industry\u2019s loudest AI advocates, was ready to slash up to 60% of the members of some teams and replace them with AI, as part of what it called Project OT (Organization Transformation), an initiative to make Meta \u201cAI native.\u201d\n\n\n\nBut it backed off at the last minute after internal data showed that the plan wasn\u2019t working out, according to a Reuters investigation published Wednesday. For example, Reuters said, code changes made to the internal software platforms and infrastructure that employees used on the job were up 220% year-over-year, according to an early",
+      "source": "Computerworld",
+      "score": 4.0,
+      "published": "2026-08-27T01:15:42+00:00",
+      "fetched_at": "2026-08-29T00:27:46.797898+00:00"
+    },
+    {
+      "id": "d0a5ac6877d1",
+      "title": "Here\u2019s all the times AI has gone rogue and hacked other companies",
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-08-27T14:01:42+00:00",
+      "fetched_at": "2026-08-29T00:27:43.165988+00:00"
+    },
+    {
+      "id": "faa1a03b9722",
+      "title": "Plaud\u2019s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-08-27T13:00:00+00:00",
+      "fetched_at": "2026-08-29T00:27:43.166017+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
-    "https://www.fastcompany.com/91549056/ceo-survey-agentic-ai-promise-fears?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/most-companies-have-ai-tools-but-many-dont-rewire-themselves-for-ai/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/13/innovation-is-the-new-measure-of-digital-transformation/",
-    "https://www.forbes.com/sites/timbajarin/2026/07/13/aisec-the-new-security-imperative-for-the-ai-driven-enterprise/",
-    "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
-    "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026",
-    "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-    "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/15/your-ai-employees-need-more-than-a-software-license-they-need-a-job-description/",
     "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
     "https://martinfowler.com/articles/llm-and-dsls.html",
     "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
@@ -371,7 +360,18 @@
     "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
     "https://www.fastcompany.com/91595338/corporate-america-is-embracing-ai-slower-than-the-hype-suggests-but-the-pace-is-increasing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html",
-    "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+    "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
+    "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
+    "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "https://www.saastr.com/only-7-public-b2b-companies-are-growing-over-30-in-the-ai-native-cohort-that-would-be-last-place/",
+    "https://www.computerworld.com/article/4214985/photoshops-new-ai-assisted-editor-offers-a-prompt-based-editing-option.html",
+    "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+    "https://venturebeat.com/security/visa-agentic-security-harness-autonomous-fix",
+    "https://www.saastr.com/what-are-some-signs-that-your-saas-marketing-programs-wont-scale-well/",
+    "https://www.computerworld.com/article/4214479/metas-plans-to-replace-workers-with-ai-fell-flat-report-says.html",
+    "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/"
   ],
-  "generated_at": "2026-08-28T00:46:57.672533+00:00"
+  "generated_at": "2026-08-29T00:27:47.870662+00:00"
 }

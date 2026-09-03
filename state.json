@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "052d40858e5e",
-      "title": "Forward-deployed engineering is how enterprise AI learns",
-      "url": "https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns",
-      "summary": "Presented by ZetaEvery forward-deployed engineering (FDE) pitch sounds identical for the first ten minutes: an engineer embedded on-site, a workflow encoded within weeks, a demo that finally works on the customer&#x27;s real data. What differs is what happens in the following months, and most vendors will not tell you until you ask directly.FDE has become one of enterprise AI\u2019s most consequential operating models. Vendors are building entire go-to-market motions around engineers who embed with customers, wire products into operating environments, and make the demo real. Investors often read FD",
-      "source": "VentureBeat",
-      "score": 7.7,
-      "published": "2026-09-02T14:00:00+00:00",
-      "fetched_at": "2026-09-02T19:16:09.388939+00:00"
-    },
-    {
       "id": "41516880d55e",
       "title": "How we chose the 2026 Pacesetters",
       "url": "https://www.fastcompany.com/91598294/methodology-pacesetters-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -109,11 +99,29 @@
       "score": 5.5,
       "published": "2026-09-03T11:00:00+00:00",
       "fetched_at": "2026-09-03T19:10:29.796096+00:00"
+    },
+    {
+      "id": "9edbe7504006",
+      "title": "The Agent-Ready Data Platform: The Semantic, Self-Operating Data Plane For Enterprise AI",
+      "url": "https://www.forbes.com/sites/delltechnologies/2026/09/03/the-agent-ready-data-platform-the-semantic-self-operating-data-plane-for-enterprise-ai/",
+      "summary": "Learn how an agent-ready data platform gives enterprise AI secure, trusted access to data while improving retrieval, performance and scalability.",
+      "source": "Forbes Innovation",
+      "score": 7.0,
+      "published": "2026-09-03T20:13:43+00:00",
+      "fetched_at": "2026-09-03T22:00:49.043545+00:00"
+    },
+    {
+      "id": "f0559c67477d",
+      "title": "5 Interesting Learnings from Salesforce at $45 Billion ARR: 14% cRPO Growth, 6% Organic Growth, and $2.53 of EPS From Its Anthropic Stake",
+      "url": "https://www.saastr.com/5-interesting-learnings-from-salesforce-at-45-billion-arr-14-crpo-growth-6-organic-growth-and-2-53-of-eps-from-its-anthropic-stake/",
+      "summary": "Salesforce reported Q2 FY27 on August 26 and the stock went up a stunning 23%. And almost every other B2B stock went up along with it, Is the SaaSpocolypse &#8230; over?\u00a0 Well, it may be past the panic selling of earlier in the year at least at least. Salesforce did re-accelerate on bookings, and that... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-09-03T14:10:04+00:00",
+      "fetched_at": "2026-09-03T22:00:48.010545+00:00"
     }
   ],
   "history": [
-    "https://www.saastr.com/3-humans-20-ai-agents-and-yes-we-still-need-real-b2b-software/",
-    "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
     "https://www.fastcompany.com/91574442/next-enterprise-ai-frontier-is-the-optimizable-company?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/22/reclaiming-control-of-your-enterprise-software-strategy-with-agentic-ai-erp/",
     "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
@@ -361,7 +369,9 @@
     "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
     "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
     "https://www.fastcompany.com/91601432/largest-school-system-u-s-just-banned-ai-students-through-8th-grade?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91600746/how-much-energy-does-agentic-ai-actually-use-one-scientist-tracked-every-prompt-he-sent?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+    "https://www.fastcompany.com/91600746/how-much-energy-does-agentic-ai-actually-use-one-scientist-tracked-every-prompt-he-sent?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.forbes.com/sites/delltechnologies/2026/09/03/the-agent-ready-data-platform-the-semantic-self-operating-data-plane-for-enterprise-ai/",
+    "https://www.saastr.com/5-interesting-learnings-from-salesforce-at-45-billion-arr-14-crpo-growth-6-organic-growth-and-2-53-of-eps-from-its-anthropic-stake/"
   ],
-  "generated_at": "2026-09-03T21:32:57.831653+00:00"
+  "generated_at": "2026-09-03T22:00:52.802133+00:00"
 }

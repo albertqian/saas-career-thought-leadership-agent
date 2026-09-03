@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "856b6bc99691",
-      "title": "Your files stay put: Perplexity\u2019s hybrid AI keeps confidential data off the cloud",
-      "url": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
-      "summary": "Perplexity today launched hybrid compute for its agentic platform, Computer, a system that lets a single AI agent split its work between frontier models running in the cloud and smaller open-weight models running locally on Apple silicon Macs \u2014 routing sensitive data to the local machine so it never leaves the device.The company says it is the first time an AI agent can begin a task in the cloud and dynamically hand off the confidential portions of that same task to a model running on the user&#x27;s own hardware, without restarting the job or losing context. The feature becomes available toda",
-      "source": "VentureBeat",
-      "score": 11.0,
-      "published": "2026-09-01T15:00:00+00:00",
-      "fetched_at": "2026-09-01T19:15:50.540041+00:00"
-    },
-    {
       "id": "052d40858e5e",
       "title": "Forward-deployed engineering is how enterprise AI learns",
       "url": "https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns",
@@ -61,16 +51,6 @@
       "fetched_at": "2026-09-02T19:16:10.784087+00:00"
     },
     {
-      "id": "9e1875dc6007",
-      "title": "Q&A: Serval CEO describes building an \u2018AI-native\u2019 alternative to ServiceNow",
-      "url": "https://www.computerworld.com/article/4216413/qa-serval-ceo-describes-building-an-ai-native-alternative-to-servicenow.html",
-      "summary": "Since launching two years ago, Serval has positioned itself as an \u201cAI-native\u201d alternative to incumbent IT service management (ITSM) software vendors, promising to simplify the automation of helpdesk workflows.\n\n\n\nServal\u2019s ITSM platform includes a workflow builder that uses a natural language interface to build code-based workflows. While vendors such as Freshworks and ServiceNow also have workflow automation tools in their products, Serval claims its approach makes automating a recurring task quicker than completing it manually, resulting in more tickets resolved automatically.\u00a0\n\n\n\nServal \u2014 wh",
-      "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-09-01T11:00:00+00:00",
-      "fetched_at": "2026-09-02T19:16:11.685133+00:00"
-    },
-    {
       "id": "c40d63c4ba37",
       "title": "Shopify is giving its engineers free rein on AI. Here\u2019s why",
       "url": "https://www.fastcompany.com/91600204/shopify-is-giving-its-engineers-free-rein-on-ai-heres-why?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -79,16 +59,6 @@
       "score": 5.5,
       "published": "2026-09-02T04:11:00+00:00",
       "fetched_at": "2026-09-02T19:16:12.688951+00:00"
-    },
-    {
-      "id": "b4bd4af601a4",
-      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
-      "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
-      "summary": "It&#x27;s only the first day of September 2026, but the month and fall season are already off to the races in AI land, as Anthropic has just released its latest and most powerful large language models yet \u2014 Claude Fable 5.1 and Claude Mythos 5.1. The two names refer to the same underlying model. Fable 5.1 is the generally available version, with Anthropic\u2019s production safeguards in place. Mythos 5.1 is available through restricted-access programs for vetted cybersecurity and life-sciences organizations that need capabilities normally constrained by those safeguards.For enterprise buyers, howev",
-      "source": "VentureBeat",
-      "score": 5.5,
-      "published": "2026-09-01T18:41:21+00:00",
-      "fetched_at": "2026-09-02T19:16:09.389291+00:00"
     },
     {
       "id": "241155a602d3",
@@ -101,32 +71,57 @@
       "fetched_at": "2026-09-02T19:16:07.983254+00:00"
     },
     {
-      "id": "fd6ea7e03b18",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-09-01T15:45:51+00:00",
-      "fetched_at": "2026-09-02T19:16:07.983649+00:00"
+      "id": "8b6ecc6665cf",
+      "title": "Adobe\u2019s Slack integration brings AI content creation to workplace chats",
+      "url": "https://www.computerworld.com/article/4218122/adobes-slack-integration-brings-ai-content-creation-to-workplace-chats.html",
+      "summary": "With the launch of a new integration this week, Adobe is making more than 70 Creative Cloud applications available in Slack, promising to bring generative AI (genAI) document creation closer to team conversations.\u00a0\n\n\n\nThe Adobe MCP (model context protocol) integration allows Slack users to access, edit, and create new documents from Adobe creative and productivity tools without switching apps. This includes Photoshop, Premiere, InDesign, Lightroom, and others.\n\n\n\nThe integration should help \u201cimprove efficiency and speed of content creation,\u201d said Irwin Lazar, principal analyst at Metrigy. \u201cWe ",
+      "source": "Computerworld",
+      "score": 9.0,
+      "published": "2026-09-03T11:51:49+00:00",
+      "fetched_at": "2026-09-03T19:10:28.388247+00:00"
     },
     {
-      "id": "57656631fc6d",
-      "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
-      "url": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
-      "summary": "Last-mile delivery company OneRail is launching a new platform with Nvidia to use AI to help retailers make faster and more efficient delivery decisions.",
-      "source": "CNBC Tech",
-      "score": 4.4,
-      "published": "2026-09-01T12:50:57+00:00",
-      "fetched_at": "2026-09-02T19:16:08.766542+00:00"
+      "id": "85cb7c596d40",
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains&#8230;",
+      "source": "MIT Technology Review",
+      "score": 7.2,
+      "published": "2026-09-03T09:30:32+00:00",
+      "fetched_at": "2026-09-03T19:10:25.490593+00:00"
+    },
+    {
+      "id": "2593c61ad91b",
+      "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
+      "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
+      "summary": "Meta is entering the increasingly competitive real-time speech-to-text market with Muse Voice Transcribe, a new audio perception model that combines streaming transcription, endpoint detection and speaker diarization for more than 20 speakers \u2014 at a public API price of just $0.18 per hour of processed audio.Developed by Meta Superintelligence Labs, Muse is designed to process speech while it happens rather than waiting for a recording to finish. Meta\u2019s launch post for Muse Voice Transcribe says the model supports long audio exceeding an hour, seamless multilingual code-switching, language and ",
+      "source": "VentureBeat",
+      "score": 6.6,
+      "published": "2026-09-02T21:32:59+00:00",
+      "fetched_at": "2026-09-03T19:10:25.867185+00:00"
+    },
+    {
+      "id": "b1ca5ae7f3b1",
+      "title": "The largest school system in the U.S. just banned AI for students through 8th grade",
+      "url": "https://www.fastcompany.com/91601432/largest-school-system-u-s-just-banned-ai-students-through-8th-grade?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "New York City&#8217;s public schools will temporarily ban elementary and middle school students from using generative artificial intelligence tools during the upcoming school year, Mayor Zohran Mamdani announced Wednesday.The one-year moratorium \u2014 part of a broader assessment of how children in the nation&#8217;s largest school system interact with the technology \u2014 will apply to &#8220;all software that uses student-facing generative AI&#8221; for students through eighth grade, the mayor&#8217;s office said. It described the policy as the most expansive prohibition in the country.At the same t",
+      "source": "Fast Company Tech",
+      "score": 5.5,
+      "published": "2026-09-03T13:00:58+00:00",
+      "fetched_at": "2026-09-03T19:10:29.795940+00:00"
+    },
+    {
+      "id": "8a1954841286",
+      "title": "How much energy does agentic AI actually use? One scientist tracked every prompt he sent",
+      "url": "https://www.fastcompany.com/91600746/how-much-energy-does-agentic-ai-actually-use-one-scientist-tracked-every-prompt-he-sent?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "As a climate scientist, Zeke Hausfather uses artificial intelligence every day for research and data analysis. But he kept wondering how much energy all that AI use was consuming. So over eight weeks this summer, he tracked the 1,138 prompts he typed into Claude Code and estimated how much electricity they consumed at data centers.\n\n\n\nTech companies have shared little data about the energy use of their AI models. One of the few public estimates comes from Google, which said last year that a typical text prompt on Gemini used just 0.24 watt-hours, less than watching TV for nine seconds. OpenAI&",
+      "source": "Fast Company Tech",
+      "score": 5.5,
+      "published": "2026-09-03T11:00:00+00:00",
+      "fetched_at": "2026-09-03T19:10:29.796096+00:00"
     }
   ],
   "history": [
-    "https://www.fastcompany.com/91575110/thinking-machines-is-coming-for-anthropics-intellectual-vibe?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91576495/archer-and-anduril-thunder-autonomous-attack-aircraft-defense",
-    "https://www.forbes.com/sites/victordey/2026/07/20/former-microsoft-ai-leaders-are-spending-1m-to-prove-ai-can-replace-ceos/",
-    "https://www.saastr.com/the-sub-5-club-the-terminal-state-of-software/",
-    "https://www.saastr.com/what-a-great-vp-sales-does-in-their-first-week-watch-for-it/",
     "https://www.saastr.com/3-humans-20-ai-agents-and-yes-we-still-need-real-b2b-software/",
     "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
     "https://www.fastcompany.com/91574442/next-enterprise-ai-frontier-is-the-optimizable-company?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -371,7 +366,12 @@
     "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
     "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
     "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-    "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html"
+    "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
+    "https://www.computerworld.com/article/4218122/adobes-slack-integration-brings-ai-content-creation-to-workplace-chats.html",
+    "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+    "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
+    "https://www.fastcompany.com/91601432/largest-school-system-u-s-just-banned-ai-students-through-8th-grade?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91600746/how-much-energy-does-agentic-ai-actually-use-one-scientist-tracked-every-prompt-he-sent?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-09-02T19:16:12.967539+00:00"
+  "generated_at": "2026-09-03T19:10:29.998515+00:00"
 }

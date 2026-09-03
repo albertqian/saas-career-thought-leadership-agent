@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "41516880d55e",
-      "title": "How we chose the 2026 Pacesetters",
-      "url": "https://www.fastcompany.com/91598294/methodology-pacesetters-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "To create the 2026 list of Pacesetters, a team of expert&nbsp;Fast Company&nbsp;editors and writers, along with a group of external judges, sought out groundbreaking executives in a variety of industries who are using generative artificial intelligence, autonomous agents, and machine learning to find new ways to inspire and retain their customers.\n\n\n\nBecause Pacesetters\u2014a new recognition program presented by Tata Consultancy Services\u2014is a brand-new program, honorees for this initial class were selected from a combination of applicants and executives whose innovative work was nominated by Fast ",
-      "source": "Fast Company Tech",
-      "score": 7.7,
-      "published": "2026-09-02T11:00:00+00:00",
-      "fetched_at": "2026-09-02T19:16:12.688593+00:00"
-    },
-    {
       "id": "c3c0b030547d",
       "title": "How AWS has embraced AI agents\u2014for itself and its clients",
       "url": "https://www.fastcompany.com/91599506/ruba-borno-pacesetters-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -119,10 +109,19 @@
       "score": 4.4,
       "published": "2026-09-03T14:10:04+00:00",
       "fetched_at": "2026-09-03T22:00:48.010545+00:00"
+    },
+    {
+      "id": "b68be3b9ba92",
+      "title": "Safety experts warn novel design of OpenAI\u2019s Astra model could make future AI agents harder to monitor",
+      "url": "https://fortune.com/2026/09/03/reports-openais-astra-model-uses-a-new-more-efficient-ai-architecture-alarms-ai-safety-experts-who-worry-the-method-makes-models-harder-to-control/",
+      "summary": "OpenAI\u2019s chief scientist says the company is committed to ensuring its models\u2019 reasoning remains interpretable.",
+      "source": "Fortune",
+      "score": 4.0,
+      "published": "2026-09-03T17:51:23+00:00",
+      "fetched_at": "2026-09-03T22:25:27.202479+00:00"
     }
   ],
   "history": [
-    "https://www.fastcompany.com/91574442/next-enterprise-ai-frontier-is-the-optimizable-company?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/22/reclaiming-control-of-your-enterprise-software-strategy-with-agentic-ai-erp/",
     "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
     "https://www.fastcompany.com/91574416/the-coming-burnout-from-managing-ai-agents-technology-ai-agents-burnout?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -371,7 +370,8 @@
     "https://www.fastcompany.com/91601432/largest-school-system-u-s-just-banned-ai-students-through-8th-grade?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91600746/how-much-energy-does-agentic-ai-actually-use-one-scientist-tracked-every-prompt-he-sent?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.forbes.com/sites/delltechnologies/2026/09/03/the-agent-ready-data-platform-the-semantic-self-operating-data-plane-for-enterprise-ai/",
-    "https://www.saastr.com/5-interesting-learnings-from-salesforce-at-45-billion-arr-14-crpo-growth-6-organic-growth-and-2-53-of-eps-from-its-anthropic-stake/"
+    "https://www.saastr.com/5-interesting-learnings-from-salesforce-at-45-billion-arr-14-crpo-growth-6-organic-growth-and-2-53-of-eps-from-its-anthropic-stake/",
+    "https://fortune.com/2026/09/03/reports-openais-astra-model-uses-a-new-more-efficient-ai-architecture-alarms-ai-safety-experts-who-worry-the-method-makes-models-harder-to-control/"
   ],
-  "generated_at": "2026-09-03T22:00:52.802133+00:00"
+  "generated_at": "2026-09-03T22:25:27.727294+00:00"
 }

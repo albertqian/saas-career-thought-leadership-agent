@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "c3c0b030547d",
-      "title": "How AWS has embraced AI agents\u2014for itself and its clients",
-      "url": "https://www.fastcompany.com/91599506/ruba-borno-pacesetters-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Ruba Borno leads AWS&#8217;s Global Specialists and Partners organization, working with companies that use Amazon Web Services to turn AI advances into business impact.\n\n\n\nTo help make the case, she&#8217;s also turned her own AWS Marketplace engineering organization into a unit where humans define the requirements and artificial intelligence generates the code, backed by autonomous agents that triage incidents and deliver fixes without waiting for a prompt. As a result, the group increased its shipping throughput by 88%, improved time to production by 21%, and maintained steady rollback rates",
-      "source": "Fast Company Tech",
-      "score": 7.7,
-      "published": "2026-09-02T11:00:00+00:00",
-      "fetched_at": "2026-09-02T19:16:12.688730+00:00"
-    },
-    {
       "id": "b3faec9b724f",
       "title": "Genesys Is Moving Beyond The Contact Center To Orchestrate Agentic AI",
       "url": "https://www.forbes.com/sites/victordey/2026/09/02/genesys-is-moving-beyond-the-contact-center-to-orchestrate-agentic-ai/",
@@ -119,10 +109,19 @@
       "score": 4.0,
       "published": "2026-09-03T17:51:23+00:00",
       "fetched_at": "2026-09-03T22:25:27.202479+00:00"
+    },
+    {
+      "id": "6f4ed531b15c",
+      "title": "Why is Apple so quiet about what it offers the enterprise?",
+      "url": "https://www.computerworld.com/article/4218195/why-is-apple-so-quiet-about-what-it-offers-the-enterprise.html",
+      "summary": "I\u2019ve been writing about Apple and\u00a0how it benefits the enterprise\u00a0for so long it\u2019s easy to forget that the company doesn\u2019t\u00a0make enough noise about its accomplishments.\u00a0\n\n\n\nSure, it has pursued and won the argument about Total Cost of Ownership, proving that while initial costs might be higher, dollar for dollar Macs are a far more cost-efficient platform, particularly when it comes to product reliability and tech support.\u00a0\n\n\n\nApple already offers so much\n\n\n\nApple has also introduced extensive tools and APIs to help manage enterprise Macs, spawning a wide ecosystem of providers \u2014 most visibly, J",
+      "source": "Computerworld",
+      "score": 4.0,
+      "published": "2026-09-03T15:23:35+00:00",
+      "fetched_at": "2026-09-03T22:28:04.520094+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/22/reclaiming-control-of-your-enterprise-software-strategy-with-agentic-ai-erp/",
     "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
     "https://www.fastcompany.com/91574416/the-coming-burnout-from-managing-ai-agents-technology-ai-agents-burnout?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
@@ -371,7 +370,8 @@
     "https://www.fastcompany.com/91600746/how-much-energy-does-agentic-ai-actually-use-one-scientist-tracked-every-prompt-he-sent?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.forbes.com/sites/delltechnologies/2026/09/03/the-agent-ready-data-platform-the-semantic-self-operating-data-plane-for-enterprise-ai/",
     "https://www.saastr.com/5-interesting-learnings-from-salesforce-at-45-billion-arr-14-crpo-growth-6-organic-growth-and-2-53-of-eps-from-its-anthropic-stake/",
-    "https://fortune.com/2026/09/03/reports-openais-astra-model-uses-a-new-more-efficient-ai-architecture-alarms-ai-safety-experts-who-worry-the-method-makes-models-harder-to-control/"
+    "https://fortune.com/2026/09/03/reports-openais-astra-model-uses-a-new-more-efficient-ai-architecture-alarms-ai-safety-experts-who-worry-the-method-makes-models-harder-to-control/",
+    "https://www.computerworld.com/article/4218195/why-is-apple-so-quiet-about-what-it-offers-the-enterprise.html"
   ],
-  "generated_at": "2026-09-03T22:25:27.727294+00:00"
+  "generated_at": "2026-09-03T22:28:06.629533+00:00"
 }

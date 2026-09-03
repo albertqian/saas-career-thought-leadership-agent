@@ -31,16 +31,6 @@
       "fetched_at": "2026-09-02T19:16:12.688730+00:00"
     },
     {
-      "id": "af44748d94e2",
-      "title": "Frontier models can recover up to 65% of facts they can't directly recall \u2014 just by thinking longer",
-      "url": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
-      "summary": "When large language models (LLMs) hallucinate, developers typically assume the model lacks the required facts. Engineering teams diagnose the error as missing knowledge. The standard response is to increase model size, expand training data, or build complex retrieval architectures.A new study by researchers at Google Research and Technion demonstrates that the knowledge is often not missing. The model has the information encoded parametrically but fails to surface it during generation.\u00a0Their experiments show that frontier models like GPT-5 and Gemini-3 encode 95-98% of tested facts. This indic",
-      "source": "VentureBeat",
-      "score": 7.7,
-      "published": "2026-09-01T19:20:09+00:00",
-      "fetched_at": "2026-09-02T19:16:09.389040+00:00"
-    },
-    {
       "id": "b3faec9b724f",
       "title": "Genesys Is Moving Beyond The Contact Center To Orchestrate Agentic AI",
       "url": "https://www.forbes.com/sites/victordey/2026/09/02/genesys-is-moving-beyond-the-contact-center-to-orchestrate-agentic-ai/",
@@ -373,5 +363,5 @@
     "https://www.fastcompany.com/91601432/largest-school-system-u-s-just-banned-ai-students-through-8th-grade?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91600746/how-much-energy-does-agentic-ai-actually-use-one-scientist-tracked-every-prompt-he-sent?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-09-03T19:10:29.998515+00:00"
+  "generated_at": "2026-09-03T21:32:57.831653+00:00"
 }

@@ -1,36 +1,6 @@
 {
   "queue": [
     {
-      "id": "b3faec9b724f",
-      "title": "Genesys Is Moving Beyond The Contact Center To Orchestrate Agentic AI",
-      "url": "https://www.forbes.com/sites/victordey/2026/09/02/genesys-is-moving-beyond-the-contact-center-to-orchestrate-agentic-ai/",
-      "summary": "Genesys CEO Tony Bates sees AI orchestration as CX's next battleground as Genesys Cloud races Salesforce and NICE to control the agentic AI customer journey.",
-      "source": "Forbes Innovation",
-      "score": 7.0,
-      "published": "2026-09-02T15:08:50+00:00",
-      "fetched_at": "2026-09-02T19:16:10.784087+00:00"
-    },
-    {
-      "id": "c40d63c4ba37",
-      "title": "Shopify is giving its engineers free rein on AI. Here\u2019s why",
-      "url": "https://www.fastcompany.com/91600204/shopify-is-giving-its-engineers-free-rein-on-ai-heres-why?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "For decades, e-commerce rewarded the biggest brands that could buy their way to the top of search results. AI is changing that. Shopify COO Jess Hertz shares what Shopify&#8217;s data reveals about the agentic shopping revolution in real time, and how the company is building the infrastructure layer that makes products discoverable and purchasable by AI. Plus, why Shopify&#8217;s engineers can spend freely on AI tokens while the rest of the business world agonizes over ROI, and what it looks like when a company powering over 14% of online shopping decides to win the future or die trying.\n\n\n\nTh",
-      "source": "Fast Company Tech",
-      "score": 5.5,
-      "published": "2026-09-02T04:11:00+00:00",
-      "fetched_at": "2026-09-02T19:16:12.688951+00:00"
-    },
-    {
-      "id": "241155a602d3",
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-09-02T17:09:06+00:00",
-      "fetched_at": "2026-09-02T19:16:07.983254+00:00"
-    },
-    {
       "id": "8b6ecc6665cf",
       "title": "Adobe\u2019s Slack integration brings AI content creation to workplace chats",
       "url": "https://www.computerworld.com/article/4218122/adobes-slack-integration-brings-ai-content-creation-to-workplace-chats.html",
@@ -119,12 +89,39 @@
       "score": 4.0,
       "published": "2026-09-03T15:23:35+00:00",
       "fetched_at": "2026-09-03T22:28:04.520094+00:00"
+    },
+    {
+      "id": "97b50c3282e5",
+      "title": "The Data Debt Ceiling: Why Most Enterprise AI Programs Stall Before They Scale",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/04/the-data-debt-ceiling-why-most-enterprise-ai-programs-stall-before-they-scale/",
+      "summary": "Data debt is the accumulated cost of every shortcut ever taken in data modeling, integration, quality, lineage and access.",
+      "source": "Forbes Innovation",
+      "score": 7.0,
+      "published": "2026-09-04T13:30:00+00:00",
+      "fetched_at": "2026-09-04T18:53:18.819765+00:00"
+    },
+    {
+      "id": "c540530472dc",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
+      "source": "MIT Technology Review",
+      "score": 6.0,
+      "published": "2026-09-04T18:39:19+00:00",
+      "fetched_at": "2026-09-04T18:53:09.707307+00:00"
+    },
+    {
+      "id": "056dfd8bc0ec",
+      "title": "Nvidia-Hugging Face deal could require an enterprise AI rethink",
+      "url": "https://www.computerworld.com/article/4218826/nvidia-hugging-face-deal-could-require-an-enterprise-ai-rethink.html",
+      "summary": "IT industry experts and analysts are still trying to piece together Nvidia\u2019s surprise plan to pay $12.9 billion for open-source AI company Hugging Face.\n\n\n\nNvidia dominates AI with its GPUs, and the company generates billions of dollars in revenue through a proprietary approach to the fast-moving technology. Hugging Face, on the other hand, hosts open models and has been a neutral player between chip vendors and model labs.\n\n\n\n\u201cThis is about Nvidia having more say in how the stack gets built,\u201d said Stephanie Walter, analyst at Hyperframe Research.\n\n\n\nHugging Face is wildly popular with develop",
+      "source": "Computerworld",
+      "score": 6.0,
+      "published": "2026-09-04T16:03:04+00:00",
+      "fetched_at": "2026-09-04T18:53:20.854313+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
-    "https://www.fastcompany.com/91574416/the-coming-burnout-from-managing-ai-agents-technology-ai-agents-burnout?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
     "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
     "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/22/why-autonomous-ai-requires-a-new-operational-foundation-grounded-in-trust/",
@@ -371,7 +368,10 @@
     "https://www.forbes.com/sites/delltechnologies/2026/09/03/the-agent-ready-data-platform-the-semantic-self-operating-data-plane-for-enterprise-ai/",
     "https://www.saastr.com/5-interesting-learnings-from-salesforce-at-45-billion-arr-14-crpo-growth-6-organic-growth-and-2-53-of-eps-from-its-anthropic-stake/",
     "https://fortune.com/2026/09/03/reports-openais-astra-model-uses-a-new-more-efficient-ai-architecture-alarms-ai-safety-experts-who-worry-the-method-makes-models-harder-to-control/",
-    "https://www.computerworld.com/article/4218195/why-is-apple-so-quiet-about-what-it-offers-the-enterprise.html"
+    "https://www.computerworld.com/article/4218195/why-is-apple-so-quiet-about-what-it-offers-the-enterprise.html",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/09/04/the-data-debt-ceiling-why-most-enterprise-ai-programs-stall-before-they-scale/",
+    "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "https://www.computerworld.com/article/4218826/nvidia-hugging-face-deal-could-require-an-enterprise-ai-rethink.html"
   ],
-  "generated_at": "2026-09-03T22:28:06.629533+00:00"
+  "generated_at": "2026-09-04T18:53:23.346014+00:00"
 }

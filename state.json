@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "8b6ecc6665cf",
-      "title": "Adobe\u2019s Slack integration brings AI content creation to workplace chats",
-      "url": "https://www.computerworld.com/article/4218122/adobes-slack-integration-brings-ai-content-creation-to-workplace-chats.html",
-      "summary": "With the launch of a new integration this week, Adobe is making more than 70 Creative Cloud applications available in Slack, promising to bring generative AI (genAI) document creation closer to team conversations.\u00a0\n\n\n\nThe Adobe MCP (model context protocol) integration allows Slack users to access, edit, and create new documents from Adobe creative and productivity tools without switching apps. This includes Photoshop, Premiere, InDesign, Lightroom, and others.\n\n\n\nThe integration should help \u201cimprove efficiency and speed of content creation,\u201d said Irwin Lazar, principal analyst at Metrigy. \u201cWe ",
-      "source": "Computerworld",
-      "score": 9.0,
-      "published": "2026-09-03T11:51:49+00:00",
-      "fetched_at": "2026-09-03T19:10:28.388247+00:00"
+      "id": "644eaffc3316",
+      "title": "Beyond the SaaSpocalypse: The Winners and Losers of 2026 (So Far)",
+      "url": "https://www.saastr.com/beyond-the-saaspocalypse-the-winners-and-losers-of-2026-so-far/",
+      "summary": "Eight months ago the market decided that AI was going to eat B2B software. Roughly $2 trillion of market cap came out of the group. Then it came back. The recovery at the index level is close to complete. The iShares Expanded Tech-Software ETF (IGV) closed September 3 at $106.81, up about 40% from its... Continue Reading",
+      "source": "SaaStr",
+      "score": 8.8,
+      "published": "2026-09-06T14:10:46+00:00",
+      "fetched_at": "2026-09-07T19:40:54.878032+00:00"
     },
     {
-      "id": "85cb7c596d40",
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains&#8230;",
-      "source": "MIT Technology Review",
-      "score": 7.2,
-      "published": "2026-09-03T09:30:32+00:00",
-      "fetched_at": "2026-09-03T19:10:25.490593+00:00"
-    },
-    {
-      "id": "2593c61ad91b",
-      "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
-      "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
-      "summary": "Meta is entering the increasingly competitive real-time speech-to-text market with Muse Voice Transcribe, a new audio perception model that combines streaming transcription, endpoint detection and speaker diarization for more than 20 speakers \u2014 at a public API price of just $0.18 per hour of processed audio.Developed by Meta Superintelligence Labs, Muse is designed to process speech while it happens rather than waiting for a recording to finish. Meta\u2019s launch post for Muse Voice Transcribe says the model supports long audio exceeding an hour, seamless multilingual code-switching, language and ",
-      "source": "VentureBeat",
-      "score": 6.6,
-      "published": "2026-09-02T21:32:59+00:00",
-      "fetched_at": "2026-09-03T19:10:25.867185+00:00"
-    },
-    {
-      "id": "b1ca5ae7f3b1",
-      "title": "The largest school system in the U.S. just banned AI for students through 8th grade",
-      "url": "https://www.fastcompany.com/91601432/largest-school-system-u-s-just-banned-ai-students-through-8th-grade?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "New York City&#8217;s public schools will temporarily ban elementary and middle school students from using generative artificial intelligence tools during the upcoming school year, Mayor Zohran Mamdani announced Wednesday.The one-year moratorium \u2014 part of a broader assessment of how children in the nation&#8217;s largest school system interact with the technology \u2014 will apply to &#8220;all software that uses student-facing generative AI&#8221; for students through eighth grade, the mayor&#8217;s office said. It described the policy as the most expansive prohibition in the country.At the same t",
-      "source": "Fast Company Tech",
-      "score": 5.5,
-      "published": "2026-09-03T13:00:58+00:00",
-      "fetched_at": "2026-09-03T19:10:29.795940+00:00"
-    },
-    {
-      "id": "8a1954841286",
-      "title": "How much energy does agentic AI actually use? One scientist tracked every prompt he sent",
-      "url": "https://www.fastcompany.com/91600746/how-much-energy-does-agentic-ai-actually-use-one-scientist-tracked-every-prompt-he-sent?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "As a climate scientist, Zeke Hausfather uses artificial intelligence every day for research and data analysis. But he kept wondering how much energy all that AI use was consuming. So over eight weeks this summer, he tracked the 1,138 prompts he typed into Claude Code and estimated how much electricity they consumed at data centers.\n\n\n\nTech companies have shared little data about the energy use of their AI models. One of the few public estimates comes from Google, which said last year that a typical text prompt on Gemini used just 0.24 watt-hours, less than watching TV for nine seconds. OpenAI&",
-      "source": "Fast Company Tech",
-      "score": 5.5,
-      "published": "2026-09-03T11:00:00+00:00",
-      "fetched_at": "2026-09-03T19:10:29.796096+00:00"
-    },
-    {
-      "id": "9edbe7504006",
-      "title": "The Agent-Ready Data Platform: The Semantic, Self-Operating Data Plane For Enterprise AI",
-      "url": "https://www.forbes.com/sites/delltechnologies/2026/09/03/the-agent-ready-data-platform-the-semantic-self-operating-data-plane-for-enterprise-ai/",
-      "summary": "Learn how an agent-ready data platform gives enterprise AI secure, trusted access to data while improving retrieval, performance and scalability.",
-      "source": "Forbes Innovation",
-      "score": 7.0,
-      "published": "2026-09-03T20:13:43+00:00",
-      "fetched_at": "2026-09-03T22:00:49.043545+00:00"
-    },
-    {
-      "id": "f0559c67477d",
-      "title": "5 Interesting Learnings from Salesforce at $45 Billion ARR: 14% cRPO Growth, 6% Organic Growth, and $2.53 of EPS From Its Anthropic Stake",
-      "url": "https://www.saastr.com/5-interesting-learnings-from-salesforce-at-45-billion-arr-14-crpo-growth-6-organic-growth-and-2-53-of-eps-from-its-anthropic-stake/",
-      "summary": "Salesforce reported Q2 FY27 on August 26 and the stock went up a stunning 23%. And almost every other B2B stock went up along with it, Is the SaaSpocolypse &#8230; over?\u00a0 Well, it may be past the panic selling of earlier in the year at least at least. Salesforce did re-accelerate on bookings, and that... Continue Reading",
+      "id": "b100679ff457",
+      "title": "Founders Are Coming Back to Run Their Pre-AI B2B Companies. Because It\u2019s The Last Stand.",
+      "url": "https://www.saastr.com/founders-are-coming-back-to-run-their-pre-ai-b2b-companies-because-its-the-last-stand/",
+      "summary": "I&#8217;m seeing more and more founders come back to run their pre-AI B2B companies. Not because the board panicked over a bad quarter. Because it&#8217;s The Last Stand. The pattern shows up at companies big enough to have a base that sustains them and not agentic enough to grow. In my own portfolio and in... Continue Reading",
       "source": "SaaStr",
       "score": 4.4,
-      "published": "2026-09-03T14:10:04+00:00",
-      "fetched_at": "2026-09-03T22:00:48.010545+00:00"
+      "published": "2026-09-07T14:10:48+00:00",
+      "fetched_at": "2026-09-07T19:40:54.877875+00:00"
     },
     {
-      "id": "b68be3b9ba92",
-      "title": "Safety experts warn novel design of OpenAI\u2019s Astra model could make future AI agents harder to monitor",
-      "url": "https://fortune.com/2026/09/03/reports-openais-astra-model-uses-a-new-more-efficient-ai-architecture-alarms-ai-safety-experts-who-worry-the-method-makes-models-harder-to-control/",
-      "summary": "OpenAI\u2019s chief scientist says the company is committed to ensuring its models\u2019 reasoning remains interpretable.",
-      "source": "Fortune",
+      "id": "3681a7935100",
+      "title": "Dear SaaStr:  As a Founder, What Will I Learn Getting More Involved in Sales?",
+      "url": "https://www.saastr.com/dear-saastr-as-a-founder-what-will-i-learn-getting-more-involved-in-sales/",
+      "summary": "Dear SaaStr: I&#8217;m Pretty Hands Off on the Sales Team.\u00a0 What Will I Learn Getting More Involved in Sales? The most important thing that you will learn is\u00a0how businesses truly scale on the revenue side. You may think you know this intuitively, but you don&#8217;t: You may think sales organizations magically create revenue.\u00a0They don&#8217;t. They... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-09-07T10:00:00+00:00",
+      "fetched_at": "2026-09-07T19:40:54.877956+00:00"
+    },
+    {
+      "id": "edbb972b73f0",
+      "title": "\u2018Model fatigue\u2019 sets in as AI labs race to roll out new versions at frenetic pace",
+      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+      "summary": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face.",
+      "source": "CNBC Economy",
       "score": 4.0,
-      "published": "2026-09-03T17:51:23+00:00",
-      "fetched_at": "2026-09-03T22:25:27.202479+00:00"
+      "published": "2026-09-06T12:13:49+00:00",
+      "fetched_at": "2026-09-07T19:40:53.732542+00:00"
     },
     {
-      "id": "6f4ed531b15c",
-      "title": "Why is Apple so quiet about what it offers the enterprise?",
-      "url": "https://www.computerworld.com/article/4218195/why-is-apple-so-quiet-about-what-it-offers-the-enterprise.html",
-      "summary": "I\u2019ve been writing about Apple and\u00a0how it benefits the enterprise\u00a0for so long it\u2019s easy to forget that the company doesn\u2019t\u00a0make enough noise about its accomplishments.\u00a0\n\n\n\nSure, it has pursued and won the argument about Total Cost of Ownership, proving that while initial costs might be higher, dollar for dollar Macs are a far more cost-efficient platform, particularly when it comes to product reliability and tech support.\u00a0\n\n\n\nApple already offers so much\n\n\n\nApple has also introduced extensive tools and APIs to help manage enterprise Macs, spawning a wide ecosystem of providers \u2014 most visibly, J",
-      "source": "Computerworld",
-      "score": 4.0,
-      "published": "2026-09-03T15:23:35+00:00",
-      "fetched_at": "2026-09-03T22:28:04.520094+00:00"
+      "id": "a5b139afc5ce",
+      "title": "Another OpenAI agent swarm surfaces",
+      "url": "https://www.therundown.ai/articles/another-openai-agent-swarm-surfaces",
+      "summary": "PLUS: Build a Lindy Agent that never drops a follow-up",
+      "source": "The Rundown AI",
+      "score": 3.9,
+      "published": "2026-09-07T10:00:00+00:00",
+      "fetched_at": "2026-09-07T19:40:54.512118+00:00"
     },
     {
-      "id": "97b50c3282e5",
-      "title": "The Data Debt Ceiling: Why Most Enterprise AI Programs Stall Before They Scale",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/04/the-data-debt-ceiling-why-most-enterprise-ai-programs-stall-before-they-scale/",
-      "summary": "Data debt is the accumulated cost of every shortcut ever taken in data modeling, integration, quality, lineage and access.",
-      "source": "Forbes Innovation",
-      "score": 7.0,
-      "published": "2026-09-04T13:30:00+00:00",
-      "fetched_at": "2026-09-04T18:53:18.819765+00:00"
-    },
-    {
-      "id": "c540530472dc",
-      "title": "Architecting memory and storage in the AI era",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
+      "id": "31c68cc130b0",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;",
       "source": "MIT Technology Review",
-      "score": 6.0,
-      "published": "2026-09-04T18:39:19+00:00",
-      "fetched_at": "2026-09-04T18:53:09.707307+00:00"
+      "score": 3.6,
+      "published": "2026-09-07T12:10:00+00:00",
+      "fetched_at": "2026-09-07T19:40:54.053446+00:00"
     },
     {
-      "id": "056dfd8bc0ec",
-      "title": "Nvidia-Hugging Face deal could require an enterprise AI rethink",
-      "url": "https://www.computerworld.com/article/4218826/nvidia-hugging-face-deal-could-require-an-enterprise-ai-rethink.html",
-      "summary": "IT industry experts and analysts are still trying to piece together Nvidia\u2019s surprise plan to pay $12.9 billion for open-source AI company Hugging Face.\n\n\n\nNvidia dominates AI with its GPUs, and the company generates billions of dollars in revenue through a proprietary approach to the fast-moving technology. Hugging Face, on the other hand, hosts open models and has been a neutral player between chip vendors and model labs.\n\n\n\n\u201cThis is about Nvidia having more say in how the stack gets built,\u201d said Stephanie Walter, analyst at Hyperframe Research.\n\n\n\nHugging Face is wildly popular with develop",
+      "id": "55c70acd83ef",
+      "title": "OpenAI\u2019s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks.",
+      "url": "https://fortune.com/2026/09/07/openai-ai-agents-german-wiki-ran-their-own-message-board/",
+      "summary": "OpenAI acknowledged its AI agents used a German wiki to coordinate, renewing questions about whether the company is transparent about potentially dangerous AI activity.",
+      "source": "Fortune",
+      "score": 3.0,
+      "published": "2026-09-07T18:55:42+00:00",
+      "fetched_at": "2026-09-07T19:40:59.093808+00:00"
+    },
+    {
+      "id": "06ad01b89dd7",
+      "title": "Sam Altman calls GPT-6 Astra rollout \u2018messy\u2019 as enterprise users wait for access",
+      "url": "https://www.computerworld.com/article/4219264/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access-2.html",
+      "summary": "OpenAI\u2019s rollout of its GPT-6 Astra model ran into early access issues after paying ChatGPT users were unable to use the system shortly after launch, prompting CEO Sam Altman to apologize and say the release had been \u201cmessy.\u201d\n\n\n\n\u201cFirst, sorry for the messy rollout,\u201d OpenAI CEO Sam Altman acknowledged the issue in a\u00a0post\u00a0on X. \u201cSecond, when we screw up, we try to make it right.\u201d\n\n\n\nOpenAI had said GPT-6 Astra would be rolled out across ChatGPT tiers and APIs, positioning it as its most advanced model to date. However, the initial rollout did not translate into immediate access for all users, hi",
       "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-09-04T16:03:04+00:00",
-      "fetched_at": "2026-09-04T18:53:20.854313+00:00"
+      "score": 3.0,
+      "published": "2026-09-07T12:20:24+00:00",
+      "fetched_at": "2026-09-07T19:40:57.637135+00:00"
+    },
+    {
+      "id": "530114fa54c2",
+      "title": "Skin cancer detection tools powered by AI are improving. Not everyone is benefitting",
+      "url": "https://www.fastcompany.com/91601580/skin-cancer-detection-tools-powered-by-ai-are-improving-not-everyone-is-benefitting?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Imagine you\u2019re getting out of the shower one morning and you notice a mole on your thigh that you\u2019ve never seen before. It\u2019s reddish brown, bumpy and surprisingly large. Is it a benign mole, or is it melanoma?\n\n\n\nA slew of new artificial intelligence tools claim they can help you figure it out. Some are smartphone apps that anyone can download to scan their skin at home, while others are software programs designed to be used directly by clinicians in a doctor\u2019s office.\n\n\n\nAs a computer engineer studying how tools like these perform in real-world clinical settings, I know that finding a way to ",
+      "source": "Fast Company Tech",
+      "score": 2.2,
+      "published": "2026-09-06T11:00:00+00:00",
+      "fetched_at": "2026-09-07T19:40:59.244179+00:00"
+    },
+    {
+      "id": "2c3e9b13ccb9",
+      "title": "Trump kills $45 million support for Namibia HIV program",
+      "url": "https://fortune.com/2026/09/07/trump-kills-45-million-support-for-namibia-hiv-program/",
+      "summary": "The withdrawal of funding was expected, but also follows Namibia\u2019s rejection of proposed provisions for sharing health data and biological specimens.",
+      "source": "Fortune",
+      "score": 2.0,
+      "published": "2026-09-07T17:43:30+00:00",
+      "fetched_at": "2026-09-07T19:40:59.093977+00:00"
+    },
+    {
+      "id": "a80e4be0451e",
+      "title": "9 startups helping homebuyers and sellers save money on traditional real estate agents",
+      "url": "https://www.businessinsider.com/startups-save-home-sellers-money-on-commissions-avoid-traditional-agents-2025-5",
+      "summary": "New platforms are disrupting real estate by providing homebuyers and sellers options, sometimes helping them avoid real estate agents entirely.",
+      "source": "Business Insider",
+      "score": 2.0,
+      "published": "2026-09-07T14:27:01+00:00",
+      "fetched_at": "2026-09-07T19:40:58.880942+00:00"
+    },
+    {
+      "id": "1783c054b1bd",
+      "title": "ChatGPT Sites makes building a website feel like making a Google Doc",
+      "url": "https://www.fastcompany.com/91602695/chatgpt-sites-makes-building-a-website-feel-like-making-a-google-doc?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "This article is republished with permission from Wonder Tools, a newsletter that helps you discover the most useful sites and apps.\n\n\n\nChatGPT Sites is one of the best tools I&#8217;ve tried for making simple websites. I once spent hours drafting HTML by hand. I struggled with complex site-building software called Dreamweaver. Now making a good-looking site is as easy as creating a Google Doc.\n\n\n\nDescribe what you\u2019re envisioning in a few sentences. Upload images or screenshots if you have a design in mind. Explain any special functionality you want, like linked buttons, embedded visuals, or in",
+      "source": "Fast Company Tech",
+      "score": 1.1,
+      "published": "2026-09-07T04:14:00+00:00",
+      "fetched_at": "2026-09-07T19:40:59.244055+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
-    "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/22/why-autonomous-ai-requires-a-new-operational-foundation-grounded-in-trust/",
-    "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-    "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-    "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-    "https://www.fastcompany.com/91575942/ai-robot-byline-quietly-disappearing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-    "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-    "https://www.saastr.com/we-peaked-at-30-ai-agents-now-were-coming-back-down-to-20-heres-what-consolidation-actually-looks-like-the-agents-011-live/",
-    "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html",
-    "https://www.zdnet.com/article/types-of-people-who-will-excel-in-ai-agent-era-according-to-tech-leaders/",
     "https://www.zdnet.com/article/openai-hugging-face-attack-agent/",
     "https://www.oreilly.com/radar/the-economics-of-agentic-ai-engineering-for-imperfection/",
     "https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time",
@@ -371,7 +359,19 @@
     "https://www.computerworld.com/article/4218195/why-is-apple-so-quiet-about-what-it-offers-the-enterprise.html",
     "https://www.forbes.com/councils/forbestechcouncil/2026/09/04/the-data-debt-ceiling-why-most-enterprise-ai-programs-stall-before-they-scale/",
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "https://www.computerworld.com/article/4218826/nvidia-hugging-face-deal-could-require-an-enterprise-ai-rethink.html"
+    "https://www.computerworld.com/article/4218826/nvidia-hugging-face-deal-could-require-an-enterprise-ai-rethink.html",
+    "https://www.saastr.com/beyond-the-saaspocalypse-the-winners-and-losers-of-2026-so-far/",
+    "https://www.saastr.com/founders-are-coming-back-to-run-their-pre-ai-b2b-companies-because-its-the-last-stand/",
+    "https://www.saastr.com/dear-saastr-as-a-founder-what-will-i-learn-getting-more-involved-in-sales/",
+    "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+    "https://www.therundown.ai/articles/another-openai-agent-swarm-surfaces",
+    "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+    "https://fortune.com/2026/09/07/openai-ai-agents-german-wiki-ran-their-own-message-board/",
+    "https://www.computerworld.com/article/4219264/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access-2.html",
+    "https://www.fastcompany.com/91601580/skin-cancer-detection-tools-powered-by-ai-are-improving-not-everyone-is-benefitting?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://fortune.com/2026/09/07/trump-kills-45-million-support-for-namibia-hiv-program/",
+    "https://www.businessinsider.com/startups-save-home-sellers-money-on-commissions-avoid-traditional-agents-2025-5",
+    "https://www.fastcompany.com/91602695/chatgpt-sites-makes-building-a-website-feel-like-making-a-google-doc?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-09-04T18:53:23.346014+00:00"
+  "generated_at": "2026-09-07T19:40:59.432975+00:00"
 }

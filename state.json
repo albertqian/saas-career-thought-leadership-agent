@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "644eaffc3316",
-      "title": "Beyond the SaaSpocalypse: The Winners and Losers of 2026 (So Far)",
-      "url": "https://www.saastr.com/beyond-the-saaspocalypse-the-winners-and-losers-of-2026-so-far/",
-      "summary": "Eight months ago the market decided that AI was going to eat B2B software. Roughly $2 trillion of market cap came out of the group. Then it came back. The recovery at the index level is close to complete. The iShares Expanded Tech-Software ETF (IGV) closed September 3 at $106.81, up about 40% from its... Continue Reading",
-      "source": "SaaStr",
-      "score": 8.8,
-      "published": "2026-09-06T14:10:46+00:00",
-      "fetched_at": "2026-09-07T19:40:54.878032+00:00"
-    },
-    {
       "id": "b100679ff457",
       "title": "Founders Are Coming Back to Run Their Pre-AI B2B Companies. Because It\u2019s The Last Stand.",
       "url": "https://www.saastr.com/founders-are-coming-back-to-run-their-pre-ai-b2b-companies-because-its-the-last-stand/",
@@ -29,16 +19,6 @@
       "score": 4.4,
       "published": "2026-09-07T10:00:00+00:00",
       "fetched_at": "2026-09-07T19:40:54.877956+00:00"
-    },
-    {
-      "id": "edbb972b73f0",
-      "title": "\u2018Model fatigue\u2019 sets in as AI labs race to roll out new versions at frenetic pace",
-      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-      "summary": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face.",
-      "source": "CNBC Economy",
-      "score": 4.0,
-      "published": "2026-09-06T12:13:49+00:00",
-      "fetched_at": "2026-09-07T19:40:53.732542+00:00"
     },
     {
       "id": "a5b139afc5ce",
@@ -81,16 +61,6 @@
       "fetched_at": "2026-09-07T19:40:57.637135+00:00"
     },
     {
-      "id": "530114fa54c2",
-      "title": "Skin cancer detection tools powered by AI are improving. Not everyone is benefitting",
-      "url": "https://www.fastcompany.com/91601580/skin-cancer-detection-tools-powered-by-ai-are-improving-not-everyone-is-benefitting?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Imagine you\u2019re getting out of the shower one morning and you notice a mole on your thigh that you\u2019ve never seen before. It\u2019s reddish brown, bumpy and surprisingly large. Is it a benign mole, or is it melanoma?\n\n\n\nA slew of new artificial intelligence tools claim they can help you figure it out. Some are smartphone apps that anyone can download to scan their skin at home, while others are software programs designed to be used directly by clinicians in a doctor\u2019s office.\n\n\n\nAs a computer engineer studying how tools like these perform in real-world clinical settings, I know that finding a way to ",
-      "source": "Fast Company Tech",
-      "score": 2.2,
-      "published": "2026-09-06T11:00:00+00:00",
-      "fetched_at": "2026-09-07T19:40:59.244179+00:00"
-    },
-    {
       "id": "2c3e9b13ccb9",
       "title": "Trump kills $45 million support for Namibia HIV program",
       "url": "https://fortune.com/2026/09/07/trump-kills-45-million-support-for-namibia-hiv-program/",
@@ -119,12 +89,39 @@
       "score": 1.1,
       "published": "2026-09-07T04:14:00+00:00",
       "fetched_at": "2026-09-07T19:40:59.244055+00:00"
+    },
+    {
+      "id": "0c33fe6726f0",
+      "title": "Why Large Enterprises Still Can\u2019t Master The Fundamentals Of Data",
+      "url": "https://www.forbes.com/sites/garydrenik/2026/09/08/why-large-enterprises-still-cant-master-the-fundamentals-of-data/",
+      "summary": "Nobody sets out to deploy an AI agent hoping it fails. Three years into the enterprise AI race, it\u2019s happening at scale.",
+      "source": "Forbes Innovation",
+      "score": 9.0,
+      "published": "2026-09-08T14:00:00+00:00",
+      "fetched_at": "2026-09-08T19:18:33.105507+00:00"
+    },
+    {
+      "id": "d081e58264cf",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-09-08T16:20:31+00:00",
+      "fetched_at": "2026-09-08T19:18:30.711634+00:00"
+    },
+    {
+      "id": "bf2324b9bff8",
+      "title": "Meet Our Agents: What All 20 Actually Do, What They Refuse to Do, and Every Place They\u2019ve Failed Us",
+      "url": "https://www.saastr.com/meet-our-agents-what-all-20-actually-do-what-they-refuse-to-do-and-every-place-theyve-failed-us/",
+      "summary": "A post by Brad Blumberg on LinkedIn week described how SaaStr runs on roughly 3 humans and 20-30+ AI agents. It was a fun summary so I thought we&#8217;d do a detailed latest dive on what each agent won&#8217;t do, where each one has broken, and which ones we&#8217;ve since killed. With two people left... Continue Reading",
+      "source": "SaaStr",
+      "score": 6.6,
+      "published": "2026-09-08T14:10:12+00:00",
+      "fetched_at": "2026-09-08T19:18:32.588692+00:00"
     }
   ],
   "history": [
-    "https://www.zdnet.com/article/openai-hugging-face-attack-agent/",
-    "https://www.oreilly.com/radar/the-economics-of-agentic-ai-engineering-for-imperfection/",
-    "https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time",
     "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/24/ai-in-enterprise-operations-why-orchestration-is-becoming-the-real-challenge/",
     "https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance",
@@ -371,7 +368,10 @@
     "https://www.fastcompany.com/91601580/skin-cancer-detection-tools-powered-by-ai-are-improving-not-everyone-is-benefitting?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://fortune.com/2026/09/07/trump-kills-45-million-support-for-namibia-hiv-program/",
     "https://www.businessinsider.com/startups-save-home-sellers-money-on-commissions-avoid-traditional-agents-2025-5",
-    "https://www.fastcompany.com/91602695/chatgpt-sites-makes-building-a-website-feel-like-making-a-google-doc?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+    "https://www.fastcompany.com/91602695/chatgpt-sites-makes-building-a-website-feel-like-making-a-google-doc?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.forbes.com/sites/garydrenik/2026/09/08/why-large-enterprises-still-cant-master-the-fundamentals-of-data/",
+    "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "https://www.saastr.com/meet-our-agents-what-all-20-actually-do-what-they-refuse-to-do-and-every-place-theyve-failed-us/"
   ],
-  "generated_at": "2026-09-07T19:40:59.432975+00:00"
+  "generated_at": "2026-09-08T19:18:35.823035+00:00"
 }

@@ -1,96 +1,6 @@
 {
   "queue": [
     {
-      "id": "b100679ff457",
-      "title": "Founders Are Coming Back to Run Their Pre-AI B2B Companies. Because It\u2019s The Last Stand.",
-      "url": "https://www.saastr.com/founders-are-coming-back-to-run-their-pre-ai-b2b-companies-because-its-the-last-stand/",
-      "summary": "I&#8217;m seeing more and more founders come back to run their pre-AI B2B companies. Not because the board panicked over a bad quarter. Because it&#8217;s The Last Stand. The pattern shows up at companies big enough to have a base that sustains them and not agentic enough to grow. In my own portfolio and in... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-09-07T14:10:48+00:00",
-      "fetched_at": "2026-09-07T19:40:54.877875+00:00"
-    },
-    {
-      "id": "3681a7935100",
-      "title": "Dear SaaStr:  As a Founder, What Will I Learn Getting More Involved in Sales?",
-      "url": "https://www.saastr.com/dear-saastr-as-a-founder-what-will-i-learn-getting-more-involved-in-sales/",
-      "summary": "Dear SaaStr: I&#8217;m Pretty Hands Off on the Sales Team.\u00a0 What Will I Learn Getting More Involved in Sales? The most important thing that you will learn is\u00a0how businesses truly scale on the revenue side. You may think you know this intuitively, but you don&#8217;t: You may think sales organizations magically create revenue.\u00a0They don&#8217;t. They... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-09-07T10:00:00+00:00",
-      "fetched_at": "2026-09-07T19:40:54.877956+00:00"
-    },
-    {
-      "id": "a5b139afc5ce",
-      "title": "Another OpenAI agent swarm surfaces",
-      "url": "https://www.therundown.ai/articles/another-openai-agent-swarm-surfaces",
-      "summary": "PLUS: Build a Lindy Agent that never drops a follow-up",
-      "source": "The Rundown AI",
-      "score": 3.9,
-      "published": "2026-09-07T10:00:00+00:00",
-      "fetched_at": "2026-09-07T19:40:54.512118+00:00"
-    },
-    {
-      "id": "31c68cc130b0",
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;",
-      "source": "MIT Technology Review",
-      "score": 3.6,
-      "published": "2026-09-07T12:10:00+00:00",
-      "fetched_at": "2026-09-07T19:40:54.053446+00:00"
-    },
-    {
-      "id": "55c70acd83ef",
-      "title": "OpenAI\u2019s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks.",
-      "url": "https://fortune.com/2026/09/07/openai-ai-agents-german-wiki-ran-their-own-message-board/",
-      "summary": "OpenAI acknowledged its AI agents used a German wiki to coordinate, renewing questions about whether the company is transparent about potentially dangerous AI activity.",
-      "source": "Fortune",
-      "score": 3.0,
-      "published": "2026-09-07T18:55:42+00:00",
-      "fetched_at": "2026-09-07T19:40:59.093808+00:00"
-    },
-    {
-      "id": "06ad01b89dd7",
-      "title": "Sam Altman calls GPT-6 Astra rollout \u2018messy\u2019 as enterprise users wait for access",
-      "url": "https://www.computerworld.com/article/4219264/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access-2.html",
-      "summary": "OpenAI\u2019s rollout of its GPT-6 Astra model ran into early access issues after paying ChatGPT users were unable to use the system shortly after launch, prompting CEO Sam Altman to apologize and say the release had been \u201cmessy.\u201d\n\n\n\n\u201cFirst, sorry for the messy rollout,\u201d OpenAI CEO Sam Altman acknowledged the issue in a\u00a0post\u00a0on X. \u201cSecond, when we screw up, we try to make it right.\u201d\n\n\n\nOpenAI had said GPT-6 Astra would be rolled out across ChatGPT tiers and APIs, positioning it as its most advanced model to date. However, the initial rollout did not translate into immediate access for all users, hi",
-      "source": "Computerworld",
-      "score": 3.0,
-      "published": "2026-09-07T12:20:24+00:00",
-      "fetched_at": "2026-09-07T19:40:57.637135+00:00"
-    },
-    {
-      "id": "2c3e9b13ccb9",
-      "title": "Trump kills $45 million support for Namibia HIV program",
-      "url": "https://fortune.com/2026/09/07/trump-kills-45-million-support-for-namibia-hiv-program/",
-      "summary": "The withdrawal of funding was expected, but also follows Namibia\u2019s rejection of proposed provisions for sharing health data and biological specimens.",
-      "source": "Fortune",
-      "score": 2.0,
-      "published": "2026-09-07T17:43:30+00:00",
-      "fetched_at": "2026-09-07T19:40:59.093977+00:00"
-    },
-    {
-      "id": "a80e4be0451e",
-      "title": "9 startups helping homebuyers and sellers save money on traditional real estate agents",
-      "url": "https://www.businessinsider.com/startups-save-home-sellers-money-on-commissions-avoid-traditional-agents-2025-5",
-      "summary": "New platforms are disrupting real estate by providing homebuyers and sellers options, sometimes helping them avoid real estate agents entirely.",
-      "source": "Business Insider",
-      "score": 2.0,
-      "published": "2026-09-07T14:27:01+00:00",
-      "fetched_at": "2026-09-07T19:40:58.880942+00:00"
-    },
-    {
-      "id": "1783c054b1bd",
-      "title": "ChatGPT Sites makes building a website feel like making a Google Doc",
-      "url": "https://www.fastcompany.com/91602695/chatgpt-sites-makes-building-a-website-feel-like-making-a-google-doc?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "This article is republished with permission from Wonder Tools, a newsletter that helps you discover the most useful sites and apps.\n\n\n\nChatGPT Sites is one of the best tools I&#8217;ve tried for making simple websites. I once spent hours drafting HTML by hand. I struggled with complex site-building software called Dreamweaver. Now making a good-looking site is as easy as creating a Google Doc.\n\n\n\nDescribe what you\u2019re envisioning in a few sentences. Upload images or screenshots if you have a design in mind. Explain any special functionality you want, like linked buttons, embedded visuals, or in",
-      "source": "Fast Company Tech",
-      "score": 1.1,
-      "published": "2026-09-07T04:14:00+00:00",
-      "fetched_at": "2026-09-07T19:40:59.244055+00:00"
-    },
-    {
       "id": "0c33fe6726f0",
       "title": "Why Large Enterprises Still Can\u2019t Master The Fundamentals Of Data",
       "url": "https://www.forbes.com/sites/garydrenik/2026/09/08/why-large-enterprises-still-cant-master-the-fundamentals-of-data/",
@@ -119,18 +29,99 @@
       "score": 6.6,
       "published": "2026-09-08T14:10:12+00:00",
       "fetched_at": "2026-09-08T19:18:32.588692+00:00"
+    },
+    {
+      "id": "dcb28d9215a5",
+      "title": "ElevenLabs Went From $0 to $600M+ ARR in 41 Months. When the AI Agent Closes the Deal, They Still Pay the Human. With Carles Reina, First VP of Revenue",
+      "url": "https://www.saastr.com/elevenlabs-went-from-0-to-600m-arr-in-41-months-when-the-ai-agent-closes-the-deal-they-still-pay-the-human-with-carles-reina-first-vp-of-revenue/",
+      "summary": "Carles Reina was employee #4 at ElevenLabs and its first go-to-market hire. He was also its first investor. He spent the first nine months selling enterprise deals by himself, then built the entire commercial org, and has now moved full-time to Baobab Ventures, the $15M solo GP fund he raised last year. He came on... Continue Reading",
+      "source": "SaaStr",
+      "score": 7.7,
+      "published": "2026-09-09T18:32:42+00:00",
+      "fetched_at": "2026-09-09T19:08:03.598411+00:00"
+    },
+    {
+      "id": "12dcfd350baf",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-09-09T13:00:00+00:00",
+      "fetched_at": "2026-09-09T19:08:01.821782+00:00"
+    },
+    {
+      "id": "1c19b1975f36",
+      "title": "Enterprise AI Doesn\u2019t Need A Bigger Brain; It Needs A Confidence Gate",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/09/enterprise-ai-doesnt-need-a-bigger-brain-it-needs-a-confidence-gate/",
+      "summary": "Do not ask enterprises to trust the AI. Let them set the bar\u2014and make the system prove it can meet it.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-09-09T14:15:00+00:00",
+      "fetched_at": "2026-09-09T19:08:04.571392+00:00"
+    },
+    {
+      "id": "20d984cb02eb",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-09-08T19:00:00+00:00",
+      "fetched_at": "2026-09-09T19:08:01.821927+00:00"
+    },
+    {
+      "id": "88dce422c571",
+      "title": "Adobe Acrobat evolves beyond PDFs with enterprise search, AI content creation",
+      "url": "https://www.computerworld.com/article/4220370/adobe-acrobat-evolves-beyond-pdfs-with-enterprise-search-ai-content-creation.html",
+      "summary": "Adobe on Wednesday unveiled a range of updates to Acrobat, including the ability to turn PDF documents into interactive visual reports and podcasts. And a new Knowledge Base feature connects Adobe\u2019s Acrobat AI assistant to document sources such as Microsoft SharePoint and Google Drive.\n\n\n\nIt\u2019s the biggest Acrobat update in several years, Adobe said, and highlights the application\u2019s evolution from PDF reader to what the company now describes as an AI-powered document productivity and creativity platform.\u00a0\n\n\n\nAcrobat users open more than 400 billion PDFs in the app each year, Adobe said, claimin",
+      "source": "Computerworld",
+      "score": 4.0,
+      "published": "2026-09-09T18:23:16+00:00",
+      "fetched_at": "2026-09-09T19:08:06.001179+00:00"
+    },
+    {
+      "id": "bcf2b79cdf1a",
+      "title": "Accenture and Google are teaming up to send 1,000 engineers into the field to help clients with AI",
+      "url": "https://www.businessinsider.com/accenture-google-cloud-business-group-forward-deployed-engineers-ai-agents-2026-9",
+      "summary": "Accenture has partnered with Google Cloud to invest in its technical consulting expertise and bring AI agents to clients.",
+      "source": "Business Insider",
+      "score": 4.0,
+      "published": "2026-09-09T17:06:43+00:00",
+      "fetched_at": "2026-09-09T19:08:07.175490+00:00"
+    },
+    {
+      "id": "05c160d17329",
+      "title": "Nvidia-Backed Robot Platform Says AI Wrote 80% Of Its Code, Cuts Robot Training Time 99%",
+      "url": "https://www.forbes.com/sites/johnkoetsier/2026/09/09/nvidia-backed-robot-platform-says-ai-wrote-80-of-its-code-cuts-robot-training-time-99/",
+      "summary": "Can agentic AI cut robot training time by orders of magnitude? According the General Robotics ... absolutely yes.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-09-09T15:56:04+00:00",
+      "fetched_at": "2026-09-09T19:08:04.571140+00:00"
+    },
+    {
+      "id": "c3c7d2f4b820",
+      "title": "Nvidia's Hugging Face Deal Buys Control Of Where AI Agents Get Built",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/09/nvidias-hugging-face-deal-buys-control-of-where-ai-agents-get-built/",
+      "summary": "Nvidia's $13B Hugging Face deal gives it influence over AI models, developers and agents, strengthening its platform moat beyond chips and CUDA.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-09-09T15:35:38+00:00",
+      "fetched_at": "2026-09-09T19:08:04.571206+00:00"
+    },
+    {
+      "id": "aea2bcdb83b5",
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "summary": "Instinct\u2019s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-09-09T15:13:12+00:00",
+      "fetched_at": "2026-09-09T19:08:01.821667+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/24/ai-in-enterprise-operations-why-orchestration-is-becoming-the-real-challenge/",
-    "https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance",
-    "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-    "https://www.computerworld.com/article/1612638/how-to-choose-digital-employee-experience-tool.html",
-    "https://www.fastcompany.com/91579524/this-automation-tech-turns-old-tractors-into-self-driving-farming-machines?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91579524/this-automation-tech-turns-old-tractors-into-self-driving-farming-machines",
-    "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "https://www.saastr.com/the-top-sales-lessons-from-saastr-ai-2026-gamma-owner-stripe-salesforce-cloudflare-and-monaco/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/27/why-todays-data-architectures-break-down-in-the-age-of-agentic-ai/",
     "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
     "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/",
@@ -371,7 +362,16 @@
     "https://www.fastcompany.com/91602695/chatgpt-sites-makes-building-a-website-feel-like-making-a-google-doc?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.forbes.com/sites/garydrenik/2026/09/08/why-large-enterprises-still-cant-master-the-fundamentals-of-data/",
     "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "https://www.saastr.com/meet-our-agents-what-all-20-actually-do-what-they-refuse-to-do-and-every-place-theyve-failed-us/"
+    "https://www.saastr.com/meet-our-agents-what-all-20-actually-do-what-they-refuse-to-do-and-every-place-theyve-failed-us/",
+    "https://www.saastr.com/elevenlabs-went-from-0-to-600m-arr-in-41-months-when-the-ai-agent-closes-the-deal-they-still-pay-the-human-with-carles-reina-first-vp-of-revenue/",
+    "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/09/09/enterprise-ai-doesnt-need-a-bigger-brain-it-needs-a-confidence-gate/",
+    "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "https://www.computerworld.com/article/4220370/adobe-acrobat-evolves-beyond-pdfs-with-enterprise-search-ai-content-creation.html",
+    "https://www.businessinsider.com/accenture-google-cloud-business-group-forward-deployed-engineers-ai-agents-2026-9",
+    "https://www.forbes.com/sites/johnkoetsier/2026/09/09/nvidia-backed-robot-platform-says-ai-wrote-80-of-its-code-cuts-robot-training-time-99/",
+    "https://www.forbes.com/sites/jonmarkman/2026/09/09/nvidias-hugging-face-deal-buys-control-of-where-ai-agents-get-built/",
+    "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
   ],
-  "generated_at": "2026-09-08T19:18:35.823035+00:00"
+  "generated_at": "2026-09-09T19:08:07.763766+00:00"
 }

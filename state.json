@@ -1,36 +1,6 @@
 {
   "queue": [
     {
-      "id": "0c33fe6726f0",
-      "title": "Why Large Enterprises Still Can\u2019t Master The Fundamentals Of Data",
-      "url": "https://www.forbes.com/sites/garydrenik/2026/09/08/why-large-enterprises-still-cant-master-the-fundamentals-of-data/",
-      "summary": "Nobody sets out to deploy an AI agent hoping it fails. Three years into the enterprise AI race, it\u2019s happening at scale.",
-      "source": "Forbes Innovation",
-      "score": 9.0,
-      "published": "2026-09-08T14:00:00+00:00",
-      "fetched_at": "2026-09-08T19:18:33.105507+00:00"
-    },
-    {
-      "id": "d081e58264cf",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-09-08T16:20:31+00:00",
-      "fetched_at": "2026-09-08T19:18:30.711634+00:00"
-    },
-    {
-      "id": "bf2324b9bff8",
-      "title": "Meet Our Agents: What All 20 Actually Do, What They Refuse to Do, and Every Place They\u2019ve Failed Us",
-      "url": "https://www.saastr.com/meet-our-agents-what-all-20-actually-do-what-they-refuse-to-do-and-every-place-theyve-failed-us/",
-      "summary": "A post by Brad Blumberg on LinkedIn week described how SaaStr runs on roughly 3 humans and 20-30+ AI agents. It was a fun summary so I thought we&#8217;d do a detailed latest dive on what each agent won&#8217;t do, where each one has broken, and which ones we&#8217;ve since killed. With two people left... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-09-08T14:10:12+00:00",
-      "fetched_at": "2026-09-08T19:18:32.588692+00:00"
-    },
-    {
       "id": "dcb28d9215a5",
       "title": "ElevenLabs Went From $0 to $600M+ ARR in 41 Months. When the AI Agent Closes the Deal, They Still Pay the Human. With Carles Reina, First VP of Revenue",
       "url": "https://www.saastr.com/elevenlabs-went-from-0-to-600m-arr-in-41-months-when-the-ai-agent-closes-the-deal-they-still-pay-the-human-with-carles-reina-first-vp-of-revenue/",
@@ -119,12 +89,39 @@
       "score": 3.6,
       "published": "2026-09-09T15:13:12+00:00",
       "fetched_at": "2026-09-09T19:08:01.821667+00:00"
+    },
+    {
+      "id": "ec37bb0b42b8",
+      "title": "CrowdStrike\u2019s CEO says AI agents can hack like nation-states. Can his company stop them?",
+      "url": "https://www.fastcompany.com/91603905/crowdstrikes-ceo-says-ai-agents-can-hack-like-nation-states-can-his-company-stop-them?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Model developers are selling agentic models to enterprises on the promise that they can work through problems without asking permission at every step. This summer, the cybersecurity industry got a disturbing demonstration of what can happen when that autonomy outruns its constraints. During an internal cybersecurity test at OpenAI, AI agents looking for ways to cheat bypassed restrictions on internet access and broke into systems at Hugging Face, a platform for sharing AI models and datasets. Roughly 700 agents ran code on 41 servers over a July weekend.\n\n\n\nOpenAI had loosened safeguards that ",
+      "source": "Fast Company Tech",
+      "score": 11.0,
+      "published": "2026-09-10T09:00:00+00:00",
+      "fetched_at": "2026-09-10T19:00:01.557162+00:00"
+    },
+    {
+      "id": "42858b51a1c0",
+      "title": "Before AI Agents Take Action, Enterprises Need A New Data Rule Book",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/10/before-ai-agents-take-action-enterprises-need-a-new-data-rule-book/",
+      "summary": "Businesses need to prioritize methodology, outcomes and accountability before deploying agentic AI at scale.",
+      "source": "Forbes Innovation",
+      "score": 9.0,
+      "published": "2026-09-10T16:15:00+00:00",
+      "fetched_at": "2026-09-10T18:59:59.230824+00:00"
+    },
+    {
+      "id": "c72774fe2b33",
+      "title": "Enterprise AI Is Moving Fast And Flying Blind",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/10/enterprise-ai-is-moving-fast-and-flying-blind/",
+      "summary": "AI agents can write, deploy and optimize software faster than any human team, but they have no awareness of what happens once that software is running in production.",
+      "source": "Forbes Innovation",
+      "score": 9.0,
+      "published": "2026-09-10T16:00:00+00:00",
+      "fetched_at": "2026-09-10T18:59:59.230873+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/27/why-todays-data-architectures-break-down-in-the-age-of-agentic-ai/",
-    "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/",
     "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
     "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
     "https://www.computerworld.com/article/4201963/hugging-face-ceo-calls-for-transparency-following-openais-ai-incident.html",
@@ -371,7 +368,10 @@
     "https://www.businessinsider.com/accenture-google-cloud-business-group-forward-deployed-engineers-ai-agents-2026-9",
     "https://www.forbes.com/sites/johnkoetsier/2026/09/09/nvidia-backed-robot-platform-says-ai-wrote-80-of-its-code-cuts-robot-training-time-99/",
     "https://www.forbes.com/sites/jonmarkman/2026/09/09/nvidias-hugging-face-deal-buys-control-of-where-ai-agents-get-built/",
-    "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
+    "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+    "https://www.fastcompany.com/91603905/crowdstrikes-ceo-says-ai-agents-can-hack-like-nation-states-can-his-company-stop-them?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/09/10/before-ai-agents-take-action-enterprises-need-a-new-data-rule-book/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/09/10/enterprise-ai-is-moving-fast-and-flying-blind/"
   ],
-  "generated_at": "2026-09-09T19:08:07.763766+00:00"
+  "generated_at": "2026-09-10T19:00:01.711350+00:00"
 }

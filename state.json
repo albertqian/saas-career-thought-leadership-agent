@@ -1,96 +1,6 @@
 {
   "queue": [
     {
-      "id": "dcb28d9215a5",
-      "title": "ElevenLabs Went From $0 to $600M+ ARR in 41 Months. When the AI Agent Closes the Deal, They Still Pay the Human. With Carles Reina, First VP of Revenue",
-      "url": "https://www.saastr.com/elevenlabs-went-from-0-to-600m-arr-in-41-months-when-the-ai-agent-closes-the-deal-they-still-pay-the-human-with-carles-reina-first-vp-of-revenue/",
-      "summary": "Carles Reina was employee #4 at ElevenLabs and its first go-to-market hire. He was also its first investor. He spent the first nine months selling enterprise deals by himself, then built the entire commercial org, and has now moved full-time to Baobab Ventures, the $15M solo GP fund he raised last year. He came on... Continue Reading",
-      "source": "SaaStr",
-      "score": 7.7,
-      "published": "2026-09-09T18:32:42+00:00",
-      "fetched_at": "2026-09-09T19:08:03.598411+00:00"
-    },
-    {
-      "id": "12dcfd350baf",
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
-      "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-09-09T13:00:00+00:00",
-      "fetched_at": "2026-09-09T19:08:01.821782+00:00"
-    },
-    {
-      "id": "1c19b1975f36",
-      "title": "Enterprise AI Doesn\u2019t Need A Bigger Brain; It Needs A Confidence Gate",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/09/enterprise-ai-doesnt-need-a-bigger-brain-it-needs-a-confidence-gate/",
-      "summary": "Do not ask enterprises to trust the AI. Let them set the bar\u2014and make the system prove it can meet it.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-09-09T14:15:00+00:00",
-      "fetched_at": "2026-09-09T19:08:04.571392+00:00"
-    },
-    {
-      "id": "20d984cb02eb",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-09-08T19:00:00+00:00",
-      "fetched_at": "2026-09-09T19:08:01.821927+00:00"
-    },
-    {
-      "id": "88dce422c571",
-      "title": "Adobe Acrobat evolves beyond PDFs with enterprise search, AI content creation",
-      "url": "https://www.computerworld.com/article/4220370/adobe-acrobat-evolves-beyond-pdfs-with-enterprise-search-ai-content-creation.html",
-      "summary": "Adobe on Wednesday unveiled a range of updates to Acrobat, including the ability to turn PDF documents into interactive visual reports and podcasts. And a new Knowledge Base feature connects Adobe\u2019s Acrobat AI assistant to document sources such as Microsoft SharePoint and Google Drive.\n\n\n\nIt\u2019s the biggest Acrobat update in several years, Adobe said, and highlights the application\u2019s evolution from PDF reader to what the company now describes as an AI-powered document productivity and creativity platform.\u00a0\n\n\n\nAcrobat users open more than 400 billion PDFs in the app each year, Adobe said, claimin",
-      "source": "Computerworld",
-      "score": 4.0,
-      "published": "2026-09-09T18:23:16+00:00",
-      "fetched_at": "2026-09-09T19:08:06.001179+00:00"
-    },
-    {
-      "id": "bcf2b79cdf1a",
-      "title": "Accenture and Google are teaming up to send 1,000 engineers into the field to help clients with AI",
-      "url": "https://www.businessinsider.com/accenture-google-cloud-business-group-forward-deployed-engineers-ai-agents-2026-9",
-      "summary": "Accenture has partnered with Google Cloud to invest in its technical consulting expertise and bring AI agents to clients.",
-      "source": "Business Insider",
-      "score": 4.0,
-      "published": "2026-09-09T17:06:43+00:00",
-      "fetched_at": "2026-09-09T19:08:07.175490+00:00"
-    },
-    {
-      "id": "05c160d17329",
-      "title": "Nvidia-Backed Robot Platform Says AI Wrote 80% Of Its Code, Cuts Robot Training Time 99%",
-      "url": "https://www.forbes.com/sites/johnkoetsier/2026/09/09/nvidia-backed-robot-platform-says-ai-wrote-80-of-its-code-cuts-robot-training-time-99/",
-      "summary": "Can agentic AI cut robot training time by orders of magnitude? According the General Robotics ... absolutely yes.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-09-09T15:56:04+00:00",
-      "fetched_at": "2026-09-09T19:08:04.571140+00:00"
-    },
-    {
-      "id": "c3c7d2f4b820",
-      "title": "Nvidia's Hugging Face Deal Buys Control Of Where AI Agents Get Built",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/09/nvidias-hugging-face-deal-buys-control-of-where-ai-agents-get-built/",
-      "summary": "Nvidia's $13B Hugging Face deal gives it influence over AI models, developers and agents, strengthening its platform moat beyond chips and CUDA.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-09-09T15:35:38+00:00",
-      "fetched_at": "2026-09-09T19:08:04.571206+00:00"
-    },
-    {
-      "id": "aea2bcdb83b5",
-      "title": "Viral AI assistant Instinct now has its own email address",
-      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-      "summary": "Instinct\u2019s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-09-09T15:13:12+00:00",
-      "fetched_at": "2026-09-09T19:08:01.821667+00:00"
-    },
-    {
       "id": "ec37bb0b42b8",
       "title": "CrowdStrike\u2019s CEO says AI agents can hack like nation-states. Can his company stop them?",
       "url": "https://www.fastcompany.com/91603905/crowdstrikes-ceo-says-ai-agents-can-hack-like-nation-states-can-his-company-stop-them?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -119,18 +29,99 @@
       "score": 9.0,
       "published": "2026-09-10T16:00:00+00:00",
       "fetched_at": "2026-09-10T18:59:59.230873+00:00"
+    },
+    {
+      "id": "f6e24d42a025",
+      "title": "Enterprise AI is waiting for its iPhone moment",
+      "url": "https://www.fastcompany.com/91603316/enterprise-ai-iphone-moment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "I still remember where I was when Steve Jobs walked onto the stage at the Moscone Center in January 2007. I was watching the livestream, and somewhere around the first demo I had the distinct feeling that the ground had shifted. Not because the iPhone invented anything\u2014it didn\u2019t\u2014but because it made everything that already existed finally work together. That\u2019s how he managed to spark the smartphone revolution.&nbsp;&nbsp;\n\n\n\nIn 2007, we already had email, web browsing, cameras, MP3 players, and what the industry optimistically called \u201cfeature phones.\u201d I\u2019d used several of those so-called smartph",
+      "source": "Fast Company Tech",
+      "score": 5.5,
+      "published": "2026-09-10T08:30:00+00:00",
+      "fetched_at": "2026-09-11T19:02:02.391864+00:00"
+    },
+    {
+      "id": "948f8487a636",
+      "title": "Microsoft head of communications Frank Shaw leaving after nearly 30 years of shaping the software giant\u2019s public messaging",
+      "url": "https://fortune.com/2026/09/11/microsoft-head-of-communications-frank-shaw-leaving-after-nearly-30-years-of-shaping-the-software-giants-public-messaging/",
+      "summary": "Shaw worked with all three of Microsoft's CEOs\u2014Bill Gates, Steve Ballmer, and Satya Nadella\u2014 and has played a major role in shaping much of how Microsoft communicates to the outside world.",
+      "source": "Fortune",
+      "score": 5.0,
+      "published": "2026-09-11T17:49:57+00:00",
+      "fetched_at": "2026-09-11T19:02:02.250043+00:00"
+    },
+    {
+      "id": "378b7957f133",
+      "title": "The Interfaces Are Arriving",
+      "url": "https://www.oreilly.com/radar/the-interfaces-are-arriving/",
+      "summary": "The most consequential AI news of the past year came from a standards body. In December 2025, Anthropic donated the Model Context Protocol to the newly formed Agentic AI Foundation, a directed fund under the Linux Foundation cofounded by Anthropic, Block, and OpenAI, with support from Google, Microsoft, AWS, Cloudflare, and Bloomberg. Six months earlier, [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 4.4,
+      "published": "2026-09-11T15:55:04+00:00",
+      "fetched_at": "2026-09-11T19:02:01.409355+00:00"
+    },
+    {
+      "id": "5213184f7eed",
+      "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
+      "url": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
+      "summary": "Amazon has been hesitant to open its sprawling webstore to external AI platforms.",
+      "source": "CNBC Tech",
+      "score": 4.4,
+      "published": "2026-09-10T15:25:58+00:00",
+      "fetched_at": "2026-09-11T19:01:59.238698+00:00"
+    },
+    {
+      "id": "215609e5ccb7",
+      "title": "Prop Firms Are Leaving SaaS Behind For Turnkey Solutions",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/11/prop-firms-are-leaving-saas-behind-for-turnkey-solutions/",
+      "summary": "\u200bMost prop firms think they own their technology. In reality, many own little more than a collection of software subscriptions. \u200b",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-09-11T17:45:00+00:00",
+      "fetched_at": "2026-09-11T19:02:00.440201+00:00"
+    },
+    {
+      "id": "a2503d3bc01a",
+      "title": "Teams and Copilot are changing addresses: update your firewalls",
+      "url": "https://www.computerworld.com/article/4221272/teams-and-copilot-are-changing-addresses-update-your-firewalls.html",
+      "summary": "Microsoft is changing the destination address of two of its most popular services: starting this month, it will redirect M365 and Teams web users to copilot.cloud.microsoft and teams.cloud.microsoft, respectively.\n\n\n\nThe Teams move is already under way, and Microsoft has now added M365 to the mix. The company announced the changes in two MessageCenter posts: MC1465764 (mirror) and MC1462915 (mirror).\n\n\n\nOrganizations using these products are advised to update their systems and documentation to ensure continued access. Microsoft has told customers to review configurations on client devices, pro",
+      "source": "Computerworld",
+      "score": 4.0,
+      "published": "2026-09-11T16:56:47+00:00",
+      "fetched_at": "2026-09-11T19:02:01.130613+00:00"
+    },
+    {
+      "id": "75066ee04d3c",
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely \u201cspooking people\u201d inside big labs.",
+      "source": "Wired",
+      "score": 4.0,
+      "published": "2026-09-11T09:00:00+00:00",
+      "fetched_at": "2026-09-11T19:02:00.542028+00:00"
+    },
+    {
+      "id": "4780951de096",
+      "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-09-10T19:50:04+00:00",
+      "fetched_at": "2026-09-11T19:01:58.359176+00:00"
+    },
+    {
+      "id": "9abc7cfd055a",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-09-10T17:54:44+00:00",
+      "fetched_at": "2026-09-11T19:01:58.359204+00:00"
     }
   ],
   "history": [
-    "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
-    "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "https://www.computerworld.com/article/4201963/hugging-face-ceo-calls-for-transparency-following-openais-ai-incident.html",
-    "https://www.computerworld.com/article/4201955/microsofts-nadella-calls-out-big-ai-for-hypocrisy-but-what-about-his-own-company.html",
-    "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs",
-    "https://www.computerworld.com/article/4202302/synsira-launches-kind-local-pro-with-100-on-device-ai.html",
-    "https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests",
-    "https://venturebeat.com/technology/runway-couldnt-fix-a-bug-in-its-ai-video-model-so-it-turned-the-bug-into-a-feature",
-    "https://www.saastr.com/your-agents-are-about-to-start-firing-your-vendors-ours-fired-marketo/",
     "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
     "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them",
     "https://www.fastcompany.com/91581267/what-to-know-about-moonshot-ai-and-its-new-open-weight-model-kimi-k3?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -371,7 +362,16 @@
     "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
     "https://www.fastcompany.com/91603905/crowdstrikes-ceo-says-ai-agents-can-hack-like-nation-states-can-his-company-stop-them?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.forbes.com/councils/forbestechcouncil/2026/09/10/before-ai-agents-take-action-enterprises-need-a-new-data-rule-book/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/09/10/enterprise-ai-is-moving-fast-and-flying-blind/"
+    "https://www.forbes.com/councils/forbestechcouncil/2026/09/10/enterprise-ai-is-moving-fast-and-flying-blind/",
+    "https://www.fastcompany.com/91603316/enterprise-ai-iphone-moment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://fortune.com/2026/09/11/microsoft-head-of-communications-frank-shaw-leaving-after-nearly-30-years-of-shaping-the-software-giants-public-messaging/",
+    "https://www.oreilly.com/radar/the-interfaces-are-arriving/",
+    "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/09/11/prop-firms-are-leaving-saas-behind-for-turnkey-solutions/",
+    "https://www.computerworld.com/article/4221272/teams-and-copilot-are-changing-addresses-update-your-firewalls.html",
+    "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+    "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
   ],
-  "generated_at": "2026-09-10T19:00:01.711350+00:00"
+  "generated_at": "2026-09-11T19:02:02.596142+00:00"
 }

@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "ec37bb0b42b8",
-      "title": "CrowdStrike\u2019s CEO says AI agents can hack like nation-states. Can his company stop them?",
-      "url": "https://www.fastcompany.com/91603905/crowdstrikes-ceo-says-ai-agents-can-hack-like-nation-states-can-his-company-stop-them?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Model developers are selling agentic models to enterprises on the promise that they can work through problems without asking permission at every step. This summer, the cybersecurity industry got a disturbing demonstration of what can happen when that autonomy outruns its constraints. During an internal cybersecurity test at OpenAI, AI agents looking for ways to cheat bypassed restrictions on internet access and broke into systems at Hugging Face, a platform for sharing AI models and datasets. Roughly 700 agents ran code on 41 servers over a July weekend.\n\n\n\nOpenAI had loosened safeguards that ",
-      "source": "Fast Company Tech",
-      "score": 11.0,
-      "published": "2026-09-10T09:00:00+00:00",
-      "fetched_at": "2026-09-10T19:00:01.557162+00:00"
-    },
-    {
-      "id": "42858b51a1c0",
-      "title": "Before AI Agents Take Action, Enterprises Need A New Data Rule Book",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/10/before-ai-agents-take-action-enterprises-need-a-new-data-rule-book/",
-      "summary": "Businesses need to prioritize methodology, outcomes and accountability before deploying agentic AI at scale.",
-      "source": "Forbes Innovation",
-      "score": 9.0,
-      "published": "2026-09-10T16:15:00+00:00",
-      "fetched_at": "2026-09-10T18:59:59.230824+00:00"
-    },
-    {
-      "id": "c72774fe2b33",
-      "title": "Enterprise AI Is Moving Fast And Flying Blind",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/10/enterprise-ai-is-moving-fast-and-flying-blind/",
-      "summary": "AI agents can write, deploy and optimize software faster than any human team, but they have no awareness of what happens once that software is running in production.",
-      "source": "Forbes Innovation",
-      "score": 9.0,
-      "published": "2026-09-10T16:00:00+00:00",
-      "fetched_at": "2026-09-10T18:59:59.230873+00:00"
-    },
-    {
-      "id": "f6e24d42a025",
-      "title": "Enterprise AI is waiting for its iPhone moment",
-      "url": "https://www.fastcompany.com/91603316/enterprise-ai-iphone-moment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "I still remember where I was when Steve Jobs walked onto the stage at the Moscone Center in January 2007. I was watching the livestream, and somewhere around the first demo I had the distinct feeling that the ground had shifted. Not because the iPhone invented anything\u2014it didn\u2019t\u2014but because it made everything that already existed finally work together. That\u2019s how he managed to spark the smartphone revolution.&nbsp;&nbsp;\n\n\n\nIn 2007, we already had email, web browsing, cameras, MP3 players, and what the industry optimistically called \u201cfeature phones.\u201d I\u2019d used several of those so-called smartph",
-      "source": "Fast Company Tech",
-      "score": 5.5,
-      "published": "2026-09-10T08:30:00+00:00",
-      "fetched_at": "2026-09-11T19:02:02.391864+00:00"
-    },
-    {
-      "id": "948f8487a636",
-      "title": "Microsoft head of communications Frank Shaw leaving after nearly 30 years of shaping the software giant\u2019s public messaging",
-      "url": "https://fortune.com/2026/09/11/microsoft-head-of-communications-frank-shaw-leaving-after-nearly-30-years-of-shaping-the-software-giants-public-messaging/",
-      "summary": "Shaw worked with all three of Microsoft's CEOs\u2014Bill Gates, Steve Ballmer, and Satya Nadella\u2014 and has played a major role in shaping much of how Microsoft communicates to the outside world.",
-      "source": "Fortune",
-      "score": 5.0,
-      "published": "2026-09-11T17:49:57+00:00",
-      "fetched_at": "2026-09-11T19:02:02.250043+00:00"
-    },
-    {
-      "id": "378b7957f133",
-      "title": "The Interfaces Are Arriving",
-      "url": "https://www.oreilly.com/radar/the-interfaces-are-arriving/",
-      "summary": "The most consequential AI news of the past year came from a standards body. In December 2025, Anthropic donated the Model Context Protocol to the newly formed Agentic AI Foundation, a directed fund under the Linux Foundation cofounded by Anthropic, Block, and OpenAI, with support from Google, Microsoft, AWS, Cloudflare, and Bloomberg. Six months earlier, [&#8230;]",
+      "id": "26e6c080f4fc",
+      "title": "Enterprise Analytics Beyond Dashboards: Intelligent Data Orchestration with LLMs",
+      "url": "https://www.oreilly.com/radar/enterprise-analytics-beyond-dashboards-intelligent-data-orchestration-with-llms/",
+      "summary": "In 17 years of building enterprise data platforms, I\u2019ve watched every organization eventually ask the same question: \u201cCan I ask one question and get one answer across everything my company knows?\u201d A finance analyst wants actual revenue from the warehouse, pipeline data from the CRM, commentary from planning documents, and market signals from external providers. [&#8230;]",
       "source": "O'Reilly Radar",
-      "score": 4.4,
-      "published": "2026-09-11T15:55:04+00:00",
-      "fetched_at": "2026-09-11T19:02:01.409355+00:00"
+      "score": 14.3,
+      "published": "2026-09-14T10:55:34+00:00",
+      "fetched_at": "2026-09-14T20:11:29.993876+00:00"
     },
     {
-      "id": "5213184f7eed",
-      "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
-      "url": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
-      "summary": "Amazon has been hesitant to open its sprawling webstore to external AI platforms.",
-      "source": "CNBC Tech",
-      "score": 4.4,
-      "published": "2026-09-10T15:25:58+00:00",
-      "fetched_at": "2026-09-11T19:01:59.238698+00:00"
+      "id": "bdc344bc3029",
+      "title": "We Run 21 AI Agents and They\u2019ve Closed Millions. But There Still Isn\u2019t a Good AI Account Executive. Yet",
+      "url": "https://www.saastr.com/we-run-21-ai-agents-and-theyve-closed-millions-but-there-still-isnt-a-good-ai-account-executive-yet/",
+      "summary": "We run 21 AI agents in production at SaaStr. They have closed millions in revenue. They book meetings on Saturday nights, resurrect leads nobody had touched in six months, run the invoice and the collections follow-up, and write to Salesforce all day without asking anyone for permission. It&#8217;s so great and so disruptive, and now... Continue Reading",
+      "source": "SaaStr",
+      "score": 7.7,
+      "published": "2026-09-14T14:10:28+00:00",
+      "fetched_at": "2026-09-14T20:11:27.451491+00:00"
     },
     {
-      "id": "215609e5ccb7",
-      "title": "Prop Firms Are Leaving SaaS Behind For Turnkey Solutions",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/11/prop-firms-are-leaving-saas-behind-for-turnkey-solutions/",
-      "summary": "\u200bMost prop firms think they own their technology. In reality, many own little more than a collection of software subscriptions. \u200b",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-09-11T17:45:00+00:00",
-      "fetched_at": "2026-09-11T19:02:00.440201+00:00"
+      "id": "4ca5a8ed3801",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions\u2014when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
+      "source": "MIT Technology Review",
+      "score": 7.2,
+      "published": "2026-09-14T16:00:00+00:00",
+      "fetched_at": "2026-09-14T20:11:26.850251+00:00"
     },
     {
-      "id": "a2503d3bc01a",
-      "title": "Teams and Copilot are changing addresses: update your firewalls",
-      "url": "https://www.computerworld.com/article/4221272/teams-and-copilot-are-changing-addresses-update-your-firewalls.html",
-      "summary": "Microsoft is changing the destination address of two of its most popular services: starting this month, it will redirect M365 and Teams web users to copilot.cloud.microsoft and teams.cloud.microsoft, respectively.\n\n\n\nThe Teams move is already under way, and Microsoft has now added M365 to the mix. The company announced the changes in two MessageCenter posts: MC1465764 (mirror) and MC1462915 (mirror).\n\n\n\nOrganizations using these products are advised to update their systems and documentation to ensure continued access. Microsoft has told customers to review configurations on client devices, pro",
-      "source": "Computerworld",
-      "score": 4.0,
-      "published": "2026-09-11T16:56:47+00:00",
-      "fetched_at": "2026-09-11T19:02:01.130613+00:00"
-    },
-    {
-      "id": "75066ee04d3c",
-      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely \u201cspooking people\u201d inside big labs.",
+      "id": "62cc0000f925",
+      "title": "AI Agents Are Thirsty for Power",
+      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
       "source": "Wired",
-      "score": 4.0,
-      "published": "2026-09-11T09:00:00+00:00",
-      "fetched_at": "2026-09-11T19:02:00.542028+00:00"
+      "score": 7.0,
+      "published": "2026-09-13T10:00:00+00:00",
+      "fetched_at": "2026-09-14T20:11:28.234406+00:00"
     },
     {
-      "id": "4780951de096",
-      "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "id": "d360e52aaf33",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "summary": "Fathom said that it has over 400,000 monthly active users.",
       "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-09-10T19:50:04+00:00",
-      "fetched_at": "2026-09-11T19:01:58.359176+00:00"
+      "score": 6.0,
+      "published": "2026-09-14T14:45:44+00:00",
+      "fetched_at": "2026-09-14T20:11:25.854069+00:00"
     },
     {
-      "id": "9abc7cfd055a",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "id": "1e8de31415c4",
+      "title": "Govern AI agents like workers. Just don\u2019t pretend they\u2019re human",
+      "url": "https://www.computerworld.com/article/4213117/govern-ai-agents-like-workers-just-dont-pretend-theyre-human.html",
+      "summary": "The newest member of the corporate workforce never sleeps, never asks for a raise, and can be cloned before lunch. It can also confidently make the wrong decision thousands of times before anyone notices.\n\n\n\nThat helps explain why some technology leaders have started talking about AI agents as employees, co-workers, or interns rather than software. Once an agent can update records, issue refunds, send communications, or act across multiple enterprise systems, deploying it no longer looks much like installing another application.\n\n\n\nRecent Harvard Business Review articles have pushed that analo",
+      "source": "Computerworld",
+      "score": 6.0,
+      "published": "2026-09-14T11:01:00+00:00",
+      "fetched_at": "2026-09-14T20:11:29.567831+00:00"
+    },
+    {
+      "id": "48e9e0fef369",
+      "title": "Who is watching the AI agents?",
+      "url": "https://www.fastcompany.com/91605846/who-is-watching-the-ai-agents",
+      "summary": "As AI agents begin acting across enterprise systems, organizations need a new way to supervise them; one that operates at the same speed as the technology itself.\n\nFor better or worse, AI agents are now a part of the workforce. They write code, analyze documents, respond to customers, coordinate workflows, and make decisions across multiple business systems with very little human involvement.&nbsp;",
+      "source": "Fast Company",
+      "score": 5.0,
+      "published": "2026-09-14T12:00:00+00:00",
+      "fetched_at": "2026-09-14T20:11:31.027290+00:00"
+    },
+    {
+      "id": "f4964ed02dfb",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
+      "source": "MIT Technology Review",
+      "score": 3.6,
+      "published": "2026-09-14T17:54:22+00:00",
+      "fetched_at": "2026-09-14T20:11:26.850164+00:00"
+    },
+    {
+      "id": "2f204386282f",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
       "source": "TechCrunch AI",
       "score": 3.6,
-      "published": "2026-09-10T17:54:44+00:00",
-      "fetched_at": "2026-09-11T19:01:58.359204+00:00"
+      "published": "2026-09-14T15:00:00+00:00",
+      "fetched_at": "2026-09-14T20:11:25.854038+00:00"
+    },
+    {
+      "id": "bb559233673d",
+      "title": "Zero to Agent in 30 Minutes: Build a Shared Knowledge Base for All Your Agents with Sajal Sharma",
+      "url": "https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-shared-knowledge-base-for-all-your-agents-with-sajal-sharma/",
+      "summary": "Every AI agent you run keeps what it learns to itself. Work through a problem with Claude Code in the morning, then ask Codex about it that afternoon, and the second agent has no idea the first one exists. Add a home-server agent like OpenClaw or Hermes into the mix, and you end up reexplaining [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 3.3,
+      "published": "2026-09-14T15:57:05+00:00",
+      "fetched_at": "2026-09-14T20:11:29.993819+00:00"
+    },
+    {
+      "id": "05a9c68680de",
+      "title": "SaaStr AI App of the Week: Sumble. The Kaggle Founders Rebuilt Sales Intelligence Around Context, Not Contacts",
+      "url": "https://www.saastr.com/saastr-ai-app-of-the-week-sumble-the-kaggle-founders-rebuilt-sales-intelligence-around-context-not-contacts/",
+      "summary": "by Jason Lemkin &#124; AI App of Week, Blog Posts The Next Generation App To Learn What&#8217;s Really Happening In Your Target Accounts Sumble is a knowledge graph of what&#8217;s actually happening inside your target accounts. Not &#8220;does this company use Snowflake,&#8221; but which team uses it, who runs that team, how many people report... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-09-13T12:14:57+00:00",
+      "fetched_at": "2026-09-14T20:11:27.451596+00:00"
+    },
+    {
+      "id": "98ff08331257",
+      "title": "Clippers owner Steve Ballmer says he has 'sincere regrets' and accepts the NBA's punishment over the Kawhi Leonard scandal",
+      "url": "https://www.businessinsider.com/steve-ballmer-accepts-his-punishment-for-the-kawhi-leonard-scandal-2026-9",
+      "summary": "Clippers owner Steve Ballmer apologized and said he has \"sincere regrets\" over the matter.",
+      "source": "Business Insider",
+      "score": 3.0,
+      "published": "2026-09-14T15:36:18+00:00",
+      "fetched_at": "2026-09-14T20:11:30.504799+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-    "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them",
-    "https://www.fastcompany.com/91581267/what-to-know-about-moonshot-ai-and-its-new-open-weight-model-kimi-k3?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/29/enterprise-ai-has-a-context-problem-and-the-next-competitive-advantage-is-solving-it/",
-    "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread",
-    "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that",
-    "https://venturebeat.com/security/ntt-data-aivista-and-snowflake-identity-alone-wont-secure-enterprise-ai-agents",
-    "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "https://venturebeat.com/technology/companies-are-finally-seeing-ai-roi-and-now-they-know-how-much-more-value-it-can-deliver",
-    "https://www.computerworld.com/article/4203049/openais-runaway-ai-agent-compromised-a-cloud-platform-customer.html",
     "https://www.forbes.com/sites/timbajarin/2026/07/31/from-tools-to-governed-intelligence-enterprise-ais-platform-moment/",
     "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/31/beyond-model-loyalty-enterprise-ai-must-be-built-for-vendor-volatility/",
@@ -371,7 +359,19 @@
     "https://www.computerworld.com/article/4221272/teams-and-copilot-are-changing-addresses-update-your-firewalls.html",
     "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
     "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
+    "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "https://www.oreilly.com/radar/enterprise-analytics-beyond-dashboards-intelligent-data-orchestration-with-llms/",
+    "https://www.saastr.com/we-run-21-ai-agents-and-theyve-closed-millions-but-there-still-isnt-a-good-ai-account-executive-yet/",
+    "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+    "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+    "https://www.computerworld.com/article/4213117/govern-ai-agents-like-workers-just-dont-pretend-theyre-human.html",
+    "https://www.fastcompany.com/91605846/who-is-watching-the-ai-agents",
+    "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+    "https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-shared-knowledge-base-for-all-your-agents-with-sajal-sharma/",
+    "https://www.saastr.com/saastr-ai-app-of-the-week-sumble-the-kaggle-founders-rebuilt-sales-intelligence-around-context-not-contacts/",
+    "https://www.businessinsider.com/steve-ballmer-accepts-his-punishment-for-the-kawhi-leonard-scandal-2026-9"
   ],
-  "generated_at": "2026-09-11T19:02:02.596142+00:00"
+  "generated_at": "2026-09-14T20:11:31.027499+00:00"
 }

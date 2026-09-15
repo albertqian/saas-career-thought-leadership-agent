@@ -31,16 +31,6 @@
       "fetched_at": "2026-09-14T20:11:26.850251+00:00"
     },
     {
-      "id": "62cc0000f925",
-      "title": "AI Agents Are Thirsty for Power",
-      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-      "source": "Wired",
-      "score": 7.0,
-      "published": "2026-09-13T10:00:00+00:00",
-      "fetched_at": "2026-09-14T20:11:28.234406+00:00"
-    },
-    {
       "id": "d360e52aaf33",
       "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
       "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
@@ -101,16 +91,6 @@
       "fetched_at": "2026-09-14T20:11:29.993819+00:00"
     },
     {
-      "id": "05a9c68680de",
-      "title": "SaaStr AI App of the Week: Sumble. The Kaggle Founders Rebuilt Sales Intelligence Around Context, Not Contacts",
-      "url": "https://www.saastr.com/saastr-ai-app-of-the-week-sumble-the-kaggle-founders-rebuilt-sales-intelligence-around-context-not-contacts/",
-      "summary": "by Jason Lemkin &#124; AI App of Week, Blog Posts The Next Generation App To Learn What&#8217;s Really Happening In Your Target Accounts Sumble is a knowledge graph of what&#8217;s actually happening inside your target accounts. Not &#8220;does this company use Snowflake,&#8221; but which team uses it, who runs that team, how many people report... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-09-13T12:14:57+00:00",
-      "fetched_at": "2026-09-14T20:11:27.451596+00:00"
-    },
-    {
       "id": "98ff08331257",
       "title": "Clippers owner Steve Ballmer says he has 'sincere regrets' and accepts the NBA's punishment over the Kawhi Leonard scandal",
       "url": "https://www.businessinsider.com/steve-ballmer-accepts-his-punishment-for-the-kawhi-leonard-scandal-2026-9",
@@ -119,11 +99,29 @@
       "score": 3.0,
       "published": "2026-09-14T15:36:18+00:00",
       "fetched_at": "2026-09-14T20:11:30.504799+00:00"
+    },
+    {
+      "id": "06261c41c45c",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-09-15T13:00:00+00:00",
+      "fetched_at": "2026-09-15T19:34:04.564742+00:00"
+    },
+    {
+      "id": "b1ceaff19af2",
+      "title": "The CPU Is Back Thanks To Agents, And What That Means For You",
+      "url": "https://www.forbes.com/sites/sandycarter/2026/09/15/the-cpu-is-back-thanks-to-agents-and-what-that-means-for-you/",
+      "summary": "AI agents are fueling a CPU comeback. Discover why CPUs now power orchestration, tool calls and sandboxes, and what the shift means for AI costs and infrastructure today.",
+      "source": "Forbes Innovation",
+      "score": 7.0,
+      "published": "2026-09-15T19:03:11+00:00",
+      "fetched_at": "2026-09-15T19:34:14.347855+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/sites/timbajarin/2026/07/31/from-tools-to-governed-intelligence-enterprise-ais-platform-moment/",
-    "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/07/31/beyond-model-loyalty-enterprise-ai-must-be-built-for-vendor-volatility/",
     "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
     "https://www.saastr.com/20vc-x-saastr-jensens-first-tweet-ever-the-agent-that-rewrote-my-code-without-telling-me-and-why-the-pe-turnaround-playbook-is-out-of-road/",
@@ -371,7 +369,9 @@
     "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
     "https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-shared-knowledge-base-for-all-your-agents-with-sajal-sharma/",
     "https://www.saastr.com/saastr-ai-app-of-the-week-sumble-the-kaggle-founders-rebuilt-sales-intelligence-around-context-not-contacts/",
-    "https://www.businessinsider.com/steve-ballmer-accepts-his-punishment-for-the-kawhi-leonard-scandal-2026-9"
+    "https://www.businessinsider.com/steve-ballmer-accepts-his-punishment-for-the-kawhi-leonard-scandal-2026-9",
+    "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+    "https://www.forbes.com/sites/sandycarter/2026/09/15/the-cpu-is-back-thanks-to-agents-and-what-that-means-for-you/"
   ],
-  "generated_at": "2026-09-14T20:11:31.027499+00:00"
+  "generated_at": "2026-09-15T19:34:17.659663+00:00"
 }

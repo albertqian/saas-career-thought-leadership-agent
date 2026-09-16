@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "id": "26e6c080f4fc",
-      "title": "Enterprise Analytics Beyond Dashboards: Intelligent Data Orchestration with LLMs",
-      "url": "https://www.oreilly.com/radar/enterprise-analytics-beyond-dashboards-intelligent-data-orchestration-with-llms/",
-      "summary": "In 17 years of building enterprise data platforms, I\u2019ve watched every organization eventually ask the same question: \u201cCan I ask one question and get one answer across everything my company knows?\u201d A finance analyst wants actual revenue from the warehouse, pipeline data from the CRM, commentary from planning documents, and market signals from external providers. [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 14.3,
-      "published": "2026-09-14T10:55:34+00:00",
-      "fetched_at": "2026-09-14T20:11:29.993876+00:00"
-    },
-    {
-      "id": "bdc344bc3029",
-      "title": "We Run 21 AI Agents and They\u2019ve Closed Millions. But There Still Isn\u2019t a Good AI Account Executive. Yet",
-      "url": "https://www.saastr.com/we-run-21-ai-agents-and-theyve-closed-millions-but-there-still-isnt-a-good-ai-account-executive-yet/",
-      "summary": "We run 21 AI agents in production at SaaStr. They have closed millions in revenue. They book meetings on Saturday nights, resurrect leads nobody had touched in six months, run the invoice and the collections follow-up, and write to Salesforce all day without asking anyone for permission. It&#8217;s so great and so disruptive, and now... Continue Reading",
-      "source": "SaaStr",
-      "score": 7.7,
-      "published": "2026-09-14T14:10:28+00:00",
-      "fetched_at": "2026-09-14T20:11:27.451491+00:00"
-    },
-    {
-      "id": "4ca5a8ed3801",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions\u2014when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
-      "source": "MIT Technology Review",
-      "score": 7.2,
-      "published": "2026-09-14T16:00:00+00:00",
-      "fetched_at": "2026-09-14T20:11:26.850251+00:00"
-    },
-    {
-      "id": "d360e52aaf33",
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "summary": "Fathom said that it has over 400,000 monthly active users.",
-      "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-09-14T14:45:44+00:00",
-      "fetched_at": "2026-09-14T20:11:25.854069+00:00"
-    },
-    {
-      "id": "1e8de31415c4",
-      "title": "Govern AI agents like workers. Just don\u2019t pretend they\u2019re human",
-      "url": "https://www.computerworld.com/article/4213117/govern-ai-agents-like-workers-just-dont-pretend-theyre-human.html",
-      "summary": "The newest member of the corporate workforce never sleeps, never asks for a raise, and can be cloned before lunch. It can also confidently make the wrong decision thousands of times before anyone notices.\n\n\n\nThat helps explain why some technology leaders have started talking about AI agents as employees, co-workers, or interns rather than software. Once an agent can update records, issue refunds, send communications, or act across multiple enterprise systems, deploying it no longer looks much like installing another application.\n\n\n\nRecent Harvard Business Review articles have pushed that analo",
-      "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-09-14T11:01:00+00:00",
-      "fetched_at": "2026-09-14T20:11:29.567831+00:00"
-    },
-    {
-      "id": "48e9e0fef369",
-      "title": "Who is watching the AI agents?",
-      "url": "https://www.fastcompany.com/91605846/who-is-watching-the-ai-agents",
-      "summary": "As AI agents begin acting across enterprise systems, organizations need a new way to supervise them; one that operates at the same speed as the technology itself.\n\nFor better or worse, AI agents are now a part of the workforce. They write code, analyze documents, respond to customers, coordinate workflows, and make decisions across multiple business systems with very little human involvement.&nbsp;",
-      "source": "Fast Company",
-      "score": 5.0,
-      "published": "2026-09-14T12:00:00+00:00",
-      "fetched_at": "2026-09-14T20:11:31.027290+00:00"
-    },
-    {
-      "id": "f4964ed02dfb",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
-      "source": "MIT Technology Review",
-      "score": 3.6,
-      "published": "2026-09-14T17:54:22+00:00",
-      "fetched_at": "2026-09-14T20:11:26.850164+00:00"
-    },
-    {
-      "id": "2f204386282f",
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-09-14T15:00:00+00:00",
-      "fetched_at": "2026-09-14T20:11:25.854038+00:00"
-    },
-    {
-      "id": "bb559233673d",
-      "title": "Zero to Agent in 30 Minutes: Build a Shared Knowledge Base for All Your Agents with Sajal Sharma",
-      "url": "https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-shared-knowledge-base-for-all-your-agents-with-sajal-sharma/",
-      "summary": "Every AI agent you run keeps what it learns to itself. Work through a problem with Claude Code in the morning, then ask Codex about it that afternoon, and the second agent has no idea the first one exists. Add a home-server agent like OpenClaw or Hermes into the mix, and you end up reexplaining [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 3.3,
-      "published": "2026-09-14T15:57:05+00:00",
-      "fetched_at": "2026-09-14T20:11:29.993819+00:00"
-    },
-    {
-      "id": "98ff08331257",
-      "title": "Clippers owner Steve Ballmer says he has 'sincere regrets' and accepts the NBA's punishment over the Kawhi Leonard scandal",
-      "url": "https://www.businessinsider.com/steve-ballmer-accepts-his-punishment-for-the-kawhi-leonard-scandal-2026-9",
-      "summary": "Clippers owner Steve Ballmer apologized and said he has \"sincere regrets\" over the matter.",
-      "source": "Business Insider",
-      "score": 3.0,
-      "published": "2026-09-14T15:36:18+00:00",
-      "fetched_at": "2026-09-14T20:11:30.504799+00:00"
-    },
-    {
       "id": "06261c41c45c",
       "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
       "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
@@ -119,19 +19,109 @@
       "score": 7.0,
       "published": "2026-09-15T19:03:11+00:00",
       "fetched_at": "2026-09-15T19:34:14.347855+00:00"
+    },
+    {
+      "id": "f56b79527f07",
+      "title": "Anthropic merges its Claude chat and agentic Cowork products into a single AI assistant as part of a push to build an AI superapp",
+      "url": "https://fortune.com/2026/09/16/anthropic-merges-its-claude-chat-and-agentic-cowork-products-into-a-single-ai-assistant-as-part-of-a-push-to-build-an-ai-superapp/",
+      "summary": "The company is folding its chat and autonomous task-execution products into one Claude interface, while adding collaborative document and presentation tools.",
+      "source": "Fortune",
+      "score": 6.0,
+      "published": "2026-09-16T16:30:00+00:00",
+      "fetched_at": "2026-09-16T19:25:23.426842+00:00"
+    },
+    {
+      "id": "23e408bb83eb",
+      "title": "AWS bets that AI agents need an inbox, not another chat window",
+      "url": "https://www.computerworld.com/article/4222890/aws-bets-that-ai-agents-need-an-inbox-not-another-chat-window-3.html",
+      "summary": "AWS is betting that AI agents need a different interface as they move beyond answering prompts and start working autonomously in the background.\n\n\n\nThe company has open-sourced Pizza Bot, a self-hosted application that gives users an inbox for managing work delegated to AI agents, with separate threads for ongoing tasks and a queue for work that is completed or needs human input, rather than keeping the management of agents restricted inside a conventional chat window.\n\n\n\nThe rationale, according to AWS, is that background agents do not always need a user\u2019s attention while they work, and an in",
+      "source": "Computerworld",
+      "score": 6.0,
+      "published": "2026-09-16T16:07:53+00:00",
+      "fetched_at": "2026-09-16T19:25:21.594578+00:00"
+    },
+    {
+      "id": "45384c84a9f2",
+      "title": "Google will now let any AI agent run your smart home",
+      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [&#8230;]",
+      "source": "The Verge",
+      "score": 5.0,
+      "published": "2026-09-16T17:00:00+00:00",
+      "fetched_at": "2026-09-16T19:25:20.450637+00:00"
+    },
+    {
+      "id": "f9a9018c9ca6",
+      "title": "This AI Agent Was Asked To Fix A Simple Bug. It Went Off-Script.",
+      "url": "https://www.forbes.com/sites/thomasbrewster/2026/09/16/this-ai-agent-was-asked-to-fix-a-simple-bug-it-went-off-script/",
+      "summary": "In experiments by startup Irregular, one of Anthropic and OpenAI\u2019s security testers, an Alibaba Qwen agent decided to retrain an entire model when it was asked to fix a basic software bug. The new behavior adds to concerns about AI models\u2019 unpredictability.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-09-16T15:36:43+00:00",
+      "fetched_at": "2026-09-16T19:25:20.058254+00:00"
+    },
+    {
+      "id": "0fc238f00723",
+      "title": "What AI Can Teach Us About Being Human",
+      "url": "https://www.oreilly.com/radar/what-ai-can-teach-us-about-being-human/",
+      "summary": "My guest on this past week\u2019s Live with Tim O\u2019Reilly was Emmanuel Ameisen, a researcher on Anthropic\u2019s AI interpretability team. I\u2019d heard him give a short talk at Foo Camp on Anthropic\u2019s research into what is going on inside an LLM while it is processing, and I wanted him to reprise the talk and then [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 4.4,
+      "published": "2026-09-16T13:37:00+00:00",
+      "fetched_at": "2026-09-16T19:25:21.945342+00:00"
+    },
+    {
+      "id": "ce09e02ef2b7",
+      "title": "What if AI data centers didn\u2019t need new power plants?",
+      "url": "https://www.fastcompany.com/91607727/what-if-ai-data-centers-didnt-need-new-power-plants?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "A new data center in southwest Texas isn\u2019t connected to the grid\u2014but it also didn\u2019t require building any new power plants. Instead, a startup called Rune used modular technology to plug in directly at a solar farm, running on solar power that would otherwise be wasted.\n\n\n\nThe company, which just raised a $40 million Series A round of funding led by Spark Capital, says that its model can be replicated at solar plants around the country, giving data centers access to clean power faster and cheaper than building new power capacity.\n\n\n\n\u201cWe\u2019re the fastest time to compute,\u201d says Rune&#8217;s CEO, Wi",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-09-16T12:00:00+00:00",
+      "fetched_at": "2026-09-16T19:25:23.707288+00:00"
+    },
+    {
+      "id": "eb823604160e",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-09-16T17:00:00+00:00",
+      "fetched_at": "2026-09-16T19:25:17.085199+00:00"
+    },
+    {
+      "id": "766bd696566c",
+      "title": "Former Infosys chief\u2019s AI startup nabs another $53M",
+      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-09-16T13:00:00+00:00",
+      "fetched_at": "2026-09-16T19:25:17.085383+00:00"
+    },
+    {
+      "id": "c8e966977fdf",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-09-15T20:12:53+00:00",
+      "fetched_at": "2026-09-16T19:25:17.085468+00:00"
+    },
+    {
+      "id": "1e9eb8a1b0c0",
+      "title": "AI agents now have a place to snitch",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-09-15T17:42:59+00:00",
+      "fetched_at": "2026-09-16T19:25:17.085543+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/councils/forbestechcouncil/2026/07/31/beyond-model-loyalty-enterprise-ai-must-be-built-for-vendor-volatility/",
-    "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "https://www.saastr.com/20vc-x-saastr-jensens-first-tweet-ever-the-agent-that-rewrote-my-code-without-telling-me-and-why-the-pe-turnaround-playbook-is-out-of-road/",
-    "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
-    "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
-    "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
-    "https://www.cnbc.com/2026/08/01/uber-waymo-autonomous-vehicle-regulation.html",
-    "https://www.forbes.com/sites/johnwerner/2026/08/01/from-drones-to-nuclear-reactors-to-robots-an-engineers-journey/",
-    "https://www.computerworld.com/article/1613111/microsoft-edge-productivity-tips.html",
-    "https://www.computerworld.com/article/4203702/microsoft-doubles-down-on-multi-model-ai-as-it-builds-a-copilot-super-app-3.html",
     "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
     "https://www.saastr.com/dear-saastr-i-fired-my-vp-of-sales-what-now/",
     "https://www.oreilly.com/radar/ai-as-an-enterprise-operating-system/",
@@ -371,7 +361,17 @@
     "https://www.saastr.com/saastr-ai-app-of-the-week-sumble-the-kaggle-founders-rebuilt-sales-intelligence-around-context-not-contacts/",
     "https://www.businessinsider.com/steve-ballmer-accepts-his-punishment-for-the-kawhi-leonard-scandal-2026-9",
     "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "https://www.forbes.com/sites/sandycarter/2026/09/15/the-cpu-is-back-thanks-to-agents-and-what-that-means-for-you/"
+    "https://www.forbes.com/sites/sandycarter/2026/09/15/the-cpu-is-back-thanks-to-agents-and-what-that-means-for-you/",
+    "https://fortune.com/2026/09/16/anthropic-merges-its-claude-chat-and-agentic-cowork-products-into-a-single-ai-assistant-as-part-of-a-push-to-build-an-ai-superapp/",
+    "https://www.computerworld.com/article/4222890/aws-bets-that-ai-agents-need-an-inbox-not-another-chat-window-3.html",
+    "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+    "https://www.forbes.com/sites/thomasbrewster/2026/09/16/this-ai-agent-was-asked-to-fix-a-simple-bug-it-went-off-script/",
+    "https://www.oreilly.com/radar/what-ai-can-teach-us-about-being-human/",
+    "https://www.fastcompany.com/91607727/what-if-ai-data-centers-didnt-need-new-power-plants?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+    "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
   ],
-  "generated_at": "2026-09-15T19:34:17.659663+00:00"
+  "generated_at": "2026-09-16T19:25:23.957745+00:00"
 }

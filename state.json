@@ -1,26 +1,6 @@
 {
   "queue": [
     {
-      "id": "06261c41c45c",
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-09-15T13:00:00+00:00",
-      "fetched_at": "2026-09-15T19:34:04.564742+00:00"
-    },
-    {
-      "id": "b1ceaff19af2",
-      "title": "The CPU Is Back Thanks To Agents, And What That Means For You",
-      "url": "https://www.forbes.com/sites/sandycarter/2026/09/15/the-cpu-is-back-thanks-to-agents-and-what-that-means-for-you/",
-      "summary": "AI agents are fueling a CPU comeback. Discover why CPUs now power orchestration, tool calls and sandboxes, and what the shift means for AI costs and infrastructure today.",
-      "source": "Forbes Innovation",
-      "score": 7.0,
-      "published": "2026-09-15T19:03:11+00:00",
-      "fetched_at": "2026-09-15T19:34:14.347855+00:00"
-    },
-    {
       "id": "f56b79527f07",
       "title": "Anthropic merges its Claude chat and agentic Cowork products into a single AI assistant as part of a push to build an AI superapp",
       "url": "https://fortune.com/2026/09/16/anthropic-merges-its-claude-chat-and-agentic-cowork-products-into-a-single-ai-assistant-as-part-of-a-push-to-build-an-ai-superapp/",
@@ -111,20 +91,37 @@
       "fetched_at": "2026-09-16T19:25:17.085468+00:00"
     },
     {
-      "id": "1e9eb8a1b0c0",
-      "title": "AI agents now have a place to snitch",
-      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "id": "b5ac28147197",
+      "title": "Rethinking The Infrastructure Behind Intelligent Workspaces",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/17/rethinking-the-infrastructure-behind-intelligent-workspaces/",
+      "summary": "The digital workspace is evolving from a way to deliver applications to an orchestration layer that connects people, AI agents, applications, enterprise data and security policies.",
+      "source": "Forbes Innovation",
+      "score": 10.0,
+      "published": "2026-09-17T14:45:00+00:00",
+      "fetched_at": "2026-09-17T19:35:53.568681+00:00"
+    },
+    {
+      "id": "b594014fc0a3",
+      "title": "I don't like LLMs",
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "summary": "I have a lot of mixed feelings about AI and LLM technology. I\u2019m\nfascinated by its effect on our profession, excited by the potential gains\nin productivity - and thus the products we could rapidly build. On the other\nhand, I\u2019m fearful of the damage AI might cause: agent swarms taking over our\nvirtual and physical infrastructure, designing bio weapons. But, back on my\nfirst hand, LLMs might also design miracle cures, and come up with clever\nways to raise our prosperity. Fundamentally I don\u2019t think we have a choice\nabout riding on the AI technology train. It\u2019s a wild ride and I just hope\nwe\u2019ll ge",
+      "source": "Martin Fowler",
+      "score": 6.6,
+      "published": "2026-09-17T13:50:00+00:00",
+      "fetched_at": "2026-09-17T19:35:56.284272+00:00"
+    },
+    {
+      "id": "b7c7d891caa0",
+      "title": "Your startup\u2019s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other \u2014 and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
       "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-09-15T17:42:59+00:00",
-      "fetched_at": "2026-09-16T19:25:17.085543+00:00"
+      "score": 4.8,
+      "published": "2026-09-17T03:30:00+00:00",
+      "fetched_at": "2026-09-17T19:35:50.204668+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "https://www.saastr.com/dear-saastr-i-fired-my-vp-of-sales-what-now/",
-    "https://www.oreilly.com/radar/ai-as-an-enterprise-operating-system/",
     "https://www.saastr.com/dilutionalwaysmore/",
     "https://www.oreilly.com/radar/this-week-in-ai-agents-gatekeepers-and-world-models/",
     "https://www.saastr.com/jason-lemkin-interesting-startup-sales-incentive-plan-echosign-reps-compensated-multi-year-deals/",
@@ -371,7 +368,10 @@
     "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
     "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
     "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
+    "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/09/17/rethinking-the-infrastructure-behind-intelligent-workspaces/",
+    "https://martinfowler.com/articles/2026-dont-like-llms.html",
+    "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
   ],
-  "generated_at": "2026-09-16T19:25:23.957745+00:00"
+  "generated_at": "2026-09-17T19:35:57.546124+00:00"
 }

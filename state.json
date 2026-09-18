@@ -1,96 +1,6 @@
 {
   "queue": [
     {
-      "id": "f56b79527f07",
-      "title": "Anthropic merges its Claude chat and agentic Cowork products into a single AI assistant as part of a push to build an AI superapp",
-      "url": "https://fortune.com/2026/09/16/anthropic-merges-its-claude-chat-and-agentic-cowork-products-into-a-single-ai-assistant-as-part-of-a-push-to-build-an-ai-superapp/",
-      "summary": "The company is folding its chat and autonomous task-execution products into one Claude interface, while adding collaborative document and presentation tools.",
-      "source": "Fortune",
-      "score": 6.0,
-      "published": "2026-09-16T16:30:00+00:00",
-      "fetched_at": "2026-09-16T19:25:23.426842+00:00"
-    },
-    {
-      "id": "23e408bb83eb",
-      "title": "AWS bets that AI agents need an inbox, not another chat window",
-      "url": "https://www.computerworld.com/article/4222890/aws-bets-that-ai-agents-need-an-inbox-not-another-chat-window-3.html",
-      "summary": "AWS is betting that AI agents need a different interface as they move beyond answering prompts and start working autonomously in the background.\n\n\n\nThe company has open-sourced Pizza Bot, a self-hosted application that gives users an inbox for managing work delegated to AI agents, with separate threads for ongoing tasks and a queue for work that is completed or needs human input, rather than keeping the management of agents restricted inside a conventional chat window.\n\n\n\nThe rationale, according to AWS, is that background agents do not always need a user\u2019s attention while they work, and an in",
-      "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-09-16T16:07:53+00:00",
-      "fetched_at": "2026-09-16T19:25:21.594578+00:00"
-    },
-    {
-      "id": "45384c84a9f2",
-      "title": "Google will now let any AI agent run your smart home",
-      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [&#8230;]",
-      "source": "The Verge",
-      "score": 5.0,
-      "published": "2026-09-16T17:00:00+00:00",
-      "fetched_at": "2026-09-16T19:25:20.450637+00:00"
-    },
-    {
-      "id": "f9a9018c9ca6",
-      "title": "This AI Agent Was Asked To Fix A Simple Bug. It Went Off-Script.",
-      "url": "https://www.forbes.com/sites/thomasbrewster/2026/09/16/this-ai-agent-was-asked-to-fix-a-simple-bug-it-went-off-script/",
-      "summary": "In experiments by startup Irregular, one of Anthropic and OpenAI\u2019s security testers, an Alibaba Qwen agent decided to retrain an entire model when it was asked to fix a basic software bug. The new behavior adds to concerns about AI models\u2019 unpredictability.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-09-16T15:36:43+00:00",
-      "fetched_at": "2026-09-16T19:25:20.058254+00:00"
-    },
-    {
-      "id": "0fc238f00723",
-      "title": "What AI Can Teach Us About Being Human",
-      "url": "https://www.oreilly.com/radar/what-ai-can-teach-us-about-being-human/",
-      "summary": "My guest on this past week\u2019s Live with Tim O\u2019Reilly was Emmanuel Ameisen, a researcher on Anthropic\u2019s AI interpretability team. I\u2019d heard him give a short talk at Foo Camp on Anthropic\u2019s research into what is going on inside an LLM while it is processing, and I wanted him to reprise the talk and then [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 4.4,
-      "published": "2026-09-16T13:37:00+00:00",
-      "fetched_at": "2026-09-16T19:25:21.945342+00:00"
-    },
-    {
-      "id": "ce09e02ef2b7",
-      "title": "What if AI data centers didn\u2019t need new power plants?",
-      "url": "https://www.fastcompany.com/91607727/what-if-ai-data-centers-didnt-need-new-power-plants?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "A new data center in southwest Texas isn\u2019t connected to the grid\u2014but it also didn\u2019t require building any new power plants. Instead, a startup called Rune used modular technology to plug in directly at a solar farm, running on solar power that would otherwise be wasted.\n\n\n\nThe company, which just raised a $40 million Series A round of funding led by Spark Capital, says that its model can be replicated at solar plants around the country, giving data centers access to clean power faster and cheaper than building new power capacity.\n\n\n\n\u201cWe\u2019re the fastest time to compute,\u201d says Rune&#8217;s CEO, Wi",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-09-16T12:00:00+00:00",
-      "fetched_at": "2026-09-16T19:25:23.707288+00:00"
-    },
-    {
-      "id": "eb823604160e",
-      "title": "Your AI agents can now control your Google Home devices",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-09-16T17:00:00+00:00",
-      "fetched_at": "2026-09-16T19:25:17.085199+00:00"
-    },
-    {
-      "id": "766bd696566c",
-      "title": "Former Infosys chief\u2019s AI startup nabs another $53M",
-      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-09-16T13:00:00+00:00",
-      "fetched_at": "2026-09-16T19:25:17.085383+00:00"
-    },
-    {
-      "id": "c8e966977fdf",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-09-15T20:12:53+00:00",
-      "fetched_at": "2026-09-16T19:25:17.085468+00:00"
-    },
-    {
       "id": "b5ac28147197",
       "title": "Rethinking The Infrastructure Behind Intelligent Workspaces",
       "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/17/rethinking-the-infrastructure-behind-intelligent-workspaces/",
@@ -119,18 +29,99 @@
       "score": 4.8,
       "published": "2026-09-17T03:30:00+00:00",
       "fetched_at": "2026-09-17T19:35:50.204668+00:00"
+    },
+    {
+      "id": "cee9e35b5912",
+      "title": "What\u2019s Truly \u201cGreat\u201d Now in B2B + AI Per ICONIQ? 115% Growth at $100M+, 55% Gross Margins, and $655K in Revenue Per Employee",
+      "url": "https://www.saastr.com/whats-truly-great-now-in-b2b-ai-per-iconiq-115-growth-at-100m-55-gross-margins-and-655k-in-revenue-per-employee/",
+      "summary": "ICONIQ just published The Pacesetter Index. It replaces their Enterprise Five Scorecard, and shows the real growth rates and metrics for the top venture-backed startups. Not the average.\u00a0 But to be clear, what most VCs want to fund, The pool: the top public software companies plus ICONIQ&#8217;s own private venture and growth portfolio companies. Quarterly... Continue Reading",
+      "source": "SaaStr",
+      "score": 6.6,
+      "published": "2026-09-18T14:10:11+00:00",
+      "fetched_at": "2026-09-18T18:55:38.360108+00:00"
+    },
+    {
+      "id": "22b6bd9b8747",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-09-17T20:00:00+00:00",
+      "fetched_at": "2026-09-18T18:55:36.920908+00:00"
+    },
+    {
+      "id": "ce3fa9933f65",
+      "title": "Claude, Anthropic\u2019s AI model, is helping to develop the next version of itself",
+      "url": "https://www.fastcompany.com/91609568/claude-anthropics-ai-model-helping-develop-next-version-itself?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Anthropic&#8217;s Claude is helping the company develop the next, more intelligent version of the model, the artificial intelligence lab said in an announcement Thursday.Claude is leading 26% of Anthropic&#8217;s model research and development, which the company said means it can complete most of a given task &#8220;end-to-end from a high-level prompt&#8221; while still being under human supervision. The model is not yet working completely autonomously.Still, about 90% of the company&#8217;s research and development is done in &#8220;collaboration&#8221; with Claude, which Anthropic said means",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-09-18T13:08:21+00:00",
+      "fetched_at": "2026-09-18T18:55:41.411118+00:00"
+    },
+    {
+      "id": "33667e539a0b",
+      "title": "5 Interesting Learnings from ServiceTitan at $1.14 Billion in Revenue: 21% Growth \u2026 But a Back Half Guided to Mid-Teens, and a 30% One-Day Stock Price Drop",
+      "url": "https://www.saastr.com/5-interesting-learnings-from-servicetitan-at-1-14-billion-in-revenue-21-growth-but-a-back-half-guided-to-mid-teens-and-a-30-one-day-stock-price-drop/",
+      "summary": "&#8220;Vertical SaaS for The Traders&#8221; leader ServiceTitan reported its fiscal Q2 2027 on September 8 (quarter ended July 31, 2026), and on paper it was a good quarter. Revenue of $292.8M, up 21%, ahead of their own 18% guide and ahead of consensus. Non-GAAP EPS of $0.40 against $0.36 expected. Operating margin up 310 basis... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-09-17T14:10:57+00:00",
+      "fetched_at": "2026-09-18T18:55:38.360168+00:00"
+    },
+    {
+      "id": "0fd14087b9b6",
+      "title": "The internet belongs to the AI agents now",
+      "url": "https://www.businessinsider.com/ai-agents-change-how-web-internet-works-2026-9",
+      "summary": "AI agents are rapidly becoming the internet's biggest users, reshaping websites, online services, and digital commerce.",
+      "source": "Business Insider",
+      "score": 4.0,
+      "published": "2026-09-18T15:58:26+00:00",
+      "fetched_at": "2026-09-18T18:55:41.050749+00:00"
+    },
+    {
+      "id": "9aa7c7917a68",
+      "title": "Claude, Anthropic\u2019s AI model, is helping to develop the next version of itself",
+      "url": "https://www.fastcompany.com/91609568/claude-anthropics-ai-model-helping-develop-next-version-itself",
+      "summary": "Anthropic revealed that 26% of its model research and development is led by Claude.\n\nAnthropic&#8217;s Claude is helping the company develop the next, more intelligent version of the model, the artificial intelligence lab said in an announcement Thursday.Claude is leading 26% of Anthropic&#8217;s model research and development, which the company said means it can complete most of a given task &#8220;end-to-end from a high-level prompt&#8221; while still being under human supervision. The model is not yet working completely autonomously.Still, about 90% of the company&#8217;s research and devel",
+      "source": "Fast Company",
+      "score": 4.0,
+      "published": "2026-09-18T13:08:21+00:00",
+      "fetched_at": "2026-09-18T18:55:41.556914+00:00"
+    },
+    {
+      "id": "ba6666d69492",
+      "title": "Google just built the infrastructure for agentic commerce",
+      "url": "https://www.fastcompany.com/91608465/google-just-built-the-infrastructure-for-agentic-commerce",
+      "summary": "The payment question is yours to solve.\n\nIndustry players say agentic commerce is the next big revolution in retail. I&#8217;ve spent my career in payments infrastructure and watched the same pattern repeat with every new commerce technology. It gets built on rails that weren&#8217;t designed for it, and nobody notices until something breaks.",
+      "source": "Fast Company",
+      "score": 4.0,
+      "published": "2026-09-18T12:00:00+00:00",
+      "fetched_at": "2026-09-18T18:55:41.557043+00:00"
+    },
+    {
+      "id": "56012947a93a",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "source": "Ars Technica",
+      "score": 4.0,
+      "published": "2026-09-17T20:24:34+00:00",
+      "fetched_at": "2026-09-18T18:55:39.696170+00:00"
+    },
+    {
+      "id": "c47982871626",
+      "title": "Claude Code\u2019s revised projects adds AI orchestration, but local developers must wait",
+      "url": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
+      "summary": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
+      "source": "ZDNet",
+      "score": 4.0,
+      "published": "2026-09-17T17:00:00+00:00",
+      "fetched_at": "2026-09-18T18:55:39.785075+00:00"
     }
   ],
   "history": [
-    "https://www.saastr.com/dilutionalwaysmore/",
-    "https://www.oreilly.com/radar/this-week-in-ai-agents-gatekeepers-and-world-models/",
-    "https://www.saastr.com/jason-lemkin-interesting-startup-sales-incentive-plan-echosign-reps-compensated-multi-year-deals/",
-    "https://www.fastcompany.com/91584042/ai-boom-college-majors-all-types-dabbling-computer-science?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91582633/palantir-earnings-will-test-the-real-shape-of-enterprise-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.computerworld.com/article/4204420/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch-2.html",
-    "https://www.fastcompany.com/91582633/palantir-earnings-will-test-the-real-shape-of-enterprise-ai",
-    "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
-    "https://www.fastcompany.com/91584042/ai-boom-college-majors-all-types-dabbling-computer-science",
     "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/",
     "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
     "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
@@ -371,7 +362,16 @@
     "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/09/17/rethinking-the-infrastructure-behind-intelligent-workspaces/",
     "https://martinfowler.com/articles/2026-dont-like-llms.html",
-    "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
+    "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "https://www.saastr.com/whats-truly-great-now-in-b2b-ai-per-iconiq-115-growth-at-100m-55-gross-margins-and-655k-in-revenue-per-employee/",
+    "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+    "https://www.fastcompany.com/91609568/claude-anthropics-ai-model-helping-develop-next-version-itself?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.saastr.com/5-interesting-learnings-from-servicetitan-at-1-14-billion-in-revenue-21-growth-but-a-back-half-guided-to-mid-teens-and-a-30-one-day-stock-price-drop/",
+    "https://www.businessinsider.com/ai-agents-change-how-web-internet-works-2026-9",
+    "https://www.fastcompany.com/91609568/claude-anthropics-ai-model-helping-develop-next-version-itself",
+    "https://www.fastcompany.com/91608465/google-just-built-the-infrastructure-for-agentic-commerce",
+    "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+    "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/"
   ],
-  "generated_at": "2026-09-17T19:35:57.546124+00:00"
+  "generated_at": "2026-09-18T18:55:41.557339+00:00"
 }

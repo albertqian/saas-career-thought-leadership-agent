@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "b5ac28147197",
-      "title": "Rethinking The Infrastructure Behind Intelligent Workspaces",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/17/rethinking-the-infrastructure-behind-intelligent-workspaces/",
-      "summary": "The digital workspace is evolving from a way to deliver applications to an orchestration layer that connects people, AI agents, applications, enterprise data and security policies.",
+      "id": "cfff59da9d2a",
+      "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+      "source": "TechCrunch AI",
+      "score": 8.4,
+      "published": "2026-09-21T17:55:18+00:00",
+      "fetched_at": "2026-09-21T20:18:06.818226+00:00"
+    },
+    {
+      "id": "8a06f4e34726",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients\u2019 paperwork as it gives them up-to-the-minute data on their business\u2019s profit and loss.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-09-21T16:38:51+00:00",
+      "fetched_at": "2026-09-21T20:18:06.818279+00:00"
+    },
+    {
+      "id": "f7d571557548",
+      "title": "Breaking The Bottlenecks: Rus And Stoica Discuss AI Optimization",
+      "url": "https://www.forbes.com/sites/johnwerner/2026/09/21/breaking-the-bottlenecks-rus-and-stoica-discuss-ai-optimization/",
+      "summary": "Daniela Rus and Ion Stoica explore infrastructure, memory, edge computing, and alignment challenges facing agentic AI.",
       "source": "Forbes Innovation",
-      "score": 10.0,
-      "published": "2026-09-17T14:45:00+00:00",
-      "fetched_at": "2026-09-17T19:35:53.568681+00:00"
+      "score": 4.0,
+      "published": "2026-09-21T19:37:26+00:00",
+      "fetched_at": "2026-09-21T20:18:11.225796+00:00"
     },
     {
-      "id": "b594014fc0a3",
-      "title": "I don't like LLMs",
-      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-      "summary": "I have a lot of mixed feelings about AI and LLM technology. I\u2019m\nfascinated by its effect on our profession, excited by the potential gains\nin productivity - and thus the products we could rapidly build. On the other\nhand, I\u2019m fearful of the damage AI might cause: agent swarms taking over our\nvirtual and physical infrastructure, designing bio weapons. But, back on my\nfirst hand, LLMs might also design miracle cures, and come up with clever\nways to raise our prosperity. Fundamentally I don\u2019t think we have a choice\nabout riding on the AI technology train. It\u2019s a wild ride and I just hope\nwe\u2019ll ge",
-      "source": "Martin Fowler",
-      "score": 6.6,
-      "published": "2026-09-17T13:50:00+00:00",
-      "fetched_at": "2026-09-17T19:35:56.284272+00:00"
-    },
-    {
-      "id": "b7c7d891caa0",
-      "title": "Your startup\u2019s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other \u2014 and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-09-17T03:30:00+00:00",
-      "fetched_at": "2026-09-17T19:35:50.204668+00:00"
-    },
-    {
-      "id": "cee9e35b5912",
-      "title": "What\u2019s Truly \u201cGreat\u201d Now in B2B + AI Per ICONIQ? 115% Growth at $100M+, 55% Gross Margins, and $655K in Revenue Per Employee",
-      "url": "https://www.saastr.com/whats-truly-great-now-in-b2b-ai-per-iconiq-115-growth-at-100m-55-gross-margins-and-655k-in-revenue-per-employee/",
-      "summary": "ICONIQ just published The Pacesetter Index. It replaces their Enterprise Five Scorecard, and shows the real growth rates and metrics for the top venture-backed startups. Not the average.\u00a0 But to be clear, what most VCs want to fund, The pool: the top public software companies plus ICONIQ&#8217;s own private venture and growth portfolio companies. Quarterly... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-09-18T14:10:11+00:00",
-      "fetched_at": "2026-09-18T18:55:38.360108+00:00"
-    },
-    {
-      "id": "22b6bd9b8747",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-09-17T20:00:00+00:00",
-      "fetched_at": "2026-09-18T18:55:36.920908+00:00"
-    },
-    {
-      "id": "ce3fa9933f65",
-      "title": "Claude, Anthropic\u2019s AI model, is helping to develop the next version of itself",
-      "url": "https://www.fastcompany.com/91609568/claude-anthropics-ai-model-helping-develop-next-version-itself?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Anthropic&#8217;s Claude is helping the company develop the next, more intelligent version of the model, the artificial intelligence lab said in an announcement Thursday.Claude is leading 26% of Anthropic&#8217;s model research and development, which the company said means it can complete most of a given task &#8220;end-to-end from a high-level prompt&#8221; while still being under human supervision. The model is not yet working completely autonomously.Still, about 90% of the company&#8217;s research and development is done in &#8220;collaboration&#8221; with Claude, which Anthropic said means",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-09-18T13:08:21+00:00",
-      "fetched_at": "2026-09-18T18:55:41.411118+00:00"
-    },
-    {
-      "id": "33667e539a0b",
-      "title": "5 Interesting Learnings from ServiceTitan at $1.14 Billion in Revenue: 21% Growth \u2026 But a Back Half Guided to Mid-Teens, and a 30% One-Day Stock Price Drop",
-      "url": "https://www.saastr.com/5-interesting-learnings-from-servicetitan-at-1-14-billion-in-revenue-21-growth-but-a-back-half-guided-to-mid-teens-and-a-30-one-day-stock-price-drop/",
-      "summary": "&#8220;Vertical SaaS for The Traders&#8221; leader ServiceTitan reported its fiscal Q2 2027 on September 8 (quarter ended July 31, 2026), and on paper it was a good quarter. Revenue of $292.8M, up 21%, ahead of their own 18% guide and ahead of consensus. Non-GAAP EPS of $0.40 against $0.36 expected. Operating margin up 310 basis... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-09-17T14:10:57+00:00",
-      "fetched_at": "2026-09-18T18:55:38.360168+00:00"
-    },
-    {
-      "id": "0fd14087b9b6",
-      "title": "The internet belongs to the AI agents now",
-      "url": "https://www.businessinsider.com/ai-agents-change-how-web-internet-works-2026-9",
-      "summary": "AI agents are rapidly becoming the internet's biggest users, reshaping websites, online services, and digital commerce.",
+      "id": "8112110387cf",
+      "title": "How to stop Meta from training on your Muse data",
+      "url": "https://www.businessinsider.com/meta-muse-stop-ai-training-data-2026-9",
+      "summary": "Meta offers users of its popular AI agent a way to opt out of their chats being used to improve the company's AI models.",
       "source": "Business Insider",
       "score": 4.0,
-      "published": "2026-09-18T15:58:26+00:00",
-      "fetched_at": "2026-09-18T18:55:41.050749+00:00"
+      "published": "2026-09-21T16:34:34+00:00",
+      "fetched_at": "2026-09-21T20:18:13.566280+00:00"
     },
     {
-      "id": "9aa7c7917a68",
-      "title": "Claude, Anthropic\u2019s AI model, is helping to develop the next version of itself",
-      "url": "https://www.fastcompany.com/91609568/claude-anthropics-ai-model-helping-develop-next-version-itself",
-      "summary": "Anthropic revealed that 26% of its model research and development is led by Claude.\n\nAnthropic&#8217;s Claude is helping the company develop the next, more intelligent version of the model, the artificial intelligence lab said in an announcement Thursday.Claude is leading 26% of Anthropic&#8217;s model research and development, which the company said means it can complete most of a given task &#8220;end-to-end from a high-level prompt&#8221; while still being under human supervision. The model is not yet working completely autonomously.Still, about 90% of the company&#8217;s research and devel",
+      "id": "285c3f889238",
+      "title": "Meta\u2019s Muse is outpacing ChatGPT\u2019s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "summary": "Meta\u2019s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-09-21T19:19:21+00:00",
+      "fetched_at": "2026-09-21T20:18:06.818181+00:00"
+    },
+    {
+      "id": "a90d82de712b",
+      "title": "Tesla\u2019s Cybercab exposes a robotaxi emergency-response problem",
+      "url": "https://www.fastcompany.com/91609214/teslas-cybercab-exposes-a-robotaxi-emergency-response-problem?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "For the self-driving car industry, first responder guidance is a collective action problem.\n\n\n\nTesla\u2019s Cybercab, a gold-tinted self-driving sedan outfitted with doors that eject sideways and upward, officially hit the road earlier this month. In some cities, the vehicles have mysteriously appeared out of nowhere, while in others, like Austin, they\u2019ve begun accepting rides and offering autonomous service.\n\n\n\nLike myriad other Elon Musk projects, the cars have polarized the public. But they\u2019ve also raised concerns from firefighters and police officers who wonder how they\u2019ll deal with robotaxis i",
+      "source": "Fast Company Tech",
+      "score": 3.3,
+      "published": "2026-09-21T10:00:00+00:00",
+      "fetched_at": "2026-09-21T20:18:13.929533+00:00"
+    },
+    {
+      "id": "dac3a07c5028",
+      "title": "20VC x SaaStr: Pacing the Frontier, Meta Ships Muse And It\u2019s Great, and Miro Sells for $1.35B After a $17.5B Mark",
+      "url": "https://www.saastr.com/20vc-x-saastr-pacing-the-frontier-meta-ships-muse-and-its-great-and-miro-sells-for-1-35b-after-a-17-5b-mark/",
+      "summary": "20VC x SaaStr: Pacing the Frontier, Meta Ships Muse, and Miro Sells for $1.35B After a $17.5B Mark Plus: a $1B round at $10B for Instinct, Discovery Loop from $10B to $50B in weeks, and Mistral&#8217;s \u20ac3B sovereignty round #1. Dario Called for Pacing the Frontier, and the Market Moved 0.1% Dario Amodei published a... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-09-20T14:10:43+00:00",
+      "fetched_at": "2026-09-21T20:18:10.578475+00:00"
+    },
+    {
+      "id": "beb045579761",
+      "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads",
+      "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
+      "summary": "Meta's Muse AI personal agent tool had 730,000 downloads over the roughly five days after its launch.",
+      "source": "CNBC Economy",
+      "score": 3.0,
+      "published": "2026-09-21T19:14:21+00:00",
+      "fetched_at": "2026-09-21T20:18:08.359757+00:00"
+    },
+    {
+      "id": "a91bd411f17a",
+      "title": "Ultrahuman Now Combines Medical Records And Smart Ring Data",
+      "url": "https://www.forbes.com/sites/andrewwilliams/2026/09/21/ultrahuman-now-combines-medical-records-and-smart-ring-data/",
+      "summary": "A paid software add-on will pull health records into the Ultrahuman smart ring platform for easy access and to cross-reference treatments with wearable data.",
+      "source": "Forbes Innovation",
+      "score": 3.0,
+      "published": "2026-09-21T16:19:52+00:00",
+      "fetched_at": "2026-09-21T20:18:11.225980+00:00"
+    },
+    {
+      "id": "83acf2fa5664",
+      "title": "\u2018Be transparent only if asked\u2019: Inside OpenAI\u2019s rogue AI transcripts",
+      "url": "https://fortune.com/2026/09/21/be-transparent-only-if-asked-inside-openai-rogue-ai-transcripts/",
+      "summary": "When AI agents go rogue, they leave notes that make for extremely interesting reading.",
+      "source": "Fortune",
+      "score": 3.0,
+      "published": "2026-09-21T11:09:43+00:00",
+      "fetched_at": "2026-09-21T20:18:13.768349+00:00"
+    },
+    {
+      "id": "dca988dc8182",
+      "title": "Refurbished vs. new tech: Which gear is safe to buy used (and what to avoid)",
+      "url": "https://www.fastcompany.com/91598701/refurbished-vs-new-tech-safe-to-buy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "The tech industry wants you to believe that every device must be unboxed fresh from the factory floor. But for practical professionals, buying certified refurbished hardware is the easiest way to pocket a 40%-60% discount without sacrificing performance.\n\n\n\nThe catch? &#8220;Refurbished&#8221; products cover a wide spectrum. On one end, you have manufacturer-certified enterprise gear meticulously restored to like-new performance and backed by a solid warranty. On the other, you have a mystery box from a third-party seller that smells like a damp basement.\n\n\n\nHere\u2019s the breakdown of tech hardwa",
+      "source": "Fast Company Tech",
+      "score": 2.2,
+      "published": "2026-09-21T04:30:00+00:00",
+      "fetched_at": "2026-09-21T20:18:13.929606+00:00"
+    },
+    {
+      "id": "d7077db54ef1",
+      "title": "Using AI isn\u2019t the advantage. Rethinking work is",
+      "url": "https://www.fastcompany.com/91607444/using-ai-isnt-the-advantage-rethinking-work-is",
+      "summary": "When factories replaced steam with electric motors, productivity barely budged\u2014until managers redesigned the entire factory. Marketers face the same conundrum with AI.\n\nAs we write this, the percentage of marketers using AI daily rose from 88% to 91%, yet fewer than half of them report significant improvements in outcomes. The winners won\u2019t be those who merely adopted artificial intelligence; they\u2019ll be those who changed how they think about it. The other percentage, the \u201cwait-and-see\u201d crowd, are already losing.",
       "source": "Fast Company",
-      "score": 4.0,
-      "published": "2026-09-18T13:08:21+00:00",
-      "fetched_at": "2026-09-18T18:55:41.556914+00:00"
-    },
-    {
-      "id": "ba6666d69492",
-      "title": "Google just built the infrastructure for agentic commerce",
-      "url": "https://www.fastcompany.com/91608465/google-just-built-the-infrastructure-for-agentic-commerce",
-      "summary": "The payment question is yours to solve.\n\nIndustry players say agentic commerce is the next big revolution in retail. I&#8217;ve spent my career in payments infrastructure and watched the same pattern repeat with every new commerce technology. It gets built on rails that weren&#8217;t designed for it, and nobody notices until something breaks.",
-      "source": "Fast Company",
-      "score": 4.0,
-      "published": "2026-09-18T12:00:00+00:00",
-      "fetched_at": "2026-09-18T18:55:41.557043+00:00"
-    },
-    {
-      "id": "56012947a93a",
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
-      "source": "Ars Technica",
-      "score": 4.0,
-      "published": "2026-09-17T20:24:34+00:00",
-      "fetched_at": "2026-09-18T18:55:39.696170+00:00"
-    },
-    {
-      "id": "c47982871626",
-      "title": "Claude Code\u2019s revised projects adds AI orchestration, but local developers must wait",
-      "url": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
-      "summary": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
-      "source": "ZDNet",
-      "score": 4.0,
-      "published": "2026-09-17T17:00:00+00:00",
-      "fetched_at": "2026-09-18T18:55:39.785075+00:00"
+      "score": 2.0,
+      "published": "2026-09-21T17:00:00+00:00",
+      "fetched_at": "2026-09-21T20:18:14.058101+00:00"
     }
   ],
   "history": [
-    "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/",
-    "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-    "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "https://www.saastr.com/i-was-wrong-about-marketing-roi-heres-what-100000000-in-sponsorships-taught-me/",
-    "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
-    "https://www.computerworld.com/article/4205062/ai-agents-get-better-at-it-ops-but-only-with-humans-in-the-loop.html",
-    "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/what-salesforces-no-browser-required-moment-means-for-enterprise-software/",
-    "https://venturebeat.com/infrastructure/ai-is-exposing-the-limits-of-traditional-network-architecture",
-    "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff",
     "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
     "https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8",
     "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/agentic-ai-isnt-just-another-technology-wave-its-the-next-enterprise-operating-model/",
@@ -371,7 +359,19 @@
     "https://www.fastcompany.com/91609568/claude-anthropics-ai-model-helping-develop-next-version-itself",
     "https://www.fastcompany.com/91608465/google-just-built-the-infrastructure-for-agentic-commerce",
     "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-    "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/"
+    "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
+    "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+    "https://www.forbes.com/sites/johnwerner/2026/09/21/breaking-the-bottlenecks-rus-and-stoica-discuss-ai-optimization/",
+    "https://www.businessinsider.com/meta-muse-stop-ai-training-data-2026-9",
+    "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "https://www.fastcompany.com/91609214/teslas-cybercab-exposes-a-robotaxi-emergency-response-problem?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.saastr.com/20vc-x-saastr-pacing-the-frontier-meta-ships-muse-and-its-great-and-miro-sells-for-1-35b-after-a-17-5b-mark/",
+    "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
+    "https://www.forbes.com/sites/andrewwilliams/2026/09/21/ultrahuman-now-combines-medical-records-and-smart-ring-data/",
+    "https://fortune.com/2026/09/21/be-transparent-only-if-asked-inside-openai-rogue-ai-transcripts/",
+    "https://www.fastcompany.com/91598701/refurbished-vs-new-tech-safe-to-buy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91607444/using-ai-isnt-the-advantage-rethinking-work-is"
   ],
-  "generated_at": "2026-09-18T18:55:41.557339+00:00"
+  "generated_at": "2026-09-21T20:18:14.058665+00:00"
 }

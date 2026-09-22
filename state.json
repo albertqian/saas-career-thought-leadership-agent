@@ -61,16 +61,6 @@
       "fetched_at": "2026-09-21T20:18:13.929533+00:00"
     },
     {
-      "id": "dac3a07c5028",
-      "title": "20VC x SaaStr: Pacing the Frontier, Meta Ships Muse And It\u2019s Great, and Miro Sells for $1.35B After a $17.5B Mark",
-      "url": "https://www.saastr.com/20vc-x-saastr-pacing-the-frontier-meta-ships-muse-and-its-great-and-miro-sells-for-1-35b-after-a-17-5b-mark/",
-      "summary": "20VC x SaaStr: Pacing the Frontier, Meta Ships Muse, and Miro Sells for $1.35B After a $17.5B Mark Plus: a $1B round at $10B for Instinct, Discovery Loop from $10B to $50B in weeks, and Mistral&#8217;s \u20ac3B sovereignty round #1. Dario Called for Pacing the Frontier, and the Market Moved 0.1% Dario Amodei published a... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-09-20T14:10:43+00:00",
-      "fetched_at": "2026-09-21T20:18:10.578475+00:00"
-    },
-    {
       "id": "beb045579761",
       "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads",
       "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
@@ -119,10 +109,19 @@
       "score": 2.0,
       "published": "2026-09-21T17:00:00+00:00",
       "fetched_at": "2026-09-21T20:18:14.058101+00:00"
+    },
+    {
+      "id": "c114cf81321e",
+      "title": "Enterprise Software Is Learning To Act, Not Just Record",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/22/enterprise-software-is-learning-to-act-not-just-record/",
+      "summary": "Enterprise software has proven to be extremely valuable, but the hard part has always been everything that happens after the data shows up.\u200b",
+      "source": "Forbes Innovation",
+      "score": 7.0,
+      "published": "2026-09-22T13:15:00+00:00",
+      "fetched_at": "2026-09-22T19:36:56.220703+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
     "https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8",
     "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/agentic-ai-isnt-just-another-technology-wave-its-the-next-enterprise-operating-model/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/the-hidden-risk-in-enterprise-ai-ai-fluency/",
@@ -371,7 +370,8 @@
     "https://www.forbes.com/sites/andrewwilliams/2026/09/21/ultrahuman-now-combines-medical-records-and-smart-ring-data/",
     "https://fortune.com/2026/09/21/be-transparent-only-if-asked-inside-openai-rogue-ai-transcripts/",
     "https://www.fastcompany.com/91598701/refurbished-vs-new-tech-safe-to-buy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91607444/using-ai-isnt-the-advantage-rethinking-work-is"
+    "https://www.fastcompany.com/91607444/using-ai-isnt-the-advantage-rethinking-work-is",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/09/22/enterprise-software-is-learning-to-act-not-just-record/"
   ],
-  "generated_at": "2026-09-21T20:18:14.058665+00:00"
+  "generated_at": "2026-09-22T19:37:07.207942+00:00"
 }

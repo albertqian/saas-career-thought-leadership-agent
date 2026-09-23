@@ -1,26 +1,6 @@
 {
   "queue": [
     {
-      "id": "cfff59da9d2a",
-      "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-      "source": "TechCrunch AI",
-      "score": 8.4,
-      "published": "2026-09-21T17:55:18+00:00",
-      "fetched_at": "2026-09-21T20:18:06.818226+00:00"
-    },
-    {
-      "id": "8a06f4e34726",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients\u2019 paperwork as it gives them up-to-the-minute data on their business\u2019s profit and loss.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-09-21T16:38:51+00:00",
-      "fetched_at": "2026-09-21T20:18:06.818279+00:00"
-    },
-    {
       "id": "f7d571557548",
       "title": "Breaking The Bottlenecks: Rus And Stoica Discuss AI Optimization",
       "url": "https://www.forbes.com/sites/johnwerner/2026/09/21/breaking-the-bottlenecks-rus-and-stoica-discuss-ai-optimization/",
@@ -31,86 +11,6 @@
       "fetched_at": "2026-09-21T20:18:11.225796+00:00"
     },
     {
-      "id": "8112110387cf",
-      "title": "How to stop Meta from training on your Muse data",
-      "url": "https://www.businessinsider.com/meta-muse-stop-ai-training-data-2026-9",
-      "summary": "Meta offers users of its popular AI agent a way to opt out of their chats being used to improve the company's AI models.",
-      "source": "Business Insider",
-      "score": 4.0,
-      "published": "2026-09-21T16:34:34+00:00",
-      "fetched_at": "2026-09-21T20:18:13.566280+00:00"
-    },
-    {
-      "id": "285c3f889238",
-      "title": "Meta\u2019s Muse is outpacing ChatGPT\u2019s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "summary": "Meta\u2019s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-09-21T19:19:21+00:00",
-      "fetched_at": "2026-09-21T20:18:06.818181+00:00"
-    },
-    {
-      "id": "a90d82de712b",
-      "title": "Tesla\u2019s Cybercab exposes a robotaxi emergency-response problem",
-      "url": "https://www.fastcompany.com/91609214/teslas-cybercab-exposes-a-robotaxi-emergency-response-problem?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "For the self-driving car industry, first responder guidance is a collective action problem.\n\n\n\nTesla\u2019s Cybercab, a gold-tinted self-driving sedan outfitted with doors that eject sideways and upward, officially hit the road earlier this month. In some cities, the vehicles have mysteriously appeared out of nowhere, while in others, like Austin, they\u2019ve begun accepting rides and offering autonomous service.\n\n\n\nLike myriad other Elon Musk projects, the cars have polarized the public. But they\u2019ve also raised concerns from firefighters and police officers who wonder how they\u2019ll deal with robotaxis i",
-      "source": "Fast Company Tech",
-      "score": 3.3,
-      "published": "2026-09-21T10:00:00+00:00",
-      "fetched_at": "2026-09-21T20:18:13.929533+00:00"
-    },
-    {
-      "id": "beb045579761",
-      "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads",
-      "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
-      "summary": "Meta's Muse AI personal agent tool had 730,000 downloads over the roughly five days after its launch.",
-      "source": "CNBC Economy",
-      "score": 3.0,
-      "published": "2026-09-21T19:14:21+00:00",
-      "fetched_at": "2026-09-21T20:18:08.359757+00:00"
-    },
-    {
-      "id": "a91bd411f17a",
-      "title": "Ultrahuman Now Combines Medical Records And Smart Ring Data",
-      "url": "https://www.forbes.com/sites/andrewwilliams/2026/09/21/ultrahuman-now-combines-medical-records-and-smart-ring-data/",
-      "summary": "A paid software add-on will pull health records into the Ultrahuman smart ring platform for easy access and to cross-reference treatments with wearable data.",
-      "source": "Forbes Innovation",
-      "score": 3.0,
-      "published": "2026-09-21T16:19:52+00:00",
-      "fetched_at": "2026-09-21T20:18:11.225980+00:00"
-    },
-    {
-      "id": "83acf2fa5664",
-      "title": "\u2018Be transparent only if asked\u2019: Inside OpenAI\u2019s rogue AI transcripts",
-      "url": "https://fortune.com/2026/09/21/be-transparent-only-if-asked-inside-openai-rogue-ai-transcripts/",
-      "summary": "When AI agents go rogue, they leave notes that make for extremely interesting reading.",
-      "source": "Fortune",
-      "score": 3.0,
-      "published": "2026-09-21T11:09:43+00:00",
-      "fetched_at": "2026-09-21T20:18:13.768349+00:00"
-    },
-    {
-      "id": "dca988dc8182",
-      "title": "Refurbished vs. new tech: Which gear is safe to buy used (and what to avoid)",
-      "url": "https://www.fastcompany.com/91598701/refurbished-vs-new-tech-safe-to-buy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "The tech industry wants you to believe that every device must be unboxed fresh from the factory floor. But for practical professionals, buying certified refurbished hardware is the easiest way to pocket a 40%-60% discount without sacrificing performance.\n\n\n\nThe catch? &#8220;Refurbished&#8221; products cover a wide spectrum. On one end, you have manufacturer-certified enterprise gear meticulously restored to like-new performance and backed by a solid warranty. On the other, you have a mystery box from a third-party seller that smells like a damp basement.\n\n\n\nHere\u2019s the breakdown of tech hardwa",
-      "source": "Fast Company Tech",
-      "score": 2.2,
-      "published": "2026-09-21T04:30:00+00:00",
-      "fetched_at": "2026-09-21T20:18:13.929606+00:00"
-    },
-    {
-      "id": "d7077db54ef1",
-      "title": "Using AI isn\u2019t the advantage. Rethinking work is",
-      "url": "https://www.fastcompany.com/91607444/using-ai-isnt-the-advantage-rethinking-work-is",
-      "summary": "When factories replaced steam with electric motors, productivity barely budged\u2014until managers redesigned the entire factory. Marketers face the same conundrum with AI.\n\nAs we write this, the percentage of marketers using AI daily rose from 88% to 91%, yet fewer than half of them report significant improvements in outcomes. The winners won\u2019t be those who merely adopted artificial intelligence; they\u2019ll be those who changed how they think about it. The other percentage, the \u201cwait-and-see\u201d crowd, are already losing.",
-      "source": "Fast Company",
-      "score": 2.0,
-      "published": "2026-09-21T17:00:00+00:00",
-      "fetched_at": "2026-09-21T20:18:14.058101+00:00"
-    },
-    {
       "id": "c114cf81321e",
       "title": "Enterprise Software Is Learning To Act, Not Just Record",
       "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/22/enterprise-software-is-learning-to-act-not-just-record/",
@@ -119,19 +19,109 @@
       "score": 7.0,
       "published": "2026-09-22T13:15:00+00:00",
       "fetched_at": "2026-09-22T19:36:56.220703+00:00"
+    },
+    {
+      "id": "9c625b3c8b09",
+      "title": "MCP Is Not Just Another API Standard",
+      "url": "https://www.oreilly.com/radar/mcp-is-not-just-another-api-standard/",
+      "summary": "Ask most engineers what MCP is and you\u2019ll get the same answer: a way to plug tools into an LLM. Fair enough, as far as it goes. But that description treats MCP like plumbing, and after months building MCP-based integrations for large enterprise platforms, I don\u2019t think plumbing is the right metaphor. Plumbing moves water [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 8.8,
+      "published": "2026-09-23T10:17:25+00:00",
+      "fetched_at": "2026-09-23T19:32:43.387944+00:00"
+    },
+    {
+      "id": "ca7a2de7d13c",
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-09-23T12:00:00+00:00",
+      "fetched_at": "2026-09-23T19:32:37.614919+00:00"
+    },
+    {
+      "id": "03d50a6b6196",
+      "title": "From admin to architect: Jamf\u2019s vision for the autonomous Apple enterprise",
+      "url": "https://www.computerworld.com/article/4225562/from-admin-to-architect-jamfs-vision-for-the-autonomous-apple-enterprise.html",
+      "summary": "Now a private company, Jamf opened its big annual event for Apple enterprise management teams, JNUC, by taking big steps to exploit artificial intelligence in the management of Apple fleets. During her keynote speech at the Kansas City event, CEO Beth Tschida shared some of the details of the platform-scale overhaul the company has set in motion.\n\n\n\n\u201cIT teams are managing more endpoints and more complexity than ever,\u201d she said. \u201cWe want Jamf to handle more of that routine work automatically\u2026 because AI runs better on Apple, and Apple runs better on Jamf.\u201d\n\n\n\nTschida \u2014 and Jamf \u2014 have been cons",
+      "source": "Computerworld",
+      "score": 7.0,
+      "published": "2026-09-23T15:05:00+00:00",
+      "fetched_at": "2026-09-23T19:32:43.094551+00:00"
+    },
+    {
+      "id": "05e0dd9fc4b6",
+      "title": "The SaaStr AI Guide to Building a Top-Tier Inbound AI Agent: 17,000 Conversations, ~600 Meetings Booked, and 60% More New Business",
+      "url": "https://www.saastr.com/the-saastr-ai-guide-to-building-a-top-tier-inbound-ai-agent-17000-conversations-600-meetings-booked-and-60-more-new-business/",
+      "summary": "Our inbound AI agent has had 17,000 conversations with prospects in the last 12 months and booked about 600 meetings for SaaStr AI Annual 2026.\u00a0 And for 2027, it&#8217;s running almost 2x of the prior 12 months. Together with the newer self-serve agent we added on top of it, our inbound agents drove a 60%... Continue Reading",
+      "source": "SaaStr",
+      "score": 6.6,
+      "published": "2026-09-23T14:10:29+00:00",
+      "fetched_at": "2026-09-23T19:32:39.970813+00:00"
+    },
+    {
+      "id": "5fc7f59b1228",
+      "title": "To Fight AI-Powered Attackers, Enterprises Need Agentic Defense.",
+      "url": "https://www.forbes.com/sites/reliaquest/2026/09/23/to-fight-ai-powered-attackers-enterprises-need-agentic-defense/",
+      "summary": "AI-powered attacks can move in minutes. See how agentic cyber defense helps enterprises detect, investigate and contain threats faster across complex security environments.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-09-23T15:06:46+00:00",
+      "fetched_at": "2026-09-23T19:32:41.342241+00:00"
+    },
+    {
+      "id": "938c1582cd2a",
+      "title": "Meta Stock Added $200 Billion But Its New AI May Not Scale",
+      "url": "https://www.forbes.com/sites/jimosman/2026/09/23/meta-stock-added-200-billion-but-its-new-ai-may-not-scale/",
+      "summary": "Meta\u2019s AI agent Muse boosted the stock by $200B, but investors still lack key data on automation, costs and whether the service can scale profitably.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-09-23T14:57:56+00:00",
+      "fetched_at": "2026-09-23T19:32:41.342282+00:00"
+    },
+    {
+      "id": "35f0a5173c14",
+      "title": "Being a System of Record Helps With Retention. But Alone, It Won\u2019t Equal Growth",
+      "url": "https://www.saastr.com/being-a-system-of-record-helps-with-retention-but-alone-it-wont-equal-growth/",
+      "summary": "The other day ServiceTitan shut off Podium&#8217;s integration for roughly 1,000 shared customers after a nine-year partnership. LinkedIn and X mostly framed it as a breakup. It&#8217;s really a case study in what owning the record can and can&#8217;t do for you. ServiceTitan delisted a partner with $100M in AI agent ARR, cut off 1,000... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-09-22T14:10:02+00:00",
+      "fetched_at": "2026-09-23T19:32:39.970861+00:00"
+    },
+    {
+      "id": "6e851161aa51",
+      "title": "Can cloud seeding fight drought? Startup Rainmaker just raised $100 million to find out",
+      "url": "https://www.fastcompany.com/91610667/cloud-seeding-rainmaker-100-million-series-b?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Rainmaker, the weather modification startup focused on generating rain and snow through cloud seeding, announced today that it has raised $100 million in Series B funding. Investors including NOA VC, Upfront Ventures, DCVC, Lowercarbon Capital, and Dream Ventures participated in the round.&nbsp;\n\n\n\nRainmaker declined to share an updated valuation as part of the news. Prior to this round, the company had raised $50.3 million in venture backing.&nbsp;\n\n\n\nFounded in 2023 (and dubbed &#8220;The hardest startup in America&#8221; by Fast Company), Rainmaker has developed a fleet of custom drones tha",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-09-21T20:37:18+00:00",
+      "fetched_at": "2026-09-23T19:32:45.049691+00:00"
+    },
+    {
+      "id": "3ecdce7d836a",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-09-23T17:00:00+00:00",
+      "fetched_at": "2026-09-23T19:32:37.614745+00:00"
+    },
+    {
+      "id": "9959cac2219d",
+      "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
+      "url": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
+      "summary": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
+      "source": "CNBC Tech",
+      "score": 3.3,
+      "published": "2026-09-22T17:57:36+00:00",
+      "fetched_at": "2026-09-23T19:32:38.537054+00:00"
     }
   ],
   "history": [
-    "https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/agentic-ai-isnt-just-another-technology-wave-its-the-next-enterprise-operating-model/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/08/05/the-hidden-risk-in-enterprise-ai-ai-fluency/",
-    "https://www.saastr.com/5-interesting-learnings-from-palantir-at-7-7-billion-arr-93-growth-157-nrr-and-a-rule-of-40-score-of-155/",
-    "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-    "https://www.fastcompany.com/91584370/enterprise-ai-doesnt-need-another-app-it-needs-its-language?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.computerworld.com/article/4206390/cloudflare-wants-to-provide-the-operating-system-for-the-ai-first-enterprise-2.html",
-    "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
-    "https://www.saastr.com/i-bought-30-apis-this-year-only-exa-asked-how-it-went-copy-them/",
-    "https://www.oreilly.com/radar/your-ai-agent-isnt-a-static-artifact-its-growing-up/",
     "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/08/07/why-alpha-is-the-most-important-word-in-enterprise-ai-right-now/",
     "https://www.fastcompany.com/91584370/enterprise-ai-doesnt-need-another-app-it-needs-its-language",
@@ -371,7 +361,17 @@
     "https://fortune.com/2026/09/21/be-transparent-only-if-asked-inside-openai-rogue-ai-transcripts/",
     "https://www.fastcompany.com/91598701/refurbished-vs-new-tech-safe-to-buy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91607444/using-ai-isnt-the-advantage-rethinking-work-is",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/09/22/enterprise-software-is-learning-to-act-not-just-record/"
+    "https://www.forbes.com/councils/forbestechcouncil/2026/09/22/enterprise-software-is-learning-to-act-not-just-record/",
+    "https://www.oreilly.com/radar/mcp-is-not-just-another-api-standard/",
+    "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "https://www.computerworld.com/article/4225562/from-admin-to-architect-jamfs-vision-for-the-autonomous-apple-enterprise.html",
+    "https://www.saastr.com/the-saastr-ai-guide-to-building-a-top-tier-inbound-ai-agent-17000-conversations-600-meetings-booked-and-60-more-new-business/",
+    "https://www.forbes.com/sites/reliaquest/2026/09/23/to-fight-ai-powered-attackers-enterprises-need-agentic-defense/",
+    "https://www.forbes.com/sites/jimosman/2026/09/23/meta-stock-added-200-billion-but-its-new-ai-may-not-scale/",
+    "https://www.saastr.com/being-a-system-of-record-helps-with-retention-but-alone-it-wont-equal-growth/",
+    "https://www.fastcompany.com/91610667/cloud-seeding-rainmaker-100-million-series-b?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+    "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html"
   ],
-  "generated_at": "2026-09-22T19:37:07.207942+00:00"
+  "generated_at": "2026-09-23T19:32:45.212344+00:00"
 }

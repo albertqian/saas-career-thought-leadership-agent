@@ -1,26 +1,6 @@
 {
   "queue": [
     {
-      "id": "f7d571557548",
-      "title": "Breaking The Bottlenecks: Rus And Stoica Discuss AI Optimization",
-      "url": "https://www.forbes.com/sites/johnwerner/2026/09/21/breaking-the-bottlenecks-rus-and-stoica-discuss-ai-optimization/",
-      "summary": "Daniela Rus and Ion Stoica explore infrastructure, memory, edge computing, and alignment challenges facing agentic AI.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-09-21T19:37:26+00:00",
-      "fetched_at": "2026-09-21T20:18:11.225796+00:00"
-    },
-    {
-      "id": "c114cf81321e",
-      "title": "Enterprise Software Is Learning To Act, Not Just Record",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/22/enterprise-software-is-learning-to-act-not-just-record/",
-      "summary": "Enterprise software has proven to be extremely valuable, but the hard part has always been everything that happens after the data shows up.\u200b",
-      "source": "Forbes Innovation",
-      "score": 7.0,
-      "published": "2026-09-22T13:15:00+00:00",
-      "fetched_at": "2026-09-22T19:36:56.220703+00:00"
-    },
-    {
       "id": "9c625b3c8b09",
       "title": "MCP Is Not Just Another API Standard",
       "url": "https://www.oreilly.com/radar/mcp-is-not-just-another-api-standard/",
@@ -81,26 +61,6 @@
       "fetched_at": "2026-09-23T19:32:41.342282+00:00"
     },
     {
-      "id": "35f0a5173c14",
-      "title": "Being a System of Record Helps With Retention. But Alone, It Won\u2019t Equal Growth",
-      "url": "https://www.saastr.com/being-a-system-of-record-helps-with-retention-but-alone-it-wont-equal-growth/",
-      "summary": "The other day ServiceTitan shut off Podium&#8217;s integration for roughly 1,000 shared customers after a nine-year partnership. LinkedIn and X mostly framed it as a breakup. It&#8217;s really a case study in what owning the record can and can&#8217;t do for you. ServiceTitan delisted a partner with $100M in AI agent ARR, cut off 1,000... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-09-22T14:10:02+00:00",
-      "fetched_at": "2026-09-23T19:32:39.970861+00:00"
-    },
-    {
-      "id": "6e851161aa51",
-      "title": "Can cloud seeding fight drought? Startup Rainmaker just raised $100 million to find out",
-      "url": "https://www.fastcompany.com/91610667/cloud-seeding-rainmaker-100-million-series-b?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Rainmaker, the weather modification startup focused on generating rain and snow through cloud seeding, announced today that it has raised $100 million in Series B funding. Investors including NOA VC, Upfront Ventures, DCVC, Lowercarbon Capital, and Dream Ventures participated in the round.&nbsp;\n\n\n\nRainmaker declined to share an updated valuation as part of the news. Prior to this round, the company had raised $50.3 million in venture backing.&nbsp;\n\n\n\nFounded in 2023 (and dubbed &#8220;The hardest startup in America&#8221; by Fast Company), Rainmaker has developed a fleet of custom drones tha",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-09-21T20:37:18+00:00",
-      "fetched_at": "2026-09-23T19:32:45.049691+00:00"
-    },
-    {
       "id": "3ecdce7d836a",
       "title": "ChatGPT mobile app gets voice-based agentic features",
       "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
@@ -111,22 +71,57 @@
       "fetched_at": "2026-09-23T19:32:37.614745+00:00"
     },
     {
-      "id": "9959cac2219d",
-      "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
-      "url": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
-      "summary": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
-      "source": "CNBC Tech",
-      "score": 3.3,
-      "published": "2026-09-22T17:57:36+00:00",
-      "fetched_at": "2026-09-23T19:32:38.537054+00:00"
+      "id": "78c6eb28e1bb",
+      "title": "8 cool things Copilot can do in Word",
+      "url": "https://www.computerworld.com/article/4216459/cool-things-copilot-can-do-in-microsoft-word.html",
+      "summary": "We all know by now that Copilot can help you write and rewrite text in Word, often with mediocre results. But there\u2019s more to Microsoft\u2019s generative AI tool than just slopping out words.\n\n\n\nIn fact, Copilot\u2019s most useful features in Word have more to do with editing, formatting, and research assistance than with writing per se. In this guide you\u2019ll learn several ways Copilot can save you time and improve your documents.\n\n\n\nWho can use Copilot in Word\n\n\n\nIndividuals with a Microsoft 365 Personal, Family, or Premium subscription have access to Copilot from inside Word and other M365 apps. For bu",
+      "source": "Computerworld",
+      "score": 6.0,
+      "published": "2026-09-24T11:00:00+00:00",
+      "fetched_at": "2026-09-24T19:51:54.199881+00:00"
+    },
+    {
+      "id": "a19f22041978",
+      "title": "Stripe\u2019s AI CRO on the Fastest-Growing AI Companies: 175% Growth, 48% of Revenue From Outside the Home Market, and Agents About to Read More Stripe Docs Than Human",
+      "url": "https://www.saastr.com/stripes-ai-cro-on-the-fastest-growing-ai-companies-175-growth-48-of-revenue-from-outside-the-home-market-and-agents-about-to-read-more-stripe-docs-than-human/",
+      "summary": "Stripe processes payments for most of the fastest-growing AI companies in the world, so it sees their actual revenue data. At her SaaStr AI session, Maia Josebachvili, Chief Revenue Officer of AI at Stripe, walked through what Stripe is seeing across its AI customer base and how differently she would run a company if she... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-09-24T14:10:05+00:00",
+      "fetched_at": "2026-09-24T19:51:52.869397+00:00"
+    },
+    {
+      "id": "42a49d1813ce",
+      "title": "Jamf in the age of agentic IT: An interview with CEO Beth Tschida",
+      "url": "https://www.computerworld.com/article/4226159/jamf-in-the-age-of-agentic-it-an-interview-with-ceo-beth-tschida.html",
+      "summary": "Jamf was a pioneer in Apple device management when it began in 2002. The company was ahead of its time: its founders could see that Apple had a future in the enterprise, but not many others saw it. Jamf now runs 35.2 million devices from 78,000 organizations. And it\u2019s still looking to the future.\n\n\n\nI spoke with Jamf CEO Beth Tschida, who joined me for a chat directly after her\u00a0keynote speech at JNUC, Jamf\u2019s big event for Mac admins, on September 23.\u00a0\n\n\n\nThe AI-driven ecosystem\n\n\n\nTschida wasn\u2019t there to rehash Jamf\u2019s past for relevance in the present, but to share the company\u2019s deep commitmen",
+      "source": "Computerworld",
+      "score": 5.0,
+      "published": "2026-09-24T15:50:00+00:00",
+      "fetched_at": "2026-09-24T19:51:54.199502+00:00"
+    },
+    {
+      "id": "0fb1e37dcdf7",
+      "title": "UiPath\u2019s new tool could unlock a much bigger wave of automated business processes",
+      "url": "https://www.computerworld.com/article/4226128/uipaths-new-tool-could-unlock-a-much-bigger-wave-of-automated-business-processes-2.html",
+      "summary": "A decade ago, UiPath built its business on watching people work, recording keystrokes and clicks to automate tasks employees already did by hand. This week, amid an industry consumed by autonomous agents, the company\u2019s newest product suggests that same instinct still has a place.\n\n\n\nUiPath used its Fusion conference in Las Vegas to launch Cartographer, a tool for building what the company calls a Map of Work: a living, governed record of the informal, undocumented knowledge that keeps enterprise processes running, the exceptions, workarounds, and judgment calls that never make it into an offic",
+      "source": "Computerworld",
+      "score": 5.0,
+      "published": "2026-09-24T13:10:10+00:00",
+      "fetched_at": "2026-09-24T19:51:54.199725+00:00"
+    },
+    {
+      "id": "ec8182929aab",
+      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+      "summary": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
+      "source": "TechCrunch Enterprise",
+      "score": 4.4,
+      "published": "2026-09-24T17:07:55+00:00",
+      "fetched_at": "2026-09-24T19:51:51.317081+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/08/07/why-alpha-is-the-most-important-word-in-enterprise-ai-right-now/",
-    "https://www.fastcompany.com/91584370/enterprise-ai-doesnt-need-another-app-it-needs-its-language",
-    "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
-    "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
     "https://www.computerworld.com/article/4206777/airtable-joins-evernote-brightcove-wetransfer-and-aol-in-bending-spoons-portfolio-2.html",
     "https://www.forbes.com/sites/timbajarin/2026/08/07/geoffrey-hinton-warns-ai-may-outsmart-humans-as-agents-escape-tests/",
     "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
@@ -371,7 +366,12 @@
     "https://www.saastr.com/being-a-system-of-record-helps-with-retention-but-alone-it-wont-equal-growth/",
     "https://www.fastcompany.com/91610667/cloud-seeding-rainmaker-100-million-series-b?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-    "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html"
+    "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
+    "https://www.computerworld.com/article/4216459/cool-things-copilot-can-do-in-microsoft-word.html",
+    "https://www.saastr.com/stripes-ai-cro-on-the-fastest-growing-ai-companies-175-growth-48-of-revenue-from-outside-the-home-market-and-agents-about-to-read-more-stripe-docs-than-human/",
+    "https://www.computerworld.com/article/4226159/jamf-in-the-age-of-agentic-it-an-interview-with-ceo-beth-tschida.html",
+    "https://www.computerworld.com/article/4226128/uipaths-new-tool-could-unlock-a-much-bigger-wave-of-automated-business-processes-2.html",
+    "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/"
   ],
-  "generated_at": "2026-09-23T19:32:45.212344+00:00"
+  "generated_at": "2026-09-24T19:51:55.588762+00:00"
 }

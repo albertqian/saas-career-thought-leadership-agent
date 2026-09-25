@@ -1,76 +1,6 @@
 {
   "queue": [
     {
-      "id": "9c625b3c8b09",
-      "title": "MCP Is Not Just Another API Standard",
-      "url": "https://www.oreilly.com/radar/mcp-is-not-just-another-api-standard/",
-      "summary": "Ask most engineers what MCP is and you\u2019ll get the same answer: a way to plug tools into an LLM. Fair enough, as far as it goes. But that description treats MCP like plumbing, and after months building MCP-based integrations for large enterprise platforms, I don\u2019t think plumbing is the right metaphor. Plumbing moves water [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 8.8,
-      "published": "2026-09-23T10:17:25+00:00",
-      "fetched_at": "2026-09-23T19:32:43.387944+00:00"
-    },
-    {
-      "id": "ca7a2de7d13c",
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-09-23T12:00:00+00:00",
-      "fetched_at": "2026-09-23T19:32:37.614919+00:00"
-    },
-    {
-      "id": "03d50a6b6196",
-      "title": "From admin to architect: Jamf\u2019s vision for the autonomous Apple enterprise",
-      "url": "https://www.computerworld.com/article/4225562/from-admin-to-architect-jamfs-vision-for-the-autonomous-apple-enterprise.html",
-      "summary": "Now a private company, Jamf opened its big annual event for Apple enterprise management teams, JNUC, by taking big steps to exploit artificial intelligence in the management of Apple fleets. During her keynote speech at the Kansas City event, CEO Beth Tschida shared some of the details of the platform-scale overhaul the company has set in motion.\n\n\n\n\u201cIT teams are managing more endpoints and more complexity than ever,\u201d she said. \u201cWe want Jamf to handle more of that routine work automatically\u2026 because AI runs better on Apple, and Apple runs better on Jamf.\u201d\n\n\n\nTschida \u2014 and Jamf \u2014 have been cons",
-      "source": "Computerworld",
-      "score": 7.0,
-      "published": "2026-09-23T15:05:00+00:00",
-      "fetched_at": "2026-09-23T19:32:43.094551+00:00"
-    },
-    {
-      "id": "05e0dd9fc4b6",
-      "title": "The SaaStr AI Guide to Building a Top-Tier Inbound AI Agent: 17,000 Conversations, ~600 Meetings Booked, and 60% More New Business",
-      "url": "https://www.saastr.com/the-saastr-ai-guide-to-building-a-top-tier-inbound-ai-agent-17000-conversations-600-meetings-booked-and-60-more-new-business/",
-      "summary": "Our inbound AI agent has had 17,000 conversations with prospects in the last 12 months and booked about 600 meetings for SaaStr AI Annual 2026.\u00a0 And for 2027, it&#8217;s running almost 2x of the prior 12 months. Together with the newer self-serve agent we added on top of it, our inbound agents drove a 60%... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-09-23T14:10:29+00:00",
-      "fetched_at": "2026-09-23T19:32:39.970813+00:00"
-    },
-    {
-      "id": "5fc7f59b1228",
-      "title": "To Fight AI-Powered Attackers, Enterprises Need Agentic Defense.",
-      "url": "https://www.forbes.com/sites/reliaquest/2026/09/23/to-fight-ai-powered-attackers-enterprises-need-agentic-defense/",
-      "summary": "AI-powered attacks can move in minutes. See how agentic cyber defense helps enterprises detect, investigate and contain threats faster across complex security environments.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-09-23T15:06:46+00:00",
-      "fetched_at": "2026-09-23T19:32:41.342241+00:00"
-    },
-    {
-      "id": "938c1582cd2a",
-      "title": "Meta Stock Added $200 Billion But Its New AI May Not Scale",
-      "url": "https://www.forbes.com/sites/jimosman/2026/09/23/meta-stock-added-200-billion-but-its-new-ai-may-not-scale/",
-      "summary": "Meta\u2019s AI agent Muse boosted the stock by $200B, but investors still lack key data on automation, costs and whether the service can scale profitably.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-09-23T14:57:56+00:00",
-      "fetched_at": "2026-09-23T19:32:41.342282+00:00"
-    },
-    {
-      "id": "3ecdce7d836a",
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-09-23T17:00:00+00:00",
-      "fetched_at": "2026-09-23T19:32:37.614745+00:00"
-    },
-    {
       "id": "78c6eb28e1bb",
       "title": "8 cool things Copilot can do in Word",
       "url": "https://www.computerworld.com/article/4216459/cool-things-copilot-can-do-in-microsoft-word.html",
@@ -119,16 +49,79 @@
       "score": 4.4,
       "published": "2026-09-24T17:07:55+00:00",
       "fetched_at": "2026-09-24T19:51:51.317081+00:00"
+    },
+    {
+      "id": "d93ddf810720",
+      "title": "Microsoft unveils Copilot super app, targeting business users with AI agents",
+      "url": "https://fortune.com/2026/09/25/microsoft-unveils-copilot-super-app-targeting-business-users-with-ai-agents/",
+      "summary": "Microsoft is launching its super app as a central interface through which customers can chat with AI bots, write code, and access a new Autopilot feature that brings agentic capabilities to its flagship AI app.",
+      "source": "Fortune",
+      "score": 9.0,
+      "published": "2026-09-25T12:00:00+00:00",
+      "fetched_at": "2026-09-25T19:54:07.231483+00:00"
+    },
+    {
+      "id": "b1767eb0c65d",
+      "title": "Around the corner: Agentic AI PCs that cut token costs",
+      "url": "https://www.computerworld.com/article/4226343/around-the-corner-agentic-ai-pcs-that-cut-token-costs.html",
+      "summary": "AI PCs that cut token costs? That may appeal to enterprises.\n\n\n\nA new breed of agentic AI PCs promises to do exactly that. The powerful laptops can cut token costs by completing AI work locally instead of sending it to expensive LLMs in the cloud.\n\n\n\nHP\u2019s newly announced ZBook Ultra G3a mobile workstation and upcoming laptops from other PC makers have powerful GPUs and large memory pools designed for AI and graphics. The ZBook Ultra G3a uses an AMD Ryzen AI Max Pro processor, while laptops from other PC makers will feature Nvidia\u2019s RTX Spark superchip.\n\n\n\nNvidia\u2019s Blackwell GPUs have dominated",
+      "source": "Computerworld",
+      "score": 9.0,
+      "published": "2026-09-25T11:00:00+00:00",
+      "fetched_at": "2026-09-25T19:54:05.907555+00:00"
+    },
+    {
+      "id": "6327535f2573",
+      "title": "Microsoft\u2019s new Copilot \u2018super app\u2019 unifies chat, code, agents",
+      "url": "https://www.computerworld.com/article/4226817/microsofts-new-copilot-unifies-enterprise-context-for-chat-and-code.html",
+      "summary": "Microsoft\u2019s Copilot \u201csuper app\u201d has arrived, two months after CEO Satya Nadella confirmed it was in development. It combines conversational Chat, the autonomous Cowork agent, a redesigned coding environment named Code, and Autopilot, the persistent agent formerly known as Scout, into a single Copilot experience.\n\n\n\nThe idea is to make those capabilities look less like separate tools and more like different ways of getting work done through a unified experience. The end goal is to enable users to describe what they want to accomplish without choosing a mode themselves, and with Copilot routing ",
+      "source": "Computerworld",
+      "score": 6.0,
+      "published": "2026-09-25T17:03:06+00:00",
+      "fetched_at": "2026-09-25T19:54:05.907253+00:00"
+    },
+    {
+      "id": "dcd097ec0be9",
+      "title": "Microsoft\u2019s new Copilot app puts everything in one place \u2013 but the price is \u2018evolving\u2019",
+      "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
+      "summary": "Microsoft says Copilot has gotten \u2018actually really good.\u2019 The new app has AI agents and can write code. So how much is all this going to cost?",
+      "source": "ZDNet",
+      "score": 6.0,
+      "published": "2026-09-25T12:00:14+00:00",
+      "fetched_at": "2026-09-25T19:54:05.000547+00:00"
+    },
+    {
+      "id": "fea0c80d929a",
+      "title": "Why Enterprise AI Chatbots Succeed Or Fail: Lessons From Deploying At Fortune 50 Scale",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/25/why-enterprise-ai-chatbots-succeed-or-fail-lessons-from-deploying-at-fortune-50-scale/",
+      "summary": "AI assistants often fail after successful pilots. Here's what leaders can do to build systems that deliver measurable value in production.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-09-25T15:45:00+00:00",
+      "fetched_at": "2026-09-25T19:54:04.560976+00:00"
+    },
+    {
+      "id": "a948e5c03d79",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-09-25T16:16:52+00:00",
+      "fetched_at": "2026-09-25T19:54:02.117763+00:00"
+    },
+    {
+      "id": "b50925bd3c97",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called \u201cstandoff sensing,\u201d which&#8230;",
+      "source": "MIT Technology Review",
+      "score": 4.8,
+      "published": "2026-09-25T09:16:25+00:00",
+      "fetched_at": "2026-09-25T19:54:03.144622+00:00"
     }
   ],
   "history": [
-    "https://www.computerworld.com/article/4206777/airtable-joins-evernote-brightcove-wetransfer-and-aol-in-bending-spoons-portfolio-2.html",
-    "https://www.forbes.com/sites/timbajarin/2026/08/07/geoffrey-hinton-warns-ai-may-outsmart-humans-as-agents-escape-tests/",
-    "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
-    "https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority",
-    "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next",
-    "https://www.fastcompany.com/91585494/this-font-looks-perfectly-normal-to-humans-but-confuses-ai",
-    "https://www.saastr.com/what-is-a-good-demo-conversion-rate-for-saas-startup/",
     "https://www.forbes.com/sites/ronschmelzer/2026/08/10/agentic-soc-alliance-wants-to-set-rules-for-ai-cyber-defense/",
     "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
     "https://www.forbes.com/sites/paullamkin/2026/08/10/you-can-now-control-and-troubleshoot-your-switchbot-devices-using-ai/",
@@ -371,7 +364,14 @@
     "https://www.saastr.com/stripes-ai-cro-on-the-fastest-growing-ai-companies-175-growth-48-of-revenue-from-outside-the-home-market-and-agents-about-to-read-more-stripe-docs-than-human/",
     "https://www.computerworld.com/article/4226159/jamf-in-the-age-of-agentic-it-an-interview-with-ceo-beth-tschida.html",
     "https://www.computerworld.com/article/4226128/uipaths-new-tool-could-unlock-a-much-bigger-wave-of-automated-business-processes-2.html",
-    "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/"
+    "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+    "https://fortune.com/2026/09/25/microsoft-unveils-copilot-super-app-targeting-business-users-with-ai-agents/",
+    "https://www.computerworld.com/article/4226343/around-the-corner-agentic-ai-pcs-that-cut-token-costs.html",
+    "https://www.computerworld.com/article/4226817/microsofts-new-copilot-unifies-enterprise-context-for-chat-and-code.html",
+    "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/09/25/why-enterprise-ai-chatbots-succeed-or-fail-lessons-from-deploying-at-fortune-50-scale/",
+    "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
   ],
-  "generated_at": "2026-09-24T19:51:55.588762+00:00"
+  "generated_at": "2026-09-25T19:54:08.041919+00:00"
 }

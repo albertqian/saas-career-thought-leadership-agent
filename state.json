@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "78c6eb28e1bb",
-      "title": "8 cool things Copilot can do in Word",
-      "url": "https://www.computerworld.com/article/4216459/cool-things-copilot-can-do-in-microsoft-word.html",
-      "summary": "We all know by now that Copilot can help you write and rewrite text in Word, often with mediocre results. But there\u2019s more to Microsoft\u2019s generative AI tool than just slopping out words.\n\n\n\nIn fact, Copilot\u2019s most useful features in Word have more to do with editing, formatting, and research assistance than with writing per se. In this guide you\u2019ll learn several ways Copilot can save you time and improve your documents.\n\n\n\nWho can use Copilot in Word\n\n\n\nIndividuals with a Microsoft 365 Personal, Family, or Premium subscription have access to Copilot from inside Word and other M365 apps. For bu",
-      "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-09-24T11:00:00+00:00",
-      "fetched_at": "2026-09-24T19:51:54.199881+00:00"
-    },
-    {
-      "id": "a19f22041978",
-      "title": "Stripe\u2019s AI CRO on the Fastest-Growing AI Companies: 175% Growth, 48% of Revenue From Outside the Home Market, and Agents About to Read More Stripe Docs Than Human",
-      "url": "https://www.saastr.com/stripes-ai-cro-on-the-fastest-growing-ai-companies-175-growth-48-of-revenue-from-outside-the-home-market-and-agents-about-to-read-more-stripe-docs-than-human/",
-      "summary": "Stripe processes payments for most of the fastest-growing AI companies in the world, so it sees their actual revenue data. At her SaaStr AI session, Maia Josebachvili, Chief Revenue Officer of AI at Stripe, walked through what Stripe is seeing across its AI customer base and how differently she would run a company if she... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-09-24T14:10:05+00:00",
-      "fetched_at": "2026-09-24T19:51:52.869397+00:00"
-    },
-    {
-      "id": "42a49d1813ce",
-      "title": "Jamf in the age of agentic IT: An interview with CEO Beth Tschida",
-      "url": "https://www.computerworld.com/article/4226159/jamf-in-the-age-of-agentic-it-an-interview-with-ceo-beth-tschida.html",
-      "summary": "Jamf was a pioneer in Apple device management when it began in 2002. The company was ahead of its time: its founders could see that Apple had a future in the enterprise, but not many others saw it. Jamf now runs 35.2 million devices from 78,000 organizations. And it\u2019s still looking to the future.\n\n\n\nI spoke with Jamf CEO Beth Tschida, who joined me for a chat directly after her\u00a0keynote speech at JNUC, Jamf\u2019s big event for Mac admins, on September 23.\u00a0\n\n\n\nThe AI-driven ecosystem\n\n\n\nTschida wasn\u2019t there to rehash Jamf\u2019s past for relevance in the present, but to share the company\u2019s deep commitmen",
-      "source": "Computerworld",
-      "score": 5.0,
-      "published": "2026-09-24T15:50:00+00:00",
-      "fetched_at": "2026-09-24T19:51:54.199502+00:00"
-    },
-    {
-      "id": "0fb1e37dcdf7",
-      "title": "UiPath\u2019s new tool could unlock a much bigger wave of automated business processes",
-      "url": "https://www.computerworld.com/article/4226128/uipaths-new-tool-could-unlock-a-much-bigger-wave-of-automated-business-processes-2.html",
-      "summary": "A decade ago, UiPath built its business on watching people work, recording keystrokes and clicks to automate tasks employees already did by hand. This week, amid an industry consumed by autonomous agents, the company\u2019s newest product suggests that same instinct still has a place.\n\n\n\nUiPath used its Fusion conference in Las Vegas to launch Cartographer, a tool for building what the company calls a Map of Work: a living, governed record of the informal, undocumented knowledge that keeps enterprise processes running, the exceptions, workarounds, and judgment calls that never make it into an offic",
-      "source": "Computerworld",
-      "score": 5.0,
-      "published": "2026-09-24T13:10:10+00:00",
-      "fetched_at": "2026-09-24T19:51:54.199725+00:00"
-    },
-    {
-      "id": "ec8182929aab",
-      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-      "summary": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
-      "source": "TechCrunch Enterprise",
-      "score": 4.4,
-      "published": "2026-09-24T17:07:55+00:00",
-      "fetched_at": "2026-09-24T19:51:51.317081+00:00"
-    },
-    {
-      "id": "d93ddf810720",
-      "title": "Microsoft unveils Copilot super app, targeting business users with AI agents",
-      "url": "https://fortune.com/2026/09/25/microsoft-unveils-copilot-super-app-targeting-business-users-with-ai-agents/",
-      "summary": "Microsoft is launching its super app as a central interface through which customers can chat with AI bots, write code, and access a new Autopilot feature that brings agentic capabilities to its flagship AI app.",
-      "source": "Fortune",
-      "score": 9.0,
-      "published": "2026-09-25T12:00:00+00:00",
-      "fetched_at": "2026-09-25T19:54:07.231483+00:00"
-    },
-    {
-      "id": "b1767eb0c65d",
-      "title": "Around the corner: Agentic AI PCs that cut token costs",
-      "url": "https://www.computerworld.com/article/4226343/around-the-corner-agentic-ai-pcs-that-cut-token-costs.html",
-      "summary": "AI PCs that cut token costs? That may appeal to enterprises.\n\n\n\nA new breed of agentic AI PCs promises to do exactly that. The powerful laptops can cut token costs by completing AI work locally instead of sending it to expensive LLMs in the cloud.\n\n\n\nHP\u2019s newly announced ZBook Ultra G3a mobile workstation and upcoming laptops from other PC makers have powerful GPUs and large memory pools designed for AI and graphics. The ZBook Ultra G3a uses an AMD Ryzen AI Max Pro processor, while laptops from other PC makers will feature Nvidia\u2019s RTX Spark superchip.\n\n\n\nNvidia\u2019s Blackwell GPUs have dominated",
-      "source": "Computerworld",
-      "score": 9.0,
-      "published": "2026-09-25T11:00:00+00:00",
-      "fetched_at": "2026-09-25T19:54:05.907555+00:00"
-    },
-    {
-      "id": "6327535f2573",
-      "title": "Microsoft\u2019s new Copilot \u2018super app\u2019 unifies chat, code, agents",
-      "url": "https://www.computerworld.com/article/4226817/microsofts-new-copilot-unifies-enterprise-context-for-chat-and-code.html",
-      "summary": "Microsoft\u2019s Copilot \u201csuper app\u201d has arrived, two months after CEO Satya Nadella confirmed it was in development. It combines conversational Chat, the autonomous Cowork agent, a redesigned coding environment named Code, and Autopilot, the persistent agent formerly known as Scout, into a single Copilot experience.\n\n\n\nThe idea is to make those capabilities look less like separate tools and more like different ways of getting work done through a unified experience. The end goal is to enable users to describe what they want to accomplish without choosing a mode themselves, and with Copilot routing ",
-      "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-09-25T17:03:06+00:00",
-      "fetched_at": "2026-09-25T19:54:05.907253+00:00"
-    },
-    {
-      "id": "dcd097ec0be9",
-      "title": "Microsoft\u2019s new Copilot app puts everything in one place \u2013 but the price is \u2018evolving\u2019",
-      "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
-      "summary": "Microsoft says Copilot has gotten \u2018actually really good.\u2019 The new app has AI agents and can write code. So how much is all this going to cost?",
-      "source": "ZDNet",
-      "score": 6.0,
-      "published": "2026-09-25T12:00:14+00:00",
-      "fetched_at": "2026-09-25T19:54:05.000547+00:00"
-    },
-    {
-      "id": "fea0c80d929a",
-      "title": "Why Enterprise AI Chatbots Succeed Or Fail: Lessons From Deploying At Fortune 50 Scale",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/09/25/why-enterprise-ai-chatbots-succeed-or-fail-lessons-from-deploying-at-fortune-50-scale/",
-      "summary": "AI assistants often fail after successful pilots. Here's what leaders can do to build systems that deliver measurable value in production.",
+      "id": "e9df7bfaf4b6",
+      "title": "Why The Old Rules Of Enterprise Technology Don\u2019t Apply To Agentic AI",
+      "url": "https://www.forbes.com/sites/peterbendorsamuel/2026/09/28/why-the-old-rules-of-enterprise-technology-dont-apply-to-agentic-ai/",
+      "summary": "Agentic AI is creating something much more significant than another generation of enterprise software.",
       "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-09-25T15:45:00+00:00",
-      "fetched_at": "2026-09-25T19:54:04.560976+00:00"
+      "score": 12.0,
+      "published": "2026-09-28T16:19:55+00:00",
+      "fetched_at": "2026-09-28T21:39:20.393075+00:00"
     },
     {
-      "id": "a948e5c03d79",
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "id": "2d794519f8a7",
+      "title": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "source": "TechCrunch AI",
+      "score": 8.4,
+      "published": "2026-09-28T16:52:38+00:00",
+      "fetched_at": "2026-09-28T21:39:11.309103+00:00"
+    },
+    {
+      "id": "a0ec37fffd6a",
+      "title": "Will On-Device AI  Slow The Data Center Boom?",
+      "url": "https://www.forbes.com/sites/timbajarin/2026/09/28/will-on-device-ai--slow-the-data-center-boom/",
+      "summary": "On-device AI will handle more everyday tasks, but agentic workflows and enterprise demand will keep cloud inference and data center growth accelerating.",
+      "source": "Forbes Innovation",
+      "score": 7.0,
+      "published": "2026-09-28T17:18:56+00:00",
+      "fetched_at": "2026-09-28T21:39:20.393011+00:00"
+    },
+    {
+      "id": "b85fb137645b",
+      "title": "OpenAI\u2019s AI agents need to catch up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
+      "source": "The Verge",
+      "score": 6.0,
+      "published": "2026-09-28T18:45:00+00:00",
+      "fetched_at": "2026-09-28T21:39:20.629298+00:00"
+    },
+    {
+      "id": "d578c7a80779",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to [&#8230;]",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-09-28T18:31:23+00:00",
+      "fetched_at": "2026-09-28T21:39:11.309026+00:00"
+    },
+    {
+      "id": "2a8dc429fbff",
+      "title": "Nvidia releases software platform to stop AI agents from misbehaving",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "summary": "Nvidia says its new software could have prevented OpenAI's Hugging Face incident.",
+      "source": "CNBC Tech",
+      "score": 5.5,
+      "published": "2026-09-28T15:55:50+00:00",
+      "fetched_at": "2026-09-28T21:39:18.186707+00:00"
+    },
+    {
+      "id": "6d0251bd8804",
+      "title": "Enterprise AI impact isn\u2019t about the most powerful model\u2014it\u2019s about the smartest steering",
+      "url": "https://www.fastcompany.com/91611123/enterprise-ai-impact-smartest-steering?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "This is something you have probably noticed several times\u2014at least, I certainly have. When you use an AI chatbot for personal questions, decision-making, research, and the like, it works amazingly well. But when you try your company\u2019s AI . . . well, the results tend to be much less impressive, unless we are talking about purely \u201cadministrative\u201d uses.\u00a0\n\n\n\nWhy is this happening? Basically, because when you use it, you yourself are doing the steering, the corrections, the reframing, the \u201cforget about this, give me more of that,\u201d until you decide that the answer is good enough. Doing all that supe",
+      "source": "Fast Company Tech",
+      "score": 5.5,
+      "published": "2026-09-28T08:00:00+00:00",
+      "fetched_at": "2026-09-28T21:39:22.941659+00:00"
+    },
+    {
+      "id": "dfb323354b9a",
+      "title": "Meta's splashy new business AI hire offers yet another reason to bank on Zuckerberg",
+      "url": "https://www.cnbc.com/2026/09/28/metas-splashy-new-business-ai-hire-offers-yet-another-reason-to-bank-on-zuckerberg.html",
+      "summary": "By poaching MongoDB's CJ Desai, Mark Zuckerberg shows he's serious about building an enterprise AI business.",
+      "source": "CNBC Economy",
+      "score": 5.0,
+      "published": "2026-09-28T20:01:16+00:00",
+      "fetched_at": "2026-09-28T21:39:15.984117+00:00"
+    },
+    {
+      "id": "345cc4183b56",
+      "title": "Nvidia says its new AI security platform can stop rogue agents from breaking containment",
+      "url": "https://www.fastcompany.com/91614152/nvidia-says-its-new-ai-security-platform-can-stop-rogue-agents-from-breaking-containment",
+      "summary": "The chipmaker says OpenShell and Sentry will restrict what AI agents can access, monitor their behavior, and shut them down if they cross software boundaries.\n\nAs news of additional AI model security incidents continues to roll out, Nvidia has unveiled a new security platform it says will prevent AI agents from breaking containment and hacking into other companies.",
+      "source": "Fast Company",
+      "score": 5.0,
+      "published": "2026-09-28T15:31:39+00:00",
+      "fetched_at": "2026-09-28T21:39:23.074237+00:00"
+    },
+    {
+      "id": "4c0a92efb1cc",
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It\u2019s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
       "source": "TechCrunch AI",
       "score": 4.8,
-      "published": "2026-09-25T16:16:52+00:00",
-      "fetched_at": "2026-09-25T19:54:02.117763+00:00"
+      "published": "2026-09-28T13:38:48+00:00",
+      "fetched_at": "2026-09-28T21:39:11.309240+00:00"
     },
     {
-      "id": "b50925bd3c97",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called \u201cstandoff sensing,\u201d which&#8230;",
-      "source": "MIT Technology Review",
-      "score": 4.8,
-      "published": "2026-09-25T09:16:25+00:00",
-      "fetched_at": "2026-09-25T19:54:03.144622+00:00"
+      "id": "5eadaf95a99d",
+      "title": "Nvidia says its new AI security platform can stop rogue agents from breaking containment",
+      "url": "https://www.fastcompany.com/91614152/nvidia-says-its-new-ai-security-platform-can-stop-rogue-agents-from-breaking-containment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "As news of additional AI model security incidents continues to roll out, Nvidia has unveiled a new security platform it says will prevent AI agents from breaking containment and hacking into other companies.\n\n\n\nThe chipmaker has teamed with more than 100 companies, including Cisco, Microsoft, Oracle, CoreWeave, Dell, HPE, Lenovo, Arm, and Intel, on the initiative. OpenAI was not included among the companies participating in the effort.\n\n\n\nThe security launch came the same day Nvidia announced a $150 billion increase to its share-repurchase program, the largest such authorization in U.S. histor",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-09-28T15:31:39+00:00",
+      "fetched_at": "2026-09-28T21:39:22.941317+00:00"
+    },
+    {
+      "id": "da9536f149ec",
+      "title": "Almost Every Pre-AI Vendor We Use Is Raising Prices for Agent Access. They May Be Building an Agentic Death Spiral",
+      "url": "https://www.saastr.com/almost-every-pre-ai-vendor-we-use-is-raising-prices-for-agent-access-they-may-be-building-an-agentic-death-spiral/",
+      "summary": "Almost every pre-AI B2B product we use has now told us they&#8217;re raising prices for agent access. Salesforce and HubSpot are the two latest, and they&#8217;re doing it differently. HubSpot&#8217;s increases are mainly for their own agents: Breeze credits, per-resolution pricing, custom agents metering since July. Their MCP server is still free for the agents... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-09-28T14:14:39+00:00",
+      "fetched_at": "2026-09-28T21:39:19.137125+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/sites/ronschmelzer/2026/08/10/agentic-soc-alliance-wants-to-set-rules-for-ai-cyber-defense/",
-    "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-    "https://www.forbes.com/sites/paullamkin/2026/08/10/you-can-now-control-and-troubleshoot-your-switchbot-devices-using-ai/",
-    "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-    "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
-    "https://www.businessinsider.com/ai-calculator-bad-news-vibe-coders-saas-software-2026-8",
-    "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents",
-    "https://www.fastcompany.com/91584883/frankenstein-left-the-laboratory-altman-singularity?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
-    "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
-    "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
     "https://www.computerworld.com/article/4207598/metas-new-local-model-forces-enterprises-to-recalculate-ai-costs-and-roi.html",
     "https://www.saastr.com/pylons-founders-at-saastr-ai-day-a-1000-person-support-team-deflected-50-of-its-tickets-headcount-didnt-change/",
     "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
@@ -371,7 +359,19 @@
     "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/09/25/why-enterprise-ai-chatbots-succeed-or-fail-lessons-from-deploying-at-fortune-50-scale/",
     "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
+    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "https://www.forbes.com/sites/peterbendorsamuel/2026/09/28/why-the-old-rules-of-enterprise-technology-dont-apply-to-agentic-ai/",
+    "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "https://www.forbes.com/sites/timbajarin/2026/09/28/will-on-device-ai--slow-the-data-center-boom/",
+    "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "https://www.fastcompany.com/91611123/enterprise-ai-impact-smartest-steering?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.cnbc.com/2026/09/28/metas-splashy-new-business-ai-hire-offers-yet-another-reason-to-bank-on-zuckerberg.html",
+    "https://www.fastcompany.com/91614152/nvidia-says-its-new-ai-security-platform-can-stop-rogue-agents-from-breaking-containment",
+    "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+    "https://www.fastcompany.com/91614152/nvidia-says-its-new-ai-security-platform-can-stop-rogue-agents-from-breaking-containment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.saastr.com/almost-every-pre-ai-vendor-we-use-is-raising-prices-for-agent-access-they-may-be-building-an-agentic-death-spiral/"
   ],
-  "generated_at": "2026-09-25T19:54:08.041919+00:00"
+  "generated_at": "2026-09-28T21:39:23.074680+00:00"
 }

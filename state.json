@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "12e258357bf2",
-      "title": "Meta\u2019s ex launches agent rival to Meta\u2019s Muse",
-      "url": "https://www.computerworld.com/article/4228305/metas-ex-launches-agent-rival-to-metas-muse-2.html",
-      "summary": "Manus\u2019s relationship with Meta? It\u2019s complicated. Just months after they called off their merger, they find themselves competing in the market for agentic AI platforms. Awkward!\n\n\n\nThe company has just released a rebuilt version of its AI agent platform: \u201cManus 2.0 is not a version update. It\u2019s a new architecture, new products, and new capabilities,\u201d the company said in a blog post.\n\n\n\nThe release is available on web, desktop, and mobile platforms and introduces a new agent harness called Cascade, dedicated execution environments, event-triggered automations, an upgraded desktop app called Man",
-      "source": "Computerworld",
-      "score": 11.0,
-      "published": "2026-09-29T14:59:47+00:00",
-      "fetched_at": "2026-09-30T20:37:49.482539+00:00"
-    },
-    {
       "id": "9a67e7d0fcb7",
       "title": "This is what women leaders can teach us about using AI well",
       "url": "https://www.fastcompany.com/91613131/this-is-what-women-leaders-can-teach-us-about-using-ai-well",
@@ -51,66 +41,6 @@
       "fetched_at": "2026-09-30T20:37:51.106659+00:00"
     },
     {
-      "id": "3d18f62d7ad9",
-      "title": "What 17,000 Subscription Apps Tell Us About Free Trial Length: Annual Plans Convert 86% Better With 30-Day Trials, Monthly Tops Out at Two Weeks, and AI Apps Hit a Wall at 16 Days",
-      "url": "https://www.saastr.com/what-17000-subscription-apps-tell-us-about-free-trial-length-annual-plans-convert-86-better-with-30-day-trials-monthly-tops-out-at-two-weeks-and-ai-apps-hit-a-wall-at-16-days/",
-      "summary": "RevenueCat just published one of the richest datasets on free trials out there.\u00a0 They have the data, at least for mobile subscriptions apps, where they power 60%+ of the subscription management. SaaStr Fund made the very first investment in RevenueCat back in 2018, so I&#8217;ve watched this dataset grow from a few hundred apps to... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-09-29T14:10:53+00:00",
-      "fetched_at": "2026-09-30T20:37:47.306717+00:00"
-    },
-    {
-      "id": "6a33aca726c7",
-      "title": "OpenAI\u2019s latest features take direct aim at the app store model",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-09-29T20:15:47+00:00",
-      "fetched_at": "2026-09-30T20:37:45.721520+00:00"
-    },
-    {
-      "id": "b7ee266b3aff",
-      "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-09-29T18:35:00+00:00",
-      "fetched_at": "2026-09-30T20:37:45.721566+00:00"
-    },
-    {
-      "id": "a91e1077df8e",
-      "title": "OpenAI researchers voice concerns over GPT-6.1 Astra,  delaying the release of this latest model",
-      "url": "https://www.fastcompany.com/91614930/openai-researchers-voice-concerns-over-gpt-6-1-astra-delaying-the-release-of-this-latest-model?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "OpenAI said Monday it was delaying the release of a new artificial intelligence model out of security concerns voiced by its researchers, the latest in the company&#8217;s effort to decelerate the pace of the technology&#8217;s advance.OpenAI&#8217;s decision to hold back the model, called GPT-6.1 Astra, comes amid a broader push within the industry to slow the development of increasingly autonomous systems until safety measures can catch up. The announcement comes a day before AI executives are set to huddle with President Donald Trump in Washington as technology companies face new pressure t",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-09-29T14:35:00+00:00",
-      "fetched_at": "2026-09-30T20:37:50.808086+00:00"
-    },
-    {
-      "id": "f9a17695787f",
-      "title": "Fragments: September 29",
-      "url": "https://martinfowler.com/fragments/2026-09-29.html",
-      "summary": "Simon Willison:\n\n\n  The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder\n\n  We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge\n\n\nThis has been a constant impression I get from following Willison\u2019s writing. While things like vibe coding get a lot of attention, the real strength of agentic programming relies on more sophisticated techniques - and these are not easy to learn or execute. It\u2019s a reason I\u2019m wary of extrapolating my own dabblings into firm opinions ",
-      "source": "Martin Fowler",
-      "score": 4.4,
-      "published": "2026-09-29T12:41:00+00:00",
-      "fetched_at": "2026-09-30T20:37:50.018606+00:00"
-    },
-    {
-      "id": "8a592ae1769f",
-      "title": "9 Things Your New Head of Product Should Do in Their First 30 Days",
-      "url": "https://www.saastr.com/where-should-a-new-product-owner-focus-in-their-first-30-days/",
-      "summary": "Dear SaaStr: Where should a new head of product focus in their first 30 days? My strong advice is\u00a0speak with data. And that may mean at first \u2014 not speaking too much! \ud83d\ude42 \"When I joined Harvey, I did a listening tour with 60 lawyers and law firms my first few weeks.\" CPO @harvey Anique... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-09-29T12:01:32+00:00",
-      "fetched_at": "2026-09-30T20:37:47.306761+00:00"
-    },
-    {
       "id": "6965b47955fe",
       "title": "Data Sovereignty Is Becoming An AI Architecture Decision",
       "url": "https://www.forbes.com/sites/delltechnologies/2026/09/30/data-sovereignty-is-becoming-an-ai-architecture-decision/",
@@ -119,16 +49,79 @@
       "score": 4.0,
       "published": "2026-09-30T16:40:19+00:00",
       "fetched_at": "2026-09-30T20:37:47.959620+00:00"
+    },
+    {
+      "id": "6efaac92ccb5",
+      "title": "It\u2019s time to retire the \u2018stochastic parrot\u2019 definition of AI",
+      "url": "https://www.fastcompany.com/91614991/its-time-to-retire-the-stochastic-parrot-definition-of-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Early generative AI models, circa 2017-2022, were \u201cstochastic parrots.\u201d That is, they generated language by choosing the statistically most likely next word based on patterns in their training data, rather than truly understanding what they were saying.\n\n\n\nBeginning in 2023, artificial intelligence labs began releasing large language models (LLMs) that had evolved beyond autoregressive next-token prediction, as researchers call it.\n\n\n\nFor many people, the stochastic parrot definition stuck. And lately, the \u201cthey\u2019re just stochastic parrots\u201d argument has been used as a way of downplaying the pot",
+      "source": "Fast Company Tech",
+      "score": 12.1,
+      "published": "2026-10-01T10:04:00+00:00",
+      "fetched_at": "2026-10-01T20:52:08.634592+00:00"
+    },
+    {
+      "id": "8d5eb34715e8",
+      "title": "The Agentic Data Science Playbook",
+      "url": "https://www.oreilly.com/radar/the-agentic-data-science-playbook/",
+      "summary": "The following article originally appeared on Vanishing Gradients and is being republished here with the authors\u2019 permission When an AI agent can explore a dataset, choose a modeling approach, run the analysis, and explain its findings, what should the data scientist do? Traditionally, data scientists chose each step and implemented much of the analysis themselves. [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 7.7,
+      "published": "2026-09-30T16:06:24+00:00",
+      "fetched_at": "2026-10-01T20:52:07.837706+00:00"
+    },
+    {
+      "id": "3f4ea9f16a21",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-10-01T14:00:00+00:00",
+      "fetched_at": "2026-10-01T20:52:03.721465+00:00"
+    },
+    {
+      "id": "445dfea5f502",
+      "title": "The Future of Software May Be Conversational Rather Than Autonomous",
+      "url": "https://www.oreilly.com/radar/the-future-of-software-may-be-conversational-rather-than-autonomous/",
+      "summary": "The following article originally appeared on Robert Englander\u2019s blog site and is being reposted here with the author\u2019s permission. The software industry has become deeply focused on autonomous AI systems. Agents that can replace workers. Agents that can write software. Agents that can operate applications on our behalf. Entire startups are now built around the [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 5.5,
+      "published": "2026-10-01T10:54:32+00:00",
+      "fetched_at": "2026-10-01T20:52:07.837656+00:00"
+    },
+    {
+      "id": "45c2da46582d",
+      "title": "Inside Microsoft\u2019s big Copilot rethink",
+      "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+      "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest rethink of the AI assistant as the \"OS for work.\" Microsoft is [&#8230;]",
+      "source": "The Verge",
+      "score": 5.0,
+      "published": "2026-10-01T16:00:00+00:00",
+      "fetched_at": "2026-10-01T20:52:06.494811+00:00"
+    },
+    {
+      "id": "1531fa606099",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-09-30T21:07:40+00:00",
+      "fetched_at": "2026-10-01T20:52:03.721568+00:00"
+    },
+    {
+      "id": "5c66870c6017",
+      "title": "Why ServiceNow built a startup inside itself to take on AI-native rivals",
+      "url": "https://www.fastcompany.com/91615966/servicenow-just-built-the-ai-startup-that-was-supposed-to-kill-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "For two years, ServiceNow\u2019s challengers have built businesses around frustrations with its software. Their pitch centers on two complaints: Implementations take too long, and employees increasingly expect help inside tools they already use rather than through a separate portal.\n\n\n\nThe IT service management startup Serval, which says it intends to replace ServiceNow, rode that argument to a $1 billion valuation last December, raising $75 million in a funding round led by Sequoia Capital. Anas Biad, a Sequoia partner, made a comparison ServiceNow would probably prefer not to hear. The last time ",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-10-01T13:00:00+00:00",
+      "fetched_at": "2026-10-01T20:52:08.634526+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
-    "https://www.saastr.com/databricks-just-crossed-7b-arr-growing-80-a-30-point-acceleration-a-190b-valuation-and-the-margin-bill-for-agents/",
-    "https://www.fastcompany.com/91586979/if-you-run-solo-business-heres-how-ai-agents-can-help-you",
-    "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
-    "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
-    "https://www.saastr.com/dear-saastr-at-what-acv-size-do-i-need-an-account-manager-in-b2b/",
     "https://www.computerworld.com/article/4209764/microsoft-brings-copilot-apps-together-ahead-of-super-app-overhaul.html",
     "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
     "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
@@ -371,7 +364,14 @@
     "https://www.fastcompany.com/91614930/openai-researchers-voice-concerns-over-gpt-6-1-astra-delaying-the-release-of-this-latest-model?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://martinfowler.com/fragments/2026-09-29.html",
     "https://www.saastr.com/where-should-a-new-product-owner-focus-in-their-first-30-days/",
-    "https://www.forbes.com/sites/delltechnologies/2026/09/30/data-sovereignty-is-becoming-an-ai-architecture-decision/"
+    "https://www.forbes.com/sites/delltechnologies/2026/09/30/data-sovereignty-is-becoming-an-ai-architecture-decision/",
+    "https://www.fastcompany.com/91614991/its-time-to-retire-the-stochastic-parrot-definition-of-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.oreilly.com/radar/the-agentic-data-science-playbook/",
+    "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "https://www.oreilly.com/radar/the-future-of-software-may-be-conversational-rather-than-autonomous/",
+    "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+    "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "https://www.fastcompany.com/91615966/servicenow-just-built-the-ai-startup-that-was-supposed-to-kill-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-09-30T20:37:51.107097+00:00"
+  "generated_at": "2026-10-01T20:52:08.971429+00:00"
 }

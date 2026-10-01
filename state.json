@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "9a67e7d0fcb7",
-      "title": "This is what women leaders can teach us about using AI well",
-      "url": "https://www.fastcompany.com/91613131/this-is-what-women-leaders-can-teach-us-about-using-ai-well",
-      "summary": "The rate of AI adoption doesn\u2019t tell us the whole picture.\n\nThere\u2019s a gender gap in generative AI use. According to research published by\u00a0Harvard Business School, women adopt artificial intelligence at lower rates than men. Many have interpreted that statistic as hesitation. But what if adoption rates are the wrong measure?",
-      "source": "Fast Company",
-      "score": 8.0,
-      "published": "2026-09-30T10:00:00+00:00",
-      "fetched_at": "2026-09-30T20:37:51.106927+00:00"
-    },
-    {
       "id": "2390b04ed1a3",
       "title": "As AI Races Forward, How Can Humans Control The AI Agents?",
       "url": "https://www.forbes.com/sites/johnwerner/2026/09/30/the-race-for-ai-and-can-we-control-agents/",
@@ -119,10 +109,19 @@
       "score": 4.4,
       "published": "2026-10-01T13:00:00+00:00",
       "fetched_at": "2026-10-01T20:52:08.634526+00:00"
+    },
+    {
+      "id": "916ab13d6f13",
+      "title": "Dear SaaStr: When Should We Start Pushing For Multi-Year Contracts?",
+      "url": "https://www.saastr.com/dear-saastr-when-should-we-start-pushing-for-multi-year-contracts/",
+      "summary": "Dear SaaStr: When Should We Start Pushing For Multi-Year Contracts? For most of us: stop pushing for them in the Age of AI. The market has shifted, and fighting it costs you more than it gains. Here&#8217;s the reality: shorter contracts are now the norm across B2B + AI, and it&#8217;s rational buyer behavior, not... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-10-01T09:17:25+00:00",
+      "fetched_at": "2026-10-01T22:25:55.539005+00:00"
     }
   ],
   "history": [
-    "https://www.computerworld.com/article/4209764/microsoft-brings-copilot-apps-together-ahead-of-super-app-overhaul.html",
     "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
     "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
     "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
@@ -371,7 +370,8 @@
     "https://www.oreilly.com/radar/the-future-of-software-may-be-conversational-rather-than-autonomous/",
     "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
     "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-    "https://www.fastcompany.com/91615966/servicenow-just-built-the-ai-startup-that-was-supposed-to-kill-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+    "https://www.fastcompany.com/91615966/servicenow-just-built-the-ai-startup-that-was-supposed-to-kill-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.saastr.com/dear-saastr-when-should-we-start-pushing-for-multi-year-contracts/"
   ],
-  "generated_at": "2026-10-01T20:52:08.971429+00:00"
+  "generated_at": "2026-10-01T22:26:00.344819+00:00"
 }

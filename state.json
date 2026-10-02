@@ -1,46 +1,6 @@
 {
   "queue": [
     {
-      "id": "2390b04ed1a3",
-      "title": "As AI Races Forward, How Can Humans Control The AI Agents?",
-      "url": "https://www.forbes.com/sites/johnwerner/2026/09/30/the-race-for-ai-and-can-we-control-agents/",
-      "summary": "AI experts debated control, transparency, alignment and auditing as increasingly autonomous agents raise troubling safety concerns.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-09-30T14:33:50+00:00",
-      "fetched_at": "2026-09-30T20:37:47.959910+00:00"
-    },
-    {
-      "id": "34681645bc63",
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-      "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-09-30T14:27:11+00:00",
-      "fetched_at": "2026-09-30T20:37:45.721391+00:00"
-    },
-    {
-      "id": "c1f1bb394590",
-      "title": "OpenAI is accused of taking dangerous cyber risks for \u2018private gain\u2019 in lawsuit over rogue AI agents",
-      "url": "https://www.fastcompany.com/91615759/openai-is-accused-of-taking-dangerous-cyber-risks-for-private-gain-in-lawsuit-over-rogue-ai-agents",
-      "summary": "A legal advocacy group has filed what it says is a first-of-its-kind lawsuit seeking to hold a company liable for the autonomous activity of agents it created.\n\nIn what is now one of many known cases, OpenAI\u2019s agents went rogue in July, launching a cyberattack on Hugging Face.",
-      "source": "Fast Company",
-      "score": 6.0,
-      "published": "2026-09-30T13:56:00+00:00",
-      "fetched_at": "2026-09-30T20:37:51.106659+00:00"
-    },
-    {
-      "id": "6965b47955fe",
-      "title": "Data Sovereignty Is Becoming An AI Architecture Decision",
-      "url": "https://www.forbes.com/sites/delltechnologies/2026/09/30/data-sovereignty-is-becoming-an-ai-architecture-decision/",
-      "summary": "Learn how data sovereignty, local AI and hybrid architecture can help enterprises govern sensitive workloads, control costs and reduce cloud dependence.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-09-30T16:40:19+00:00",
-      "fetched_at": "2026-09-30T20:37:47.959620+00:00"
-    },
-    {
       "id": "6efaac92ccb5",
       "title": "It\u2019s time to retire the \u2018stochastic parrot\u2019 definition of AI",
       "url": "https://www.fastcompany.com/91614991/its-time-to-retire-the-stochastic-parrot-definition-of-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -49,16 +9,6 @@
       "score": 12.1,
       "published": "2026-10-01T10:04:00+00:00",
       "fetched_at": "2026-10-01T20:52:08.634592+00:00"
-    },
-    {
-      "id": "8d5eb34715e8",
-      "title": "The Agentic Data Science Playbook",
-      "url": "https://www.oreilly.com/radar/the-agentic-data-science-playbook/",
-      "summary": "The following article originally appeared on Vanishing Gradients and is being republished here with the authors\u2019 permission When an AI agent can explore a dataset, choose a modeling approach, run the analysis, and explain its findings, what should the data scientist do? Traditionally, data scientists chose each step and implemented much of the analysis themselves. [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 7.7,
-      "published": "2026-09-30T16:06:24+00:00",
-      "fetched_at": "2026-10-01T20:52:07.837706+00:00"
     },
     {
       "id": "3f4ea9f16a21",
@@ -119,14 +69,59 @@
       "score": 4.4,
       "published": "2026-10-01T09:17:25+00:00",
       "fetched_at": "2026-10-01T22:25:55.539005+00:00"
+    },
+    {
+      "id": "ed9dd57bde82",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
+      "source": "MIT Technology Review",
+      "score": 9.6,
+      "published": "2026-10-02T15:49:04+00:00",
+      "fetched_at": "2026-10-02T20:26:46.576210+00:00"
+    },
+    {
+      "id": "39150c144780",
+      "title": "Publishers finally have AI buyers for their content yet zero say in the price",
+      "url": "https://www.fastcompany.com/91613569/publishers-ai-buyers-content-market?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "In the early days of generative AI, it seemed as if the labs were so heads-down building large language models that they didn&#8217;t think much about the raw material they were using. After all, big data sets like Common Crawl already existed, and trawling the open web was how search engines had worked for decades. \n\n\n\nChatbots were arguably just a variation on that idea. Who knew that their method for sourcing information would get so controversial?\n\n\n\nIt turns out, everybody. In a brief made public September 17 in The New York Times\u2019s lawsuit against OpenAI and Microsoft, internal documents",
+      "source": "Fast Company Tech",
+      "score": 7.7,
+      "published": "2026-10-02T08:00:00+00:00",
+      "fetched_at": "2026-10-02T20:26:51.113659+00:00"
+    },
+    {
+      "id": "edef5e5d6249",
+      "title": "OpenAI\u2019s Dot agent is enterprise software that can also order your dinner",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [&#8230;]",
+      "source": "The Verge",
+      "score": 7.0,
+      "published": "2026-10-02T18:00:00+00:00",
+      "fetched_at": "2026-10-02T20:26:48.258167+00:00"
+    },
+    {
+      "id": "e271bf7700ed",
+      "title": "I Asked My AI Agent To Find Caitlin Clark\u2019s New Shoe",
+      "url": "https://www.forbes.com/sites/ariredbord/2026/10/02/i-sent-my-ai-agent-to-find-caitlin-clarks-new-shoe/",
+      "summary": "AI agents are beginning to shop and pay for consumers. Here is how agentic commerce works, where stablecoins fit, and who is liable when machines make mistakes.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-10-02T14:45:17+00:00",
+      "fetched_at": "2026-10-02T20:26:48.025640+00:00"
+    },
+    {
+      "id": "7576791b496f",
+      "title": "AI is a boon for 3 internet traffic cop stocks. Cramer says only 1 is a buy right now",
+      "url": "https://www.cnbc.com/2026/10/01/jim-cramer-akamai-ai-traffic.html",
+      "summary": "AI agents are driving a surge in web traffic, creating new growth opportunities for internet infrastructure companies Cloudflare, Akamai and Fastly.",
+      "source": "CNBC Tech",
+      "score": 5.5,
+      "published": "2026-10-01T23:04:13+00:00",
+      "fetched_at": "2026-10-02T20:26:46.453469+00:00"
     }
   ],
   "history": [
-    "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
-    "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
-    "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
-    "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
-    "https://www.businessinsider.com/dash0-polar-signals-acquisition-ai-agents-continuous-profiling-2026-8",
     "https://www.businessinsider.com/inside-ukraines-war-robot-revolution-2026-7",
     "https://www.forbes.com/councils/forbestechcouncil/2026/08/17/what-the-nuclear-industry-can-teach-about-building-trustworthy-agentic-software/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/08/17/what-the-cloud-revolution-can-teach-about-securing-ai-agents/",
@@ -371,7 +366,12 @@
     "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
     "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
     "https://www.fastcompany.com/91615966/servicenow-just-built-the-ai-startup-that-was-supposed-to-kill-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.saastr.com/dear-saastr-when-should-we-start-pushing-for-multi-year-contracts/"
+    "https://www.saastr.com/dear-saastr-when-should-we-start-pushing-for-multi-year-contracts/",
+    "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "https://www.fastcompany.com/91613569/publishers-ai-buyers-content-market?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "https://www.forbes.com/sites/ariredbord/2026/10/02/i-sent-my-ai-agent-to-find-caitlin-clarks-new-shoe/",
+    "https://www.cnbc.com/2026/10/01/jim-cramer-akamai-ai-traffic.html"
   ],
-  "generated_at": "2026-10-01T22:26:00.344819+00:00"
+  "generated_at": "2026-10-02T20:26:51.317056+00:00"
 }

@@ -31,16 +31,6 @@
       "fetched_at": "2026-10-05T21:19:43.471957+00:00"
     },
     {
-      "id": "bcc7f624b3f1",
-      "title": "Astra 6 Replaced a Core Engine of SaaStr Connect With Two Words, \u201cDO IT,\u201d Twice in Under an Hour. Then It Said \u201cI Did Not Make That Edit.\u201d",
-      "url": "https://www.saastr.com/astra-6-replaced-a-core-engine-of-saastr-connect-with-two-words-do-it-twice-in-under-an-hour-then-it-said-i-did-not-make-that-edit/",
-      "summary": "On Monday afternoon, one of the two core engines behind SaaStr Connect was deleted twice in about 30 minutes. And I had to catch it myself. The file is ceoMatchingEmailService.ts. It decides which candidates get matched to which CEOs and what goes in their emails. Connect doesn&#8217;t run without it. The LLM driving the build... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-10-04T14:10:34+00:00",
-      "fetched_at": "2026-10-05T21:19:40.039501+00:00"
-    },
-    {
       "id": "cdee28c03e8a",
       "title": "Amazon hires Microsoft's former Copilot CTO",
       "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
@@ -119,10 +109,19 @@
       "score": 4.0,
       "published": "2026-10-05T17:40:13+00:00",
       "fetched_at": "2026-10-05T21:19:39.086410+00:00"
+    },
+    {
+      "id": "4541fc48caf0",
+      "title": "The 6 next big things in data for 2026",
+      "url": "https://www.fastcompany.com/91609929/data-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Training data begat large language models\u2014and ever since, they&#8217;ve been intimately bound. This year\u2019s honorees include a database tuned for AI agents, a dataset for AI-aided diagnosis of breast tumors, and a platform that gives companies more control over how their data is acquired and used.\n\n\n\nDatabricksFor bringing databases up to AI speedAccording to Databricks, AI agent creation of test and development environments on its platform has grown from 0.1% two years ago to 97% today\u2014a dynamic that traditional database architectures have been ill-equipped to accommodate. In response, the com",
+      "source": "Fast Company Tech",
+      "score": 8.8,
+      "published": "2026-10-06T11:00:00+00:00",
+      "fetched_at": "2026-10-06T20:50:13.423628+00:00"
     }
   ],
   "history": [
-    "https://www.computerworld.com/article/4210786/ai-inference-is-getting-cheaper-but-your-agents-are-getting-more-expensive.html",
     "https://www.forbes.com/councils/forbestechcouncil/2026/08/19/ai-agents-entering-the-enterprise-real-question-is-whos-in-charge/",
     "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
     "https://www.computerworld.com/article/4210869/github-restores-services-after-nearly-8-hour-outage-disrupts-actions-apis-prs-and-copilot-2.html",
@@ -371,7 +370,8 @@
     "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
     "https://martinfowler.com/fragments/2026-10-04.html",
     "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-    "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html"
+    "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
+    "https://www.fastcompany.com/91609929/data-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-10-05T21:19:45.214917+00:00"
+  "generated_at": "2026-10-06T20:50:13.623855+00:00"
 }

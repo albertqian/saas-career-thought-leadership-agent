@@ -1,116 +1,6 @@
 {
   "queue": [
     {
-      "id": "10d6f4f6fd7b",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts\u2014that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
-      "source": "MIT Technology Review",
-      "score": 14.4,
-      "published": "2026-10-05T13:29:32+00:00",
-      "fetched_at": "2026-10-05T21:19:39.408455+00:00"
-    },
-    {
-      "id": "16ad415e0c7f",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
-      "source": "MIT Technology Review",
-      "score": 10.8,
-      "published": "2026-10-05T15:47:52+00:00",
-      "fetched_at": "2026-10-05T21:19:39.408353+00:00"
-    },
-    {
-      "id": "18354bd3bcbf",
-      "title": "How to Build Reliable AI Agent Systems for Production",
-      "url": "https://www.oreilly.com/radar/how-to-build-reliable-ai-agent-systems-for-production/",
-      "summary": "The following article was originally published on the Agentic AI Foundation blog site and is being republished here with the author\u2019s permission. A customer asks your company\u2019s AI agent to update the shipping address on account 123. The agent relies on a support ticket with a typo and updates account 132 instead. The customer relationship [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 6.6,
-      "published": "2026-10-05T10:54:33+00:00",
-      "fetched_at": "2026-10-05T21:19:43.471957+00:00"
-    },
-    {
-      "id": "cdee28c03e8a",
-      "title": "Amazon hires Microsoft's former Copilot CTO",
-      "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
-      "summary": "Amazon hires former Microsoft Copilot CTO Pedram Rezaei as a distinguished engineer, expanding its push into AI agents and workplace tools.",
-      "source": "Business Insider",
-      "score": 6.0,
-      "published": "2026-10-05T17:45:01+00:00",
-      "fetched_at": "2026-10-05T21:19:44.451339+00:00"
-    },
-    {
-      "id": "6b0439cc688b",
-      "title": "You\u2019ll Probably End Up With 40% Of Your Revenue from \u201cInternational.\u201d Invest Earlier There.",
-      "url": "https://www.saastr.com/youll-probably-end-up-with-40-of-your-revenue-from-international-invest-earlier-there/",
-      "summary": "53% of Figma\u2019s revenue is international49% of Cloudflare\u2019s revenue is international49% of HubSpot\u2019s revenue is international46% of MongoDB\u2019s revenue is international36% of Twilio\u2019s revenue is international26% of Snowflake\u2019s revenue is international20% of Okta\u2019s revenue is\u2026 &#8212; Jason \u2728\ud83d\udc7eSaaStr.Ai\u2728 Lemkin (@jasonlk) September 5, 2026 Amjad Masad announced Replit&#8217;s London office the other day. It&#8217;s the company&#8217;s... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-10-05T14:10:23+00:00",
-      "fetched_at": "2026-10-05T21:19:40.039434+00:00"
-    },
-    {
-      "id": "aea90afb465b",
-      "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation [&#8230;]",
-      "source": "The Verge",
-      "score": 5.0,
-      "published": "2026-10-05T19:05:19+00:00",
-      "fetched_at": "2026-10-05T21:19:41.334567+00:00"
-    },
-    {
-      "id": "a9f048f810e1",
-      "title": "The Download: AI\u2019s popularity paradox and EmTech Future 2026",
-      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can\u2019t they get enough? \u2014Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&#8230;",
-      "source": "MIT Technology Review",
-      "score": 4.8,
-      "published": "2026-10-05T12:10:00+00:00",
-      "fetched_at": "2026-10-05T21:19:39.408533+00:00"
-    },
-    {
-      "id": "cc4fbf263535",
-      "title": "People really hate AI, so why can\u2019t they get enough?",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that\u2019s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that\u2019s been stuck in my head since: \u201cWe often say that we\u2019re a self-loathing AI&#8230;",
-      "source": "MIT Technology Review",
-      "score": 4.8,
-      "published": "2026-10-05T08:00:00+00:00",
-      "fetched_at": "2026-10-05T21:19:39.408604+00:00"
-    },
-    {
-      "id": "cad7f35db93d",
-      "title": "Fragments: October  4",
-      "url": "https://martinfowler.com/fragments/2026-10-04.html",
-      "summary": "In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don\u2019t have a conscience) \u201cMetalanguage\u201d replied:\n\n\n  we shipped the id and forgot the superego. classic software lifecycle.\n\n\nI don\u2019t know what was on their mind, but their post immediately made me think of the classic 1956 movie Forbidden Planet. Plenty of sci-fi, and other literature, have explored humans creating technology with unintended behavior, going back at least to Mary Shelly. But that movie was particularly influential on sci-fi film-making an",
-      "source": "Martin Fowler",
-      "score": 4.4,
-      "published": "2026-10-05T04:28:00+00:00",
-      "fetched_at": "2026-10-05T21:19:43.976114+00:00"
-    },
-    {
-      "id": "5b8c439bb621",
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching [&#8230;]",
-      "source": "The Verge",
-      "score": 4.0,
-      "published": "2026-10-05T20:14:57+00:00",
-      "fetched_at": "2026-10-05T21:19:41.334475+00:00"
-    },
-    {
-      "id": "e2c359df4292",
-      "title": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
-      "url": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
-      "summary": "After succeeding Steve Ballmer in 2014, Satya Nadella turned Microsoft into a cloud giant. Now he's tasked with making the company a force in AI.",
-      "source": "CNBC Economy",
-      "score": 4.0,
-      "published": "2026-10-05T17:40:13+00:00",
-      "fetched_at": "2026-10-05T21:19:39.086410+00:00"
-    },
-    {
       "id": "4541fc48caf0",
       "title": "The 6 next big things in data for 2026",
       "url": "https://www.fastcompany.com/91609929/data-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -119,20 +9,119 @@
       "score": 8.8,
       "published": "2026-10-06T11:00:00+00:00",
       "fetched_at": "2026-10-06T20:50:13.423628+00:00"
+    },
+    {
+      "id": "fd851b9b5ca3",
+      "title": "The 5 next big things in enterprise technology for 2026",
+      "url": "https://www.fastcompany.com/91609956/enterprise-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "As enterprises scale their use of LLMs and autonomous agents, the big questions are shifting from adoption to control and cost. Instead of providing organizations with generic AI tools, this year&#8217;s honorees bring domain expertise and niche solutions to solve complex problems. They\u2019re helping legacy organizations such as government agencies and hospitals modernize processes to improve compliance and quality while reducing cost. &nbsp;\n\n\n\nIntegrateFor modernizing government project managementIntegrate is helping to modernize government project management, where complex programs and secure ",
+      "source": "Fast Company Tech",
+      "score": 8.8,
+      "published": "2026-10-06T11:00:00+00:00",
+      "fetched_at": "2026-10-07T21:04:40.703468+00:00"
+    },
+    {
+      "id": "2faf46a66975",
+      "title": "Microsoft shows off new Windows software, revamped for agentic AI",
+      "url": "https://fortune.com/2026/10/07/microsoft-unveils-windows-hybrid-intelligence-satya-nadella-surface-ultra-laptop/",
+      "summary": "At an event in San Francisco, CEO Satya Nadella showed  how its Windows operating system will be a box for AI agents, with many tasks running locally and not on cloud.",
+      "source": "Fortune",
+      "score": 8.0,
+      "published": "2026-10-07T20:19:48+00:00",
+      "fetched_at": "2026-10-07T21:04:40.413219+00:00"
+    },
+    {
+      "id": "87af7d10ba84",
+      "title": "How Much of Your Customer Support Can AI Really Resolve? The Best Get About 70%. The Median Is 48%. Here\u2019s the Real Data From 13 Vendors",
+      "url": "https://www.saastr.com/how-much-of-your-customer-support-can-ai-really-resolve-the-best-get-about-70-the-median-is-48-heres-the-real-data-from-13-vendors/",
+      "summary": "Exactly how many support and related issues can AI Agents really, truly resolve today?\u00a0 It&#8217;s a good test of just exactly where the latest models and agents are. Now $100M ARR AI CX for ecommerce leader Gorgias (where SaaStr Fund led the seed) has now published a public benchmark that tests 13 vendors on 212... Continue Reading",
+      "source": "SaaStr",
+      "score": 7.7,
+      "published": "2026-10-06T14:10:55+00:00",
+      "fetched_at": "2026-10-07T21:04:35.772896+00:00"
+    },
+    {
+      "id": "0532a6b68d0a",
+      "title": "These big companies showed their innovative side in 2026",
+      "url": "https://www.fastcompany.com/91612002/enterprise-size-500-employees-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Large companies have scale, but scale can also make change difficult. This year\u2019s enterprise-size honorees show what happens when established organizations use new technology to rethink core operations, from hiring tens of thousands of workers to managing sprawling retail networks. Their innovations are notable not just for what they do but for how widely they can be deployed.\n\n\n\nAlbertsons CompaniesFor putting AI to work across the grocery businessRather than deploy AI through isolated pilots, grocery giant Albertsons Companies has built a unified data and AI platform that connects operations",
+      "source": "Fast Company Tech",
+      "score": 7.7,
+      "published": "2026-10-06T11:00:00+00:00",
+      "fetched_at": "2026-10-07T21:04:40.703524+00:00"
+    },
+    {
+      "id": "7d49c27e2bd0",
+      "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "summary": "Meta\u2019s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant\u2019s reach and integrations.",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-10-07T18:30:57+00:00",
+      "fetched_at": "2026-10-07T21:04:33.515592+00:00"
+    },
+    {
+      "id": "23d4205c2c0b",
+      "title": "Mirror Particle is building a \u2018world model\u2019 of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-10-06T16:35:00+00:00",
+      "fetched_at": "2026-10-07T21:04:33.516056+00:00"
+    },
+    {
+      "id": "ccfb0d612f53",
+      "title": "NBA announces it\u2019s using smart basketballs and wearable tech in preseason games",
+      "url": "https://www.fastcompany.com/91618933/nba-announces-using-smart-basketballs-wearable-tech-preseason-games?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "The NBA is experimenting with two pieces of technology in the leadup to the season, the league announced Monday.Select exhibition games will include a smart basketball that has a Bluetooth sensor in it and can collect data for future use in real-time officiating decisions. The league said the information from the Wilson-developed connected balls will be for research only and not affect calls made during those games.Officials in select games will also use wrist wearables to communicate with the replay center in designated situations, including replay reviews, scoring changes and clock malfuncti",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-10-06T14:47:53+00:00",
+      "fetched_at": "2026-10-07T21:04:40.702813+00:00"
+    },
+    {
+      "id": "4f9ba90edadd",
+      "title": "The 13 next big things in applied AI for 2026",
+      "url": "https://www.fastcompany.com/91609818/applied-ai-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "2026 may have been the year when AI stopped getting brownie points simply for being amazing. What&#8217;s impressive now is AI that performs useful tasks. All the better if it does it quietly, cleverly, and in areas that help humans focus on the work that we still do best. These honorees check off all those boxes, in areas ranging from workplace productivity to medical safety.\n\n\n\nAlembicFor proving how decisions turn into outcomesAlembic\u2019s \u201ccausal engine\u201d uses a proprietary AI system to help enterprises understand the real effects of actions they take. The platform can analyze thousands of var",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-10-06T11:00:00+00:00",
+      "fetched_at": "2026-10-07T21:04:40.702992+00:00"
+    },
+    {
+      "id": "fa09ac3fbb41",
+      "title": "The 2 next big things from long-established companies for 2026",
+      "url": "https://www.fastcompany.com/91609941/enduring-impact-15-years-in-business-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Innovation can be challenging, even for companies with a clean slate. Those who have an established track record of 15 or more years of business must navigate history, culture, product lines, and other entrenched forces that can be both assets and inhibitors. Our honorees have shown that past success doesn\u2019t preclude tomorrow\u2019s progress by leveraging robot fleets for construction and extending real-time intelligence to billions of devices.\n\n\n\nDeWalt and August RoboticsFor getting fleets of robots to drill down into construction efficiencyGargantuan data centers do not spring up overnight. Thei",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-10-06T11:00:00+00:00",
+      "fetched_at": "2026-10-07T21:04:40.703405+00:00"
+    },
+    {
+      "id": "e2b11da81a87",
+      "title": "Atlassian\u2019s critical flaw turns eight enterprise products into one big security problem",
+      "url": "https://www.computerworld.com/article/4231552/atlassians-critical-flaw-turns-eight-enterprise-products-into-one-big-security-problem-2.html",
+      "summary": "A newly-disclosed critical flaw in Atlassian\u2019s data center software has a remarkably wide reach, affecting eight core products across the company\u2019s enterprise portfolio.\n\n\n\nCVE-2026-21589, rated 9.3 (critical) in severity, is an arbitrary file access vulnerability that could allow an attacker with no login access to read files in web app root directories that they should not otherwise see, and potentially use them for nefarious purposes.\n\n\n\nThe impacted products require \u201cimmediate attention,\u201d Atlassian said in a security advisory. Customers should patch to the latest fixed versions. The compan",
+      "source": "Computerworld",
+      "score": 4.0,
+      "published": "2026-10-07T01:58:39+00:00",
+      "fetched_at": "2026-10-07T21:04:38.702901+00:00"
+    },
+    {
+      "id": "1d6dcd635bc7",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "summary": "The developer of Hermes agent raised a $90 million Series B.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-10-07T20:48:45+00:00",
+      "fetched_at": "2026-10-07T21:04:33.515525+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/councils/forbestechcouncil/2026/08/19/ai-agents-entering-the-enterprise-real-question-is-whos-in-charge/",
-    "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-    "https://www.computerworld.com/article/4210869/github-restores-services-after-nearly-8-hour-outage-disrupts-actions-apis-prs-and-copilot-2.html",
-    "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
-    "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters",
-    "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
-    "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
-    "https://www.fastcompany.com/91592991/palo-alto-networks-and-ntt-data-team-up-on-a-1-billion-ai-security-push?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
-    "https://www.oreilly.com/radar/when-your-buyer-is-an-ai-agent/",
-    "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
     "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
     "https://www.fastcompany.com/91592991/palo-alto-networks-and-ntt-data-team-up-on-a-1-billion-ai-security-push",
     "https://www.fastcompany.com/91592315/why-upworks-ceo-insists-the-ai-jobs-apocalypse-isnt-happening",
@@ -371,7 +360,18 @@
     "https://martinfowler.com/fragments/2026-10-04.html",
     "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
     "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
-    "https://www.fastcompany.com/91609929/data-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+    "https://www.fastcompany.com/91609929/data-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91609956/enterprise-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://fortune.com/2026/10/07/microsoft-unveils-windows-hybrid-intelligence-satya-nadella-surface-ultra-laptop/",
+    "https://www.saastr.com/how-much-of-your-customer-support-can-ai-really-resolve-the-best-get-about-70-the-median-is-48-heres-the-real-data-from-13-vendors/",
+    "https://www.fastcompany.com/91612002/enterprise-size-500-employees-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "https://www.fastcompany.com/91618933/nba-announces-using-smart-basketballs-wearable-tech-preseason-games?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91609818/applied-ai-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91609941/enduring-impact-15-years-in-business-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.computerworld.com/article/4231552/atlassians-critical-flaw-turns-eight-enterprise-products-into-one-big-security-problem-2.html",
+    "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
   ],
-  "generated_at": "2026-10-06T20:50:13.623855+00:00"
+  "generated_at": "2026-10-07T21:04:40.895604+00:00"
 }

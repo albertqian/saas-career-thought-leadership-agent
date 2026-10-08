@@ -1,26 +1,6 @@
 {
   "queue": [
     {
-      "id": "4541fc48caf0",
-      "title": "The 6 next big things in data for 2026",
-      "url": "https://www.fastcompany.com/91609929/data-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Training data begat large language models\u2014and ever since, they&#8217;ve been intimately bound. This year\u2019s honorees include a database tuned for AI agents, a dataset for AI-aided diagnosis of breast tumors, and a platform that gives companies more control over how their data is acquired and used.\n\n\n\nDatabricksFor bringing databases up to AI speedAccording to Databricks, AI agent creation of test and development environments on its platform has grown from 0.1% two years ago to 97% today\u2014a dynamic that traditional database architectures have been ill-equipped to accommodate. In response, the com",
-      "source": "Fast Company Tech",
-      "score": 8.8,
-      "published": "2026-10-06T11:00:00+00:00",
-      "fetched_at": "2026-10-06T20:50:13.423628+00:00"
-    },
-    {
-      "id": "fd851b9b5ca3",
-      "title": "The 5 next big things in enterprise technology for 2026",
-      "url": "https://www.fastcompany.com/91609956/enterprise-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "As enterprises scale their use of LLMs and autonomous agents, the big questions are shifting from adoption to control and cost. Instead of providing organizations with generic AI tools, this year&#8217;s honorees bring domain expertise and niche solutions to solve complex problems. They\u2019re helping legacy organizations such as government agencies and hospitals modernize processes to improve compliance and quality while reducing cost. &nbsp;\n\n\n\nIntegrateFor modernizing government project managementIntegrate is helping to modernize government project management, where complex programs and secure ",
-      "source": "Fast Company Tech",
-      "score": 8.8,
-      "published": "2026-10-06T11:00:00+00:00",
-      "fetched_at": "2026-10-07T21:04:40.703468+00:00"
-    },
-    {
       "id": "2faf46a66975",
       "title": "Microsoft shows off new Windows software, revamped for agentic AI",
       "url": "https://fortune.com/2026/10/07/microsoft-unveils-windows-hybrid-intelligence-satya-nadella-surface-ultra-laptop/",
@@ -31,26 +11,6 @@
       "fetched_at": "2026-10-07T21:04:40.413219+00:00"
     },
     {
-      "id": "87af7d10ba84",
-      "title": "How Much of Your Customer Support Can AI Really Resolve? The Best Get About 70%. The Median Is 48%. Here\u2019s the Real Data From 13 Vendors",
-      "url": "https://www.saastr.com/how-much-of-your-customer-support-can-ai-really-resolve-the-best-get-about-70-the-median-is-48-heres-the-real-data-from-13-vendors/",
-      "summary": "Exactly how many support and related issues can AI Agents really, truly resolve today?\u00a0 It&#8217;s a good test of just exactly where the latest models and agents are. Now $100M ARR AI CX for ecommerce leader Gorgias (where SaaStr Fund led the seed) has now published a public benchmark that tests 13 vendors on 212... Continue Reading",
-      "source": "SaaStr",
-      "score": 7.7,
-      "published": "2026-10-06T14:10:55+00:00",
-      "fetched_at": "2026-10-07T21:04:35.772896+00:00"
-    },
-    {
-      "id": "0532a6b68d0a",
-      "title": "These big companies showed their innovative side in 2026",
-      "url": "https://www.fastcompany.com/91612002/enterprise-size-500-employees-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Large companies have scale, but scale can also make change difficult. This year\u2019s enterprise-size honorees show what happens when established organizations use new technology to rethink core operations, from hiring tens of thousands of workers to managing sprawling retail networks. Their innovations are notable not just for what they do but for how widely they can be deployed.\n\n\n\nAlbertsons CompaniesFor putting AI to work across the grocery businessRather than deploy AI through isolated pilots, grocery giant Albertsons Companies has built a unified data and AI platform that connects operations",
-      "source": "Fast Company Tech",
-      "score": 7.7,
-      "published": "2026-10-06T11:00:00+00:00",
-      "fetched_at": "2026-10-07T21:04:40.703524+00:00"
-    },
-    {
       "id": "7d49c27e2bd0",
       "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
       "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
@@ -59,46 +19,6 @@
       "score": 6.0,
       "published": "2026-10-07T18:30:57+00:00",
       "fetched_at": "2026-10-07T21:04:33.515592+00:00"
-    },
-    {
-      "id": "23d4205c2c0b",
-      "title": "Mirror Particle is building a \u2018world model\u2019 of human behavior",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-10-06T16:35:00+00:00",
-      "fetched_at": "2026-10-07T21:04:33.516056+00:00"
-    },
-    {
-      "id": "ccfb0d612f53",
-      "title": "NBA announces it\u2019s using smart basketballs and wearable tech in preseason games",
-      "url": "https://www.fastcompany.com/91618933/nba-announces-using-smart-basketballs-wearable-tech-preseason-games?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "The NBA is experimenting with two pieces of technology in the leadup to the season, the league announced Monday.Select exhibition games will include a smart basketball that has a Bluetooth sensor in it and can collect data for future use in real-time officiating decisions. The league said the information from the Wilson-developed connected balls will be for research only and not affect calls made during those games.Officials in select games will also use wrist wearables to communicate with the replay center in designated situations, including replay reviews, scoring changes and clock malfuncti",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-10-06T14:47:53+00:00",
-      "fetched_at": "2026-10-07T21:04:40.702813+00:00"
-    },
-    {
-      "id": "4f9ba90edadd",
-      "title": "The 13 next big things in applied AI for 2026",
-      "url": "https://www.fastcompany.com/91609818/applied-ai-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "2026 may have been the year when AI stopped getting brownie points simply for being amazing. What&#8217;s impressive now is AI that performs useful tasks. All the better if it does it quietly, cleverly, and in areas that help humans focus on the work that we still do best. These honorees check off all those boxes, in areas ranging from workplace productivity to medical safety.\n\n\n\nAlembicFor proving how decisions turn into outcomesAlembic\u2019s \u201ccausal engine\u201d uses a proprietary AI system to help enterprises understand the real effects of actions they take. The platform can analyze thousands of var",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-10-06T11:00:00+00:00",
-      "fetched_at": "2026-10-07T21:04:40.702992+00:00"
-    },
-    {
-      "id": "fa09ac3fbb41",
-      "title": "The 2 next big things from long-established companies for 2026",
-      "url": "https://www.fastcompany.com/91609941/enduring-impact-15-years-in-business-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Innovation can be challenging, even for companies with a clean slate. Those who have an established track record of 15 or more years of business must navigate history, culture, product lines, and other entrenched forces that can be both assets and inhibitors. Our honorees have shown that past success doesn\u2019t preclude tomorrow\u2019s progress by leveraging robot fleets for construction and extending real-time intelligence to billions of devices.\n\n\n\nDeWalt and August RoboticsFor getting fleets of robots to drill down into construction efficiencyGargantuan data centers do not spring up overnight. Thei",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-10-06T11:00:00+00:00",
-      "fetched_at": "2026-10-07T21:04:40.703405+00:00"
     },
     {
       "id": "e2b11da81a87",
@@ -119,17 +39,89 @@
       "score": 3.6,
       "published": "2026-10-07T20:48:45+00:00",
       "fetched_at": "2026-10-07T21:04:33.515525+00:00"
+    },
+    {
+      "id": "a80a806ab603",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
+      "source": "MIT Technology Review",
+      "score": 12.0,
+      "published": "2026-10-08T08:17:32+00:00",
+      "fetched_at": "2026-10-08T21:06:52.582094+00:00"
+    },
+    {
+      "id": "bd9a67b39499",
+      "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+      "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+      "summary": "The deal is handing the AI agent developer fresh capital after Beijing forced Meta to unwind its roughly $2 billion acquisition.",
+      "source": "CNBC Tech",
+      "score": 7.7,
+      "published": "2026-10-08T06:59:59+00:00",
+      "fetched_at": "2026-10-08T21:06:52.444874+00:00"
+    },
+    {
+      "id": "ceca2e2c1a06",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-10-08T18:18:00+00:00",
+      "fetched_at": "2026-10-08T21:06:51.212408+00:00"
+    },
+    {
+      "id": "a57050fc75dc",
+      "title": "Spotify is getting more serious about selling enterprise software",
+      "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+      "summary": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
+      "source": "TechCrunch Enterprise",
+      "score": 6.6,
+      "published": "2026-10-08T14:34:33+00:00",
+      "fetched_at": "2026-10-08T21:06:51.294834+00:00"
+    },
+    {
+      "id": "d3cea8071199",
+      "title": "Data Access, Not Models, Will Determine Enterprise AI's Ceiling",
+      "url": "https://www.forbes.com/sites/garydrenik/2026/10/08/data-access-not-models-will-determine-enterprise-ais-ceiling/",
+      "summary": "AI is forcing a reckoning with a problem enterprises have been deferring. Organizations are sitting on vast, untapped data assets  accumulated across the business.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-10-08T14:00:00+00:00",
+      "fetched_at": "2026-10-08T21:06:54.325799+00:00"
+    },
+    {
+      "id": "2a5cc59b4479",
+      "title": "Microsoft will let Copilot act on local files on Windows PCs",
+      "url": "https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html",
+      "summary": "Microsoft is giving Copilot greater control over Windows PCs, allowing the AI assistant to organize and make changes to local files, and run certain tasks using on-device AI models.\n\n\n\nThe changes were announced at Microsoft\u2019s Hybrid Intelligence event, where it outlined plans to combine local and cloud AI processing to help customers reduce AI costs and retain more control over data. \n\n\n\nThree new Copilot capabilities will be available to Copilot+ PC users \u201cin the coming months,\u201d Microsoft said.\n\n\n\nOne is the ability for Copilot to access local files and recent user activity, providing additi",
+      "source": "Computerworld",
+      "score": 5.0,
+      "published": "2026-10-08T16:02:26+00:00",
+      "fetched_at": "2026-10-08T21:06:57.554765+00:00"
+    },
+    {
+      "id": "87922315e033",
+      "title": "Cal AI\u2019s 19-year-old founder just raised $10M for his new AI startup",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-10-08T14:00:00+00:00",
+      "fetched_at": "2026-10-08T21:06:51.212625+00:00"
+    },
+    {
+      "id": "cd87dc588833",
+      "title": "Meta\u2019s Muse is taking off. So are the privacy concerns",
+      "url": "https://www.fastcompany.com/91620148/metas-muse-is-taking-off-so-are-the-privacy-concerns",
+      "summary": "The AI agent has millions of users and can handle everything from refunds to insurance shopping. But its broad access to personal data is already producing some unnerving mistakes.\n\nWelcome to AI Decoded, Fast Company&#8216;s weekly newsletter that breaks down the most important news in the world of AI. I&#8217;m Mark Sullivan, a senior writer at Fast Company, covering emerging tech, AI, and tech policy.",
+      "source": "Fast Company",
+      "score": 4.0,
+      "published": "2026-10-08T16:00:00+00:00",
+      "fetched_at": "2026-10-08T21:06:59.387200+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    "https://www.fastcompany.com/91592991/palo-alto-networks-and-ntt-data-team-up-on-a-1-billion-ai-security-push",
-    "https://www.fastcompany.com/91592315/why-upworks-ceo-insists-the-ai-jobs-apocalypse-isnt-happening",
-    "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
-    "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
-    "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
-    "https://www.oreilly.com/radar/this-week-in-ai-the-web-belongs-to-agents-now/",
     "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
     "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
     "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
@@ -371,7 +363,15 @@
     "https://www.fastcompany.com/91609818/applied-ai-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91609941/enduring-impact-15-years-in-business-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.computerworld.com/article/4231552/atlassians-critical-flaw-turns-eight-enterprise-products-into-one-big-security-problem-2.html",
-    "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+    "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+    "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+    "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+    "https://www.forbes.com/sites/garydrenik/2026/10/08/data-access-not-models-will-determine-enterprise-ais-ceiling/",
+    "https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html",
+    "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+    "https://www.fastcompany.com/91620148/metas-muse-is-taking-off-so-are-the-privacy-concerns"
   ],
-  "generated_at": "2026-10-07T21:04:40.895604+00:00"
+  "generated_at": "2026-10-08T21:06:59.387658+00:00"
 }

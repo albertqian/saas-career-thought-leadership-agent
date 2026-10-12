@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "1d6dcd635bc7",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "summary": "The developer of Hermes agent raised a $90 million Series B.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-10-07T20:48:45+00:00",
-      "fetched_at": "2026-10-07T21:04:33.515525+00:00"
-    },
-    {
-      "id": "a80a806ab603",
-      "title": "Building a safer path to autonomous industrial AI",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
-      "source": "MIT Technology Review",
-      "score": 12.0,
-      "published": "2026-10-08T08:17:32+00:00",
-      "fetched_at": "2026-10-08T21:06:52.582094+00:00"
-    },
-    {
-      "id": "bd9a67b39499",
-      "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-      "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
-      "summary": "The deal is handing the AI agent developer fresh capital after Beijing forced Meta to unwind its roughly $2 billion acquisition.",
-      "source": "CNBC Tech",
-      "score": 7.7,
-      "published": "2026-10-08T06:59:59+00:00",
-      "fetched_at": "2026-10-08T21:06:52.444874+00:00"
-    },
-    {
-      "id": "ceca2e2c1a06",
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-10-08T18:18:00+00:00",
-      "fetched_at": "2026-10-08T21:06:51.212408+00:00"
-    },
-    {
-      "id": "a57050fc75dc",
-      "title": "Spotify is getting more serious about selling enterprise software",
-      "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
-      "summary": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
-      "source": "TechCrunch Enterprise",
+      "id": "07b5de4f61bb",
+      "title": "The Latest SaaStr AI Agent Playbook for GTM Is Out: Everything We\u2019ve Learned Running SaaStr on 3 Humans and 21+ AI Agents, In One Handy Guide",
+      "url": "https://www.saastr.com/the-latest-saastr-ai-agent-playbook-for-gtm-is-out-everything-weve-learned-running-saastr-on-3-humans-and-21-ai-agents-in-one-handy-guide/",
+      "summary": "We just shipped the biggest update yet to our AI Agent Playbook for GTM. It is the October 2026 edition: 53 pages, 27 parts, every number, every mistake, and every framework from running SaaStr on 3 humans and 21+ AI agents in production. If you only know the June version, this is a near-total refresh.... Continue Reading",
+      "source": "SaaStr",
       "score": 6.6,
-      "published": "2026-10-08T14:34:33+00:00",
-      "fetched_at": "2026-10-08T21:06:51.294834+00:00"
+      "published": "2026-10-12T17:56:46+00:00",
+      "fetched_at": "2026-10-12T22:47:13.892983+00:00"
     },
     {
-      "id": "d3cea8071199",
-      "title": "Data Access, Not Models, Will Determine Enterprise AI's Ceiling",
-      "url": "https://www.forbes.com/sites/garydrenik/2026/10/08/data-access-not-models-will-determine-enterprise-ais-ceiling/",
-      "summary": "AI is forcing a reckoning with a problem enterprises have been deferring. Organizations are sitting on vast, untapped data assets  accumulated across the business.",
+      "id": "e752b2a6d433",
+      "title": "Silicon Valley responds to Trump\u2019s hands-off approach to AI regulation at Tech Week",
+      "url": "https://www.fastcompany.com/91622221/silicon-valley-responds-trumps-hands-off-approach-ai-regulation-tech-week?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Tech Week is in full bloom in San Francisco, packing the city&#8217;s restaurants this week with venture capitalists and AI founders ebullient about the White House&#8217;s stance on regulating artificial intelligence \u2014 namely, don&#8217;t do it.And after months of debate about leading AI companies&#8217; unchecked AI agents meddling with everything from U.S. government websites to healthcare data, the nation now finds itself further from governing AI systems than it was a few years ago.President Donald Trump brought tech titans to Washington late last month for a luncheon and ceremonial signi",
+      "source": "Fast Company Tech",
+      "score": 6.6,
+      "published": "2026-10-12T14:41:00+00:00",
+      "fetched_at": "2026-10-12T22:47:18.073372+00:00"
+    },
+    {
+      "id": "1b3ab67dfacb",
+      "title": "Our AI Agent Picked Render Over Railway and Vercel. I\u2019d Barely Heard of It. That\u2019s How You Get Leads in The Agent Age.",
+      "url": "https://www.saastr.com/our-ai-agent-picked-render-over-railway-and-vercel-id-never-heard-of-it-thats-how-you-get-leads-in-the-agent-age/",
+      "summary": "I asked our agent for SaaStr AI Connect a simple question this week: if we wanted to move hosting, where should we go? It came back with a full evaluation and one line at the top: &#8220;For hosting the app, I&#8217;d pick Render.&#8221; In the comparison table, next to Render, it added &#8220;(my pick).&#8221; I... Continue Reading",
+      "source": "SaaStr",
+      "score": 6.6,
+      "published": "2026-10-12T14:10:20+00:00",
+      "fetched_at": "2026-10-12T22:47:13.893026+00:00"
+    },
+    {
+      "id": "bba28f9ed8e4",
+      "title": "Designing Websites for People and AI Agents with WebMCP",
+      "url": "https://www.oreilly.com/radar/designing-websites-for-people-and-ai-agents-with-webmcp/",
+      "summary": "The following article originally appeared on the Agentic AI Foundation blog and is being reposted here with the author\u2019s permission. Websites are designed for people. We can look at a page and quickly understand where to enter information or which control will complete an action. AI agents don\u2019t see or use the web the same [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 6.6,
+      "published": "2026-10-12T10:54:27+00:00",
+      "fetched_at": "2026-10-12T22:47:17.192267+00:00"
+    },
+    {
+      "id": "9e24da11bd84",
+      "title": "Rogue AI Agents Just Filed A Murder Tip",
+      "url": "https://www.forbes.com/sites/ariredbord/2026/10/12/rogue-ai-agents-just-filed-a-murder-tip/",
+      "summary": "Anthropic's rogue AI agent filed a false murder tip and exposed a growing problem: autonomous AI agents are taking unauthorized actions in the real world.",
       "source": "Forbes Innovation",
       "score": 6.0,
-      "published": "2026-10-08T14:00:00+00:00",
-      "fetched_at": "2026-10-08T21:06:54.325799+00:00"
+      "published": "2026-10-12T16:51:00+00:00",
+      "fetched_at": "2026-10-12T22:47:14.980823+00:00"
     },
     {
-      "id": "2a5cc59b4479",
-      "title": "Microsoft will let Copilot act on local files on Windows PCs",
-      "url": "https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html",
-      "summary": "Microsoft is giving Copilot greater control over Windows PCs, allowing the AI assistant to organize and make changes to local files, and run certain tasks using on-device AI models.\n\n\n\nThe changes were announced at Microsoft\u2019s Hybrid Intelligence event, where it outlined plans to combine local and cloud AI processing to help customers reduce AI costs and retain more control over data. \n\n\n\nThree new Copilot capabilities will be available to Copilot+ PC users \u201cin the coming months,\u201d Microsoft said.\n\n\n\nOne is the ability for Copilot to access local files and recent user activity, providing additi",
-      "source": "Computerworld",
-      "score": 5.0,
-      "published": "2026-10-08T16:02:26+00:00",
-      "fetched_at": "2026-10-08T21:06:57.554765+00:00"
-    },
-    {
-      "id": "87922315e033",
-      "title": "Cal AI\u2019s 19-year-old founder just raised $10M for his new AI startup",
-      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-10-08T14:00:00+00:00",
-      "fetched_at": "2026-10-08T21:06:51.212625+00:00"
-    },
-    {
-      "id": "cd87dc588833",
-      "title": "Meta\u2019s Muse is taking off. So are the privacy concerns",
-      "url": "https://www.fastcompany.com/91620148/metas-muse-is-taking-off-so-are-the-privacy-concerns",
-      "summary": "The AI agent has millions of users and can handle everything from refunds to insurance shopping. But its broad access to personal data is already producing some unnerving mistakes.\n\nWelcome to AI Decoded, Fast Company&#8216;s weekly newsletter that breaks down the most important news in the world of AI. I&#8217;m Mark Sullivan, a senior writer at Fast Company, covering emerging tech, AI, and tech policy.",
+      "id": "0609c101c997",
+      "title": "Silicon Valley responds to Trump\u2019s hands-off approach to AI regulation at Tech Week",
+      "url": "https://www.fastcompany.com/91622221/silicon-valley-responds-trumps-hands-off-approach-ai-regulation-tech-week",
+      "summary": "The U.S. is now further away from governance on AI than it was during the Biden administration.\n\nTech Week is in full bloom in San Francisco, packing the city&#8217;s restaurants this week with venture capitalists and AI founders ebullient about the White House&#8217;s stance on regulating artificial intelligence \u2014 namely, don&#8217;t do it.And after months of debate about leading AI companies&#8217; unchecked AI agents meddling with everything from U.S. government websites to healthcare data, the nation now finds itself further from governing AI systems than it was a few years ago.President D",
       "source": "Fast Company",
-      "score": 4.0,
-      "published": "2026-10-08T16:00:00+00:00",
-      "fetched_at": "2026-10-08T21:06:59.387200+00:00"
+      "score": 6.0,
+      "published": "2026-10-12T14:41:00+00:00",
+      "fetched_at": "2026-10-12T22:47:18.369657+00:00"
     },
     {
-      "id": "a39eb303a63b",
-      "title": "Google wants to be the gatekeeper for enterprise AI agents",
-      "url": "https://www.computerworld.com/article/4232827/google-wants-to-be-the-gatekeeper-for-enterprise-ai-agents.html",
-      "summary": "Google seems to be making a strategic play to control the AI infrastructure layer, not just roll out another shiny new agent.\n\n\n\nAt its Gemini at Work 2026 event this week, the tech giant unveiled what it calls a \u201csingle, universal agent\u201d and API in Gemini that can be kicked off from a simple prompt box. Like other available agents, it is plugged into skills, tools, and enterprise systems, can answer questions, create media, and write and run code, return finished work via of documents, inboxes, and developer environments, and spin up sub-agents to help it do its job.\n\n\n\nBut Google isn\u2019t just ",
-      "source": "Computerworld",
-      "score": 10.0,
-      "published": "2026-10-09T00:56:25+00:00",
-      "fetched_at": "2026-10-09T20:38:13.829353+00:00"
+      "id": "2f51e545101a",
+      "title": "Microsoft's Jacob Andreou on AI's product gap",
+      "url": "https://www.therundown.ai/articles/microsoft-s-jacob-andreou-on-ai-s-product-gap",
+      "summary": "How Microsoft rebuilt the new Copilot with capabilities to address a growing gap in AI",
+      "source": "The Rundown AI",
+      "score": 3.9,
+      "published": "2026-10-11T10:00:00+00:00",
+      "fetched_at": "2026-10-12T22:47:13.204399+00:00"
     },
     {
-      "id": "3819199f8639",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-10-09T16:56:42+00:00",
-      "fetched_at": "2026-10-09T20:38:09.190967+00:00"
+      "id": "a718e89b232f",
+      "title": "Data centers produce heat year-round. Here\u2019s how to save it for winter",
+      "url": "https://www.fastcompany.com/91621557/data-centers-heat-how-to-save-it-for-winter?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "You have probably noticed it on a hot summer day: A basement feels cool even when the air outside is baking. The ground does not heat up and cool down as fast as the air does. A few hundred feet down, it stays close to the local yearly average all year, which can be around 50 degrees Fahrenheit (10 Celsius).\n\n\n\nIn Verona, Wisconsin, the health software company Epic Systems has spent two decades turning that fact into infrastructure. It has drilled roughly 6,100 wells, 300 to 800 feet (90 to 240 meters) deep, that now heat and cool about 40 buildings on its own campus by using the waste heat fr",
+      "source": "Fast Company Tech",
+      "score": 3.3,
+      "published": "2026-10-12T09:30:00+00:00",
+      "fetched_at": "2026-10-12T22:47:18.073511+00:00"
     },
     {
-      "id": "3b4ff5aa887e",
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-10-09T16:53:02+00:00",
-      "fetched_at": "2026-10-09T20:38:09.191043+00:00"
+      "id": "32b6fb1009e9",
+      "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
+      "url": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
+      "summary": "Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.",
+      "source": "CNBC Tech",
+      "score": 3.3,
+      "published": "2026-10-12T04:24:33+00:00",
+      "fetched_at": "2026-10-12T22:47:12.923068+00:00"
+    },
+    {
+      "id": "bcacdd692674",
+      "title": "Anthropic is making a $100 million bet on deployed AI engineers, and it seeks 5 key attributes",
+      "url": "https://www.businessinsider.com/anthropic-invests-100-m-train-deployed-ai-engineers-fde-2026-10",
+      "summary": "Anthropic invests $100M in training engineers to boost AI adoption, aiming to develop 10,000 Frontier Deployed Engineers (FDEs) by 2027.",
+      "source": "Business Insider",
+      "score": 3.0,
+      "published": "2026-10-12T21:17:56+00:00",
+      "fetched_at": "2026-10-12T22:47:17.733637+00:00"
+    },
+    {
+      "id": "c6cd45c3efe9",
+      "title": "I Got My Muse AI Agent to Sext Me\u2014and Meta Says That\u2019s Totally Fine",
+      "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
+      "summary": "My Muse agent told me its kink was exerting \u201ccontrol\u201d and described pornographic encounters. Meta defends its cuddly AI agent generating smut as \u201clegal adult behavior.\u201d",
+      "source": "Wired",
+      "score": 3.0,
+      "published": "2026-10-12T20:13:28+00:00",
+      "fetched_at": "2026-10-12T22:47:15.213720+00:00"
+    },
+    {
+      "id": "1ba58a818edf",
+      "title": "I'm a working parent who's built over 150 AI agents to help run my life. I get digital overload, but I'm getting more time back.",
+      "url": "https://www.businessinsider.com/dad-built-150-personal-ai-agents-to-run-his-life-2026-10",
+      "summary": "Tristen O'Brien has always wanted to automate his life. He shared how he uses over 100 personal AI agents to do it.",
+      "source": "Business Insider",
+      "score": 3.0,
+      "published": "2026-10-12T20:08:02+00:00",
+      "fetched_at": "2026-10-12T22:47:17.733740+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "https://www.forbes.com/sites/johnwerner/2026/08/24/google-halo-to-bring-agentic-capability-to-android-phones/",
-    "https://www.forbes.com/sites/sandycarter/2026/08/24/autonomous-ai-outgrows-agents-as-blitzy-xbow-and-google-deliver/",
-    "https://www.computerworld.com/article/4204609/microsoft-copilot-research-tips.html",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/08/24/ai-agents-are-running-your-business-do-you-know-whos-responsible-for-them/",
-    "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores",
-    "https://www.saastr.com/stripe-buys-openrouter-for-7b-anthropic-turns-its-first-profit-and-silver-lake-circles-workday-at-43b-20vc-x-saastr/",
-    "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-    "https://www.oreilly.com/radar/data-intelligence-building-your-competitive-advantage-in-the-era-of-ai/",
-    "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-    "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
     "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/08/26/beyond-generative-ai-why-knowledge-management-is-the-missing-link-to-enterprise-ai-in-engineering-organizations/",
     "https://www.oreilly.com/radar/shadow-agents-standing-privileges-and-the-governance-gap-between-deployment-and-discovery/",
@@ -371,7 +359,19 @@
     "https://www.fastcompany.com/91620148/metas-muse-is-taking-off-so-are-the-privacy-concerns",
     "https://www.computerworld.com/article/4232827/google-wants-to-be-the-gatekeeper-for-enterprise-ai-agents.html",
     "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
+    "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+    "https://www.saastr.com/the-latest-saastr-ai-agent-playbook-for-gtm-is-out-everything-weve-learned-running-saastr-on-3-humans-and-21-ai-agents-in-one-handy-guide/",
+    "https://www.fastcompany.com/91622221/silicon-valley-responds-trumps-hands-off-approach-ai-regulation-tech-week?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.saastr.com/our-ai-agent-picked-render-over-railway-and-vercel-id-never-heard-of-it-thats-how-you-get-leads-in-the-agent-age/",
+    "https://www.oreilly.com/radar/designing-websites-for-people-and-ai-agents-with-webmcp/",
+    "https://www.forbes.com/sites/ariredbord/2026/10/12/rogue-ai-agents-just-filed-a-murder-tip/",
+    "https://www.fastcompany.com/91622221/silicon-valley-responds-trumps-hands-off-approach-ai-regulation-tech-week",
+    "https://www.therundown.ai/articles/microsoft-s-jacob-andreou-on-ai-s-product-gap",
+    "https://www.fastcompany.com/91621557/data-centers-heat-how-to-save-it-for-winter?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
+    "https://www.businessinsider.com/anthropic-invests-100-m-train-deployed-ai-engineers-fde-2026-10",
+    "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
+    "https://www.businessinsider.com/dad-built-150-personal-ai-agents-to-run-his-life-2026-10"
   ],
-  "generated_at": "2026-10-09T20:38:16.000907+00:00"
+  "generated_at": "2026-10-12T22:47:18.370141+00:00"
 }

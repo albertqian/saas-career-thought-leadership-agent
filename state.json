@@ -61,16 +61,6 @@
       "fetched_at": "2026-10-12T22:47:18.369657+00:00"
     },
     {
-      "id": "2f51e545101a",
-      "title": "Microsoft's Jacob Andreou on AI's product gap",
-      "url": "https://www.therundown.ai/articles/microsoft-s-jacob-andreou-on-ai-s-product-gap",
-      "summary": "How Microsoft rebuilt the new Copilot with capabilities to address a growing gap in AI",
-      "source": "The Rundown AI",
-      "score": 3.9,
-      "published": "2026-10-11T10:00:00+00:00",
-      "fetched_at": "2026-10-12T22:47:13.204399+00:00"
-    },
-    {
       "id": "a718e89b232f",
       "title": "Data centers produce heat year-round. Here\u2019s how to save it for winter",
       "url": "https://www.fastcompany.com/91621557/data-centers-heat-how-to-save-it-for-winter?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -119,10 +109,19 @@
       "score": 3.0,
       "published": "2026-10-12T20:08:02+00:00",
       "fetched_at": "2026-10-12T22:47:17.733740+00:00"
+    },
+    {
+      "id": "76fae6d0fa3e",
+      "title": "Meta\u2019s Muse AI agent is a clever little bastard",
+      "url": "https://www.fastcompany.com/91622556/metas-muse-ai-agent-clever-little-bastard?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "He looks like a CoComelon character who grew up and mated with an E. coli microbe.\n\n\n\nBut don\u2019t let looks fool you. Under the hood, Meta\u2019s new Muse agentic AI platform is incredibly powerful\u2014and potentially incredibly risky.\n\n\n\nI\u2019ve been testing Muse since Meta launched him on September 8. He\u2019s a clever little bastard, provided you\u2019re willing to tell him basically everything about your life.\n\n\n\n\n\n\nLate to the party\n\n\n\nFor years, Meta has seemed inexcusably late to the AI party.\u00a0While flashy startups like OpenAI and Anthropic were winning trillion-dollar valuations, Nvidia was getting fat on it",
+      "source": "Fast Company Tech",
+      "score": 12.1,
+      "published": "2026-10-13T08:00:00+00:00",
+      "fetched_at": "2026-10-13T21:01:44.730199+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/08/26/beyond-generative-ai-why-knowledge-management-is-the-missing-link-to-enterprise-ai-in-engineering-organizations/",
     "https://www.oreilly.com/radar/shadow-agents-standing-privileges-and-the-governance-gap-between-deployment-and-discovery/",
     "https://www.fastcompany.com/91594407/bring-the-ai-to-your-data-not-your-data-to-the-ai",
@@ -371,7 +370,8 @@
     "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
     "https://www.businessinsider.com/anthropic-invests-100-m-train-deployed-ai-engineers-fde-2026-10",
     "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
-    "https://www.businessinsider.com/dad-built-150-personal-ai-agents-to-run-his-life-2026-10"
+    "https://www.businessinsider.com/dad-built-150-personal-ai-agents-to-run-his-life-2026-10",
+    "https://www.fastcompany.com/91622556/metas-muse-ai-agent-clever-little-bastard?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-10-12T22:47:18.370141+00:00"
+  "generated_at": "2026-10-13T21:01:44.940208+00:00"
 }

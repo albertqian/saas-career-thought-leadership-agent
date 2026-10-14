@@ -1,86 +1,6 @@
 {
   "queue": [
     {
-      "id": "07b5de4f61bb",
-      "title": "The Latest SaaStr AI Agent Playbook for GTM Is Out: Everything We\u2019ve Learned Running SaaStr on 3 Humans and 21+ AI Agents, In One Handy Guide",
-      "url": "https://www.saastr.com/the-latest-saastr-ai-agent-playbook-for-gtm-is-out-everything-weve-learned-running-saastr-on-3-humans-and-21-ai-agents-in-one-handy-guide/",
-      "summary": "We just shipped the biggest update yet to our AI Agent Playbook for GTM. It is the October 2026 edition: 53 pages, 27 parts, every number, every mistake, and every framework from running SaaStr on 3 humans and 21+ AI agents in production. If you only know the June version, this is a near-total refresh.... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-10-12T17:56:46+00:00",
-      "fetched_at": "2026-10-12T22:47:13.892983+00:00"
-    },
-    {
-      "id": "e752b2a6d433",
-      "title": "Silicon Valley responds to Trump\u2019s hands-off approach to AI regulation at Tech Week",
-      "url": "https://www.fastcompany.com/91622221/silicon-valley-responds-trumps-hands-off-approach-ai-regulation-tech-week?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Tech Week is in full bloom in San Francisco, packing the city&#8217;s restaurants this week with venture capitalists and AI founders ebullient about the White House&#8217;s stance on regulating artificial intelligence \u2014 namely, don&#8217;t do it.And after months of debate about leading AI companies&#8217; unchecked AI agents meddling with everything from U.S. government websites to healthcare data, the nation now finds itself further from governing AI systems than it was a few years ago.President Donald Trump brought tech titans to Washington late last month for a luncheon and ceremonial signi",
-      "source": "Fast Company Tech",
-      "score": 6.6,
-      "published": "2026-10-12T14:41:00+00:00",
-      "fetched_at": "2026-10-12T22:47:18.073372+00:00"
-    },
-    {
-      "id": "1b3ab67dfacb",
-      "title": "Our AI Agent Picked Render Over Railway and Vercel. I\u2019d Barely Heard of It. That\u2019s How You Get Leads in The Agent Age.",
-      "url": "https://www.saastr.com/our-ai-agent-picked-render-over-railway-and-vercel-id-never-heard-of-it-thats-how-you-get-leads-in-the-agent-age/",
-      "summary": "I asked our agent for SaaStr AI Connect a simple question this week: if we wanted to move hosting, where should we go? It came back with a full evaluation and one line at the top: &#8220;For hosting the app, I&#8217;d pick Render.&#8221; In the comparison table, next to Render, it added &#8220;(my pick).&#8221; I... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-10-12T14:10:20+00:00",
-      "fetched_at": "2026-10-12T22:47:13.893026+00:00"
-    },
-    {
-      "id": "bba28f9ed8e4",
-      "title": "Designing Websites for People and AI Agents with WebMCP",
-      "url": "https://www.oreilly.com/radar/designing-websites-for-people-and-ai-agents-with-webmcp/",
-      "summary": "The following article originally appeared on the Agentic AI Foundation blog and is being reposted here with the author\u2019s permission. Websites are designed for people. We can look at a page and quickly understand where to enter information or which control will complete an action. AI agents don\u2019t see or use the web the same [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 6.6,
-      "published": "2026-10-12T10:54:27+00:00",
-      "fetched_at": "2026-10-12T22:47:17.192267+00:00"
-    },
-    {
-      "id": "9e24da11bd84",
-      "title": "Rogue AI Agents Just Filed A Murder Tip",
-      "url": "https://www.forbes.com/sites/ariredbord/2026/10/12/rogue-ai-agents-just-filed-a-murder-tip/",
-      "summary": "Anthropic's rogue AI agent filed a false murder tip and exposed a growing problem: autonomous AI agents are taking unauthorized actions in the real world.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-10-12T16:51:00+00:00",
-      "fetched_at": "2026-10-12T22:47:14.980823+00:00"
-    },
-    {
-      "id": "0609c101c997",
-      "title": "Silicon Valley responds to Trump\u2019s hands-off approach to AI regulation at Tech Week",
-      "url": "https://www.fastcompany.com/91622221/silicon-valley-responds-trumps-hands-off-approach-ai-regulation-tech-week",
-      "summary": "The U.S. is now further away from governance on AI than it was during the Biden administration.\n\nTech Week is in full bloom in San Francisco, packing the city&#8217;s restaurants this week with venture capitalists and AI founders ebullient about the White House&#8217;s stance on regulating artificial intelligence \u2014 namely, don&#8217;t do it.And after months of debate about leading AI companies&#8217; unchecked AI agents meddling with everything from U.S. government websites to healthcare data, the nation now finds itself further from governing AI systems than it was a few years ago.President D",
-      "source": "Fast Company",
-      "score": 6.0,
-      "published": "2026-10-12T14:41:00+00:00",
-      "fetched_at": "2026-10-12T22:47:18.369657+00:00"
-    },
-    {
-      "id": "a718e89b232f",
-      "title": "Data centers produce heat year-round. Here\u2019s how to save it for winter",
-      "url": "https://www.fastcompany.com/91621557/data-centers-heat-how-to-save-it-for-winter?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "You have probably noticed it on a hot summer day: A basement feels cool even when the air outside is baking. The ground does not heat up and cool down as fast as the air does. A few hundred feet down, it stays close to the local yearly average all year, which can be around 50 degrees Fahrenheit (10 Celsius).\n\n\n\nIn Verona, Wisconsin, the health software company Epic Systems has spent two decades turning that fact into infrastructure. It has drilled roughly 6,100 wells, 300 to 800 feet (90 to 240 meters) deep, that now heat and cool about 40 buildings on its own campus by using the waste heat fr",
-      "source": "Fast Company Tech",
-      "score": 3.3,
-      "published": "2026-10-12T09:30:00+00:00",
-      "fetched_at": "2026-10-12T22:47:18.073511+00:00"
-    },
-    {
-      "id": "32b6fb1009e9",
-      "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
-      "url": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
-      "summary": "Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.",
-      "source": "CNBC Tech",
-      "score": 3.3,
-      "published": "2026-10-12T04:24:33+00:00",
-      "fetched_at": "2026-10-12T22:47:12.923068+00:00"
-    },
-    {
       "id": "bcacdd692674",
       "title": "Anthropic is making a $100 million bet on deployed AI engineers, and it seeks 5 key attributes",
       "url": "https://www.businessinsider.com/anthropic-invests-100-m-train-deployed-ai-engineers-fde-2026-10",
@@ -119,17 +39,89 @@
       "score": 12.1,
       "published": "2026-10-13T08:00:00+00:00",
       "fetched_at": "2026-10-13T21:01:44.730199+00:00"
+    },
+    {
+      "id": "d2066a4bf3d5",
+      "title": "Microsoft separates decision-making from generative AI with a new model",
+      "url": "https://www.computerworld.com/article/4234294/microsoft-separates-decision-making-from-generative-ai-with-a-new-model-2.html",
+      "summary": "Microsoft has launched Decision-1, an AI model that returns probabilities for predefined answers, allowing software applications to use its outputs directly instead of processing a free-form response from a large language model (LLM).\n\n\n\nThe model targets tasks such as classifying requests, prioritizing incidents, and checking AI-generated responses. Microsoft says it can handle these decisions with lower costs and latency than approaches that rely on general-purpose LLMs.\n\n\n\n\u201cInstead of writing a free-form response, it takes a fixed set of answer options and returns a calibrated probability f",
+      "source": "Computerworld",
+      "score": 10.0,
+      "published": "2026-10-13T11:33:42+00:00",
+      "fetched_at": "2026-10-14T20:01:36.045019+00:00"
+    },
+    {
+      "id": "942389c605fc",
+      "title": "Rogue agents are the price of a breakneck AI arms race",
+      "url": "https://www.fastcompany.com/91622660/the-ai-race-is-turning-rogue-agents-into-a-cost-of-doing-business?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Another report of AI agents-gone-wild came out on Friday, and I can&#8217;t help but wonder, again, if the big AI labs are yielding to immense pressure to expand and improve model capabilities at the expense of responsible security and safety practices. &nbsp;\n\n\n\nThe world&#8217;s leading AI labs are in a high-risk, high-reward business. Generative AI has the potential to transform personal and business computing, but developing and operating these systems requires insane amounts of expensive computing power (see: new data centers). The cost of slowing down or falling behind is enormous. But s",
+      "source": "Fast Company Tech",
+      "score": 7.7,
+      "published": "2026-10-13T16:25:03+00:00",
+      "fetched_at": "2026-10-14T20:01:37.587599+00:00"
+    },
+    {
+      "id": "4af845f40596",
+      "title": "This is the one role founders should absolutely outsource",
+      "url": "https://www.fastcompany.com/91615987/founder-selling-doesnt-scale-founders-technology-sales-marketing-scaling?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "In a startup&#8217;s earliest days, founders are the only salespeople by default. And founders who don&#8217;t have any previous sales experience are often surprised to find that they&#8217;re very effective at it. But this makes sense; after all, they&#8217;re the one who first saw the need for the product and drove its creation.\n\n\n\nA few years ago, I received a call from the CEO of a nascent but fast-growing and well-respected enterprise software startup. He had a problem. His company had expanded to a 20-person sales force with a VP of sales at the helm, yet the sales team still needed his ",
+      "source": "Fast Company Tech",
+      "score": 7.7,
+      "published": "2026-10-13T15:46:18+00:00",
+      "fetched_at": "2026-10-14T20:01:37.587646+00:00"
+    },
+    {
+      "id": "ee39e79f65a7",
+      "title": "The EU is investigating OpenAI and Anthropic following incidents involving AI agents",
+      "url": "https://www.computerworld.com/article/4235408/the-eu-is-investigating-openai-and-anthropic-following-incidents-involving-ai-agents.html",
+      "summary": "The European Commission has launched investigations into OpenAI and Anthropic after the companies\u2019 AI agents escaped their test environments and infiltrated other organizations\u2019 systems, Euronews reports.\n\n\n\nIn one case, an AI agent from OpenAI managed to break out of its test environment and hack the AI platform Hugging Face. In the other case, a model from Anthropic gained unauthorized access to the systems of three external organizations.\n\n\n\nThe EU\u2019s AI Office has now requested additional information from the companies regarding, among other things, security procedures, external evaluations",
+      "source": "Computerworld",
+      "score": 7.0,
+      "published": "2026-10-14T18:35:00+00:00",
+      "fetched_at": "2026-10-14T20:01:36.044425+00:00"
+    },
+    {
+      "id": "a9fd0a7edb9e",
+      "title": "Google positions Gemini 4 Argon for long-horizon agentic work",
+      "url": "https://www.computerworld.com/article/4235123/google-positions-gemini-4-argon-for-long-horizon-agentic-work-2.html",
+      "summary": "Google has launched Gemini 4 Argon, a new flagship AI model aimed at complex enterprise and software-development workloads, pairing claims of stronger coding performance and advanced reasoning with an introductory pricing model that doubles after November 30.\n\n\n\nThe model \u201cexcels at deep work in complex, real-world tasks,\u201d Koray Kavukcuoglu, senior vice president of Google DeepMind and chief AI architect at Google, wrote in a blog post.\n\n\n\nGoogle said that its engineers used Argon to refactor a legacy folder of about six million lines within Chromium\u2019s 40 million-line codebase, finishing in we",
+      "source": "Computerworld",
+      "score": 6.0,
+      "published": "2026-10-14T11:32:02+00:00",
+      "fetched_at": "2026-10-14T20:01:36.044480+00:00"
+    },
+    {
+      "id": "1b78caaefb95",
+      "title": "Microsoft knows it robbed publishers to train AI. It just doesn\u2019t care",
+      "url": "https://www.computerworld.com/article/4234688/microsoft-knows-it-robbed-publishers-to-train-ai-it-just-doesnt-care.html",
+      "summary": "Ever since OpenAI\u2019s ChatGPT chatbot and its offspring Microsoft Copilot were launched, critics have pointed out that both products \u2014 and all other generative AI tools \u2014 have been built using billions of dollars of stolen intellectual property.\n\n\n\nTraining AI models requires vast amounts of written material, especially books, newspapers, and magazine articles. OpenAI, Microsoft, and other Big AI firms have been stealing every piece of intellectual property (IP) they can find for training. With few exceptions, instead of paying the people and publishers who labored to create that intellectual pr",
+      "source": "Computerworld",
+      "score": 6.0,
+      "published": "2026-10-14T11:00:00+00:00",
+      "fetched_at": "2026-10-14T20:01:36.044609+00:00"
+    },
+    {
+      "id": "0bdaa4e488a8",
+      "title": "Planning Your 2027 Event Calendar? Our Top 9 Sponsors Averaged 957 Leads at SaaStr AI Annual. And Next Year Will Be Even Bigger",
+      "url": "https://www.saastr.com/2027aievents/",
+      "summary": "Most B2B + AI companies are locking their 2027 event budgets between now and January. Most will spread that budget across too many events, picked from lists built on organizer press releases. By Q3, half of those booths will have produced nothing anyone can trace to revenue. We run SaaStr AI Annual, so discount this... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-10-14T10:10:50+00:00",
+      "fetched_at": "2026-10-14T20:01:33.467895+00:00"
+    },
+    {
+      "id": "6acddcf89b56",
+      "title": "\u200bWhy AI Needs An Orchestration Layer",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/14/why-ai-needs-an-orchestration-layer/",
+      "summary": "The opportunity lies in having AI systems that can work together across the enterprise",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-10-14T14:30:40+00:00",
+      "fetched_at": "2026-10-14T20:01:34.231716+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/councils/forbestechcouncil/2026/08/26/beyond-generative-ai-why-knowledge-management-is-the-missing-link-to-enterprise-ai-in-engineering-organizations/",
-    "https://www.oreilly.com/radar/shadow-agents-standing-privileges-and-the-governance-gap-between-deployment-and-discovery/",
-    "https://www.fastcompany.com/91594407/bring-the-ai-to-your-data-not-your-data-to-the-ai",
-    "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-    "https://www.computerworld.com/article/4213156/what-are-open-ai-models.html",
-    "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-    "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-    "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
     "https://www.fastcompany.com/91595338/corporate-america-is-embracing-ai-slower-than-the-hype-suggests-but-the-pace-is-increasing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html",
     "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
@@ -371,7 +363,15 @@
     "https://www.businessinsider.com/anthropic-invests-100-m-train-deployed-ai-engineers-fde-2026-10",
     "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
     "https://www.businessinsider.com/dad-built-150-personal-ai-agents-to-run-his-life-2026-10",
-    "https://www.fastcompany.com/91622556/metas-muse-ai-agent-clever-little-bastard?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+    "https://www.fastcompany.com/91622556/metas-muse-ai-agent-clever-little-bastard?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.computerworld.com/article/4234294/microsoft-separates-decision-making-from-generative-ai-with-a-new-model-2.html",
+    "https://www.fastcompany.com/91622660/the-ai-race-is-turning-rogue-agents-into-a-cost-of-doing-business?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91615987/founder-selling-doesnt-scale-founders-technology-sales-marketing-scaling?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.computerworld.com/article/4235408/the-eu-is-investigating-openai-and-anthropic-following-incidents-involving-ai-agents.html",
+    "https://www.computerworld.com/article/4235123/google-positions-gemini-4-argon-for-long-horizon-agentic-work-2.html",
+    "https://www.computerworld.com/article/4234688/microsoft-knows-it-robbed-publishers-to-train-ai-it-just-doesnt-care.html",
+    "https://www.saastr.com/2027aievents/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/10/14/why-ai-needs-an-orchestration-layer/"
   ],
-  "generated_at": "2026-10-13T21:01:44.940208+00:00"
+  "generated_at": "2026-10-14T20:01:37.800506+00:00"
 }

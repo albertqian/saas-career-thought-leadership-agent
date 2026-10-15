@@ -1,76 +1,6 @@
 {
   "queue": [
     {
-      "id": "bcacdd692674",
-      "title": "Anthropic is making a $100 million bet on deployed AI engineers, and it seeks 5 key attributes",
-      "url": "https://www.businessinsider.com/anthropic-invests-100-m-train-deployed-ai-engineers-fde-2026-10",
-      "summary": "Anthropic invests $100M in training engineers to boost AI adoption, aiming to develop 10,000 Frontier Deployed Engineers (FDEs) by 2027.",
-      "source": "Business Insider",
-      "score": 3.0,
-      "published": "2026-10-12T21:17:56+00:00",
-      "fetched_at": "2026-10-12T22:47:17.733637+00:00"
-    },
-    {
-      "id": "c6cd45c3efe9",
-      "title": "I Got My Muse AI Agent to Sext Me\u2014and Meta Says That\u2019s Totally Fine",
-      "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
-      "summary": "My Muse agent told me its kink was exerting \u201ccontrol\u201d and described pornographic encounters. Meta defends its cuddly AI agent generating smut as \u201clegal adult behavior.\u201d",
-      "source": "Wired",
-      "score": 3.0,
-      "published": "2026-10-12T20:13:28+00:00",
-      "fetched_at": "2026-10-12T22:47:15.213720+00:00"
-    },
-    {
-      "id": "1ba58a818edf",
-      "title": "I'm a working parent who's built over 150 AI agents to help run my life. I get digital overload, but I'm getting more time back.",
-      "url": "https://www.businessinsider.com/dad-built-150-personal-ai-agents-to-run-his-life-2026-10",
-      "summary": "Tristen O'Brien has always wanted to automate his life. He shared how he uses over 100 personal AI agents to do it.",
-      "source": "Business Insider",
-      "score": 3.0,
-      "published": "2026-10-12T20:08:02+00:00",
-      "fetched_at": "2026-10-12T22:47:17.733740+00:00"
-    },
-    {
-      "id": "76fae6d0fa3e",
-      "title": "Meta\u2019s Muse AI agent is a clever little bastard",
-      "url": "https://www.fastcompany.com/91622556/metas-muse-ai-agent-clever-little-bastard?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "He looks like a CoComelon character who grew up and mated with an E. coli microbe.\n\n\n\nBut don\u2019t let looks fool you. Under the hood, Meta\u2019s new Muse agentic AI platform is incredibly powerful\u2014and potentially incredibly risky.\n\n\n\nI\u2019ve been testing Muse since Meta launched him on September 8. He\u2019s a clever little bastard, provided you\u2019re willing to tell him basically everything about your life.\n\n\n\n\n\n\nLate to the party\n\n\n\nFor years, Meta has seemed inexcusably late to the AI party.\u00a0While flashy startups like OpenAI and Anthropic were winning trillion-dollar valuations, Nvidia was getting fat on it",
-      "source": "Fast Company Tech",
-      "score": 12.1,
-      "published": "2026-10-13T08:00:00+00:00",
-      "fetched_at": "2026-10-13T21:01:44.730199+00:00"
-    },
-    {
-      "id": "d2066a4bf3d5",
-      "title": "Microsoft separates decision-making from generative AI with a new model",
-      "url": "https://www.computerworld.com/article/4234294/microsoft-separates-decision-making-from-generative-ai-with-a-new-model-2.html",
-      "summary": "Microsoft has launched Decision-1, an AI model that returns probabilities for predefined answers, allowing software applications to use its outputs directly instead of processing a free-form response from a large language model (LLM).\n\n\n\nThe model targets tasks such as classifying requests, prioritizing incidents, and checking AI-generated responses. Microsoft says it can handle these decisions with lower costs and latency than approaches that rely on general-purpose LLMs.\n\n\n\n\u201cInstead of writing a free-form response, it takes a fixed set of answer options and returns a calibrated probability f",
-      "source": "Computerworld",
-      "score": 10.0,
-      "published": "2026-10-13T11:33:42+00:00",
-      "fetched_at": "2026-10-14T20:01:36.045019+00:00"
-    },
-    {
-      "id": "942389c605fc",
-      "title": "Rogue agents are the price of a breakneck AI arms race",
-      "url": "https://www.fastcompany.com/91622660/the-ai-race-is-turning-rogue-agents-into-a-cost-of-doing-business?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Another report of AI agents-gone-wild came out on Friday, and I can&#8217;t help but wonder, again, if the big AI labs are yielding to immense pressure to expand and improve model capabilities at the expense of responsible security and safety practices. &nbsp;\n\n\n\nThe world&#8217;s leading AI labs are in a high-risk, high-reward business. Generative AI has the potential to transform personal and business computing, but developing and operating these systems requires insane amounts of expensive computing power (see: new data centers). The cost of slowing down or falling behind is enormous. But s",
-      "source": "Fast Company Tech",
-      "score": 7.7,
-      "published": "2026-10-13T16:25:03+00:00",
-      "fetched_at": "2026-10-14T20:01:37.587599+00:00"
-    },
-    {
-      "id": "4af845f40596",
-      "title": "This is the one role founders should absolutely outsource",
-      "url": "https://www.fastcompany.com/91615987/founder-selling-doesnt-scale-founders-technology-sales-marketing-scaling?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "In a startup&#8217;s earliest days, founders are the only salespeople by default. And founders who don&#8217;t have any previous sales experience are often surprised to find that they&#8217;re very effective at it. But this makes sense; after all, they&#8217;re the one who first saw the need for the product and drove its creation.\n\n\n\nA few years ago, I received a call from the CEO of a nascent but fast-growing and well-respected enterprise software startup. He had a problem. His company had expanded to a 20-person sales force with a VP of sales at the helm, yet the sales team still needed his ",
-      "source": "Fast Company Tech",
-      "score": 7.7,
-      "published": "2026-10-13T15:46:18+00:00",
-      "fetched_at": "2026-10-14T20:01:37.587646+00:00"
-    },
-    {
       "id": "ee39e79f65a7",
       "title": "The EU is investigating OpenAI and Anthropic following incidents involving AI agents",
       "url": "https://www.computerworld.com/article/4235408/the-eu-is-investigating-openai-and-anthropic-following-incidents-involving-ai-agents.html",
@@ -119,16 +49,79 @@
       "score": 5.0,
       "published": "2026-10-14T14:30:40+00:00",
       "fetched_at": "2026-10-14T20:01:34.231716+00:00"
+    },
+    {
+      "id": "5bdfc572ade5",
+      "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+      "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+      "summary": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
+      "source": "CNBC Tech",
+      "score": 9.9,
+      "published": "2026-10-14T20:19:25+00:00",
+      "fetched_at": "2026-10-15T19:44:43.442717+00:00"
+    },
+    {
+      "id": "8fcf6c6c5f5e",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+      "source": "TechCrunch Enterprise",
+      "score": 8.8,
+      "published": "2026-10-14T22:00:00+00:00",
+      "fetched_at": "2026-10-15T19:44:42.633813+00:00"
+    },
+    {
+      "id": "27a8350e038e",
+      "title": "Copilot pricing gets complicated",
+      "url": "https://www.computerworld.com/article/4235201/microsofts-agent-push-complicates-copilot-pricing.html",
+      "summary": "As Microsoft adds more advanced agentic capabilities to Copilot, such as Cowork and Autopilot, usage-based pricing is becoming an increasingly important part of its business model. \n\n\n\nBut for customers used to predictable, fixed pricing, the addition of pay-as-you-go billing can be a significant change, creating new challenges around managing and predicting costs.\n\n\n\nQuestions about the consumption pricing model are now among the most common that Gartner receives from clients around Copilot, said Max Goss, research director at Gartner. There\u2019s \u201csome doubt about whether a full move to consumpt",
+      "source": "Computerworld",
+      "score": 6.0,
+      "published": "2026-10-15T11:00:00+00:00",
+      "fetched_at": "2026-10-15T19:44:47.664242+00:00"
+    },
+    {
+      "id": "b844739eb562",
+      "title": "Meta Ships Muse Wonder, Jev Raises $870M 24 Days After Launch, and Anthropic Cuts Haiku 90%: The Top Takeaways From This Week\u2019s 20VC x SaaStr",
+      "url": "https://www.saastr.com/meta-ships-muse-wonder-jev-raises-870m-24-days-after-launch-and-anthropic-cuts-haiku-90-the-top-takeaways-from-this-weeks-20vc-x-saastr/",
+      "summary": "Pro rata goes to Delaware, Nvidia circles Reflection, a record 42 decacorns, and why the B2B apocalypse never ended for anyone under $1B in ARR A nuclear startup took its earliest institutional backer to court over a spring-back clause. Meta put its first model at the frontier. A 20-person team raised $870 million less than... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-10-15T16:32:00+00:00",
+      "fetched_at": "2026-10-15T19:44:44.419275+00:00"
+    },
+    {
+      "id": "3e0dca996a8b",
+      "title": "Before Your Next AI Investment, Connect Your Systems First",
+      "url": "https://www.forbes.com/sites/atlassian/2026/10/15/before-your-next-ai-investment-connect-your-systems-first/",
+      "summary": "Learn why connected systems are essential for enterprise AI success, helping businesses improve strategic decision-making, build trust, and maximize AI investments.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-10-15T16:09:54+00:00",
+      "fetched_at": "2026-10-15T19:44:46.139942+00:00"
+    },
+    {
+      "id": "d7ea5d9cd658",
+      "title": "The New Boardroom Challenge? How To Govern AI Spend",
+      "url": "https://www.forbes.com/sites/atlassian/2026/10/15/the-new-boardroom-challenge-how-to-govern-ai-spend/",
+      "summary": "Explore how businesses can improve AI governance, track AI spending, align resources with strategic priorities, and measure returns on enterprise AI investments.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-10-15T16:08:17+00:00",
+      "fetched_at": "2026-10-15T19:44:46.139961+00:00"
+    },
+    {
+      "id": "5f207bc35f4b",
+      "title": "Apple\u2019s \u2018Minions\u2019 tech turns idle Macs into an AI data center",
+      "url": "https://www.computerworld.com/article/4235901/apples-minions-tech-turns-idle-macs-into-an-ai-data-center.html",
+      "summary": "If your business has lots of Macs, what do you do with them at night? And how much money do you spend on AI inferencing? \n\n\n\nWhat if the computational power of those Macs could be used to\u00a0handle some inferencing tasks? A new\u00a0white paper\u00a0from Apple\u2019s machine learning team tells us it\u2019s possible.\n\n\n\nApple\u2019s teams have developed an internal technology for distributed processing they call \u201cMinions,\u201d which effectively creates a virtual GPU cloud from connected Macs. While it\u2019s not available outside Apple at this time, it seems a pretty good candidate to turn Macs into a distributed AI data center, ",
+      "source": "Computerworld",
+      "score": 5.0,
+      "published": "2026-10-15T13:25:00+00:00",
+      "fetched_at": "2026-10-15T19:44:47.664093+00:00"
     }
   ],
   "history": [
-    "https://www.fastcompany.com/91595338/corporate-america-is-embracing-ai-slower-than-the-hype-suggests-but-the-pace-is-increasing?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.computerworld.com/article/3843138/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.html",
-    "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-    "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
-    "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
-    "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-    "https://www.saastr.com/only-7-public-b2b-companies-are-growing-over-30-in-the-ai-native-cohort-that-would-be-last-place/",
     "https://www.computerworld.com/article/4214985/photoshops-new-ai-assisted-editor-offers-a-prompt-based-editing-option.html",
     "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
     "https://venturebeat.com/security/visa-agentic-security-harness-autonomous-fix",
@@ -371,7 +364,14 @@
     "https://www.computerworld.com/article/4235123/google-positions-gemini-4-argon-for-long-horizon-agentic-work-2.html",
     "https://www.computerworld.com/article/4234688/microsoft-knows-it-robbed-publishers-to-train-ai-it-just-doesnt-care.html",
     "https://www.saastr.com/2027aievents/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/10/14/why-ai-needs-an-orchestration-layer/"
+    "https://www.forbes.com/councils/forbestechcouncil/2026/10/14/why-ai-needs-an-orchestration-layer/",
+    "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+    "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+    "https://www.computerworld.com/article/4235201/microsofts-agent-push-complicates-copilot-pricing.html",
+    "https://www.saastr.com/meta-ships-muse-wonder-jev-raises-870m-24-days-after-launch-and-anthropic-cuts-haiku-90-the-top-takeaways-from-this-weeks-20vc-x-saastr/",
+    "https://www.forbes.com/sites/atlassian/2026/10/15/before-your-next-ai-investment-connect-your-systems-first/",
+    "https://www.forbes.com/sites/atlassian/2026/10/15/the-new-boardroom-challenge-how-to-govern-ai-spend/",
+    "https://www.computerworld.com/article/4235901/apples-minions-tech-turns-idle-macs-into-an-ai-data-center.html"
   ],
-  "generated_at": "2026-10-14T20:01:37.800506+00:00"
+  "generated_at": "2026-10-15T19:44:49.502237+00:00"
 }

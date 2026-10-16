@@ -1,56 +1,6 @@
 {
   "queue": [
     {
-      "id": "ee39e79f65a7",
-      "title": "The EU is investigating OpenAI and Anthropic following incidents involving AI agents",
-      "url": "https://www.computerworld.com/article/4235408/the-eu-is-investigating-openai-and-anthropic-following-incidents-involving-ai-agents.html",
-      "summary": "The European Commission has launched investigations into OpenAI and Anthropic after the companies\u2019 AI agents escaped their test environments and infiltrated other organizations\u2019 systems, Euronews reports.\n\n\n\nIn one case, an AI agent from OpenAI managed to break out of its test environment and hack the AI platform Hugging Face. In the other case, a model from Anthropic gained unauthorized access to the systems of three external organizations.\n\n\n\nThe EU\u2019s AI Office has now requested additional information from the companies regarding, among other things, security procedures, external evaluations",
-      "source": "Computerworld",
-      "score": 7.0,
-      "published": "2026-10-14T18:35:00+00:00",
-      "fetched_at": "2026-10-14T20:01:36.044425+00:00"
-    },
-    {
-      "id": "a9fd0a7edb9e",
-      "title": "Google positions Gemini 4 Argon for long-horizon agentic work",
-      "url": "https://www.computerworld.com/article/4235123/google-positions-gemini-4-argon-for-long-horizon-agentic-work-2.html",
-      "summary": "Google has launched Gemini 4 Argon, a new flagship AI model aimed at complex enterprise and software-development workloads, pairing claims of stronger coding performance and advanced reasoning with an introductory pricing model that doubles after November 30.\n\n\n\nThe model \u201cexcels at deep work in complex, real-world tasks,\u201d Koray Kavukcuoglu, senior vice president of Google DeepMind and chief AI architect at Google, wrote in a blog post.\n\n\n\nGoogle said that its engineers used Argon to refactor a legacy folder of about six million lines within Chromium\u2019s 40 million-line codebase, finishing in we",
-      "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-10-14T11:32:02+00:00",
-      "fetched_at": "2026-10-14T20:01:36.044480+00:00"
-    },
-    {
-      "id": "1b78caaefb95",
-      "title": "Microsoft knows it robbed publishers to train AI. It just doesn\u2019t care",
-      "url": "https://www.computerworld.com/article/4234688/microsoft-knows-it-robbed-publishers-to-train-ai-it-just-doesnt-care.html",
-      "summary": "Ever since OpenAI\u2019s ChatGPT chatbot and its offspring Microsoft Copilot were launched, critics have pointed out that both products \u2014 and all other generative AI tools \u2014 have been built using billions of dollars of stolen intellectual property.\n\n\n\nTraining AI models requires vast amounts of written material, especially books, newspapers, and magazine articles. OpenAI, Microsoft, and other Big AI firms have been stealing every piece of intellectual property (IP) they can find for training. With few exceptions, instead of paying the people and publishers who labored to create that intellectual pr",
-      "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-10-14T11:00:00+00:00",
-      "fetched_at": "2026-10-14T20:01:36.044609+00:00"
-    },
-    {
-      "id": "0bdaa4e488a8",
-      "title": "Planning Your 2027 Event Calendar? Our Top 9 Sponsors Averaged 957 Leads at SaaStr AI Annual. And Next Year Will Be Even Bigger",
-      "url": "https://www.saastr.com/2027aievents/",
-      "summary": "Most B2B + AI companies are locking their 2027 event budgets between now and January. Most will spread that budget across too many events, picked from lists built on organizer press releases. By Q3, half of those booths will have produced nothing anyone can trace to revenue. We run SaaStr AI Annual, so discount this... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-10-14T10:10:50+00:00",
-      "fetched_at": "2026-10-14T20:01:33.467895+00:00"
-    },
-    {
-      "id": "6acddcf89b56",
-      "title": "\u200bWhy AI Needs An Orchestration Layer",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/14/why-ai-needs-an-orchestration-layer/",
-      "summary": "The opportunity lies in having AI systems that can work together across the enterprise",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-10-14T14:30:40+00:00",
-      "fetched_at": "2026-10-14T20:01:34.231716+00:00"
-    },
-    {
       "id": "5bdfc572ade5",
       "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
       "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
@@ -119,14 +69,59 @@
       "score": 5.0,
       "published": "2026-10-15T13:25:00+00:00",
       "fetched_at": "2026-10-15T19:44:47.664093+00:00"
+    },
+    {
+      "id": "abf08e0d8bba",
+      "title": "A Unified Data Plane For Agentic AI",
+      "url": "https://www.forbes.com/sites/delltechnologies/2026/10/16/a-unified-data-plane-for-agentic-ai/",
+      "summary": "Agentic AI depends on trusted, connected data. A unified data plane can help enterprises give AI agents consistent context, governance and faster access to information.",
+      "source": "Forbes Innovation",
+      "score": 9.0,
+      "published": "2026-10-16T18:10:10+00:00",
+      "fetched_at": "2026-10-16T19:25:18.103019+00:00"
+    },
+    {
+      "id": "88f198f56dde",
+      "title": "G2\u2019s 2026 AI Agents Report: Only 9% of Buyers Think Seat Pricing Is Fair, 57% Want Usage-Based, and 74% Will Shop You at Renewal",
+      "url": "https://www.saastr.com/g2s-2026-ai-agents-report-only-9-of-buyers-think-seat-pricing-is-fair-57-want-usage-based-and-74-will-shop-you-at-renewal/",
+      "summary": "G2 surveyed 1,019 B2B decision-makers in July 2026 for its 2026 AI Agents Insight Report. Most of the report covers trust, oversight, and governance. The section founders should act on is chapter four, on pricing and renewals. 86% of B2B software buyers say their company bought AI agent software or services in the past year,... Continue Reading",
+      "source": "SaaStr",
+      "score": 8.8,
+      "published": "2026-10-16T14:10:24+00:00",
+      "fetched_at": "2026-10-16T19:25:17.255017+00:00"
+    },
+    {
+      "id": "0ee63cc50f71",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-10-16T16:30:00+00:00",
+      "fetched_at": "2026-10-16T19:25:14.897917+00:00"
+    },
+    {
+      "id": "c43b789ab800",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-10-16T16:30:00+00:00",
+      "fetched_at": "2026-10-16T19:25:14.897949+00:00"
+    },
+    {
+      "id": "25c42ecd4f9c",
+      "title": "AI datacenter capex will far exceed forecast revenue through 2030",
+      "url": "https://www.computerworld.com/article/4236641/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-3.html",
+      "summary": "Investors are pouring more into AI data center infrastructure than they can hope to recoup by 2030, according to Gartner.\n\n\n\n\u201cEnterprise and consumer AI revenue will be insufficient to support profitable returns on all planned AI capital expenditures during this period,\u201d said Gartner Senior Director Analyst Will Sommer.\n\n\n\nAI data center owners would need to generate $8.5 trillion in revenue through 2030 to cover announced capital spending, financing costs and expected investment returns, he said. \u201cHowever, total enterprise and consumer AI revenue that can be attributed to AI data centers duri",
+      "source": "Computerworld",
+      "score": 6.0,
+      "published": "2026-10-16T16:05:57+00:00",
+      "fetched_at": "2026-10-16T19:25:19.252271+00:00"
     }
   ],
   "history": [
-    "https://www.computerworld.com/article/4214985/photoshops-new-ai-assisted-editor-offers-a-prompt-based-editing-option.html",
-    "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
-    "https://venturebeat.com/security/visa-agentic-security-harness-autonomous-fix",
-    "https://www.saastr.com/what-are-some-signs-that-your-saas-marketing-programs-wont-scale-well/",
-    "https://www.computerworld.com/article/4214479/metas-plans-to-replace-workers-with-ai-fell-flat-report-says.html",
     "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
     "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
     "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway",
@@ -371,7 +366,12 @@
     "https://www.saastr.com/meta-ships-muse-wonder-jev-raises-870m-24-days-after-launch-and-anthropic-cuts-haiku-90-the-top-takeaways-from-this-weeks-20vc-x-saastr/",
     "https://www.forbes.com/sites/atlassian/2026/10/15/before-your-next-ai-investment-connect-your-systems-first/",
     "https://www.forbes.com/sites/atlassian/2026/10/15/the-new-boardroom-challenge-how-to-govern-ai-spend/",
-    "https://www.computerworld.com/article/4235901/apples-minions-tech-turns-idle-macs-into-an-ai-data-center.html"
+    "https://www.computerworld.com/article/4235901/apples-minions-tech-turns-idle-macs-into-an-ai-data-center.html",
+    "https://www.forbes.com/sites/delltechnologies/2026/10/16/a-unified-data-plane-for-agentic-ai/",
+    "https://www.saastr.com/g2s-2026-ai-agents-report-only-9-of-buyers-think-seat-pricing-is-fair-57-want-usage-based-and-74-will-shop-you-at-renewal/",
+    "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "https://www.computerworld.com/article/4236641/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-3.html"
   ],
-  "generated_at": "2026-10-15T19:44:49.502237+00:00"
+  "generated_at": "2026-10-16T19:25:20.882176+00:00"
 }

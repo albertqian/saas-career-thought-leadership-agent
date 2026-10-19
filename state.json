@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "5bdfc572ade5",
-      "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
-      "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
-      "summary": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
-      "source": "CNBC Tech",
-      "score": 9.9,
-      "published": "2026-10-14T20:19:25+00:00",
-      "fetched_at": "2026-10-15T19:44:43.442717+00:00"
-    },
-    {
-      "id": "8fcf6c6c5f5e",
-      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
-      "source": "TechCrunch Enterprise",
+      "id": "fe8d73f38ac1",
+      "title": "An emergency brake\u2026or the architectural demotion of the AI model?",
+      "url": "https://www.fastcompany.com/91623061/ai-model-emergency-brake-or-architectural-demotion?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "On June 14, Satya Nadella published an article on X about corporate AI that left me completely impressed: his main point, that the enterprise\u2019s durable asset was not the foundation model but the learning loop, was precisely the idea my company and I had been developing for the last three years. I responded with an article on Fast Company, not expecting an answer (tech CEOs are more notoriously one-sided and difficult to reach than kings or presidents), but trying to elevate the discussion a bit more: the central challenge of enterprise AI is not intelligence itself\u200a\u2014\u200ait is architecture.\n\n\n\nNow",
+      "source": "Fast Company Tech",
       "score": 8.8,
-      "published": "2026-10-14T22:00:00+00:00",
-      "fetched_at": "2026-10-15T19:44:42.633813+00:00"
+      "published": "2026-10-19T17:09:30+00:00",
+      "fetched_at": "2026-10-19T20:54:49.570702+00:00"
     },
     {
-      "id": "27a8350e038e",
-      "title": "Copilot pricing gets complicated",
-      "url": "https://www.computerworld.com/article/4235201/microsofts-agent-push-complicates-copilot-pricing.html",
-      "summary": "As Microsoft adds more advanced agentic capabilities to Copilot, such as Cowork and Autopilot, usage-based pricing is becoming an increasingly important part of its business model. \n\n\n\nBut for customers used to predictable, fixed pricing, the addition of pay-as-you-go billing can be a significant change, creating new challenges around managing and predicting costs.\n\n\n\nQuestions about the consumption pricing model are now among the most common that Gartner receives from clients around Copilot, said Max Goss, research director at Gartner. There\u2019s \u201csome doubt about whether a full move to consumpt",
-      "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-10-15T11:00:00+00:00",
-      "fetched_at": "2026-10-15T19:44:47.664242+00:00"
-    },
-    {
-      "id": "b844739eb562",
-      "title": "Meta Ships Muse Wonder, Jev Raises $870M 24 Days After Launch, and Anthropic Cuts Haiku 90%: The Top Takeaways From This Week\u2019s 20VC x SaaStr",
-      "url": "https://www.saastr.com/meta-ships-muse-wonder-jev-raises-870m-24-days-after-launch-and-anthropic-cuts-haiku-90-the-top-takeaways-from-this-weeks-20vc-x-saastr/",
-      "summary": "Pro rata goes to Delaware, Nvidia circles Reflection, a record 42 decacorns, and why the B2B apocalypse never ended for anyone under $1B in ARR A nuclear startup took its earliest institutional backer to court over a spring-back clause. Meta put its first model at the frontier. A 20-person team raised $870 million less than... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-10-15T16:32:00+00:00",
-      "fetched_at": "2026-10-15T19:44:44.419275+00:00"
-    },
-    {
-      "id": "3e0dca996a8b",
-      "title": "Before Your Next AI Investment, Connect Your Systems First",
-      "url": "https://www.forbes.com/sites/atlassian/2026/10/15/before-your-next-ai-investment-connect-your-systems-first/",
-      "summary": "Learn why connected systems are essential for enterprise AI success, helping businesses improve strategic decision-making, build trust, and maximize AI investments.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-10-15T16:09:54+00:00",
-      "fetched_at": "2026-10-15T19:44:46.139942+00:00"
-    },
-    {
-      "id": "d7ea5d9cd658",
-      "title": "The New Boardroom Challenge? How To Govern AI Spend",
-      "url": "https://www.forbes.com/sites/atlassian/2026/10/15/the-new-boardroom-challenge-how-to-govern-ai-spend/",
-      "summary": "Explore how businesses can improve AI governance, track AI spending, align resources with strategic priorities, and measure returns on enterprise AI investments.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-10-15T16:08:17+00:00",
-      "fetched_at": "2026-10-15T19:44:46.139961+00:00"
-    },
-    {
-      "id": "5f207bc35f4b",
-      "title": "Apple\u2019s \u2018Minions\u2019 tech turns idle Macs into an AI data center",
-      "url": "https://www.computerworld.com/article/4235901/apples-minions-tech-turns-idle-macs-into-an-ai-data-center.html",
-      "summary": "If your business has lots of Macs, what do you do with them at night? And how much money do you spend on AI inferencing? \n\n\n\nWhat if the computational power of those Macs could be used to\u00a0handle some inferencing tasks? A new\u00a0white paper\u00a0from Apple\u2019s machine learning team tells us it\u2019s possible.\n\n\n\nApple\u2019s teams have developed an internal technology for distributed processing they call \u201cMinions,\u201d which effectively creates a virtual GPU cloud from connected Macs. While it\u2019s not available outside Apple at this time, it seems a pretty good candidate to turn Macs into a distributed AI data center, ",
-      "source": "Computerworld",
-      "score": 5.0,
-      "published": "2026-10-15T13:25:00+00:00",
-      "fetched_at": "2026-10-15T19:44:47.664093+00:00"
-    },
-    {
-      "id": "abf08e0d8bba",
-      "title": "A Unified Data Plane For Agentic AI",
-      "url": "https://www.forbes.com/sites/delltechnologies/2026/10/16/a-unified-data-plane-for-agentic-ai/",
-      "summary": "Agentic AI depends on trusted, connected data. A unified data plane can help enterprises give AI agents consistent context, governance and faster access to information.",
-      "source": "Forbes Innovation",
-      "score": 9.0,
-      "published": "2026-10-16T18:10:10+00:00",
-      "fetched_at": "2026-10-16T19:25:18.103019+00:00"
-    },
-    {
-      "id": "88f198f56dde",
-      "title": "G2\u2019s 2026 AI Agents Report: Only 9% of Buyers Think Seat Pricing Is Fair, 57% Want Usage-Based, and 74% Will Shop You at Renewal",
-      "url": "https://www.saastr.com/g2s-2026-ai-agents-report-only-9-of-buyers-think-seat-pricing-is-fair-57-want-usage-based-and-74-will-shop-you-at-renewal/",
-      "summary": "G2 surveyed 1,019 B2B decision-makers in July 2026 for its 2026 AI Agents Insight Report. Most of the report covers trust, oversight, and governance. The section founders should act on is chapter four, on pricing and renewals. 86% of B2B software buyers say their company bought AI agent software or services in the past year,... Continue Reading",
-      "source": "SaaStr",
-      "score": 8.8,
-      "published": "2026-10-16T14:10:24+00:00",
-      "fetched_at": "2026-10-16T19:25:17.255017+00:00"
-    },
-    {
-      "id": "0ee63cc50f71",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+      "id": "938df27abbad",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
       "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-10-16T16:30:00+00:00",
-      "fetched_at": "2026-10-16T19:25:14.897917+00:00"
+      "score": 7.2,
+      "published": "2026-10-19T15:37:09+00:00",
+      "fetched_at": "2026-10-19T20:54:43.943397+00:00"
     },
     {
-      "id": "c43b789ab800",
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+      "id": "3db714e39bcc",
+      "title": "An emergency brake\u2026or the architectural demotion of the AI model?",
+      "url": "https://www.fastcompany.com/91623061/ai-model-emergency-brake-or-architectural-demotion",
+      "summary": "The intelligence may come from the model, but the authority, no matter what, must remain outside of it.\n\nOn June 14, Satya Nadella published an article on X about corporate AI that left me completely impressed: his main point, that the enterprise\u2019s durable asset was not the foundation model but the learning loop, was precisely the idea my company and I had been developing for the last three years. I responded with an article on Fast Company, not expecting an answer (tech CEOs are more notoriously one-sided and difficult to reach than kings or presidents), but trying to elevate the discussion a",
+      "source": "Fast Company",
+      "score": 5.0,
+      "published": "2026-10-19T17:09:30+00:00",
+      "fetched_at": "2026-10-19T20:54:49.811610+00:00"
+    },
+    {
+      "id": "54dfc991cbed",
+      "title": "The Two Worst Words In Enterprise AI",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/19/the-two-worst-words-in-enterprise-ai/",
+      "summary": "Every low-stakes approval spends down a budget you will need later, for the one decision that actually mattered.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-10-19T14:00:00+00:00",
+      "fetched_at": "2026-10-19T20:54:46.726250+00:00"
+    },
+    {
+      "id": "094a1cc1de9e",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
       "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-10-16T16:30:00+00:00",
-      "fetched_at": "2026-10-16T19:25:14.897949+00:00"
+      "score": 4.8,
+      "published": "2026-10-19T12:30:00+00:00",
+      "fetched_at": "2026-10-19T20:54:43.943428+00:00"
     },
     {
-      "id": "25c42ecd4f9c",
-      "title": "AI datacenter capex will far exceed forecast revenue through 2030",
-      "url": "https://www.computerworld.com/article/4236641/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-3.html",
-      "summary": "Investors are pouring more into AI data center infrastructure than they can hope to recoup by 2030, according to Gartner.\n\n\n\n\u201cEnterprise and consumer AI revenue will be insufficient to support profitable returns on all planned AI capital expenditures during this period,\u201d said Gartner Senior Director Analyst Will Sommer.\n\n\n\nAI data center owners would need to generate $8.5 trillion in revenue through 2030 to cover announced capital spending, financing costs and expected investment returns, he said. \u201cHowever, total enterprise and consumer AI revenue that can be attributed to AI data centers duri",
+      "id": "5d3d3438fb23",
+      "title": "Building an AI Analyst, One Football Argument at a Time",
+      "url": "https://www.oreilly.com/radar/building-an-ai-analyst-one-football-argument-at-a-time/",
+      "summary": "One of my biggest pet peeves is the Monday morning quarterback, the person who second-guesses every coaching decision after the fact. In The Monday Morning Agent, we\u2019re building one that actually checks the data. Every other Monday, I\u2019ll take an argument NFL fans can\u2019t stop having and hand it to an AI agent. We\u2019ll use [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 4.4,
+      "published": "2026-10-19T15:55:03+00:00",
+      "fetched_at": "2026-10-19T20:54:48.440952+00:00"
+    },
+    {
+      "id": "df008809781e",
+      "title": "A user told Meta\u2019s Muse to sell his keyboard. What happened next was alarming",
+      "url": "https://www.fastcompany.com/91625964/user-told-metas-muse-sell-keyboard-what-happened-next-alarming?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Matt Robb wanted to sell his computer keyboard.So he made a listing on Facebook Marketplace \u2014 and, as an experiment late last month, he put Meta&#8217;s new artificial intelligence agent Muse in the driver&#8217;s seat.&#8220;I kind of went into it like a guinea pig,&#8221; said Robb, a Toronto-based content creator who regularly reviews consumer tech. He had seen Muse&#8217;s plush toy-looking avatar pop up on Instagram and decided to see if the AI agent could spare him some online bargaining.Muse got to work. But within a day, Robb got an alarming update: A buyer he didn&#8217;t know had sho",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-10-19T15:45:54+00:00",
+      "fetched_at": "2026-10-19T20:54:49.570760+00:00"
+    },
+    {
+      "id": "983d069119b9",
+      "title": "AI Changed How We Code. It Hasn\u2019t Changed How We Work Together.",
+      "url": "https://www.oreilly.com/radar/ai-changed-how-we-code-it-hasnt-changed-how-we-work-together/",
+      "summary": "This summer, I built a small experiment called ContextCue. The idea came from something I kept seeing during my internship. The engineers around me were using AI everywhere in the software development process. GitHub Copilot and Claude models helped with specs, code, reviews, and tests. The team also maintained reusable skills that taught coding agents [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 4.4,
+      "published": "2026-10-19T10:54:38+00:00",
+      "fetched_at": "2026-10-19T20:54:48.440991+00:00"
+    },
+    {
+      "id": "d39d2d3a6db4",
+      "title": "A user told Meta\u2019s Muse to sell his keyboard. What happened next was alarming",
+      "url": "https://www.fastcompany.com/91625964/user-told-metas-muse-sell-keyboard-what-happened-next-alarming",
+      "summary": "The more personal info you give AI agents, the better they perform, but that raises privacy concerns.\n\nMatt Robb wanted to sell his computer keyboard.So he made a listing on Facebook Marketplace \u2014 and, as an experiment late last month, he put Meta&#8217;s new artificial intelligence agent Muse in the driver&#8217;s seat.&#8220;I kind of went into it like a guinea pig,&#8221; said Robb, a Toronto-based content creator who regularly reviews consumer tech. He had seen Muse&#8217;s plush toy-looking avatar pop up on Instagram and decided to see if the AI agent could spare him some online bargainin",
+      "source": "Fast Company",
+      "score": 4.0,
+      "published": "2026-10-19T15:45:54+00:00",
+      "fetched_at": "2026-10-19T20:54:49.811751+00:00"
+    },
+    {
+      "id": "85869f512295",
+      "title": "4 ways to tame shadow AI (hint: you need them all)",
+      "url": "https://www.computerworld.com/article/4229136/best-way-to-tame-shadow-ai-is-to-combine-tactics.html",
+      "summary": "In olden days \u2014 last year, say \u2014 employees using unsanctioned AI tools might copy-and-paste sensitive data that could end up in the AI company\u2019s training data set.\n\n\n\nToday, an unsanctioned AI can hack into another company for an employee even if they didn\u2019t explicitly ask it to.\n\n\n\nThis doesn\u2019t just mean the latest unreleased frontier models undergoing security testing. Claude, ChatGPT, and Gemini have all evolved from being mere chatbots, answering questions and helping people write emails. They now have agentic capabilities and are able to carry out complex tasks on behalf of users.\n\n\n\nAnd ",
       "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-10-16T16:05:57+00:00",
-      "fetched_at": "2026-10-16T19:25:19.252271+00:00"
+      "score": 4.0,
+      "published": "2026-10-19T11:58:15+00:00",
+      "fetched_at": "2026-10-19T20:54:48.139914+00:00"
+    },
+    {
+      "id": "007fe264c1b3",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
+      "source": "MIT Technology Review",
+      "score": 3.6,
+      "published": "2026-10-19T18:22:47+00:00",
+      "fetched_at": "2026-10-19T20:54:44.924150+00:00"
+    },
+    {
+      "id": "10e42c60f68d",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-10-19T16:13:22+00:00",
+      "fetched_at": "2026-10-19T20:54:43.943375+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-    "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-    "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway",
-    "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior",
-    "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
-    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/08/31/why-enterprise-ai-needs-a-new-approach-to-evals/",
-    "https://www.fastcompany.com/91594647/workers-hoarding-expertise-fear-replacement-ai-agents-training",
-    "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-    "https://www.saastr.com/weve-been-running-salesforce-headless-and-our-own-claudeforce-for-6-months-were-never-going-back/",
-    "https://www.saastr.com/dear-saastr-my-sales-rep-is-grossly-underperforming-but-is-involved-in-a-key-deal-should-i-fire-him-or-wait-for-the-deal-to-close/",
     "https://www.zdnet.com/article/perplexity-ai-agentic-personal-computer-complex-tasks-windows/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/08/31/personal-state-is-the-missing-layer-in-ai-architecture/",
     "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
@@ -371,7 +359,19 @@
     "https://www.saastr.com/g2s-2026-ai-agents-report-only-9-of-buyers-think-seat-pricing-is-fair-57-want-usage-based-and-74-will-shop-you-at-renewal/",
     "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
     "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "https://www.computerworld.com/article/4236641/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-3.html"
+    "https://www.computerworld.com/article/4236641/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-3.html",
+    "https://www.fastcompany.com/91623061/ai-model-emergency-brake-or-architectural-demotion?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "https://www.fastcompany.com/91623061/ai-model-emergency-brake-or-architectural-demotion",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/10/19/the-two-worst-words-in-enterprise-ai/",
+    "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "https://www.oreilly.com/radar/building-an-ai-analyst-one-football-argument-at-a-time/",
+    "https://www.fastcompany.com/91625964/user-told-metas-muse-sell-keyboard-what-happened-next-alarming?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.oreilly.com/radar/ai-changed-how-we-code-it-hasnt-changed-how-we-work-together/",
+    "https://www.fastcompany.com/91625964/user-told-metas-muse-sell-keyboard-what-happened-next-alarming",
+    "https://www.computerworld.com/article/4229136/best-way-to-tame-shadow-ai-is-to-combine-tactics.html",
+    "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
   ],
-  "generated_at": "2026-10-16T19:25:20.882176+00:00"
+  "generated_at": "2026-10-19T20:54:49.812119+00:00"
 }

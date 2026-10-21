@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "fe8d73f38ac1",
-      "title": "An emergency brake\u2026or the architectural demotion of the AI model?",
-      "url": "https://www.fastcompany.com/91623061/ai-model-emergency-brake-or-architectural-demotion?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "On June 14, Satya Nadella published an article on X about corporate AI that left me completely impressed: his main point, that the enterprise\u2019s durable asset was not the foundation model but the learning loop, was precisely the idea my company and I had been developing for the last three years. I responded with an article on Fast Company, not expecting an answer (tech CEOs are more notoriously one-sided and difficult to reach than kings or presidents), but trying to elevate the discussion a bit more: the central challenge of enterprise AI is not intelligence itself\u200a\u2014\u200ait is architecture.\n\n\n\nNow",
-      "source": "Fast Company Tech",
-      "score": 8.8,
-      "published": "2026-10-19T17:09:30+00:00",
-      "fetched_at": "2026-10-19T20:54:49.570702+00:00"
+      "id": "0acf25502541",
+      "title": "Rogue AI: When agents stop advising and start acting",
+      "url": "https://www.computerworld.com/article/4238623/rogue-ai-when-agents-stop-advising-and-start-acting.html",
+      "summary": "For the past few years, most enterprise AI has been advisory. It summarized tickets, drafted knowledge articles, and suggested next steps. A person still decided what to do.\n\n\n\nThat\u2019s changing. Agentic AI systems can plan multistep tasks and carry them out: querying systems, triggering workflows, changing configurations, and closing tickets with little or no human involvement. Ivanti\u2019s 2026 State of Cybersecurity Report found that 87% of security professionals say integrating agentic AI is a priority, and 77% report at least some comfort letting autonomous systems act without human review.\n\n\n\n",
+      "source": "Computerworld",
+      "score": 11.0,
+      "published": "2026-10-21T18:22:39+00:00",
+      "fetched_at": "2026-10-21T19:57:41.667253+00:00"
     },
     {
-      "id": "938df27abbad",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-10-19T15:37:09+00:00",
-      "fetched_at": "2026-10-19T20:54:43.943397+00:00"
-    },
-    {
-      "id": "3db714e39bcc",
-      "title": "An emergency brake\u2026or the architectural demotion of the AI model?",
-      "url": "https://www.fastcompany.com/91623061/ai-model-emergency-brake-or-architectural-demotion",
-      "summary": "The intelligence may come from the model, but the authority, no matter what, must remain outside of it.\n\nOn June 14, Satya Nadella published an article on X about corporate AI that left me completely impressed: his main point, that the enterprise\u2019s durable asset was not the foundation model but the learning loop, was precisely the idea my company and I had been developing for the last three years. I responded with an article on Fast Company, not expecting an answer (tech CEOs are more notoriously one-sided and difficult to reach than kings or presidents), but trying to elevate the discussion a",
-      "source": "Fast Company",
-      "score": 5.0,
-      "published": "2026-10-19T17:09:30+00:00",
-      "fetched_at": "2026-10-19T20:54:49.811610+00:00"
-    },
-    {
-      "id": "54dfc991cbed",
-      "title": "The Two Worst Words In Enterprise AI",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/19/the-two-worst-words-in-enterprise-ai/",
-      "summary": "Every low-stakes approval spends down a budget you will need later, for the one decision that actually mattered.",
+      "id": "405262eab67c",
+      "title": "3 Ways To Move Enterprise AI From Ambition To Action",
+      "url": "https://www.forbes.com/sites/insights-acxiom/2026/10/21/3-ways-to-move-enterprise-ai-from-ambition-to-action/",
+      "summary": "A Forbes Insights survey of business leaders shows many companies face uncertainties regarding human roles, fragmented data, and legacy practices when deploying agentic AI. Successful deployment requires a strategic human orchestrator, employee buy-in, and a strong data foundation. Currently, only 18% of companies report that data effectively influences AI-driven marketing decision-making.",
       "source": "Forbes Innovation",
+      "score": 9.0,
+      "published": "2026-10-21T14:19:47+00:00",
+      "fetched_at": "2026-10-21T19:57:40.366028+00:00"
+    },
+    {
+      "id": "fa2b75f573d1",
+      "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+      "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+      "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+      "source": "ZDNet",
+      "score": 8.0,
+      "published": "2026-10-21T11:30:00+00:00",
+      "fetched_at": "2026-10-21T19:57:40.882641+00:00"
+    },
+    {
+      "id": "244c6a89b0fc",
+      "title": "Microsoft says AI agents are like insider threats as \u2018frontier models can\u2019t be trusted\u2019",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "source": "TechCrunch Enterprise",
+      "score": 5.5,
+      "published": "2026-10-19T22:04:28+00:00",
+      "fetched_at": "2026-10-21T19:57:38.168116+00:00"
+    },
+    {
+      "id": "b1b47557e4e9",
+      "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+      "url": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+      "summary": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Forward event to unveil [&#8230;]",
+      "source": "The Verge",
       "score": 5.0,
-      "published": "2026-10-19T14:00:00+00:00",
-      "fetched_at": "2026-10-19T20:54:46.726250+00:00"
+      "published": "2026-10-21T18:00:00+00:00",
+      "fetched_at": "2026-10-21T19:57:40.646631+00:00"
     },
     {
-      "id": "094a1cc1de9e",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-10-19T12:30:00+00:00",
-      "fetched_at": "2026-10-19T20:54:43.943428+00:00"
+      "id": "f152148a5e39",
+      "title": "Jensen Huang\u2019s Vision for Europe Runs on Plug-In Data Centers",
+      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+      "summary": "At Nvidia\u2019s GTC in Berlin, Huang unveiled the company\u2019s new plug-in data center\u2014the DSX Pod\u2014as the key to unlocking Europe\u2019s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+      "source": "Wired",
+      "score": 5.0,
+      "published": "2026-10-21T15:02:15+00:00",
+      "fetched_at": "2026-10-21T19:57:40.518328+00:00"
     },
     {
-      "id": "5d3d3438fb23",
-      "title": "Building an AI Analyst, One Football Argument at a Time",
-      "url": "https://www.oreilly.com/radar/building-an-ai-analyst-one-football-argument-at-a-time/",
-      "summary": "One of my biggest pet peeves is the Monday morning quarterback, the person who second-guesses every coaching decision after the fact. In The Monday Morning Agent, we\u2019re building one that actually checks the data. Every other Monday, I\u2019ll take an argument NFL fans can\u2019t stop having and hand it to an AI agent. We\u2019ll use [&#8230;]",
-      "source": "O'Reilly Radar",
+      "id": "c2a8cef7973d",
+      "title": "5 Interesting Learnings from Braze at $910 Million in Revenue: A $5.66B Sale to Salesforce, 26% Growth, and Operating Expenses Up Just 6%",
+      "url": "https://www.saastr.com/5-interesting-learnings-from-braze-at-910-million-in-revenue-a-5-66b-sale-to-salesforce-26-growth-and-operating-expenses-up-just-6/",
+      "summary": "Salesforce is buying Braze for $5.7B. That\u2019s 6.8x revenue. \ud83c\udf81 A gift for Braze holders. It traded at 3.7x on Monday. Look at the rest of GTM: HubSpot 3.1x (growing 20%)Klaviyo 3.1x (growing 26%)Monday 2.3x (growing 22%)Adobe 3.8x Real growth, and still 2-4x revenue pic.twitter.com/5yQQP2I8QZ &#8212; Jason \u2728\ud83d\udc7eSaaStr.Ai\u2728 Lemkin (@jasonlk) October 20, 2026 Salesforce announced... Continue Reading",
+      "source": "SaaStr",
       "score": 4.4,
-      "published": "2026-10-19T15:55:03+00:00",
-      "fetched_at": "2026-10-19T20:54:48.440952+00:00"
+      "published": "2026-10-20T14:00:23+00:00",
+      "fetched_at": "2026-10-21T19:57:39.528643+00:00"
     },
     {
-      "id": "df008809781e",
-      "title": "A user told Meta\u2019s Muse to sell his keyboard. What happened next was alarming",
-      "url": "https://www.fastcompany.com/91625964/user-told-metas-muse-sell-keyboard-what-happened-next-alarming?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Matt Robb wanted to sell his computer keyboard.So he made a listing on Facebook Marketplace \u2014 and, as an experiment late last month, he put Meta&#8217;s new artificial intelligence agent Muse in the driver&#8217;s seat.&#8220;I kind of went into it like a guinea pig,&#8221; said Robb, a Toronto-based content creator who regularly reviews consumer tech. He had seen Muse&#8217;s plush toy-looking avatar pop up on Instagram and decided to see if the AI agent could spare him some online bargaining.Muse got to work. But within a day, Robb got an alarming update: A buyer he didn&#8217;t know had sho",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-10-19T15:45:54+00:00",
-      "fetched_at": "2026-10-19T20:54:49.570760+00:00"
-    },
-    {
-      "id": "983d069119b9",
-      "title": "AI Changed How We Code. It Hasn\u2019t Changed How We Work Together.",
-      "url": "https://www.oreilly.com/radar/ai-changed-how-we-code-it-hasnt-changed-how-we-work-together/",
-      "summary": "This summer, I built a small experiment called ContextCue. The idea came from something I kept seeing during my internship. The engineers around me were using AI everywhere in the software development process. GitHub Copilot and Claude models helped with specs, code, reviews, and tests. The team also maintained reusable skills that taught coding agents [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 4.4,
-      "published": "2026-10-19T10:54:38+00:00",
-      "fetched_at": "2026-10-19T20:54:48.440991+00:00"
-    },
-    {
-      "id": "d39d2d3a6db4",
-      "title": "A user told Meta\u2019s Muse to sell his keyboard. What happened next was alarming",
-      "url": "https://www.fastcompany.com/91625964/user-told-metas-muse-sell-keyboard-what-happened-next-alarming",
-      "summary": "The more personal info you give AI agents, the better they perform, but that raises privacy concerns.\n\nMatt Robb wanted to sell his computer keyboard.So he made a listing on Facebook Marketplace \u2014 and, as an experiment late last month, he put Meta&#8217;s new artificial intelligence agent Muse in the driver&#8217;s seat.&#8220;I kind of went into it like a guinea pig,&#8221; said Robb, a Toronto-based content creator who regularly reviews consumer tech. He had seen Muse&#8217;s plush toy-looking avatar pop up on Instagram and decided to see if the AI agent could spare him some online bargainin",
-      "source": "Fast Company",
-      "score": 4.0,
-      "published": "2026-10-19T15:45:54+00:00",
-      "fetched_at": "2026-10-19T20:54:49.811751+00:00"
-    },
-    {
-      "id": "85869f512295",
-      "title": "4 ways to tame shadow AI (hint: you need them all)",
-      "url": "https://www.computerworld.com/article/4229136/best-way-to-tame-shadow-ai-is-to-combine-tactics.html",
-      "summary": "In olden days \u2014 last year, say \u2014 employees using unsanctioned AI tools might copy-and-paste sensitive data that could end up in the AI company\u2019s training data set.\n\n\n\nToday, an unsanctioned AI can hack into another company for an employee even if they didn\u2019t explicitly ask it to.\n\n\n\nThis doesn\u2019t just mean the latest unreleased frontier models undergoing security testing. Claude, ChatGPT, and Gemini have all evolved from being mere chatbots, answering questions and helping people write emails. They now have agentic capabilities and are able to carry out complex tasks on behalf of users.\n\n\n\nAnd ",
+      "id": "9f6c81105fc5",
+      "title": "AI isn\u2019t hallucinating\u2014but your data might be",
+      "url": "https://www.computerworld.com/article/4238616/ai-isnt-hallucinating-but-your-data-might-be.html",
+      "summary": "\u201cHallucination\u201d has become the catch-all term for AI getting things wrong. It describes a real phenomenon: Large language models can generate confident, fluent answers that are simply untrue.\n\n\n\nBut in IT operations, many errors labeled as hallucinations have a more ordinary explanation. The AI isn\u2019t inventing facts. It\u2019s faithfully reporting information that happens to be outdated, incomplete, or contradictory. I\u2019ve seen this play out across enough environments to know the cause usually sits upstream, in the data the system learned from and the picture of the estate it read.\n\n\n\nFix the data f",
       "source": "Computerworld",
       "score": 4.0,
-      "published": "2026-10-19T11:58:15+00:00",
-      "fetched_at": "2026-10-19T20:54:48.139914+00:00"
+      "published": "2026-10-21T18:16:22+00:00",
+      "fetched_at": "2026-10-21T19:57:41.667324+00:00"
     },
     {
-      "id": "007fe264c1b3",
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
-      "source": "MIT Technology Review",
-      "score": 3.6,
-      "published": "2026-10-19T18:22:47+00:00",
-      "fetched_at": "2026-10-19T20:54:44.924150+00:00"
-    },
-    {
-      "id": "10e42c60f68d",
-      "title": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "id": "e6b6d4852fc9",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
       "source": "TechCrunch AI",
       "score": 3.6,
-      "published": "2026-10-19T16:13:22+00:00",
-      "fetched_at": "2026-10-19T20:54:43.943375+00:00"
+      "published": "2026-10-21T19:30:00+00:00",
+      "fetched_at": "2026-10-21T19:57:38.113985+00:00"
+    },
+    {
+      "id": "85e233d0b166",
+      "title": "Otter AI raises $320M from General Catalyst\u2019s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-10-20T11:00:00+00:00",
+      "fetched_at": "2026-10-21T19:57:38.114442+00:00"
+    },
+    {
+      "id": "b9590634267c",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is [&#8230;]",
+      "source": "The Verge",
+      "score": 3.0,
+      "published": "2026-10-21T19:53:20+00:00",
+      "fetched_at": "2026-10-21T19:57:40.646365+00:00"
+    },
+    {
+      "id": "949d2397cfe4",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, [&#8230;]",
+      "source": "The Verge",
+      "score": 3.0,
+      "published": "2026-10-21T19:30:00+00:00",
+      "fetched_at": "2026-10-21T19:57:40.646404+00:00"
     }
   ],
   "history": [
-    "https://www.zdnet.com/article/perplexity-ai-agentic-personal-computer-complex-tasks-windows/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/08/31/personal-state-is-the-missing-layer-in-ai-architecture/",
-    "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
-    "https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns",
-    "https://www.fastcompany.com/91598294/methodology-pacesetters-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91599506/ruba-borno-pacesetters-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
-    "https://www.forbes.com/sites/victordey/2026/09/02/genesys-is-moving-beyond-the-contact-center-to-orchestrate-agentic-ai/",
-    "https://www.computerworld.com/article/4216413/qa-serval-ceo-describes-building-an-ai-native-alternative-to-servicenow.html",
-    "https://www.fastcompany.com/91600204/shopify-is-giving-its-engineers-free-rein-on-ai-heres-why?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
-    "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
     "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
     "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
     "https://www.computerworld.com/article/4218122/adobes-slack-integration-brings-ai-content-creation-to-workplace-chats.html",
@@ -371,7 +359,19 @@
     "https://www.fastcompany.com/91625964/user-told-metas-muse-sell-keyboard-what-happened-next-alarming",
     "https://www.computerworld.com/article/4229136/best-way-to-tame-shadow-ai-is-to-combine-tactics.html",
     "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
+    "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "https://www.computerworld.com/article/4238623/rogue-ai-when-agents-stop-advising-and-start-acting.html",
+    "https://www.forbes.com/sites/insights-acxiom/2026/10/21/3-ways-to-move-enterprise-ai-from-ambition-to-action/",
+    "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+    "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+    "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+    "https://www.saastr.com/5-interesting-learnings-from-braze-at-910-million-in-revenue-a-5-66b-sale-to-salesforce-26-growth-and-operating-expenses-up-just-6/",
+    "https://www.computerworld.com/article/4238616/ai-isnt-hallucinating-but-your-data-might-be.html",
+    "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+    "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents"
   ],
-  "generated_at": "2026-10-19T20:54:49.812119+00:00"
+  "generated_at": "2026-10-21T19:57:43.336364+00:00"
 }

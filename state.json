@@ -1,76 +1,6 @@
 {
   "queue": [
     {
-      "id": "0acf25502541",
-      "title": "Rogue AI: When agents stop advising and start acting",
-      "url": "https://www.computerworld.com/article/4238623/rogue-ai-when-agents-stop-advising-and-start-acting.html",
-      "summary": "For the past few years, most enterprise AI has been advisory. It summarized tickets, drafted knowledge articles, and suggested next steps. A person still decided what to do.\n\n\n\nThat\u2019s changing. Agentic AI systems can plan multistep tasks and carry them out: querying systems, triggering workflows, changing configurations, and closing tickets with little or no human involvement. Ivanti\u2019s 2026 State of Cybersecurity Report found that 87% of security professionals say integrating agentic AI is a priority, and 77% report at least some comfort letting autonomous systems act without human review.\n\n\n\n",
-      "source": "Computerworld",
-      "score": 11.0,
-      "published": "2026-10-21T18:22:39+00:00",
-      "fetched_at": "2026-10-21T19:57:41.667253+00:00"
-    },
-    {
-      "id": "405262eab67c",
-      "title": "3 Ways To Move Enterprise AI From Ambition To Action",
-      "url": "https://www.forbes.com/sites/insights-acxiom/2026/10/21/3-ways-to-move-enterprise-ai-from-ambition-to-action/",
-      "summary": "A Forbes Insights survey of business leaders shows many companies face uncertainties regarding human roles, fragmented data, and legacy practices when deploying agentic AI. Successful deployment requires a strategic human orchestrator, employee buy-in, and a strong data foundation. Currently, only 18% of companies report that data effectively influences AI-driven marketing decision-making.",
-      "source": "Forbes Innovation",
-      "score": 9.0,
-      "published": "2026-10-21T14:19:47+00:00",
-      "fetched_at": "2026-10-21T19:57:40.366028+00:00"
-    },
-    {
-      "id": "fa2b75f573d1",
-      "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
-      "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
-      "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
-      "source": "ZDNet",
-      "score": 8.0,
-      "published": "2026-10-21T11:30:00+00:00",
-      "fetched_at": "2026-10-21T19:57:40.882641+00:00"
-    },
-    {
-      "id": "b1b47557e4e9",
-      "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
-      "url": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
-      "summary": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Forward event to unveil [&#8230;]",
-      "source": "The Verge",
-      "score": 5.0,
-      "published": "2026-10-21T18:00:00+00:00",
-      "fetched_at": "2026-10-21T19:57:40.646631+00:00"
-    },
-    {
-      "id": "f152148a5e39",
-      "title": "Jensen Huang\u2019s Vision for Europe Runs on Plug-In Data Centers",
-      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-      "summary": "At Nvidia\u2019s GTC in Berlin, Huang unveiled the company\u2019s new plug-in data center\u2014the DSX Pod\u2014as the key to unlocking Europe\u2019s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-      "source": "Wired",
-      "score": 5.0,
-      "published": "2026-10-21T15:02:15+00:00",
-      "fetched_at": "2026-10-21T19:57:40.518328+00:00"
-    },
-    {
-      "id": "9f6c81105fc5",
-      "title": "AI isn\u2019t hallucinating\u2014but your data might be",
-      "url": "https://www.computerworld.com/article/4238616/ai-isnt-hallucinating-but-your-data-might-be.html",
-      "summary": "\u201cHallucination\u201d has become the catch-all term for AI getting things wrong. It describes a real phenomenon: Large language models can generate confident, fluent answers that are simply untrue.\n\n\n\nBut in IT operations, many errors labeled as hallucinations have a more ordinary explanation. The AI isn\u2019t inventing facts. It\u2019s faithfully reporting information that happens to be outdated, incomplete, or contradictory. I\u2019ve seen this play out across enough environments to know the cause usually sits upstream, in the data the system learned from and the picture of the estate it read.\n\n\n\nFix the data f",
-      "source": "Computerworld",
-      "score": 4.0,
-      "published": "2026-10-21T18:16:22+00:00",
-      "fetched_at": "2026-10-21T19:57:41.667324+00:00"
-    },
-    {
-      "id": "e6b6d4852fc9",
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-10-21T19:30:00+00:00",
-      "fetched_at": "2026-10-21T19:57:38.113985+00:00"
-    },
-    {
       "id": "b9590634267c",
       "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
@@ -79,16 +9,6 @@
       "score": 3.0,
       "published": "2026-10-21T19:53:20+00:00",
       "fetched_at": "2026-10-21T19:57:40.646365+00:00"
-    },
-    {
-      "id": "949d2397cfe4",
-      "title": "Walmart is inviting AI agents to shop for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, [&#8230;]",
-      "source": "The Verge",
-      "score": 3.0,
-      "published": "2026-10-21T19:30:00+00:00",
-      "fetched_at": "2026-10-21T19:57:40.646404+00:00"
     },
     {
       "id": "6c4c325e4c95",
@@ -119,17 +39,89 @@
       "score": 6.0,
       "published": "2026-10-22T18:15:00+00:00",
       "fetched_at": "2026-10-22T19:48:42.075471+00:00"
+    },
+    {
+      "id": "a9834d635e3e",
+      "title": "Inside Mastercard\u2019s Agentic AI Strategy For The $80 Trillion B2B Payments Market",
+      "url": "https://www.forbes.com/sites/victordey/2026/10/23/inside-mastercards-agentic-ai-strategy-for-the-80t-b2b-payments-market/",
+      "summary": "Mastercard is pairing supplier analytics with Agent Pay safeguards to help AI agents manage B2B purchases, even when payments flow outside its card network.",
+      "source": "Forbes Innovation",
+      "score": 8.0,
+      "published": "2026-10-23T14:00:41+00:00",
+      "fetched_at": "2026-10-23T19:50:40.308993+00:00"
+    },
+    {
+      "id": "d91ee2f49ea1",
+      "title": "The New \u201cAsk Your Developer\u201d Is Ask Your Agent.  And It\u2019s The Marketing Battle You Have to Win Now",
+      "url": "https://www.saastr.com/the-new-ask-your-developer-is-ask-your-agent/",
+      "summary": "In 2021 Jeff Lawson wrote Ask Your Developer. His point was that developers had become the real buyers of a huge slice of B2B software. If you wanted to win Twilio-style infrastructure deals, you won the engineer, and the engineer brought the budget with them. Five years later the same thing is happening again, one... Continue Reading",
+      "source": "SaaStr",
+      "score": 6.6,
+      "published": "2026-10-23T14:09:23+00:00",
+      "fetched_at": "2026-10-23T19:50:39.069850+00:00"
+    },
+    {
+      "id": "c4f2e7d5237a",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
+      "source": "MIT Technology Review",
+      "score": 6.0,
+      "published": "2026-10-22T21:17:29+00:00",
+      "fetched_at": "2026-10-23T19:50:38.001089+00:00"
+    },
+    {
+      "id": "a1d8d4720756",
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
+      "source": "MIT Technology Review",
+      "score": 6.0,
+      "published": "2026-10-22T10:00:00+00:00",
+      "fetched_at": "2026-10-23T19:50:38.001170+00:00"
+    },
+    {
+      "id": "947961094dce",
+      "title": "20VC x SaaStr: $20M ARR and Unfundable, Anthropic\u2019s $16.8B Quarter, and Modal at $15.75B",
+      "url": "https://www.saastr.com/20vc-x-saastr-20m-arr-and-unfundable-anthropics-16-8b-quarter-and-modal-at-15-75b/",
+      "summary": "Why the venture box keeps shrinking, why CoreWeave is a B-tier asset, and why build-to-prod is the most important category in software Another week with Harry Stebbings and Rory O\u2019Driscoll, and the theme ran through almost every segment: capital is concentrating into fewer names than ever. Great businesses outside the hype cycle can\u2019t get a... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-10-22T15:39:27+00:00",
+      "fetched_at": "2026-10-23T19:50:39.069952+00:00"
+    },
+    {
+      "id": "5126e80c6df3",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-10-22T16:47:17+00:00",
+      "fetched_at": "2026-10-23T19:50:36.347786+00:00"
+    },
+    {
+      "id": "f0c40a797e0a",
+      "title": "The Agentic Software Factory Hierarchy of Needs",
+      "url": "https://www.oreilly.com/radar/the-agentic-software-factory-hierarchy-of-needs/",
+      "summary": "The following article originally appeared on the Vanishing Gradients Substack and is being republished here with the authors\u2019 permission. Stripe\u2019s Minions turn engineering requests into candidate pull requests. Ramp\u2019s Inspect puts coding agents to work in the background, with tools to check their changes. Warp Factories takes work from tickets and chat through agents, checks, [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 4.4,
+      "published": "2026-10-23T10:54:58+00:00",
+      "fetched_at": "2026-10-23T19:50:41.712241+00:00"
+    },
+    {
+      "id": "a90bc8fdb636",
+      "title": "Southeast Asia is hungry for AI \u2014 and the money isn't just in subscriptions",
+      "url": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
+      "summary": "Southeast Asia's rapid AI adoption is creating business opportunities beyond paid consumer subscriptions, a partner at Bain & Company, told CNBC.",
+      "source": "CNBC Tech",
+      "score": 4.4,
+      "published": "2026-10-22T02:01:48+00:00",
+      "fetched_at": "2026-10-23T19:50:37.900881+00:00"
     }
   ],
   "history": [
-    "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-    "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
-    "https://www.fastcompany.com/91601432/largest-school-system-u-s-just-banned-ai-students-through-8th-grade?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91600746/how-much-energy-does-agentic-ai-actually-use-one-scientist-tracked-every-prompt-he-sent?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.forbes.com/sites/delltechnologies/2026/09/03/the-agent-ready-data-platform-the-semantic-self-operating-data-plane-for-enterprise-ai/",
-    "https://www.saastr.com/5-interesting-learnings-from-salesforce-at-45-billion-arr-14-crpo-growth-6-organic-growth-and-2-53-of-eps-from-its-anthropic-stake/",
-    "https://fortune.com/2026/09/03/reports-openais-astra-model-uses-a-new-more-efficient-ai-architecture-alarms-ai-safety-experts-who-worry-the-method-makes-models-harder-to-control/",
-    "https://www.computerworld.com/article/4218195/why-is-apple-so-quiet-about-what-it-offers-the-enterprise.html",
     "https://www.forbes.com/councils/forbestechcouncil/2026/09/04/the-data-debt-ceiling-why-most-enterprise-ai-programs-stall-before-they-scale/",
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
     "https://www.computerworld.com/article/4218826/nvidia-hugging-face-deal-could-require-an-enterprise-ai-rethink.html",
@@ -371,7 +363,15 @@
     "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
     "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
     "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-    "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network"
+    "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+    "https://www.forbes.com/sites/victordey/2026/10/23/inside-mastercards-agentic-ai-strategy-for-the-80t-b2b-payments-market/",
+    "https://www.saastr.com/the-new-ask-your-developer-is-ask-your-agent/",
+    "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "https://www.saastr.com/20vc-x-saastr-20m-arr-and-unfundable-anthropics-16-8b-quarter-and-modal-at-15-75b/",
+    "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "https://www.oreilly.com/radar/the-agentic-software-factory-hierarchy-of-needs/",
+    "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html"
   ],
-  "generated_at": "2026-10-22T19:48:44.826762+00:00"
+  "generated_at": "2026-10-23T19:50:42.977780+00:00"
 }

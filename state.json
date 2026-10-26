@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "b9590634267c",
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is [&#8230;]",
-      "source": "The Verge",
-      "score": 3.0,
-      "published": "2026-10-21T19:53:20+00:00",
-      "fetched_at": "2026-10-21T19:57:40.646365+00:00"
-    },
-    {
-      "id": "6c4c325e4c95",
-      "title": "Discord now formats Markdown previews right",
-      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects [&#8230;]",
-      "source": "The Verge",
-      "score": 6.0,
-      "published": "2026-10-22T18:58:19+00:00",
-      "fetched_at": "2026-10-22T19:48:42.075341+00:00"
-    },
-    {
-      "id": "870bab36282f",
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
-      "source": "MIT Technology Review",
-      "score": 6.0,
-      "published": "2026-10-22T18:48:04+00:00",
-      "fetched_at": "2026-10-22T19:48:40.262183+00:00"
-    },
-    {
-      "id": "551e38fbbb7d",
-      "title": "In Meta\u2019s version of the future, I\u2019ll have my Muse call your Muse",
-      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? [&#8230;]",
-      "source": "The Verge",
-      "score": 6.0,
-      "published": "2026-10-22T18:15:00+00:00",
-      "fetched_at": "2026-10-22T19:48:42.075471+00:00"
-    },
-    {
-      "id": "a9834d635e3e",
-      "title": "Inside Mastercard\u2019s Agentic AI Strategy For The $80 Trillion B2B Payments Market",
-      "url": "https://www.forbes.com/sites/victordey/2026/10/23/inside-mastercards-agentic-ai-strategy-for-the-80t-b2b-payments-market/",
-      "summary": "Mastercard is pairing supplier analytics with Agent Pay safeguards to help AI agents manage B2B purchases, even when payments flow outside its card network.",
+      "id": "c84a1c378cf7",
+      "title": "Before Healthcare Can Trust AI Agents, It Has To Trust Its Data",
+      "url": "https://www.forbes.com/sites/delltechnologies/2026/10/26/before-healthcare-can-trust-ai-agents-it-has-to-trust-its-data/",
+      "summary": "Discover why trusted data, secure storage and reliable infrastructure are essential for healthcare organizations to scale agentic AI safely and effectively.",
       "source": "Forbes Innovation",
       "score": 8.0,
-      "published": "2026-10-23T14:00:41+00:00",
-      "fetched_at": "2026-10-23T19:50:40.308993+00:00"
+      "published": "2026-10-26T20:05:09+00:00",
+      "fetched_at": "2026-10-26T20:55:25.110048+00:00"
     },
     {
-      "id": "d91ee2f49ea1",
-      "title": "The New \u201cAsk Your Developer\u201d Is Ask Your Agent.  And It\u2019s The Marketing Battle You Have to Win Now",
-      "url": "https://www.saastr.com/the-new-ask-your-developer-is-ask-your-agent/",
-      "summary": "In 2021 Jeff Lawson wrote Ask Your Developer. His point was that developers had become the real buyers of a huge slice of B2B software. If you wanted to win Twilio-style infrastructure deals, you won the engineer, and the engineer brought the budget with them. Five years later the same thing is happening again, one... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-10-23T14:09:23+00:00",
-      "fetched_at": "2026-10-23T19:50:39.069850+00:00"
+      "id": "1bdfc060ecf5",
+      "title": "What we learned from 250,000 public workers about AI adoption",
+      "url": "https://www.fastcompany.com/91628634/how-the-public-sector-is-using-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "As generative AI sweeps across industries, some workers using it are reporting increases in productivity. But inside government, where those benefits could translate into better public services, many employees are still unsure how the technology applies to their jobs, how to use it, or whether they are allowed to.\n\n\n\nThat\u2019s one takeaway from our research at InnovateUS, a nonprofit learning initiative that has trained more than 250,000 government workers in AI, digital technology, and innovative skills. They work in all 50 states and the District of Columbia, in jobs ranging from public safety ",
+      "source": "Fast Company Tech",
+      "score": 7.7,
+      "published": "2026-10-26T15:20:00+00:00",
+      "fetched_at": "2026-10-26T20:55:27.502693+00:00"
     },
     {
-      "id": "c4f2e7d5237a",
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
-      "source": "MIT Technology Review",
-      "score": 6.0,
-      "published": "2026-10-22T21:17:29+00:00",
-      "fetched_at": "2026-10-23T19:50:38.001089+00:00"
+      "id": "73ae6682a525",
+      "title": "What we learned from 250,000 public workers about AI adoption",
+      "url": "https://www.fastcompany.com/91628634/how-the-public-sector-is-using-ai",
+      "summary": "Our research reveals what workers need to use AI well. The next challenge is understanding whether that learning translates into better government services.\n\nAs generative AI sweeps across industries, some workers using it are reporting increases in productivity. But inside government, where those benefits could translate into better public services, many employees are still unsure how the technology applies to their jobs, how to use it, or whether they are allowed to.",
+      "source": "Fast Company",
+      "score": 7.0,
+      "published": "2026-10-26T15:20:00+00:00",
+      "fetched_at": "2026-10-26T20:55:27.641993+00:00"
     },
     {
-      "id": "a1d8d4720756",
-      "title": "Making the case for context-aware AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
-      "source": "MIT Technology Review",
-      "score": 6.0,
-      "published": "2026-10-22T10:00:00+00:00",
-      "fetched_at": "2026-10-23T19:50:38.001170+00:00"
-    },
-    {
-      "id": "947961094dce",
-      "title": "20VC x SaaStr: $20M ARR and Unfundable, Anthropic\u2019s $16.8B Quarter, and Modal at $15.75B",
-      "url": "https://www.saastr.com/20vc-x-saastr-20m-arr-and-unfundable-anthropics-16-8b-quarter-and-modal-at-15-75b/",
-      "summary": "Why the venture box keeps shrinking, why CoreWeave is a B-tier asset, and why build-to-prod is the most important category in software Another week with Harry Stebbings and Rory O\u2019Driscoll, and the theme ran through almost every segment: capital is concentrating into fewer names than ever. Great businesses outside the hype cycle can\u2019t get a... Continue Reading",
+      "id": "cff638b6fbf7",
+      "title": "The Simplest, Highest-ROI Place to Put an AI Agent Is Your Contact Me Form: 614 Meetings, $2M+ Closed, and 71% of a Month\u2019s Deals",
+      "url": "https://www.saastr.com/the-simplest-highest-roi-place-to-put-an-ai-agent-is-your-contact-me-form-614-meetings-1m-closed-and-71-of-a-months-deals/",
+      "summary": "If you&#8217;re trying to figure out where to deploy your first real AI agent in go-to-market, start with the most boring page on your website. The Contact Me form. No one should wait days to hear back from a 21-year-old human whose job is to qualify them. And yet that&#8217;s still how most B2B companies... Continue Reading",
       "source": "SaaStr",
       "score": 5.5,
-      "published": "2026-10-22T15:39:27+00:00",
-      "fetched_at": "2026-10-23T19:50:39.069952+00:00"
+      "published": "2026-10-26T14:13:08+00:00",
+      "fetched_at": "2026-10-26T20:55:24.497453+00:00"
     },
     {
-      "id": "5126e80c6df3",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "id": "8e1c01285fe6",
+      "title": "Your Top Job For 2027: Hire 1-2 Execs Who Can Take the Load, Not Just Do the Work",
+      "url": "https://www.saastr.com/your-top-job-for-2027-hire-1-2-execs-who-can-take-the-load-not-just-do-the-work/",
+      "summary": "I was with a great agentic B2B CEO this week, $100M+ ARR and still growing fast, and we got into hiring ex-founders. I&#8217;m a huge proponent. Every B2B company at scale should have 1 to 3 ex-founder CEOs on the team. They have superpowers you can&#8217;t train into an operator who has never been a... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-10-25T14:10:24+00:00",
+      "fetched_at": "2026-10-26T20:55:24.497598+00:00"
+    },
+    {
+      "id": "445da5e92638",
+      "title": "Half Your CRM Data Is Wrong: AI Prospecting in a World of 49% Exec Turnover",
+      "url": "https://www.saastr.com/half-your-crm-is-wrong-ai-prospecting-in-a-world-of-49-exec-turnover/",
+      "summary": "Earlier in the day at the latest SaaStr AI Day, Jason and Amelia talked about a core weakness in most AI prospecting tools: they run almost entirely on third-party data. Every team buys from the same data vendors, so every agent ends up writing the same emails to the same people. In the next session,... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-10-25T11:00:12+00:00",
+      "fetched_at": "2026-10-26T20:55:24.497634+00:00"
+    },
+    {
+      "id": "56aa865dc2b1",
+      "title": "SAP's Philipp Herzig on AI built for business data",
+      "url": "https://www.therundown.ai/articles/sap-s-philipp-herzig-on-ai-built-for-business-data",
+      "summary": "What the \"SaaS is dead\" debate misses, according to SAP's CTO",
+      "source": "The Rundown AI",
+      "score": 5.2,
+      "published": "2026-10-25T10:00:00+00:00",
+      "fetched_at": "2026-10-26T20:55:24.058547+00:00"
+    },
+    {
+      "id": "c24e909cf9a0",
+      "title": "Town CEO Jean-Denis Greze on why most people still don\u2019t know what to ask AI",
+      "url": "https://www.fastcompany.com/91629462/town-ceo-jean-denis-greze-on-why-most-people-still-dont-know-what-to-ask-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "AI agents are powerful, but most ordinary people don\u2019t yet use them. Town wants to change that. Led by CEO Jean-Denis Greze, playfully referred to as Town\u2019s mayor, the company announced a $108 million Series B on October 19, co-led by Forerunner Ventures and Menlo Ventures, at a $1 billion valuation.\u00a0\u00a0\n\n\n\nGreze cofounded the San Francisco startup with Tony Vincent in late 2024 after serving as CTO of Plaid, where he built up the engineering team from about 20 people to 350.\n\n\n\nTown\u2019s betting it can make AI more accessible and practical for small-business owners and mid-market firms still looki",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-10-25T09:10:00+00:00",
+      "fetched_at": "2026-10-26T20:55:27.502960+00:00"
+    },
+    {
+      "id": "8f4c26bb6bac",
+      "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
       "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-10-22T16:47:17+00:00",
-      "fetched_at": "2026-10-23T19:50:36.347786+00:00"
+      "score": 3.6,
+      "published": "2026-10-26T16:49:42+00:00",
+      "fetched_at": "2026-10-26T20:55:22.654243+00:00"
     },
     {
-      "id": "f0c40a797e0a",
-      "title": "The Agentic Software Factory Hierarchy of Needs",
-      "url": "https://www.oreilly.com/radar/the-agentic-software-factory-hierarchy-of-needs/",
-      "summary": "The following article originally appeared on the Vanishing Gradients Substack and is being republished here with the authors\u2019 permission. Stripe\u2019s Minions turn engineering requests into candidate pull requests. Ramp\u2019s Inspect puts coding agents to work in the background, with tools to check their changes. Warp Factories takes work from tickets and chat through agents, checks, [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 4.4,
-      "published": "2026-10-23T10:54:58+00:00",
-      "fetched_at": "2026-10-23T19:50:41.712241+00:00"
+      "id": "bb06af6daa74",
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-10-26T14:35:22+00:00",
+      "fetched_at": "2026-10-26T20:55:22.654312+00:00"
     },
     {
-      "id": "a90bc8fdb636",
-      "title": "Southeast Asia is hungry for AI \u2014 and the money isn't just in subscriptions",
-      "url": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
-      "summary": "Southeast Asia's rapid AI adoption is creating business opportunities beyond paid consumer subscriptions, a partner at Bain & Company, told CNBC.",
-      "source": "CNBC Tech",
-      "score": 4.4,
-      "published": "2026-10-22T02:01:48+00:00",
-      "fetched_at": "2026-10-23T19:50:37.900881+00:00"
+      "id": "e11b528e41fb",
+      "title": "The Next Space Race Will Be Won On Earth",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/26/the-next-space-race-will-be-won-on-earth/",
+      "summary": "True space sovereignty requires developing internal technology, expertise and autonomous capabilities right here on this planet.",
+      "source": "Forbes Innovation",
+      "score": 3.0,
+      "published": "2026-10-26T16:00:56+00:00",
+      "fetched_at": "2026-10-26T20:55:25.110401+00:00"
+    },
+    {
+      "id": "763b396b0afd",
+      "title": "Cadence Ups Its Agentic Game With Maestro Domain-Specific AI Model",
+      "url": "https://www.forbes.com/sites/karlfreund/2026/10/26/cadence-ups-its-agentic-game-with-maestro-domain-specific-ai-model/",
+      "summary": "Cadence has introduced Maestro, a portfolio of domain-specific AI models for agentic chip and system-design workflows.",
+      "source": "Forbes Innovation",
+      "score": 3.0,
+      "published": "2026-10-26T15:58:05+00:00",
+      "fetched_at": "2026-10-26T20:55:25.110450+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/councils/forbestechcouncil/2026/09/04/the-data-debt-ceiling-why-most-enterprise-ai-programs-stall-before-they-scale/",
-    "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "https://www.computerworld.com/article/4218826/nvidia-hugging-face-deal-could-require-an-enterprise-ai-rethink.html",
-    "https://www.saastr.com/beyond-the-saaspocalypse-the-winners-and-losers-of-2026-so-far/",
-    "https://www.saastr.com/founders-are-coming-back-to-run-their-pre-ai-b2b-companies-because-its-the-last-stand/",
-    "https://www.saastr.com/dear-saastr-as-a-founder-what-will-i-learn-getting-more-involved-in-sales/",
-    "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-    "https://www.therundown.ai/articles/another-openai-agent-swarm-surfaces",
-    "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-    "https://fortune.com/2026/09/07/openai-ai-agents-german-wiki-ran-their-own-message-board/",
-    "https://www.computerworld.com/article/4219264/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access-2.html",
-    "https://www.fastcompany.com/91601580/skin-cancer-detection-tools-powered-by-ai-are-improving-not-everyone-is-benefitting?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://fortune.com/2026/09/07/trump-kills-45-million-support-for-namibia-hiv-program/",
     "https://www.businessinsider.com/startups-save-home-sellers-money-on-commissions-avoid-traditional-agents-2025-5",
     "https://www.fastcompany.com/91602695/chatgpt-sites-makes-building-a-website-feel-like-making-a-google-doc?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -371,7 +359,19 @@
     "https://www.saastr.com/20vc-x-saastr-20m-arr-and-unfundable-anthropics-16-8b-quarter-and-modal-at-15-75b/",
     "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
     "https://www.oreilly.com/radar/the-agentic-software-factory-hierarchy-of-needs/",
-    "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html"
+    "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
+    "https://www.forbes.com/sites/delltechnologies/2026/10/26/before-healthcare-can-trust-ai-agents-it-has-to-trust-its-data/",
+    "https://www.fastcompany.com/91628634/how-the-public-sector-is-using-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91628634/how-the-public-sector-is-using-ai",
+    "https://www.saastr.com/the-simplest-highest-roi-place-to-put-an-ai-agent-is-your-contact-me-form-614-meetings-1m-closed-and-71-of-a-months-deals/",
+    "https://www.saastr.com/your-top-job-for-2027-hire-1-2-execs-who-can-take-the-load-not-just-do-the-work/",
+    "https://www.saastr.com/half-your-crm-is-wrong-ai-prospecting-in-a-world-of-49-exec-turnover/",
+    "https://www.therundown.ai/articles/sap-s-philipp-herzig-on-ai-built-for-business-data",
+    "https://www.fastcompany.com/91629462/town-ceo-jean-denis-greze-on-why-most-people-still-dont-know-what-to-ask-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/10/26/the-next-space-race-will-be-won-on-earth/",
+    "https://www.forbes.com/sites/karlfreund/2026/10/26/cadence-ups-its-agentic-game-with-maestro-domain-specific-ai-model/"
   ],
-  "generated_at": "2026-10-23T19:50:42.977780+00:00"
+  "generated_at": "2026-10-26T20:55:27.642415+00:00"
 }

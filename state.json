@@ -41,46 +41,6 @@
       "fetched_at": "2026-10-26T20:55:24.497453+00:00"
     },
     {
-      "id": "8e1c01285fe6",
-      "title": "Your Top Job For 2027: Hire 1-2 Execs Who Can Take the Load, Not Just Do the Work",
-      "url": "https://www.saastr.com/your-top-job-for-2027-hire-1-2-execs-who-can-take-the-load-not-just-do-the-work/",
-      "summary": "I was with a great agentic B2B CEO this week, $100M+ ARR and still growing fast, and we got into hiring ex-founders. I&#8217;m a huge proponent. Every B2B company at scale should have 1 to 3 ex-founder CEOs on the team. They have superpowers you can&#8217;t train into an operator who has never been a... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-10-25T14:10:24+00:00",
-      "fetched_at": "2026-10-26T20:55:24.497598+00:00"
-    },
-    {
-      "id": "445da5e92638",
-      "title": "Half Your CRM Data Is Wrong: AI Prospecting in a World of 49% Exec Turnover",
-      "url": "https://www.saastr.com/half-your-crm-is-wrong-ai-prospecting-in-a-world-of-49-exec-turnover/",
-      "summary": "Earlier in the day at the latest SaaStr AI Day, Jason and Amelia talked about a core weakness in most AI prospecting tools: they run almost entirely on third-party data. Every team buys from the same data vendors, so every agent ends up writing the same emails to the same people. In the next session,... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-10-25T11:00:12+00:00",
-      "fetched_at": "2026-10-26T20:55:24.497634+00:00"
-    },
-    {
-      "id": "56aa865dc2b1",
-      "title": "SAP's Philipp Herzig on AI built for business data",
-      "url": "https://www.therundown.ai/articles/sap-s-philipp-herzig-on-ai-built-for-business-data",
-      "summary": "What the \"SaaS is dead\" debate misses, according to SAP's CTO",
-      "source": "The Rundown AI",
-      "score": 5.2,
-      "published": "2026-10-25T10:00:00+00:00",
-      "fetched_at": "2026-10-26T20:55:24.058547+00:00"
-    },
-    {
-      "id": "c24e909cf9a0",
-      "title": "Town CEO Jean-Denis Greze on why most people still don\u2019t know what to ask AI",
-      "url": "https://www.fastcompany.com/91629462/town-ceo-jean-denis-greze-on-why-most-people-still-dont-know-what-to-ask-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "AI agents are powerful, but most ordinary people don\u2019t yet use them. Town wants to change that. Led by CEO Jean-Denis Greze, playfully referred to as Town\u2019s mayor, the company announced a $108 million Series B on October 19, co-led by Forerunner Ventures and Menlo Ventures, at a $1 billion valuation.\u00a0\u00a0\n\n\n\nGreze cofounded the San Francisco startup with Tony Vincent in late 2024 after serving as CTO of Plaid, where he built up the engineering team from about 20 people to 350.\n\n\n\nTown\u2019s betting it can make AI more accessible and practical for small-business owners and mid-market firms still looki",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-10-25T09:10:00+00:00",
-      "fetched_at": "2026-10-26T20:55:27.502960+00:00"
-    },
-    {
       "id": "8f4c26bb6bac",
       "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
       "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
@@ -119,13 +79,49 @@
       "score": 3.0,
       "published": "2026-10-26T15:58:05+00:00",
       "fetched_at": "2026-10-26T20:55:25.110450+00:00"
+    },
+    {
+      "id": "7b63fe9e56ae",
+      "title": "Urban acupuncture in the age of AI",
+      "url": "https://www.fastcompany.com/91629497/urban-acupuncture-in-the-age-of-ai",
+      "summary": "Rethink physical space to catalyze community growth.\n\nAI is rapidly transforming every aspect of work and life. According to Stanford University\u2019s human-centered artificial intelligence 2026 AI Index Report, AI adoption is spreading at historic speed, with generative AI reaching 53% global adoption within three years of its introduction, faster than the PC or the internet at the same stage. Eighty-eight percent of organizations have adopted AI, and 80% of university students currently use generative AI.",
+      "source": "Fast Company",
+      "score": 8.0,
+      "published": "2026-10-27T12:00:00+00:00",
+      "fetched_at": "2026-10-27T20:29:39.095022+00:00"
+    },
+    {
+      "id": "9360848f8d29",
+      "title": "Two AI Agents Wiped Critical Data at SaaStr. Both Times, a Copy Nobody Planned Is What Saved Us. It Will Happen To You, Too. Plan For It.",
+      "url": "https://www.saastr.com/two-ai-agents-wiped-critical-data-at-saastr-both-times-a-copy-nobody-planned-is-what-saved-us-it-will-happen-to-you-too-plan-for-it/",
+      "summary": "We run SaaStr with three humans and 20+ AI agents in production. In the last few weeks, two different agents destroyed something we can&#8217;t run the business without. Both times we got it back within an hour, and both times the copy we restored from was one we had never set up as a backup.... Continue Reading",
+      "source": "SaaStr",
+      "score": 7.7,
+      "published": "2026-10-27T14:25:50+00:00",
+      "fetched_at": "2026-10-27T20:29:36.115144+00:00"
+    },
+    {
+      "id": "6600ef89bd98",
+      "title": "Sumble: Why 80% Accurate Data Turns Into 33% Accurate Data by the Time Your Agent Uses It, and How Nooks Found 700 Accounts It Didn\u2019t Know About",
+      "url": "https://www.saastr.com/sumble-why-80-accurate-data-turns-into-33-accurate-data-by-the-time-your-agent-uses-it-and-how-nooks-found-700-accounts-it-didnt-know-about/",
+      "summary": "Amelia called Sumble the best company you probably haven&#8217;t heard of yet. Its customers include Snowflake, Databricks, Figma, Wiz, Monaco, and a long list of AI companies like Baseten, Vercel, Modal, and CodeRabbit. SaaStr has been running it for the last six to eight weeks. Founder Anthony Goldbloom doesn&#8217;t come from go-to-market. He previously founded... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-10-27T11:00:17+00:00",
+      "fetched_at": "2026-10-27T20:29:36.115200+00:00"
+    },
+    {
+      "id": "a20e14d7e531",
+      "title": "AI agents have no rules, so Meta wrote its own",
+      "url": "https://www.fastcompany.com/91629388/ai-agents-have-no-rules-so-meta-wrote-its-own?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Why would anyone trust Meta?\n\n\n\nAfter all, this is the company that became the world\u2019s avatar for shameless and exploitative data harvesting. The same data mastery that powers one of the most effective advertising platforms ever made also gave us Cambridge Analytica, whistleblowers like Frances Haugen and Sarah Wynn-Williams, and unflattering films like The Social Dilemma and, just this month, The Social Reckoning. In the Axios-Harris Poll 100, Meta scored a lowly 59.6, down in the basement with ByteDance and X.\n\n\n\nPublishers have their own reasons to be suspicious. Meta once vastly increased ",
+      "source": "Fast Company Tech",
+      "score": 5.5,
+      "published": "2026-10-27T08:00:00+00:00",
+      "fetched_at": "2026-10-27T20:29:38.788398+00:00"
     }
   ],
   "history": [
-    "https://fortune.com/2026/09/07/trump-kills-45-million-support-for-namibia-hiv-program/",
-    "https://www.businessinsider.com/startups-save-home-sellers-money-on-commissions-avoid-traditional-agents-2025-5",
-    "https://www.fastcompany.com/91602695/chatgpt-sites-makes-building-a-website-feel-like-making-a-google-doc?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.forbes.com/sites/garydrenik/2026/09/08/why-large-enterprises-still-cant-master-the-fundamentals-of-data/",
     "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
     "https://www.saastr.com/meet-our-agents-what-all-20-actually-do-what-they-refuse-to-do-and-every-place-theyve-failed-us/",
     "https://www.saastr.com/elevenlabs-went-from-0-to-600m-arr-in-41-months-when-the-ai-agent-closes-the-deal-they-still-pay-the-human-with-carles-reina-first-vp-of-revenue/",
@@ -371,7 +367,11 @@
     "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
     "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/10/26/the-next-space-race-will-be-won-on-earth/",
-    "https://www.forbes.com/sites/karlfreund/2026/10/26/cadence-ups-its-agentic-game-with-maestro-domain-specific-ai-model/"
+    "https://www.forbes.com/sites/karlfreund/2026/10/26/cadence-ups-its-agentic-game-with-maestro-domain-specific-ai-model/",
+    "https://www.fastcompany.com/91629497/urban-acupuncture-in-the-age-of-ai",
+    "https://www.saastr.com/two-ai-agents-wiped-critical-data-at-saastr-both-times-a-copy-nobody-planned-is-what-saved-us-it-will-happen-to-you-too-plan-for-it/",
+    "https://www.saastr.com/sumble-why-80-accurate-data-turns-into-33-accurate-data-by-the-time-your-agent-uses-it-and-how-nooks-found-700-accounts-it-didnt-know-about/",
+    "https://www.fastcompany.com/91629388/ai-agents-have-no-rules-so-meta-wrote-its-own?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
   ],
-  "generated_at": "2026-10-26T20:55:27.642415+00:00"
+  "generated_at": "2026-10-27T20:29:39.095194+00:00"
 }

@@ -1,86 +1,6 @@
 {
   "queue": [
     {
-      "id": "c84a1c378cf7",
-      "title": "Before Healthcare Can Trust AI Agents, It Has To Trust Its Data",
-      "url": "https://www.forbes.com/sites/delltechnologies/2026/10/26/before-healthcare-can-trust-ai-agents-it-has-to-trust-its-data/",
-      "summary": "Discover why trusted data, secure storage and reliable infrastructure are essential for healthcare organizations to scale agentic AI safely and effectively.",
-      "source": "Forbes Innovation",
-      "score": 8.0,
-      "published": "2026-10-26T20:05:09+00:00",
-      "fetched_at": "2026-10-26T20:55:25.110048+00:00"
-    },
-    {
-      "id": "1bdfc060ecf5",
-      "title": "What we learned from 250,000 public workers about AI adoption",
-      "url": "https://www.fastcompany.com/91628634/how-the-public-sector-is-using-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "As generative AI sweeps across industries, some workers using it are reporting increases in productivity. But inside government, where those benefits could translate into better public services, many employees are still unsure how the technology applies to their jobs, how to use it, or whether they are allowed to.\n\n\n\nThat\u2019s one takeaway from our research at InnovateUS, a nonprofit learning initiative that has trained more than 250,000 government workers in AI, digital technology, and innovative skills. They work in all 50 states and the District of Columbia, in jobs ranging from public safety ",
-      "source": "Fast Company Tech",
-      "score": 7.7,
-      "published": "2026-10-26T15:20:00+00:00",
-      "fetched_at": "2026-10-26T20:55:27.502693+00:00"
-    },
-    {
-      "id": "73ae6682a525",
-      "title": "What we learned from 250,000 public workers about AI adoption",
-      "url": "https://www.fastcompany.com/91628634/how-the-public-sector-is-using-ai",
-      "summary": "Our research reveals what workers need to use AI well. The next challenge is understanding whether that learning translates into better government services.\n\nAs generative AI sweeps across industries, some workers using it are reporting increases in productivity. But inside government, where those benefits could translate into better public services, many employees are still unsure how the technology applies to their jobs, how to use it, or whether they are allowed to.",
-      "source": "Fast Company",
-      "score": 7.0,
-      "published": "2026-10-26T15:20:00+00:00",
-      "fetched_at": "2026-10-26T20:55:27.641993+00:00"
-    },
-    {
-      "id": "cff638b6fbf7",
-      "title": "The Simplest, Highest-ROI Place to Put an AI Agent Is Your Contact Me Form: 614 Meetings, $2M+ Closed, and 71% of a Month\u2019s Deals",
-      "url": "https://www.saastr.com/the-simplest-highest-roi-place-to-put-an-ai-agent-is-your-contact-me-form-614-meetings-1m-closed-and-71-of-a-months-deals/",
-      "summary": "If you&#8217;re trying to figure out where to deploy your first real AI agent in go-to-market, start with the most boring page on your website. The Contact Me form. No one should wait days to hear back from a 21-year-old human whose job is to qualify them. And yet that&#8217;s still how most B2B companies... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-10-26T14:13:08+00:00",
-      "fetched_at": "2026-10-26T20:55:24.497453+00:00"
-    },
-    {
-      "id": "8f4c26bb6bac",
-      "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-10-26T16:49:42+00:00",
-      "fetched_at": "2026-10-26T20:55:22.654243+00:00"
-    },
-    {
-      "id": "bb06af6daa74",
-      "title": "Anthropic officially files for its public debut",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-10-26T14:35:22+00:00",
-      "fetched_at": "2026-10-26T20:55:22.654312+00:00"
-    },
-    {
-      "id": "e11b528e41fb",
-      "title": "The Next Space Race Will Be Won On Earth",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/26/the-next-space-race-will-be-won-on-earth/",
-      "summary": "True space sovereignty requires developing internal technology, expertise and autonomous capabilities right here on this planet.",
-      "source": "Forbes Innovation",
-      "score": 3.0,
-      "published": "2026-10-26T16:00:56+00:00",
-      "fetched_at": "2026-10-26T20:55:25.110401+00:00"
-    },
-    {
-      "id": "763b396b0afd",
-      "title": "Cadence Ups Its Agentic Game With Maestro Domain-Specific AI Model",
-      "url": "https://www.forbes.com/sites/karlfreund/2026/10/26/cadence-ups-its-agentic-game-with-maestro-domain-specific-ai-model/",
-      "summary": "Cadence has introduced Maestro, a portfolio of domain-specific AI models for agentic chip and system-design workflows.",
-      "source": "Forbes Innovation",
-      "score": 3.0,
-      "published": "2026-10-26T15:58:05+00:00",
-      "fetched_at": "2026-10-26T20:55:25.110450+00:00"
-    },
-    {
       "id": "7b63fe9e56ae",
       "title": "Urban acupuncture in the age of AI",
       "url": "https://www.fastcompany.com/91629497/urban-acupuncture-in-the-age-of-ai",
@@ -119,17 +39,89 @@
       "score": 5.5,
       "published": "2026-10-27T08:00:00+00:00",
       "fetched_at": "2026-10-27T20:29:38.788398+00:00"
+    },
+    {
+      "id": "6f08e8e8dd92",
+      "title": "Enterprise AI Has A Production Problem",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/28/enterprise-ai-has-a-production-problem/",
+      "summary": "Many enterprise AI projects stall before production. Here's how business alignment, operational trust, governance and system integration can help organizations scale AI successfully.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-10-28T14:15:00+00:00",
+      "fetched_at": "2026-10-28T20:50:54.463492+00:00"
+    },
+    {
+      "id": "7a8af22947a7",
+      "title": "The $300 Billion Software Debt Wall: The Big B2B Defaults Unfortunately Haven\u2019t Even Started Yet",
+      "url": "https://www.saastr.com/the-300-billion-software-debt-wall-the-big-b2b-defaults-unfortunately-havent-even-started-yet/",
+      "summary": "The big defaults for software debt \u2026 are unfortunately yet to come @wsj \u201cSolera, a maker of software for vehicle maintenance, has about $8 billion in loans coming due in 2028 and 2029. Vista Equity Partners, which acquired the company in 2016, had planned an initial public\u2026 pic.twitter.com/E8NamhNAde &#8212; Jason \u2728\ud83d\udc7eSaaStr.Ai\u2728 Lemkin (@jasonlk) October 27,... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-10-28T12:10:36+00:00",
+      "fetched_at": "2026-10-28T20:50:52.718271+00:00"
+    },
+    {
+      "id": "7fbbcf0aac9e",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-10-28T17:00:00+00:00",
+      "fetched_at": "2026-10-28T20:50:50.766185+00:00"
+    },
+    {
+      "id": "468463fe4b23",
+      "title": "Databricks CRO Ron Gabrisko: 5 Interesting Learnings on Selling at a $200B AI Company: Flat SDR Headcount, 6-10% Reply Rates, and Free Seats That Unlocked Consumption",
+      "url": "https://www.saastr.com/databricks-cro-ron-gabrisko-5-interesting-learnings-on-selling-at-a-200b-ai-company-flat-sdr-headcount-6-10-reply-rates-and-free-seats-that-unlocked-consumption/",
+      "summary": "Ron Gabrisko joined Databricks as CRO when it was doing under $1M in ARR. Databricks is now a ~$200 billion company doing $7B+ ARR growing at a pace like we have never seen before. Ron sat down with Sam Blond, co-founder of Monaco and former CRO of Brex, on the SaaStr AI Podcast. They last... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-10-28T15:52:32+00:00",
+      "fetched_at": "2026-10-28T20:50:52.718179+00:00"
+    },
+    {
+      "id": "aaac7d12b2c9",
+      "title": "Fragments: October 28",
+      "url": "https://martinfowler.com/fragments/2026-10-28.html",
+      "summary": "Andrej Karpathy sees a widening gap in how people see LLM capabilities.\n\n\n  The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.\n\n\nMany of my colleagues are living in a world where LLM capabilities are stunning, but it\u2019s easy to forget that\u2019s not what most people experience. One thing I do is use free-tier LLM chatbots, and I\u2019m still finding",
+      "source": "Martin Fowler",
+      "score": 4.4,
+      "published": "2026-10-28T12:55:00+00:00",
+      "fetched_at": "2026-10-28T20:50:56.858655+00:00"
+    },
+    {
+      "id": "f1df35d71ee1",
+      "title": "How data centers are inspiring bipartisanship",
+      "url": "https://www.fastcompany.com/91629987/data-centers-ai-inspiring-bipartisanship?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "It may not be as shocking as rogue AI agents hacking another system, but the current political resistance to data centers has taken a surprising turn: It\u2019s bringing together strange bedfellows, from democratic socialist Sen. Bernie Sanders to right-wing strategist Steve Bannon.\n\n\n\nOrganized opposition to new data centers, made up of a coalition of varied interests, has spread across the nation. Through protests, packed zoning commission meetings, moratoriums, and other government action, the resistance has upended dozens of proposed projects.\n\n\n\nData centers are key components in artificial in",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-10-28T08:00:00+00:00",
+      "fetched_at": "2026-10-28T20:50:57.721077+00:00"
+    },
+    {
+      "id": "cfb845bed2d4",
+      "title": "Former DOGE staffers say they just hacked Anthropic in less than 12 hours",
+      "url": "https://www.fastcompany.com/91630974/former-doge-staffers-say-they-just-hacked-anthropic-in-less-than-12-hours?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "A cybersecurity firm run by former members of Elon Musk&#8217;s Department of Government Efficiency (DOGE) says it has broken into internal data and messaging systems at Anthropic. Perhaps even more surprising, though, is its claim that it did so in less than 12 hours.\n\n\n\nThe startup is called Cathedral, and it classifies itself as an AI-driven cybersecurity firm with a focus on military applications. In July, Cathedral closed a $160 million funding round that valued the company at $1.4 billion, with investors including Andreessen Horowitz and Sequoia Capital.\n\n\n\nHow Cathedral got inside Anthr",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-10-27T19:04:15+00:00",
+      "fetched_at": "2026-10-28T20:50:57.721137+00:00"
+    },
+    {
+      "id": "619c5226b0f8",
+      "title": "Opera launches local browser AI, testing enterprise privacy and AI PC strategies",
+      "url": "https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html",
+      "summary": "Opera has begun rolling out AI models that run locally in its browser, potentially allowing enterprises to perform certain AI tasks on existing PCs without sending the relevant data to cloud AI providers.\n\n\n\nThe company said it has introduced support for WebAI, a proposed web standard, through an opt-in early preview in Opera One. The technology allows websites and browser extensions to access AI models running locally in the browser for tasks such as generating text and classifying content.\n\n\n\nThe WebAI preview supports 64-bit Windows PCs running Intel or AMD processors and Macs powered by Ap",
+      "source": "Computerworld",
+      "score": 4.0,
+      "published": "2026-10-28T10:12:48+00:00",
+      "fetched_at": "2026-10-28T20:50:55.952785+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "https://www.saastr.com/meet-our-agents-what-all-20-actually-do-what-they-refuse-to-do-and-every-place-theyve-failed-us/",
-    "https://www.saastr.com/elevenlabs-went-from-0-to-600m-arr-in-41-months-when-the-ai-agent-closes-the-deal-they-still-pay-the-human-with-carles-reina-first-vp-of-revenue/",
-    "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/09/09/enterprise-ai-doesnt-need-a-bigger-brain-it-needs-a-confidence-gate/",
-    "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-    "https://www.computerworld.com/article/4220370/adobe-acrobat-evolves-beyond-pdfs-with-enterprise-search-ai-content-creation.html",
-    "https://www.businessinsider.com/accenture-google-cloud-business-group-forward-deployed-engineers-ai-agents-2026-9",
     "https://www.forbes.com/sites/johnkoetsier/2026/09/09/nvidia-backed-robot-platform-says-ai-wrote-80-of-its-code-cuts-robot-training-time-99/",
     "https://www.forbes.com/sites/jonmarkman/2026/09/09/nvidias-hugging-face-deal-buys-control-of-where-ai-agents-get-built/",
     "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
@@ -371,7 +363,15 @@
     "https://www.fastcompany.com/91629497/urban-acupuncture-in-the-age-of-ai",
     "https://www.saastr.com/two-ai-agents-wiped-critical-data-at-saastr-both-times-a-copy-nobody-planned-is-what-saved-us-it-will-happen-to-you-too-plan-for-it/",
     "https://www.saastr.com/sumble-why-80-accurate-data-turns-into-33-accurate-data-by-the-time-your-agent-uses-it-and-how-nooks-found-700-accounts-it-didnt-know-about/",
-    "https://www.fastcompany.com/91629388/ai-agents-have-no-rules-so-meta-wrote-its-own?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+    "https://www.fastcompany.com/91629388/ai-agents-have-no-rules-so-meta-wrote-its-own?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/10/28/enterprise-ai-has-a-production-problem/",
+    "https://www.saastr.com/the-300-billion-software-debt-wall-the-big-b2b-defaults-unfortunately-havent-even-started-yet/",
+    "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "https://www.saastr.com/databricks-cro-ron-gabrisko-5-interesting-learnings-on-selling-at-a-200b-ai-company-flat-sdr-headcount-6-10-reply-rates-and-free-seats-that-unlocked-consumption/",
+    "https://martinfowler.com/fragments/2026-10-28.html",
+    "https://www.fastcompany.com/91629987/data-centers-ai-inspiring-bipartisanship?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91630974/former-doge-staffers-say-they-just-hacked-anthropic-in-less-than-12-hours?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html"
   ],
-  "generated_at": "2026-10-27T20:29:39.095194+00:00"
+  "generated_at": "2026-10-28T20:50:57.866658+00:00"
 }

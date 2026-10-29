@@ -1,46 +1,6 @@
 {
   "queue": [
     {
-      "id": "7b63fe9e56ae",
-      "title": "Urban acupuncture in the age of AI",
-      "url": "https://www.fastcompany.com/91629497/urban-acupuncture-in-the-age-of-ai",
-      "summary": "Rethink physical space to catalyze community growth.\n\nAI is rapidly transforming every aspect of work and life. According to Stanford University\u2019s human-centered artificial intelligence 2026 AI Index Report, AI adoption is spreading at historic speed, with generative AI reaching 53% global adoption within three years of its introduction, faster than the PC or the internet at the same stage. Eighty-eight percent of organizations have adopted AI, and 80% of university students currently use generative AI.",
-      "source": "Fast Company",
-      "score": 8.0,
-      "published": "2026-10-27T12:00:00+00:00",
-      "fetched_at": "2026-10-27T20:29:39.095022+00:00"
-    },
-    {
-      "id": "9360848f8d29",
-      "title": "Two AI Agents Wiped Critical Data at SaaStr. Both Times, a Copy Nobody Planned Is What Saved Us. It Will Happen To You, Too. Plan For It.",
-      "url": "https://www.saastr.com/two-ai-agents-wiped-critical-data-at-saastr-both-times-a-copy-nobody-planned-is-what-saved-us-it-will-happen-to-you-too-plan-for-it/",
-      "summary": "We run SaaStr with three humans and 20+ AI agents in production. In the last few weeks, two different agents destroyed something we can&#8217;t run the business without. Both times we got it back within an hour, and both times the copy we restored from was one we had never set up as a backup.... Continue Reading",
-      "source": "SaaStr",
-      "score": 7.7,
-      "published": "2026-10-27T14:25:50+00:00",
-      "fetched_at": "2026-10-27T20:29:36.115144+00:00"
-    },
-    {
-      "id": "6600ef89bd98",
-      "title": "Sumble: Why 80% Accurate Data Turns Into 33% Accurate Data by the Time Your Agent Uses It, and How Nooks Found 700 Accounts It Didn\u2019t Know About",
-      "url": "https://www.saastr.com/sumble-why-80-accurate-data-turns-into-33-accurate-data-by-the-time-your-agent-uses-it-and-how-nooks-found-700-accounts-it-didnt-know-about/",
-      "summary": "Amelia called Sumble the best company you probably haven&#8217;t heard of yet. Its customers include Snowflake, Databricks, Figma, Wiz, Monaco, and a long list of AI companies like Baseten, Vercel, Modal, and CodeRabbit. SaaStr has been running it for the last six to eight weeks. Founder Anthony Goldbloom doesn&#8217;t come from go-to-market. He previously founded... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-10-27T11:00:17+00:00",
-      "fetched_at": "2026-10-27T20:29:36.115200+00:00"
-    },
-    {
-      "id": "a20e14d7e531",
-      "title": "AI agents have no rules, so Meta wrote its own",
-      "url": "https://www.fastcompany.com/91629388/ai-agents-have-no-rules-so-meta-wrote-its-own?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Why would anyone trust Meta?\n\n\n\nAfter all, this is the company that became the world\u2019s avatar for shameless and exploitative data harvesting. The same data mastery that powers one of the most effective advertising platforms ever made also gave us Cambridge Analytica, whistleblowers like Frances Haugen and Sarah Wynn-Williams, and unflattering films like The Social Dilemma and, just this month, The Social Reckoning. In the Axios-Harris Poll 100, Meta scored a lowly 59.6, down in the basement with ByteDance and X.\n\n\n\nPublishers have their own reasons to be suspicious. Meta once vastly increased ",
-      "source": "Fast Company Tech",
-      "score": 5.5,
-      "published": "2026-10-27T08:00:00+00:00",
-      "fetched_at": "2026-10-27T20:29:38.788398+00:00"
-    },
-    {
       "id": "6f08e8e8dd92",
       "title": "Enterprise AI Has A Production Problem",
       "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/28/enterprise-ai-has-a-production-problem/",
@@ -101,16 +61,6 @@
       "fetched_at": "2026-10-28T20:50:57.721077+00:00"
     },
     {
-      "id": "cfb845bed2d4",
-      "title": "Former DOGE staffers say they just hacked Anthropic in less than 12 hours",
-      "url": "https://www.fastcompany.com/91630974/former-doge-staffers-say-they-just-hacked-anthropic-in-less-than-12-hours?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "A cybersecurity firm run by former members of Elon Musk&#8217;s Department of Government Efficiency (DOGE) says it has broken into internal data and messaging systems at Anthropic. Perhaps even more surprising, though, is its claim that it did so in less than 12 hours.\n\n\n\nThe startup is called Cathedral, and it classifies itself as an AI-driven cybersecurity firm with a focus on military applications. In July, Cathedral closed a $160 million funding round that valued the company at $1.4 billion, with investors including Andreessen Horowitz and Sequoia Capital.\n\n\n\nHow Cathedral got inside Anthr",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-10-27T19:04:15+00:00",
-      "fetched_at": "2026-10-28T20:50:57.721137+00:00"
-    },
-    {
       "id": "619c5226b0f8",
       "title": "Opera launches local browser AI, testing enterprise privacy and AI PC strategies",
       "url": "https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html",
@@ -119,14 +69,59 @@
       "score": 4.0,
       "published": "2026-10-28T10:12:48+00:00",
       "fetched_at": "2026-10-28T20:50:55.952785+00:00"
+    },
+    {
+      "id": "52fa9eb7caab",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously\u2014for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
+      "source": "MIT Technology Review",
+      "score": 12.0,
+      "published": "2026-10-28T20:32:02+00:00",
+      "fetched_at": "2026-10-29T20:55:56.864257+00:00"
+    },
+    {
+      "id": "521424817948",
+      "title": "4 tips on how to get started with consumer-friendly AI agents",
+      "url": "https://www.fastcompany.com/91632237/4-tips-get-started-consumer-friendly-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Agentic artificial intelligence is gaining popularity far beyond tech circles, with Meta, OpenAI, Anthropic and other companies going head-to-head in the surging market for consumer-friendly AI agents.While the leading AI labs have offered tools with agentic capabilities for years, agents that are designed to work proactively on a user&#8217;s behalf for tasks from buying groceries to managing to-do lists have taken off this year.For anyone getting started, it can be overwhelming to understand the differences between the companies&#8217; various offerings and which agents might be best suited ",
+      "source": "Fast Company Tech",
+      "score": 7.7,
+      "published": "2026-10-29T14:00:00+00:00",
+      "fetched_at": "2026-10-29T20:56:01.340271+00:00"
+    },
+    {
+      "id": "df75ca3a367d",
+      "title": "4 tips on how to get started with consumer-friendly AI agents",
+      "url": "https://www.fastcompany.com/91632237/4-tips-get-started-consumer-friendly-ai-agents",
+      "summary": "Understanding the differences between all the agentic AI options can be overwhelming. \n\nAgentic artificial intelligence is gaining popularity far beyond tech circles, with Meta, OpenAI, Anthropic and other companies going head-to-head in the surging market for consumer-friendly AI agents.While the leading AI labs have offered tools with agentic capabilities for years, agents that are designed to work proactively on a user&#8217;s behalf for tasks from buying groceries to managing to-do lists have taken off this year.For anyone getting started, it can be overwhelming to understand the differenc",
+      "source": "Fast Company",
+      "score": 7.0,
+      "published": "2026-10-29T14:00:00+00:00",
+      "fetched_at": "2026-10-29T20:56:01.534217+00:00"
+    },
+    {
+      "id": "e20de9b5d747",
+      "title": "As Companies Deploy AI Agents, Who Has The Power To Pull The Plug?",
+      "url": "https://www.forbes.com/sites/joemckendrick/2026/10/29/who-can-shut-down-ai-agents-in-business/",
+      "summary": "Many companies lack clear AI governance and accountability. As autonomous AI agents proliferate, experts warn that executives need the authority to intervene when things go wrong.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-10-29T17:24:27+00:00",
+      "fetched_at": "2026-10-29T20:55:58.284542+00:00"
+    },
+    {
+      "id": "b2c76de6c6e1",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-10-29T16:21:00+00:00",
+      "fetched_at": "2026-10-29T20:55:55.738249+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/sites/johnkoetsier/2026/09/09/nvidia-backed-robot-platform-says-ai-wrote-80-of-its-code-cuts-robot-training-time-99/",
-    "https://www.forbes.com/sites/jonmarkman/2026/09/09/nvidias-hugging-face-deal-buys-control-of-where-ai-agents-get-built/",
-    "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-    "https://www.fastcompany.com/91603905/crowdstrikes-ceo-says-ai-agents-can-hack-like-nation-states-can-his-company-stop-them?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/09/10/before-ai-agents-take-action-enterprises-need-a-new-data-rule-book/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/09/10/enterprise-ai-is-moving-fast-and-flying-blind/",
     "https://www.fastcompany.com/91603316/enterprise-ai-iphone-moment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://fortune.com/2026/09/11/microsoft-head-of-communications-frank-shaw-leaving-after-nearly-30-years-of-shaping-the-software-giants-public-messaging/",
@@ -371,7 +366,12 @@
     "https://martinfowler.com/fragments/2026-10-28.html",
     "https://www.fastcompany.com/91629987/data-centers-ai-inspiring-bipartisanship?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91630974/former-doge-staffers-say-they-just-hacked-anthropic-in-less-than-12-hours?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html"
+    "https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html",
+    "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "https://www.fastcompany.com/91632237/4-tips-get-started-consumer-friendly-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91632237/4-tips-get-started-consumer-friendly-ai-agents",
+    "https://www.forbes.com/sites/joemckendrick/2026/10/29/who-can-shut-down-ai-agents-in-business/",
+    "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
   ],
-  "generated_at": "2026-10-28T20:50:57.866658+00:00"
+  "generated_at": "2026-10-29T20:56:01.534441+00:00"
 }

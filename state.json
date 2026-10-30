@@ -1,76 +1,6 @@
 {
   "queue": [
     {
-      "id": "6f08e8e8dd92",
-      "title": "Enterprise AI Has A Production Problem",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/28/enterprise-ai-has-a-production-problem/",
-      "summary": "Many enterprise AI projects stall before production. Here's how business alignment, operational trust, governance and system integration can help organizations scale AI successfully.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-10-28T14:15:00+00:00",
-      "fetched_at": "2026-10-28T20:50:54.463492+00:00"
-    },
-    {
-      "id": "7a8af22947a7",
-      "title": "The $300 Billion Software Debt Wall: The Big B2B Defaults Unfortunately Haven\u2019t Even Started Yet",
-      "url": "https://www.saastr.com/the-300-billion-software-debt-wall-the-big-b2b-defaults-unfortunately-havent-even-started-yet/",
-      "summary": "The big defaults for software debt \u2026 are unfortunately yet to come @wsj \u201cSolera, a maker of software for vehicle maintenance, has about $8 billion in loans coming due in 2028 and 2029. Vista Equity Partners, which acquired the company in 2016, had planned an initial public\u2026 pic.twitter.com/E8NamhNAde &#8212; Jason \u2728\ud83d\udc7eSaaStr.Ai\u2728 Lemkin (@jasonlk) October 27,... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-10-28T12:10:36+00:00",
-      "fetched_at": "2026-10-28T20:50:52.718271+00:00"
-    },
-    {
-      "id": "7fbbcf0aac9e",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-10-28T17:00:00+00:00",
-      "fetched_at": "2026-10-28T20:50:50.766185+00:00"
-    },
-    {
-      "id": "468463fe4b23",
-      "title": "Databricks CRO Ron Gabrisko: 5 Interesting Learnings on Selling at a $200B AI Company: Flat SDR Headcount, 6-10% Reply Rates, and Free Seats That Unlocked Consumption",
-      "url": "https://www.saastr.com/databricks-cro-ron-gabrisko-5-interesting-learnings-on-selling-at-a-200b-ai-company-flat-sdr-headcount-6-10-reply-rates-and-free-seats-that-unlocked-consumption/",
-      "summary": "Ron Gabrisko joined Databricks as CRO when it was doing under $1M in ARR. Databricks is now a ~$200 billion company doing $7B+ ARR growing at a pace like we have never seen before. Ron sat down with Sam Blond, co-founder of Monaco and former CRO of Brex, on the SaaStr AI Podcast. They last... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-10-28T15:52:32+00:00",
-      "fetched_at": "2026-10-28T20:50:52.718179+00:00"
-    },
-    {
-      "id": "aaac7d12b2c9",
-      "title": "Fragments: October 28",
-      "url": "https://martinfowler.com/fragments/2026-10-28.html",
-      "summary": "Andrej Karpathy sees a widening gap in how people see LLM capabilities.\n\n\n  The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.\n\n\nMany of my colleagues are living in a world where LLM capabilities are stunning, but it\u2019s easy to forget that\u2019s not what most people experience. One thing I do is use free-tier LLM chatbots, and I\u2019m still finding",
-      "source": "Martin Fowler",
-      "score": 4.4,
-      "published": "2026-10-28T12:55:00+00:00",
-      "fetched_at": "2026-10-28T20:50:56.858655+00:00"
-    },
-    {
-      "id": "f1df35d71ee1",
-      "title": "How data centers are inspiring bipartisanship",
-      "url": "https://www.fastcompany.com/91629987/data-centers-ai-inspiring-bipartisanship?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "It may not be as shocking as rogue AI agents hacking another system, but the current political resistance to data centers has taken a surprising turn: It\u2019s bringing together strange bedfellows, from democratic socialist Sen. Bernie Sanders to right-wing strategist Steve Bannon.\n\n\n\nOrganized opposition to new data centers, made up of a coalition of varied interests, has spread across the nation. Through protests, packed zoning commission meetings, moratoriums, and other government action, the resistance has upended dozens of proposed projects.\n\n\n\nData centers are key components in artificial in",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-10-28T08:00:00+00:00",
-      "fetched_at": "2026-10-28T20:50:57.721077+00:00"
-    },
-    {
-      "id": "619c5226b0f8",
-      "title": "Opera launches local browser AI, testing enterprise privacy and AI PC strategies",
-      "url": "https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html",
-      "summary": "Opera has begun rolling out AI models that run locally in its browser, potentially allowing enterprises to perform certain AI tasks on existing PCs without sending the relevant data to cloud AI providers.\n\n\n\nThe company said it has introduced support for WebAI, a proposed web standard, through an opt-in early preview in Opera One. The technology allows websites and browser extensions to access AI models running locally in the browser for tasks such as generating text and classifying content.\n\n\n\nThe WebAI preview supports 64-bit Windows PCs running Intel or AMD processors and Macs powered by Ap",
-      "source": "Computerworld",
-      "score": 4.0,
-      "published": "2026-10-28T10:12:48+00:00",
-      "fetched_at": "2026-10-28T20:50:55.952785+00:00"
-    },
-    {
       "id": "52fa9eb7caab",
       "title": "Creating AI value with enterprise context",
       "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
@@ -119,16 +49,79 @@
       "score": 4.8,
       "published": "2026-10-29T16:21:00+00:00",
       "fetched_at": "2026-10-29T20:55:55.738249+00:00"
+    },
+    {
+      "id": "ee19effa1901",
+      "title": "The Next Data Center Bottleneck Is Decision Intelligence At Speed",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-next-data-center-bottleneck-is-decision-intelligence-at-speed/",
+      "summary": "AI-powered supply chain orchestration helps data center operators overcome equipment delays, optimize capital allocation and accelerate capacity delivery.",
+      "source": "Forbes Innovation",
+      "score": 8.0,
+      "published": "2026-10-30T13:45:00+00:00",
+      "fetched_at": "2026-10-30T20:30:20.069200+00:00"
+    },
+    {
+      "id": "dd7eda77678c",
+      "title": "Smplify wants a human checkpoint between AI agents and your device fleet",
+      "url": "https://www.computerworld.com/article/4242772/smplify-wants-a-human-checkpoint-between-ai-agents-and-your-device-fleet.html",
+      "summary": "One of the great things about\u00a0Apple device management\u00a0solutions is that\u00a0the market for them is growing. Another is that because no two enterprises are alike, there is scope to bring different offerings to the market. I spoke with Ben Greiner, co-founder and COO of\u00a0Smplify, a new-to-market device management vendor, to find out what his company provides to IT. \n\n\n\nSmplify, which\u00a0just announced $1m in pre-seed funding, offers what could be described as a headless management tool: everything it does is available through the API and CLI. In use, that means you can build it and wield it from within ",
+      "source": "Computerworld",
+      "score": 7.0,
+      "published": "2026-10-30T16:23:47+00:00",
+      "fetched_at": "2026-10-30T20:30:21.314347+00:00"
+    },
+    {
+      "id": "af6b47ea718c",
+      "title": "Token Resistance: Overcoming Fear And Doubt In The AI Agent Era",
+      "url": "https://www.forbes.com/sites/joemckendrick/2026/10/30/token-resistance-overcoming-fear-and-doubt-in-the-ai-agent-era/",
+      "summary": "Agentic transformation in the business has implications far beyond simply employing agents as personal assistants.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-10-30T19:42:20+00:00",
+      "fetched_at": "2026-10-30T20:30:20.068730+00:00"
+    },
+    {
+      "id": "dfd7286d733c",
+      "title": "Nvidia Takes On Rogue AI Agents With Software And Hardware Guardrails",
+      "url": "https://www.forbes.com/sites/timbajarin/2026/10/30/nvidia-takes-on-rogue-ai-agents-with-software-and-hardware-guardrails/",
+      "summary": "Nvidia's guardrails combine open-source software and hardware-based enforcement to help enterprises control rogue AI agents and build trust.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-10-30T14:00:00+00:00",
+      "fetched_at": "2026-10-30T20:30:20.069155+00:00"
+    },
+    {
+      "id": "b078bc6dccb3",
+      "title": "The B2B Category the Markets \u201cHate\u201d the Most Today: GTM",
+      "url": "https://www.saastr.com/the-b2b-category-the-markets-hate-the-most-today-gtm/",
+      "summary": "Salesforce agreed the other day to buy Braze for $5.66 billion, 6.8x trailing revenue. In most of B2B that price would be unremarkable. In go-to-market software it&#8217;s a 58% premium, because Braze traded at 3.7x on Monday. I pulled the multiples for the public GTM and front-office apps and compared them with infrastructure and security.... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-10-30T14:10:47+00:00",
+      "fetched_at": "2026-10-30T20:30:19.432164+00:00"
+    },
+    {
+      "id": "6364a0999f9b",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-10-29T13:00:00+00:00",
+      "fetched_at": "2026-10-30T20:30:17.568756+00:00"
+    },
+    {
+      "id": "262a974fbde2",
+      "title": "20VC x SaaStr: Anthropic\u2019s S-1 Shows $16.3B in First-Half Revenue, Microsoft Offers Buyouts to 27% of Its Staff, and Chinese Open-Weight Models May Be Done in the US",
+      "url": "https://www.saastr.com/20vc-x-saastr-anthropics-s-1-shows-16-3b-in-first-half-revenue-microsoft-offers-buyouts-to-27-of-its-staff-and-chinese-open-weight-models-may-be-done-in-the-us/",
+      "summary": "Plus Broadcom backstopping Anthropic&#8217;s chip debt, Meta&#8217;s $95B equity raise, the PHP2Shell flaws, and an IC fight over Instinct at $30B and OpenAI at $1.25T This week had one story that mattered more than everything else combined: Anthropic finally filed its S-1. Harry Stebbings, Rory O&#8217;Driscoll and I went through what&#8217;s actually in it, the... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-10-29T15:39:59+00:00",
+      "fetched_at": "2026-10-30T20:30:19.432252+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/councils/forbestechcouncil/2026/09/10/enterprise-ai-is-moving-fast-and-flying-blind/",
-    "https://www.fastcompany.com/91603316/enterprise-ai-iphone-moment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://fortune.com/2026/09/11/microsoft-head-of-communications-frank-shaw-leaving-after-nearly-30-years-of-shaping-the-software-giants-public-messaging/",
-    "https://www.oreilly.com/radar/the-interfaces-are-arriving/",
-    "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/09/11/prop-firms-are-leaving-saas-behind-for-turnkey-solutions/",
-    "https://www.computerworld.com/article/4221272/teams-and-copilot-are-changing-addresses-update-your-firewalls.html",
     "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
     "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
     "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
@@ -371,7 +364,14 @@
     "https://www.fastcompany.com/91632237/4-tips-get-started-consumer-friendly-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91632237/4-tips-get-started-consumer-friendly-ai-agents",
     "https://www.forbes.com/sites/joemckendrick/2026/10/29/who-can-shut-down-ai-agents-in-business/",
-    "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+    "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-next-data-center-bottleneck-is-decision-intelligence-at-speed/",
+    "https://www.computerworld.com/article/4242772/smplify-wants-a-human-checkpoint-between-ai-agents-and-your-device-fleet.html",
+    "https://www.forbes.com/sites/joemckendrick/2026/10/30/token-resistance-overcoming-fear-and-doubt-in-the-ai-agent-era/",
+    "https://www.forbes.com/sites/timbajarin/2026/10/30/nvidia-takes-on-rogue-ai-agents-with-software-and-hardware-guardrails/",
+    "https://www.saastr.com/the-b2b-category-the-markets-hate-the-most-today-gtm/",
+    "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "https://www.saastr.com/20vc-x-saastr-anthropics-s-1-shows-16-3b-in-first-half-revenue-microsoft-offers-buyouts-to-27-of-its-staff-and-chinese-open-weight-models-may-be-done-in-the-us/"
   ],
-  "generated_at": "2026-10-29T20:56:01.534441+00:00"
+  "generated_at": "2026-10-30T20:30:22.454958+00:00"
 }

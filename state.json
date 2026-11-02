@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "52fa9eb7caab",
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously\u2014for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
+      "id": "adc599e6d52a",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
       "source": "MIT Technology Review",
-      "score": 12.0,
-      "published": "2026-10-28T20:32:02+00:00",
-      "fetched_at": "2026-10-29T20:55:56.864257+00:00"
+      "score": 10.8,
+      "published": "2026-11-02T17:00:00+00:00",
+      "fetched_at": "2026-11-02T23:19:15.905020+00:00"
     },
     {
-      "id": "521424817948",
-      "title": "4 tips on how to get started with consumer-friendly AI agents",
-      "url": "https://www.fastcompany.com/91632237/4-tips-get-started-consumer-friendly-ai-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Agentic artificial intelligence is gaining popularity far beyond tech circles, with Meta, OpenAI, Anthropic and other companies going head-to-head in the surging market for consumer-friendly AI agents.While the leading AI labs have offered tools with agentic capabilities for years, agents that are designed to work proactively on a user&#8217;s behalf for tasks from buying groceries to managing to-do lists have taken off this year.For anyone getting started, it can be overwhelming to understand the differences between the companies&#8217; various offerings and which agents might be best suited ",
-      "source": "Fast Company Tech",
+      "id": "bda58ca08bcf",
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agents that address our&#8230;",
+      "source": "MIT Technology Review",
+      "score": 8.4,
+      "published": "2026-11-02T13:10:00+00:00",
+      "fetched_at": "2026-11-02T23:19:15.905103+00:00"
+    },
+    {
+      "id": "c1a0838047a3",
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the \u201cSemantic Web\u201d: an internet designed to be navigated by autonomous software agents that could address our every&#8230;",
+      "source": "MIT Technology Review",
+      "score": 8.4,
+      "published": "2026-11-02T09:35:19+00:00",
+      "fetched_at": "2026-11-02T23:19:15.905149+00:00"
+    },
+    {
+      "id": "f38ddb263ea6",
+      "title": "Our Core Vendor Was Down for 24 Hours. Our AI Agent Replaced Them Before They Came Back Up.",
+      "url": "https://www.saastr.com/our-core-vendor-was-down-for-24-hours-our-ai-agent-replaced-them-before-they-came-back-up/",
+      "summary": "The other day one of the core products we run SaaStr AI on went down the entire day. Not degraded. Down. For the entire day. Every screen in the app showed a large &#8220;INTERNAL ERROR.&#8221; The API returned the same thing, which meant every agent workflow that touched this product stopped cold. And we run... Continue Reading",
+      "source": "SaaStr",
       "score": 7.7,
-      "published": "2026-10-29T14:00:00+00:00",
-      "fetched_at": "2026-10-29T20:56:01.340271+00:00"
+      "published": "2026-11-01T15:10:35+00:00",
+      "fetched_at": "2026-11-02T23:19:16.698116+00:00"
     },
     {
-      "id": "df75ca3a367d",
-      "title": "4 tips on how to get started with consumer-friendly AI agents",
-      "url": "https://www.fastcompany.com/91632237/4-tips-get-started-consumer-friendly-ai-agents",
-      "summary": "Understanding the differences between all the agentic AI options can be overwhelming. \n\nAgentic artificial intelligence is gaining popularity far beyond tech circles, with Meta, OpenAI, Anthropic and other companies going head-to-head in the surging market for consumer-friendly AI agents.While the leading AI labs have offered tools with agentic capabilities for years, agents that are designed to work proactively on a user&#8217;s behalf for tasks from buying groceries to managing to-do lists have taken off this year.For anyone getting started, it can be overwhelming to understand the differenc",
-      "source": "Fast Company",
-      "score": 7.0,
-      "published": "2026-10-29T14:00:00+00:00",
-      "fetched_at": "2026-10-29T20:56:01.534217+00:00"
-    },
-    {
-      "id": "e20de9b5d747",
-      "title": "As Companies Deploy AI Agents, Who Has The Power To Pull The Plug?",
-      "url": "https://www.forbes.com/sites/joemckendrick/2026/10/29/who-can-shut-down-ai-agents-in-business/",
-      "summary": "Many companies lack clear AI governance and accountability. As autonomous AI agents proliferate, experts warn that executives need the authority to intervene when things go wrong.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-10-29T17:24:27+00:00",
-      "fetched_at": "2026-10-29T20:55:58.284542+00:00"
-    },
-    {
-      "id": "b2c76de6c6e1",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-10-29T16:21:00+00:00",
-      "fetched_at": "2026-10-29T20:55:55.738249+00:00"
-    },
-    {
-      "id": "ee19effa1901",
-      "title": "The Next Data Center Bottleneck Is Decision Intelligence At Speed",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/10/30/the-next-data-center-bottleneck-is-decision-intelligence-at-speed/",
-      "summary": "AI-powered supply chain orchestration helps data center operators overcome equipment delays, optimize capital allocation and accelerate capacity delivery.",
-      "source": "Forbes Innovation",
-      "score": 8.0,
-      "published": "2026-10-30T13:45:00+00:00",
-      "fetched_at": "2026-10-30T20:30:20.069200+00:00"
-    },
-    {
-      "id": "dd7eda77678c",
-      "title": "Smplify wants a human checkpoint between AI agents and your device fleet",
-      "url": "https://www.computerworld.com/article/4242772/smplify-wants-a-human-checkpoint-between-ai-agents-and-your-device-fleet.html",
-      "summary": "One of the great things about\u00a0Apple device management\u00a0solutions is that\u00a0the market for them is growing. Another is that because no two enterprises are alike, there is scope to bring different offerings to the market. I spoke with Ben Greiner, co-founder and COO of\u00a0Smplify, a new-to-market device management vendor, to find out what his company provides to IT. \n\n\n\nSmplify, which\u00a0just announced $1m in pre-seed funding, offers what could be described as a headless management tool: everything it does is available through the API and CLI. In use, that means you can build it and wield it from within ",
-      "source": "Computerworld",
-      "score": 7.0,
-      "published": "2026-10-30T16:23:47+00:00",
-      "fetched_at": "2026-10-30T20:30:21.314347+00:00"
-    },
-    {
-      "id": "af6b47ea718c",
-      "title": "Token Resistance: Overcoming Fear And Doubt In The AI Agent Era",
-      "url": "https://www.forbes.com/sites/joemckendrick/2026/10/30/token-resistance-overcoming-fear-and-doubt-in-the-ai-agent-era/",
-      "summary": "Agentic transformation in the business has implications far beyond simply employing agents as personal assistants.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-10-30T19:42:20+00:00",
-      "fetched_at": "2026-10-30T20:30:20.068730+00:00"
-    },
-    {
-      "id": "dfd7286d733c",
-      "title": "Nvidia Takes On Rogue AI Agents With Software And Hardware Guardrails",
-      "url": "https://www.forbes.com/sites/timbajarin/2026/10/30/nvidia-takes-on-rogue-ai-agents-with-software-and-hardware-guardrails/",
-      "summary": "Nvidia's guardrails combine open-source software and hardware-based enforcement to help enterprises control rogue AI agents and build trust.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-10-30T14:00:00+00:00",
-      "fetched_at": "2026-10-30T20:30:20.069155+00:00"
-    },
-    {
-      "id": "b078bc6dccb3",
-      "title": "The B2B Category the Markets \u201cHate\u201d the Most Today: GTM",
-      "url": "https://www.saastr.com/the-b2b-category-the-markets-hate-the-most-today-gtm/",
-      "summary": "Salesforce agreed the other day to buy Braze for $5.66 billion, 6.8x trailing revenue. In most of B2B that price would be unremarkable. In go-to-market software it&#8217;s a 58% premium, because Braze traded at 3.7x on Monday. I pulled the multiples for the public GTM and front-office apps and compared them with infrastructure and security.... Continue Reading",
+      "id": "624634d281e6",
+      "title": "Why You Don\u2019t Want Humans Doing Outbound Anymore",
+      "url": "https://www.saastr.com/why-you-dont-want-humans-doing-outbound-anymore/",
+      "summary": "Last week a sales rep at one of the leading public B2B software companies emailed me twice in 48 hours. The first email offered &#8220;insights&#8221; on buyer intent and AI efficiency &#8230; and shared none. It just listed their three product lines, and asked if I wanted to &#8220;benchmark&#8221; their software. The second email, sent... Continue Reading",
       "source": "SaaStr",
       "score": 5.5,
-      "published": "2026-10-30T14:10:47+00:00",
-      "fetched_at": "2026-10-30T20:30:19.432164+00:00"
+      "published": "2026-11-02T15:10:48+00:00",
+      "fetched_at": "2026-11-02T23:19:16.697963+00:00"
     },
     {
-      "id": "6364a0999f9b",
-      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-10-29T13:00:00+00:00",
-      "fetched_at": "2026-10-30T20:30:17.568756+00:00"
+      "id": "ca5786e51741",
+      "title": "How AI data centers could find a regulation-free haven at the end of the world",
+      "url": "https://www.fastcompany.com/91634037/how-ai-could-find-regulation-free-haven-end-world?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Data centers have become one of the most polarizing issues in the world. Argentina&#8217;s president wants to lure as many of them as he can get.As residents and policymakers in the United States and Europe fight the facilities that power artificial intelligence, President Javier Milei is pitching Argentina as a haven, promising a hands-off approach to draw foreign investment his crisis-prone country needs.Like his ally, U.S. President Donald Trump, Milei frequently posts AI-generated images on social media. He has proposed creating &#8220;nonhuman corporations&#8221; run entirely by AI agents",
+      "source": "Fast Company Tech",
+      "score": 5.5,
+      "published": "2026-11-02T14:05:00+00:00",
+      "fetched_at": "2026-11-02T23:19:21.086550+00:00"
     },
     {
-      "id": "262a974fbde2",
-      "title": "20VC x SaaStr: Anthropic\u2019s S-1 Shows $16.3B in First-Half Revenue, Microsoft Offers Buyouts to 27% of Its Staff, and Chinese Open-Weight Models May Be Done in the US",
-      "url": "https://www.saastr.com/20vc-x-saastr-anthropics-s-1-shows-16-3b-in-first-half-revenue-microsoft-offers-buyouts-to-27-of-its-staff-and-chinese-open-weight-models-may-be-done-in-the-us/",
-      "summary": "Plus Broadcom backstopping Anthropic&#8217;s chip debt, Meta&#8217;s $95B equity raise, the PHP2Shell flaws, and an IC fight over Instinct at $30B and OpenAI at $1.25T This week had one story that mattered more than everything else combined: Anthropic finally filed its S-1. Harry Stebbings, Rory O&#8217;Driscoll and I went through what&#8217;s actually in it, the... Continue Reading",
+      "id": "33b3d85cc545",
+      "title": "He got a religious exemption from using AI at work. Maybe you can too",
+      "url": "https://www.fastcompany.com/91633050/he-got-a-religious-exemption-from-using-ai-at-work-maybe-you-can-too?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "As the University of Kentucky began encouraging employees to use AI\u2014from Copilot for meeting notes to tools like Claude and ChatGPT for everyday tasks\u2014David Durman, a research administrator, worried about what he would lose by outsourcing his own thinking to machines.\n\n\n\nSo in August, Durman, who identifies as a humanist, took an unusual step. He sought a religious exemption from using artificial intelligence at work. With help from the American Humanist Association, a nonprofit that advocates for the rights of humanists and atheists, he submitted a letter to the university arguing that relyin",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-11-02T13:02:00+00:00",
+      "fetched_at": "2026-11-02T23:19:21.086642+00:00"
+    },
+    {
+      "id": "a4d9e43d6abd",
+      "title": "Jason\u2019s Takes on This Week\u2019s 20VC: Anthropic\u2019s S-1, Microsoft\u2019s 27% Buyout, and My 100-Day Rule",
+      "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-anthropics-s-1-microsofts-27-buyout-and-my-100-day-rule/",
+      "summary": "What founders should do differently after Anthropic&#8217;s S-1, Microsoft&#8217;s buyout offer, Cloudflare&#8217;s 20% cut, and a Qwen model trying to reach a server in Beijing Every Thursday, Harry, Rory and I go through the week&#8217;s news on 20VC x SaaStr. Here are the 10 things from this week&#8217;s episode I&#8217;d want a founder to act... Continue Reading",
       "source": "SaaStr",
       "score": 4.4,
-      "published": "2026-10-29T15:39:59+00:00",
-      "fetched_at": "2026-10-30T20:30:19.432252+00:00"
+      "published": "2026-11-01T17:00:37+00:00",
+      "fetched_at": "2026-11-02T23:19:16.698077+00:00"
+    },
+    {
+      "id": "d2641740e5f2",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-11-02T15:00:00+00:00",
+      "fetched_at": "2026-11-02T23:19:14.512211+00:00"
+    },
+    {
+      "id": "6e7d4661da08",
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
+      "source": "MIT Technology Review",
+      "score": 3.6,
+      "published": "2026-11-02T13:10:32+00:00",
+      "fetched_at": "2026-11-02T23:19:15.905064+00:00"
+    },
+    {
+      "id": "a1b4b883a498",
+      "title": "I auditioned 12 AI agents to be my chief of staff. Here\u2019s how they compared",
+      "url": "https://www.fastcompany.com/91633218/i-tested-12-ai-agents-to-see-if-they-could-become-my-personal-chief-of-staff?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "This article is republished with permission from&nbsp;Wonder Tools, a newsletter that helps you discover the most useful sites and apps.\n\n\n\nI&#8217;ve never had a secretary before. Or a chief of staff. With these AI agents, I suddenly feel like I have both. This week, among other things, they:\n\n\n\n\nResearched and booked Amtrak train tickets for me\n\n\n\nBriefed me about important overnight emails and upcoming meetings\n\n\n\nSurfaced an important contract I had overlooked\n\n\n\nTurned my bookshelf into a visual reading list\n\n\n\n\nUnlike older chatbots, these agents can take action proactively without waiti",
+      "source": "Fast Company Tech",
+      "score": 3.3,
+      "published": "2026-11-02T05:14:00+00:00",
+      "fetched_at": "2026-11-02T23:19:21.086847+00:00"
+    },
+    {
+      "id": "b59a90125d75",
+      "title": "NASA administrator tells the internet to stop criticizing copilot of crashed Learjet 60",
+      "url": "https://www.businessinsider.com/nasa-chief-jared-isaacman-defends-copilot-learjet-crash-backlash-2026-11",
+      "summary": "NASA chief Jared Isaacman defended the copilot in the Learjet 60 crash in Florida and said she was doing her job.",
+      "source": "Business Insider",
+      "score": 3.0,
+      "published": "2026-11-02T22:06:22+00:00",
+      "fetched_at": "2026-11-02T23:19:20.676968+00:00"
     }
   ],
   "history": [
-    "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-    "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-    "https://www.oreilly.com/radar/enterprise-analytics-beyond-dashboards-intelligent-data-orchestration-with-llms/",
-    "https://www.saastr.com/we-run-21-ai-agents-and-theyve-closed-millions-but-there-still-isnt-a-good-ai-account-executive-yet/",
-    "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-    "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-    "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-    "https://www.computerworld.com/article/4213117/govern-ai-agents-like-workers-just-dont-pretend-theyre-human.html",
-    "https://www.fastcompany.com/91605846/who-is-watching-the-ai-agents",
-    "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
     "https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-shared-knowledge-base-for-all-your-agents-with-sajal-sharma/",
     "https://www.saastr.com/saastr-ai-app-of-the-week-sumble-the-kaggle-founders-rebuilt-sales-intelligence-around-context-not-contacts/",
     "https://www.businessinsider.com/steve-ballmer-accepts-his-punishment-for-the-kawhi-leonard-scandal-2026-9",
@@ -371,7 +359,19 @@
     "https://www.forbes.com/sites/timbajarin/2026/10/30/nvidia-takes-on-rogue-ai-agents-with-software-and-hardware-guardrails/",
     "https://www.saastr.com/the-b2b-category-the-markets-hate-the-most-today-gtm/",
     "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-    "https://www.saastr.com/20vc-x-saastr-anthropics-s-1-shows-16-3b-in-first-half-revenue-microsoft-offers-buyouts-to-27-of-its-staff-and-chinese-open-weight-models-may-be-done-in-the-us/"
+    "https://www.saastr.com/20vc-x-saastr-anthropics-s-1-shows-16-3b-in-first-half-revenue-microsoft-offers-buyouts-to-27-of-its-staff-and-chinese-open-weight-models-may-be-done-in-the-us/",
+    "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+    "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+    "https://www.saastr.com/our-core-vendor-was-down-for-24-hours-our-ai-agent-replaced-them-before-they-came-back-up/",
+    "https://www.saastr.com/why-you-dont-want-humans-doing-outbound-anymore/",
+    "https://www.fastcompany.com/91634037/how-ai-could-find-regulation-free-haven-end-world?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.fastcompany.com/91633050/he-got-a-religious-exemption-from-using-ai-at-work-maybe-you-can-too?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-anthropics-s-1-microsofts-27-buyout-and-my-100-day-rule/",
+    "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "https://www.fastcompany.com/91633218/i-tested-12-ai-agents-to-see-if-they-could-become-my-personal-chief-of-staff?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.businessinsider.com/nasa-chief-jared-isaacman-defends-copilot-learjet-crash-backlash-2026-11"
   ],
-  "generated_at": "2026-10-30T20:30:22.454958+00:00"
+  "generated_at": "2026-11-02T23:19:21.437014+00:00"
 }

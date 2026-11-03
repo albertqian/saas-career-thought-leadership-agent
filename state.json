@@ -31,16 +31,6 @@
       "fetched_at": "2026-11-02T23:19:15.905149+00:00"
     },
     {
-      "id": "f38ddb263ea6",
-      "title": "Our Core Vendor Was Down for 24 Hours. Our AI Agent Replaced Them Before They Came Back Up.",
-      "url": "https://www.saastr.com/our-core-vendor-was-down-for-24-hours-our-ai-agent-replaced-them-before-they-came-back-up/",
-      "summary": "The other day one of the core products we run SaaStr AI on went down the entire day. Not degraded. Down. For the entire day. Every screen in the app showed a large &#8220;INTERNAL ERROR.&#8221; The API returned the same thing, which meant every agent workflow that touched this product stopped cold. And we run... Continue Reading",
-      "source": "SaaStr",
-      "score": 7.7,
-      "published": "2026-11-01T15:10:35+00:00",
-      "fetched_at": "2026-11-02T23:19:16.698116+00:00"
-    },
-    {
       "id": "624634d281e6",
       "title": "Why You Don\u2019t Want Humans Doing Outbound Anymore",
       "url": "https://www.saastr.com/why-you-dont-want-humans-doing-outbound-anymore/",
@@ -69,16 +59,6 @@
       "score": 4.4,
       "published": "2026-11-02T13:02:00+00:00",
       "fetched_at": "2026-11-02T23:19:21.086642+00:00"
-    },
-    {
-      "id": "a4d9e43d6abd",
-      "title": "Jason\u2019s Takes on This Week\u2019s 20VC: Anthropic\u2019s S-1, Microsoft\u2019s 27% Buyout, and My 100-Day Rule",
-      "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-anthropics-s-1-microsofts-27-buyout-and-my-100-day-rule/",
-      "summary": "What founders should do differently after Anthropic&#8217;s S-1, Microsoft&#8217;s buyout offer, Cloudflare&#8217;s 20% cut, and a Qwen model trying to reach a server in Beijing Every Thursday, Harry, Rory and I go through the week&#8217;s news on 20VC x SaaStr. Here are the 10 things from this week&#8217;s episode I&#8217;d want a founder to act... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-11-01T17:00:37+00:00",
-      "fetched_at": "2026-11-02T23:19:16.698077+00:00"
     },
     {
       "id": "d2641740e5f2",
@@ -119,11 +99,29 @@
       "score": 3.0,
       "published": "2026-11-02T22:06:22+00:00",
       "fetched_at": "2026-11-02T23:19:20.676968+00:00"
+    },
+    {
+      "id": "7ffc92fdfea0",
+      "title": "Musk says Grok Bot\u2019s costs are \u2018unsustainably high,\u2019 while OpenAI admits Dots are \u2018compute heavy.\u2019 Is the personal AI agent push dead on arrival?",
+      "url": "https://fortune.com/2026/11/03/musk-says-grok-bots-costs-are-unsustainably-high-while-openai-admits-dots-are-compute-heavy-is-the-personal-ai-agent-push-dead-on-arrival/",
+      "summary": "At a dinner in NYC, the head of ChatGPT lays out OpenAI's vision for agentic AI, but it faces some serious challenges.",
+      "source": "Fortune",
+      "score": 6.0,
+      "published": "2026-11-03T20:01:29+00:00",
+      "fetched_at": "2026-11-03T21:35:27.554895+00:00"
+    },
+    {
+      "id": "0abf524e8088",
+      "title": "Apple\u2019s Q4 results show the enterprise tide turning to local AI",
+      "url": "https://www.computerworld.com/article/4243990/apples-q4-results-show-the-enterprise-tide-turning-to-local-ai.html",
+      "summary": "While delivering\u00a0record Q4 revenue, Apple\u2019s financial results revealed a\u00a0$33 billion cost\u00a0associated with memory price inflation, representing the true cost of the\u00a0growing bubble of AI data center investments.\u00a0\n\n\n\nThe results also showed something that threatens those same data center investments \u2014 a sea change in how enterprises are approaching AI. Inference costs, security, and\u00a0data governance concerns\u00a0may finally be dampening enthusiasm for cloud-based AI services.\n\n\n\nEnterprises go local\n\n\n\nApple revealed several major enterprise clients who are turning to its products as\u00a0solutions for loc",
+      "source": "Computerworld",
+      "score": 5.0,
+      "published": "2026-11-03T17:53:32+00:00",
+      "fetched_at": "2026-11-03T21:35:26.316644+00:00"
     }
   ],
   "history": [
-    "https://www.oreilly.com/radar/zero-to-agent-in-30-minutes-build-a-shared-knowledge-base-for-all-your-agents-with-sajal-sharma/",
-    "https://www.saastr.com/saastr-ai-app-of-the-week-sumble-the-kaggle-founders-rebuilt-sales-intelligence-around-context-not-contacts/",
     "https://www.businessinsider.com/steve-ballmer-accepts-his-punishment-for-the-kawhi-leonard-scandal-2026-9",
     "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
     "https://www.forbes.com/sites/sandycarter/2026/09/15/the-cpu-is-back-thanks-to-agents-and-what-that-means-for-you/",
@@ -371,7 +369,9 @@
     "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
     "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
     "https://www.fastcompany.com/91633218/i-tested-12-ai-agents-to-see-if-they-could-become-my-personal-chief-of-staff?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.businessinsider.com/nasa-chief-jared-isaacman-defends-copilot-learjet-crash-backlash-2026-11"
+    "https://www.businessinsider.com/nasa-chief-jared-isaacman-defends-copilot-learjet-crash-backlash-2026-11",
+    "https://fortune.com/2026/11/03/musk-says-grok-bots-costs-are-unsustainably-high-while-openai-admits-dots-are-compute-heavy-is-the-personal-ai-agent-push-dead-on-arrival/",
+    "https://www.computerworld.com/article/4243990/apples-q4-results-show-the-enterprise-tide-turning-to-local-ai.html"
   ],
-  "generated_at": "2026-11-02T23:19:21.437014+00:00"
+  "generated_at": "2026-11-03T21:35:27.955359+00:00"
 }

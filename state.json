@@ -1,96 +1,6 @@
 {
   "queue": [
     {
-      "id": "adc599e6d52a",
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
-      "source": "MIT Technology Review",
-      "score": 10.8,
-      "published": "2026-11-02T17:00:00+00:00",
-      "fetched_at": "2026-11-02T23:19:15.905020+00:00"
-    },
-    {
-      "id": "bda58ca08bcf",
-      "title": "The Download: the agentic web arrives and the drive for safer roads",
-      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agents that address our&#8230;",
-      "source": "MIT Technology Review",
-      "score": 8.4,
-      "published": "2026-11-02T13:10:00+00:00",
-      "fetched_at": "2026-11-02T23:19:15.905103+00:00"
-    },
-    {
-      "id": "c1a0838047a3",
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the \u201cSemantic Web\u201d: an internet designed to be navigated by autonomous software agents that could address our every&#8230;",
-      "source": "MIT Technology Review",
-      "score": 8.4,
-      "published": "2026-11-02T09:35:19+00:00",
-      "fetched_at": "2026-11-02T23:19:15.905149+00:00"
-    },
-    {
-      "id": "624634d281e6",
-      "title": "Why You Don\u2019t Want Humans Doing Outbound Anymore",
-      "url": "https://www.saastr.com/why-you-dont-want-humans-doing-outbound-anymore/",
-      "summary": "Last week a sales rep at one of the leading public B2B software companies emailed me twice in 48 hours. The first email offered &#8220;insights&#8221; on buyer intent and AI efficiency &#8230; and shared none. It just listed their three product lines, and asked if I wanted to &#8220;benchmark&#8221; their software. The second email, sent... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-11-02T15:10:48+00:00",
-      "fetched_at": "2026-11-02T23:19:16.697963+00:00"
-    },
-    {
-      "id": "ca5786e51741",
-      "title": "How AI data centers could find a regulation-free haven at the end of the world",
-      "url": "https://www.fastcompany.com/91634037/how-ai-could-find-regulation-free-haven-end-world?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Data centers have become one of the most polarizing issues in the world. Argentina&#8217;s president wants to lure as many of them as he can get.As residents and policymakers in the United States and Europe fight the facilities that power artificial intelligence, President Javier Milei is pitching Argentina as a haven, promising a hands-off approach to draw foreign investment his crisis-prone country needs.Like his ally, U.S. President Donald Trump, Milei frequently posts AI-generated images on social media. He has proposed creating &#8220;nonhuman corporations&#8221; run entirely by AI agents",
-      "source": "Fast Company Tech",
-      "score": 5.5,
-      "published": "2026-11-02T14:05:00+00:00",
-      "fetched_at": "2026-11-02T23:19:21.086550+00:00"
-    },
-    {
-      "id": "33b3d85cc545",
-      "title": "He got a religious exemption from using AI at work. Maybe you can too",
-      "url": "https://www.fastcompany.com/91633050/he-got-a-religious-exemption-from-using-ai-at-work-maybe-you-can-too?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "As the University of Kentucky began encouraging employees to use AI\u2014from Copilot for meeting notes to tools like Claude and ChatGPT for everyday tasks\u2014David Durman, a research administrator, worried about what he would lose by outsourcing his own thinking to machines.\n\n\n\nSo in August, Durman, who identifies as a humanist, took an unusual step. He sought a religious exemption from using artificial intelligence at work. With help from the American Humanist Association, a nonprofit that advocates for the rights of humanists and atheists, he submitted a letter to the university arguing that relyin",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-11-02T13:02:00+00:00",
-      "fetched_at": "2026-11-02T23:19:21.086642+00:00"
-    },
-    {
-      "id": "d2641740e5f2",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-11-02T15:00:00+00:00",
-      "fetched_at": "2026-11-02T23:19:14.512211+00:00"
-    },
-    {
-      "id": "6e7d4661da08",
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
-      "source": "MIT Technology Review",
-      "score": 3.6,
-      "published": "2026-11-02T13:10:32+00:00",
-      "fetched_at": "2026-11-02T23:19:15.905064+00:00"
-    },
-    {
-      "id": "a1b4b883a498",
-      "title": "I auditioned 12 AI agents to be my chief of staff. Here\u2019s how they compared",
-      "url": "https://www.fastcompany.com/91633218/i-tested-12-ai-agents-to-see-if-they-could-become-my-personal-chief-of-staff?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "This article is republished with permission from&nbsp;Wonder Tools, a newsletter that helps you discover the most useful sites and apps.\n\n\n\nI&#8217;ve never had a secretary before. Or a chief of staff. With these AI agents, I suddenly feel like I have both. This week, among other things, they:\n\n\n\n\nResearched and booked Amtrak train tickets for me\n\n\n\nBriefed me about important overnight emails and upcoming meetings\n\n\n\nSurfaced an important contract I had overlooked\n\n\n\nTurned my bookshelf into a visual reading list\n\n\n\n\nUnlike older chatbots, these agents can take action proactively without waiti",
-      "source": "Fast Company Tech",
-      "score": 3.3,
-      "published": "2026-11-02T05:14:00+00:00",
-      "fetched_at": "2026-11-02T23:19:21.086847+00:00"
-    },
-    {
       "id": "b59a90125d75",
       "title": "NASA administrator tells the internet to stop criticizing copilot of crashed Learjet 60",
       "url": "https://www.businessinsider.com/nasa-chief-jared-isaacman-defends-copilot-learjet-crash-backlash-2026-11",
@@ -119,18 +29,99 @@
       "score": 5.0,
       "published": "2026-11-03T17:53:32+00:00",
       "fetched_at": "2026-11-03T21:35:26.316644+00:00"
+    },
+    {
+      "id": "5a5d2de4de04",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it\u2019s&#8230;",
+      "source": "MIT Technology Review",
+      "score": 10.8,
+      "published": "2026-11-04T13:00:00+00:00",
+      "fetched_at": "2026-11-04T21:44:51.658566+00:00"
+    },
+    {
+      "id": "77dd442f382a",
+      "title": "AI Spend Hit $177 Billion This Year. Only 22% of It Came Out of Software Budgets.  The 4th Annual State of Enterprise AI Report from Menlo Ventures,",
+      "url": "https://www.saastr.com/ai-spend-hit-177-billion-this-year-only-22-of-it-came-out-of-software-budgets/",
+      "summary": "Menlo Ventures just released its fourth annual State of Enterprise AI report. Enterprises will spend $176.8 billion deploying AI in 2026, up 5.4x from $33 billion in 2025. AI deployment spend now equals about 30% of public cloud revenue, up from about 6% a year ago. For B2B founders, the more useful number is where... Continue Reading",
+      "source": "SaaStr",
+      "score": 9.9,
+      "published": "2026-11-04T13:00:11+00:00",
+      "fetched_at": "2026-11-04T21:44:52.244579+00:00"
+    },
+    {
+      "id": "34fba2227237",
+      "title": "Trusted AI Governance Starts Where Intent Becomes Action",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/04/trusted-ai-governance-starts-where-intent-becomes-action/",
+      "summary": "Agentic AI changes enterprise governance. Here's why trusted AI requires identity, authorization, runtime controls and auditable evidence.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-11-04T17:30:00+00:00",
+      "fetched_at": "2026-11-04T21:44:52.675033+00:00"
+    },
+    {
+      "id": "6c4e971fb1ae",
+      "title": "The 24-year-old founder of Instinct says people are quick to trust AI with their money",
+      "url": "https://www.businessinsider.com/instinct-founder-noah-shinn-touts-ai-agents-racing-to-shop-2026-11",
+      "summary": "Instinct founder Noah Shinn says rapid credit card linking shows trust, as AI agent rivals like Meta's Muse and OpenAI's Dots chase shopping.",
+      "source": "Business Insider",
+      "score": 4.0,
+      "published": "2026-11-04T19:20:45+00:00",
+      "fetched_at": "2026-11-04T21:44:54.365705+00:00"
+    },
+    {
+      "id": "f5621b6f6a97",
+      "title": "How ElevenLabs\u2019 CTO is rolling out AI agents\u2014and why he thinks bigger efficiency gains are ahead for the voice AI startup",
+      "url": "https://fortune.com/2026/11/04/waters-new-ai-tool-targets-one-of-the-pharmaceutical-industrys-most-tedious-tasks-2/",
+      "summary": "ElevenLabs field CTO Alex Holt has deployed agents across sales, recruiting, and customer service. He's also beginning to embrace multi-agent systems to improve workflows across the $22 billion AI startup.",
+      "source": "Fortune",
+      "score": 4.0,
+      "published": "2026-11-04T18:25:18+00:00",
+      "fetched_at": "2026-11-04T21:44:54.555483+00:00"
+    },
+    {
+      "id": "dc1faddd3403",
+      "title": "Oracle Deep Trust AI Brings Agent Governance To The Database",
+      "url": "https://www.forbes.com/sites/stevemcdowell/2026/11/04/oracle-deep-trust-ai-brings-agent-governance-to-the-database/",
+      "summary": "Oracle\u2019s Deep Trust AI Architecture moves AI agent security into the database. This article looks at the announcement, how it compares with Snowflake and Databricks, and what to consider before adopting.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-11-04T17:22:20+00:00",
+      "fetched_at": "2026-11-04T21:44:52.675064+00:00"
+    },
+    {
+      "id": "0e8a3f2baf2b",
+      "title": "Journify Raises $12M Series A Amid 5x Growth",
+      "url": "https://www.computerworld.com/article/4244323/journify-raises-12m-series-a-amid-5x-growth-2.html",
+      "summary": "Investors back Journify\u2019s push into the US and Europe\n\n\n\nJournify, the ad signal infrastructure company, today announced a $12 million Series A at four times its previous valuation. Al Mada Ventures led the round, co-led by returning investor Silicon Badia, with Shorooq and Bunat Ventures increasing their investment and Du Ventures and Oraseya Capital joining as new investors. The funding will take Journify into the US and Europe and expand the AI behind its platform.\n\n\n\nGlobal ad spend will exceed $1 trillion in 2026, with algorithms expected to place three quarters by 2028, according to dent",
+      "source": "Computerworld",
+      "score": 4.0,
+      "published": "2026-11-04T03:31:02+00:00",
+      "fetched_at": "2026-11-04T21:44:53.680651+00:00"
+    },
+    {
+      "id": "2685c0ac9723",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-11-04T19:30:04+00:00",
+      "fetched_at": "2026-11-04T21:44:50.678693+00:00"
+    },
+    {
+      "id": "9ba460d21786",
+      "title": "Building on open source AI? Hugging Face\u2019s policy chief on the costs, risks, and trade-offs",
+      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-11-04T18:44:57+00:00",
+      "fetched_at": "2026-11-04T21:44:50.678761+00:00"
     }
   ],
   "history": [
-    "https://www.businessinsider.com/steve-ballmer-accepts-his-punishment-for-the-kawhi-leonard-scandal-2026-9",
-    "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "https://www.forbes.com/sites/sandycarter/2026/09/15/the-cpu-is-back-thanks-to-agents-and-what-that-means-for-you/",
-    "https://fortune.com/2026/09/16/anthropic-merges-its-claude-chat-and-agentic-cowork-products-into-a-single-ai-assistant-as-part-of-a-push-to-build-an-ai-superapp/",
-    "https://www.computerworld.com/article/4222890/aws-bets-that-ai-agents-need-an-inbox-not-another-chat-window-3.html",
-    "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-    "https://www.forbes.com/sites/thomasbrewster/2026/09/16/this-ai-agent-was-asked-to-fix-a-simple-bug-it-went-off-script/",
-    "https://www.oreilly.com/radar/what-ai-can-teach-us-about-being-human/",
-    "https://www.fastcompany.com/91607727/what-if-ai-data-centers-didnt-need-new-power-plants?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
     "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
     "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
@@ -371,7 +362,16 @@
     "https://www.fastcompany.com/91633218/i-tested-12-ai-agents-to-see-if-they-could-become-my-personal-chief-of-staff?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.businessinsider.com/nasa-chief-jared-isaacman-defends-copilot-learjet-crash-backlash-2026-11",
     "https://fortune.com/2026/11/03/musk-says-grok-bots-costs-are-unsustainably-high-while-openai-admits-dots-are-compute-heavy-is-the-personal-ai-agent-push-dead-on-arrival/",
-    "https://www.computerworld.com/article/4243990/apples-q4-results-show-the-enterprise-tide-turning-to-local-ai.html"
+    "https://www.computerworld.com/article/4243990/apples-q4-results-show-the-enterprise-tide-turning-to-local-ai.html",
+    "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "https://www.saastr.com/ai-spend-hit-177-billion-this-year-only-22-of-it-came-out-of-software-budgets/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/04/trusted-ai-governance-starts-where-intent-becomes-action/",
+    "https://www.businessinsider.com/instinct-founder-noah-shinn-touts-ai-agents-racing-to-shop-2026-11",
+    "https://fortune.com/2026/11/04/waters-new-ai-tool-targets-one-of-the-pharmaceutical-industrys-most-tedious-tasks-2/",
+    "https://www.forbes.com/sites/stevemcdowell/2026/11/04/oracle-deep-trust-ai-brings-agent-governance-to-the-database/",
+    "https://www.computerworld.com/article/4244323/journify-raises-12m-series-a-amid-5x-growth-2.html",
+    "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
   ],
-  "generated_at": "2026-11-03T21:35:27.955359+00:00"
+  "generated_at": "2026-11-04T21:44:54.890368+00:00"
 }

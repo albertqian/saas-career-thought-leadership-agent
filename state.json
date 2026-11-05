@@ -1,36 +1,6 @@
 {
   "queue": [
     {
-      "id": "b59a90125d75",
-      "title": "NASA administrator tells the internet to stop criticizing copilot of crashed Learjet 60",
-      "url": "https://www.businessinsider.com/nasa-chief-jared-isaacman-defends-copilot-learjet-crash-backlash-2026-11",
-      "summary": "NASA chief Jared Isaacman defended the copilot in the Learjet 60 crash in Florida and said she was doing her job.",
-      "source": "Business Insider",
-      "score": 3.0,
-      "published": "2026-11-02T22:06:22+00:00",
-      "fetched_at": "2026-11-02T23:19:20.676968+00:00"
-    },
-    {
-      "id": "7ffc92fdfea0",
-      "title": "Musk says Grok Bot\u2019s costs are \u2018unsustainably high,\u2019 while OpenAI admits Dots are \u2018compute heavy.\u2019 Is the personal AI agent push dead on arrival?",
-      "url": "https://fortune.com/2026/11/03/musk-says-grok-bots-costs-are-unsustainably-high-while-openai-admits-dots-are-compute-heavy-is-the-personal-ai-agent-push-dead-on-arrival/",
-      "summary": "At a dinner in NYC, the head of ChatGPT lays out OpenAI's vision for agentic AI, but it faces some serious challenges.",
-      "source": "Fortune",
-      "score": 6.0,
-      "published": "2026-11-03T20:01:29+00:00",
-      "fetched_at": "2026-11-03T21:35:27.554895+00:00"
-    },
-    {
-      "id": "0abf524e8088",
-      "title": "Apple\u2019s Q4 results show the enterprise tide turning to local AI",
-      "url": "https://www.computerworld.com/article/4243990/apples-q4-results-show-the-enterprise-tide-turning-to-local-ai.html",
-      "summary": "While delivering\u00a0record Q4 revenue, Apple\u2019s financial results revealed a\u00a0$33 billion cost\u00a0associated with memory price inflation, representing the true cost of the\u00a0growing bubble of AI data center investments.\u00a0\n\n\n\nThe results also showed something that threatens those same data center investments \u2014 a sea change in how enterprises are approaching AI. Inference costs, security, and\u00a0data governance concerns\u00a0may finally be dampening enthusiasm for cloud-based AI services.\n\n\n\nEnterprises go local\n\n\n\nApple revealed several major enterprise clients who are turning to its products as\u00a0solutions for loc",
-      "source": "Computerworld",
-      "score": 5.0,
-      "published": "2026-11-03T17:53:32+00:00",
-      "fetched_at": "2026-11-03T21:35:26.316644+00:00"
-    },
-    {
       "id": "5a5d2de4de04",
       "title": "Securing the agentic enterprise with data lineage",
       "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
@@ -119,12 +89,39 @@
       "score": 3.6,
       "published": "2026-11-04T18:44:57+00:00",
       "fetched_at": "2026-11-04T21:44:50.678761+00:00"
+    },
+    {
+      "id": "f89f5ab20db4",
+      "title": "We Ran an Email Deliverability Bake-Off Across 3 Vendors and 500,000+ Emails This Week. Our AI Agent Ran All of It.",
+      "url": "https://www.saastr.com/we-ran-an-email-deliverability-bake-off-across-3-vendors-and-500000-emails-this-week-our-ai-agent-ran-all-of-it/",
+      "summary": "We&#8217;ve run vendor bake-offs at SaaStr for as long as we&#8217;ve bought software. Everyone has. They used to look about the same every time. A few demos. A two-week trial. Someone on the team sends a few hundred test emails, checks the dashboards, and builds a spreadsheet. The decision then mostly comes down to which... Continue Reading",
+      "source": "SaaStr",
+      "score": 7.7,
+      "published": "2026-11-05T15:00:24+00:00",
+      "fetched_at": "2026-11-05T21:49:06.699376+00:00"
+    },
+    {
+      "id": "4a3975251f8c",
+      "title": "Exclusive: Aina\u2019s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "summary": "The startup Aina bets you won\u2019t need to rely on your phone to control virtual assistants. It\u2019s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+      "source": "Wired",
+      "score": 7.0,
+      "published": "2026-11-05T14:00:00+00:00",
+      "fetched_at": "2026-11-05T21:49:07.338614+00:00"
+    },
+    {
+      "id": "ba09c30b7d1a",
+      "title": "The Next AI Infrastructure Battle Is Over The Web",
+      "url": "https://www.forbes.com/sites/tiriasresearch/2026/11/05/the-next-ai-infrastructure-battle-is-over-the-web/",
+      "summary": "How Google, NVIDIA, Nebius, Tavily, Firecrawl, Cloudflare and Exa are shaping web infrastructure for AI agents, search and training.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-11-05T19:55:15+00:00",
+      "fetched_at": "2026-11-05T21:49:07.228696+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-    "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-    "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
     "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/09/17/rethinking-the-infrastructure-behind-intelligent-workspaces/",
     "https://martinfowler.com/articles/2026-dont-like-llms.html",
@@ -371,7 +368,10 @@
     "https://www.forbes.com/sites/stevemcdowell/2026/11/04/oracle-deep-trust-ai-brings-agent-governance-to-the-database/",
     "https://www.computerworld.com/article/4244323/journify-raises-12m-series-a-amid-5x-growth-2.html",
     "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-    "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
+    "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "https://www.saastr.com/we-ran-an-email-deliverability-bake-off-across-3-vendors-and-500000-emails-this-week-our-ai-agent-ran-all-of-it/",
+    "https://www.wired.com/story/aina-smart-ring/",
+    "https://www.forbes.com/sites/tiriasresearch/2026/11/05/the-next-ai-infrastructure-battle-is-over-the-web/"
   ],
-  "generated_at": "2026-11-04T21:44:54.890368+00:00"
+  "generated_at": "2026-11-05T21:49:09.483089+00:00"
 }

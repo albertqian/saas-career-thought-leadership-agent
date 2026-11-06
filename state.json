@@ -1,96 +1,6 @@
 {
   "queue": [
     {
-      "id": "5a5d2de4de04",
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it\u2019s&#8230;",
-      "source": "MIT Technology Review",
-      "score": 10.8,
-      "published": "2026-11-04T13:00:00+00:00",
-      "fetched_at": "2026-11-04T21:44:51.658566+00:00"
-    },
-    {
-      "id": "77dd442f382a",
-      "title": "AI Spend Hit $177 Billion This Year. Only 22% of It Came Out of Software Budgets.  The 4th Annual State of Enterprise AI Report from Menlo Ventures,",
-      "url": "https://www.saastr.com/ai-spend-hit-177-billion-this-year-only-22-of-it-came-out-of-software-budgets/",
-      "summary": "Menlo Ventures just released its fourth annual State of Enterprise AI report. Enterprises will spend $176.8 billion deploying AI in 2026, up 5.4x from $33 billion in 2025. AI deployment spend now equals about 30% of public cloud revenue, up from about 6% a year ago. For B2B founders, the more useful number is where... Continue Reading",
-      "source": "SaaStr",
-      "score": 9.9,
-      "published": "2026-11-04T13:00:11+00:00",
-      "fetched_at": "2026-11-04T21:44:52.244579+00:00"
-    },
-    {
-      "id": "34fba2227237",
-      "title": "Trusted AI Governance Starts Where Intent Becomes Action",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/04/trusted-ai-governance-starts-where-intent-becomes-action/",
-      "summary": "Agentic AI changes enterprise governance. Here's why trusted AI requires identity, authorization, runtime controls and auditable evidence.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-11-04T17:30:00+00:00",
-      "fetched_at": "2026-11-04T21:44:52.675033+00:00"
-    },
-    {
-      "id": "6c4e971fb1ae",
-      "title": "The 24-year-old founder of Instinct says people are quick to trust AI with their money",
-      "url": "https://www.businessinsider.com/instinct-founder-noah-shinn-touts-ai-agents-racing-to-shop-2026-11",
-      "summary": "Instinct founder Noah Shinn says rapid credit card linking shows trust, as AI agent rivals like Meta's Muse and OpenAI's Dots chase shopping.",
-      "source": "Business Insider",
-      "score": 4.0,
-      "published": "2026-11-04T19:20:45+00:00",
-      "fetched_at": "2026-11-04T21:44:54.365705+00:00"
-    },
-    {
-      "id": "f5621b6f6a97",
-      "title": "How ElevenLabs\u2019 CTO is rolling out AI agents\u2014and why he thinks bigger efficiency gains are ahead for the voice AI startup",
-      "url": "https://fortune.com/2026/11/04/waters-new-ai-tool-targets-one-of-the-pharmaceutical-industrys-most-tedious-tasks-2/",
-      "summary": "ElevenLabs field CTO Alex Holt has deployed agents across sales, recruiting, and customer service. He's also beginning to embrace multi-agent systems to improve workflows across the $22 billion AI startup.",
-      "source": "Fortune",
-      "score": 4.0,
-      "published": "2026-11-04T18:25:18+00:00",
-      "fetched_at": "2026-11-04T21:44:54.555483+00:00"
-    },
-    {
-      "id": "dc1faddd3403",
-      "title": "Oracle Deep Trust AI Brings Agent Governance To The Database",
-      "url": "https://www.forbes.com/sites/stevemcdowell/2026/11/04/oracle-deep-trust-ai-brings-agent-governance-to-the-database/",
-      "summary": "Oracle\u2019s Deep Trust AI Architecture moves AI agent security into the database. This article looks at the announcement, how it compares with Snowflake and Databricks, and what to consider before adopting.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-11-04T17:22:20+00:00",
-      "fetched_at": "2026-11-04T21:44:52.675064+00:00"
-    },
-    {
-      "id": "0e8a3f2baf2b",
-      "title": "Journify Raises $12M Series A Amid 5x Growth",
-      "url": "https://www.computerworld.com/article/4244323/journify-raises-12m-series-a-amid-5x-growth-2.html",
-      "summary": "Investors back Journify\u2019s push into the US and Europe\n\n\n\nJournify, the ad signal infrastructure company, today announced a $12 million Series A at four times its previous valuation. Al Mada Ventures led the round, co-led by returning investor Silicon Badia, with Shorooq and Bunat Ventures increasing their investment and Du Ventures and Oraseya Capital joining as new investors. The funding will take Journify into the US and Europe and expand the AI behind its platform.\n\n\n\nGlobal ad spend will exceed $1 trillion in 2026, with algorithms expected to place three quarters by 2028, according to dent",
-      "source": "Computerworld",
-      "score": 4.0,
-      "published": "2026-11-04T03:31:02+00:00",
-      "fetched_at": "2026-11-04T21:44:53.680651+00:00"
-    },
-    {
-      "id": "2685c0ac9723",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-11-04T19:30:04+00:00",
-      "fetched_at": "2026-11-04T21:44:50.678693+00:00"
-    },
-    {
-      "id": "9ba460d21786",
-      "title": "Building on open source AI? Hugging Face\u2019s policy chief on the costs, risks, and trade-offs",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-11-04T18:44:57+00:00",
-      "fetched_at": "2026-11-04T21:44:50.678761+00:00"
-    },
-    {
       "id": "f89f5ab20db4",
       "title": "We Ran an Email Deliverability Bake-Off Across 3 Vendors and 500,000+ Emails This Week. Our AI Agent Ran All of It.",
       "url": "https://www.saastr.com/we-ran-an-email-deliverability-bake-off-across-3-vendors-and-500000-emails-this-week-our-ai-agent-ran-all-of-it/",
@@ -119,18 +29,99 @@
       "score": 6.0,
       "published": "2026-11-05T19:55:15+00:00",
       "fetched_at": "2026-11-05T21:49:07.228696+00:00"
+    },
+    {
+      "id": "7f885556479d",
+      "title": "Closing The Enterprise AI Security Gap: From Blind Spots To Stronger Defenses",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/06/closing-the-enterprise-ai-security-gap-from-blind-spots-to-stronger-defenses/",
+      "summary": "If an AI agent put customer data, revenue or reputation at risk today, could your organization explain what happened and stop it before the damage spread?",
+      "source": "Forbes Innovation",
+      "score": 10.0,
+      "published": "2026-11-06T18:15:00+00:00",
+      "fetched_at": "2026-11-06T21:21:35.831119+00:00"
+    },
+    {
+      "id": "6b483d879180",
+      "title": "The Agentic Paradox: Why Smarter AI Requires Stronger Human Governance",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/06/the-agentic-paradox-why-smarter-ai-requires-stronger-human-governance/",
+      "summary": "The more autonomous AI becomes, the more important human oversight, governance and organizational alignment become.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-11-06T15:45:00+00:00",
+      "fetched_at": "2026-11-06T21:21:35.831459+00:00"
+    },
+    {
+      "id": "244876de27a2",
+      "title": "AI Made Enterprise Software Cheaper To Prove. Here\u2019s How I\u2019m Adapting As A Marketing Leader",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/06/ai-made-enterprise-software-cheaper-to-prove-heres-how-im-adapting-as-a-marketing-leader/",
+      "summary": "Software didn't get much cheaper to finish. It got much cheaper to prove, and every approved idea still has to become a production system.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-11-06T15:30:00+00:00",
+      "fetched_at": "2026-11-06T21:21:35.831505+00:00"
+    },
+    {
+      "id": "a2941255bf8a",
+      "title": "Enterprises must take blame for their AI agents\u2019 mistakes, say regulators",
+      "url": "https://www.computerworld.com/article/4245769/enterprises-must-take-blame-for-their-ai-agents-mistakes-say-regulators-2.html",
+      "summary": "The UK\u2019s digital watchdogs have warned enterprises that they can\u2019t evade their legal responsibilities by blaming errors on AI agents that they have deployed.\n\n\n\n\u201cBy taking action on behalf of users, such as making purchases and communicating with businesses, these agents could transform how people use digital services, engage with markets and unlock wider innovation,\u201d said the Digital Regulation Cooperation Forum (DRCF), a body comprising the UK\u2019s Competition and Markets Authority (CMA), Financial Conduct Authority (FCA), Information Commissioner\u2019s Office (ICO), and communications regulator Of",
+      "source": "Computerworld",
+      "score": 5.0,
+      "published": "2026-11-06T14:24:36+00:00",
+      "fetched_at": "2026-11-06T21:21:38.090660+00:00"
+    },
+    {
+      "id": "83b27420c8b6",
+      "title": "Microsoft extends undisclosed usage restrictions on Copilot Chat for enterprise users",
+      "url": "https://www.computerworld.com/article/4245658/microsoft-extends-undisclosed-usage-restrictions-on-copilot-chat-for-enterprise-users.html",
+      "summary": "Microsoft is extending undisclosed usage caps to additional Copilot Chat features for enterprise users who already pay for Microsoft 365 subscriptions but do not hold separate Microsoft 365 Copilot licenses, restricting access to certain AI capabilities and nudging users to upgrade to a paid Copilot-specific license.\n\n\n\nBefore the change, commercial users could access Copilot Chat at no additional cost through eligible Microsoft 365 business and enterprise subscriptions, including Business Basic, Business Standard, Business Premium, Office 365 E3 and E5, and Microsoft 365 E3 and E5.\n\n\n\nWhile M",
+      "source": "Computerworld",
+      "score": 5.0,
+      "published": "2026-11-06T12:04:05+00:00",
+      "fetched_at": "2026-11-06T21:21:38.090833+00:00"
+    },
+    {
+      "id": "35176402d1bc",
+      "title": "Smartsheet\u2019s new AI tool tracks corporate strategies, suggests fixes",
+      "url": "https://www.computerworld.com/article/4245034/smartsheets-new-ai-tool-tracks-corporate-strategies-suggests-fixes.html",
+      "summary": "Work management software vendor Smartsheet has launched a new tool to help executives oversee company-wide strategies, with AI agents that monitor progress, identify problems, and recommend fixes.\n\n\n\nvsActual, announced Wednesday at Smartsheet\u2019s Engage event, is a standalone \u201cAI-native\u201d application, separate from the company\u2019s core work management software. It pulls data from a variety of business applications, including Oracle, Salesforce, SAP, and Workday, as well as work management tools such as Smartsheet itself.\n\n\n\nvsActual uses AI agents that carry out tasks on behalf of users, either in",
+      "source": "Computerworld",
+      "score": 5.0,
+      "published": "2026-11-05T18:55:47+00:00",
+      "fetched_at": "2026-11-06T21:21:38.091193+00:00"
+    },
+    {
+      "id": "aa3547203e76",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-11-06T06:28:32+00:00",
+      "fetched_at": "2026-11-06T21:21:32.486183+00:00"
+    },
+    {
+      "id": "7dac5ce0cdad",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup\u2019s AI agents just formally verified the Stacks Project, one of the field\u2019s biggest libraries.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-11-05T16:16:45+00:00",
+      "fetched_at": "2026-11-06T21:21:32.486330+00:00"
+    },
+    {
+      "id": "939524e97f24",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-11-05T15:19:05+00:00",
+      "fetched_at": "2026-11-06T21:21:32.486349+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/09/17/rethinking-the-infrastructure-behind-intelligent-workspaces/",
-    "https://martinfowler.com/articles/2026-dont-like-llms.html",
-    "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-    "https://www.saastr.com/whats-truly-great-now-in-b2b-ai-per-iconiq-115-growth-at-100m-55-gross-margins-and-655k-in-revenue-per-employee/",
-    "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-    "https://www.fastcompany.com/91609568/claude-anthropics-ai-model-helping-develop-next-version-itself?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.saastr.com/5-interesting-learnings-from-servicetitan-at-1-14-billion-in-revenue-21-growth-but-a-back-half-guided-to-mid-teens-and-a-30-one-day-stock-price-drop/",
-    "https://www.businessinsider.com/ai-agents-change-how-web-internet-works-2026-9",
     "https://www.fastcompany.com/91609568/claude-anthropics-ai-model-helping-develop-next-version-itself",
     "https://www.fastcompany.com/91608465/google-just-built-the-infrastructure-for-agentic-commerce",
     "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
@@ -371,7 +362,16 @@
     "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
     "https://www.saastr.com/we-ran-an-email-deliverability-bake-off-across-3-vendors-and-500000-emails-this-week-our-ai-agent-ran-all-of-it/",
     "https://www.wired.com/story/aina-smart-ring/",
-    "https://www.forbes.com/sites/tiriasresearch/2026/11/05/the-next-ai-infrastructure-battle-is-over-the-web/"
+    "https://www.forbes.com/sites/tiriasresearch/2026/11/05/the-next-ai-infrastructure-battle-is-over-the-web/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/06/closing-the-enterprise-ai-security-gap-from-blind-spots-to-stronger-defenses/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/06/the-agentic-paradox-why-smarter-ai-requires-stronger-human-governance/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/06/ai-made-enterprise-software-cheaper-to-prove-heres-how-im-adapting-as-a-marketing-leader/",
+    "https://www.computerworld.com/article/4245769/enterprises-must-take-blame-for-their-ai-agents-mistakes-say-regulators-2.html",
+    "https://www.computerworld.com/article/4245658/microsoft-extends-undisclosed-usage-restrictions-on-copilot-chat-for-enterprise-users.html",
+    "https://www.computerworld.com/article/4245034/smartsheets-new-ai-tool-tracks-corporate-strategies-suggests-fixes.html",
+    "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
   ],
-  "generated_at": "2026-11-05T21:49:09.483089+00:00"
+  "generated_at": "2026-11-06T21:21:40.035971+00:00"
 }

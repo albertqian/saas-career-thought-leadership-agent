@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "f89f5ab20db4",
-      "title": "We Ran an Email Deliverability Bake-Off Across 3 Vendors and 500,000+ Emails This Week. Our AI Agent Ran All of It.",
-      "url": "https://www.saastr.com/we-ran-an-email-deliverability-bake-off-across-3-vendors-and-500000-emails-this-week-our-ai-agent-ran-all-of-it/",
-      "summary": "We&#8217;ve run vendor bake-offs at SaaStr for as long as we&#8217;ve bought software. Everyone has. They used to look about the same every time. A few demos. A two-week trial. Someone on the team sends a few hundred test emails, checks the dashboards, and builds a spreadsheet. The decision then mostly comes down to which... Continue Reading",
+      "id": "5c32c7c57da6",
+      "title": "Enterprise AI is waiting for its Transformer moment",
+      "url": "https://www.fastcompany.com/91634049/enterprise-ai-waiting-transformer-moment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "As a professor of innovation, I have a slide in my deck I use every time I start a session on artificial intelligence: a fragment of the first page from the \u201cAttention Is All You Need\u201d paper, from 2017. I use just a fragment because I don\u2019t want the students to read it. . . . I usually refrain from using a lot of academic papers when I teach MBAs and executives; they tend to be boring, and this one is no exception and is not particularly easy to read. However, it is historic. Written by eight Google researchers, it is the paper that defines the Transformer architecture, which among other thing",
+      "source": "Fast Company Tech",
+      "score": 6.6,
+      "published": "2026-11-08T13:00:00+00:00",
+      "fetched_at": "2026-11-09T23:59:30.851104+00:00"
+    },
+    {
+      "id": "444c602aaa5e",
+      "title": "The New Normal in Revenue Per Employee: $237K Is the OldMedian, $655K Is the New Top Tier, and Six B2B Leaders Now Clear $1.5M",
+      "url": "https://www.saastr.com/the-new-normal-in-revenue-per-employee-237k-is-the-median-655k-is-the-top-tier-and-six-b2b-leaders-now-clear-1-5m/",
+      "summary": "For 15 years, B2B ran on one planning ratio that almost no one questioned: Every $200K to $300K of new revenue needed another person. Boards approved hiring plans against it, CFOs modeled against it, and founders raised money to fund it. That ratio still describes the median older B2B / SaaS company. But it no... Continue Reading",
       "source": "SaaStr",
-      "score": 7.7,
-      "published": "2026-11-05T15:00:24+00:00",
-      "fetched_at": "2026-11-05T21:49:06.699376+00:00"
+      "score": 5.5,
+      "published": "2026-11-09T15:00:02+00:00",
+      "fetched_at": "2026-11-09T23:59:27.076214+00:00"
     },
     {
-      "id": "4a3975251f8c",
-      "title": "Exclusive: Aina\u2019s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-      "url": "https://www.wired.com/story/aina-smart-ring/",
-      "summary": "The startup Aina bets you won\u2019t need to rely on your phone to control virtual assistants. It\u2019s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+      "id": "56632a4ff2ee",
+      "title": "Ada Sold to Dialpad for $430M in Stock. Is That an Exit?",
+      "url": "https://www.saastr.com/ada-sold-to-dialpad-for-430m-in-stock-is-that-an-exit/",
+      "summary": "This week Ada, an early player in enterprise AI CX, agreed to merge with Dialpad, a larger decade+ old leader in CX and contact center in an all-share deal valuing the Canadian enterprise at around $600-millionCAD , or about US$430-million. Most coverage called it a down-round exit, since that marks a steep decline from Ada&#8217;s... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-11-09T13:00:58+00:00",
+      "fetched_at": "2026-11-09T23:59:27.076248+00:00"
+    },
+    {
+      "id": "08088be30a8e",
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;",
+      "source": "MIT Technology Review",
+      "score": 4.8,
+      "published": "2026-11-09T13:00:00+00:00",
+      "fetched_at": "2026-11-09T23:59:26.344358+00:00"
+    },
+    {
+      "id": "d0dc59383052",
+      "title": "Why AI Agents Are Repeating 2019\u2019s Microservices Mistake",
+      "url": "https://www.oreilly.com/radar/why-ai-agents-are-repeating-2019s-microservices-mistake/",
+      "summary": "Microservices changed how we build software by breaking large applications into smaller, independently deployable services. That made systems easier to develop and scale, but it introduced a different class of problems: The behavior of the whole system got harder to see. AI agents are now following a similar path. A workflow that once lived inside [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 4.4,
+      "published": "2026-11-09T11:55:04+00:00",
+      "fetched_at": "2026-11-09T23:59:29.623002+00:00"
+    },
+    {
+      "id": "be9f9f9db24f",
+      "title": "Dear SaaStr: What Can a Startup Do to Get Their Customers to Pay on Time?",
+      "url": "https://www.saastr.com/dear-saastr-what-can-a-startup-do-to-get-their-customers-to-pay-on-time/",
+      "summary": "We found it fairly easy once we worked out a good process. Treat your customers with respect, be understanding &#8230; and then respect the value of your service. Here&#8217;s what we worked out: #1. Communicate. Notify customers 60 days prior to renewal that they have 60 days to pay in a proper, corporate invoice. Most... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-11-09T10:00:13+00:00",
+      "fetched_at": "2026-11-09T23:59:27.076275+00:00"
+    },
+    {
+      "id": "8f62dd11fd71",
+      "title": "Jason\u2019s Takes on This Week\u2019s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash\u2019s Third Competitor",
+      "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-a-72-cost-drop-on-our-own-app-the-100m-acquisition-bar-and-doordashs-third-competitor/",
+      "summary": "The decisions behind this week&#8217;s headlines: how to price for falling model costs, how to report growth when your percentages are shrinking, and why you need to test whether you&#8217;re expanding the TAM or just taking share. On Thursday&#8217;s 20VC x SaaStr, Harry, Rory and I covered OpenAI cutting its valuation to $1.25T, Anthropic&#8217;s slowing... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-11-08T17:00:28+00:00",
+      "fetched_at": "2026-11-09T23:59:27.076314+00:00"
+    },
+    {
+      "id": "c0fb7661de5c",
+      "title": "Dear SaaStr: What Are the First Things VCs Notice When a Team of Founders Starts Pitching to Them?",
+      "url": "https://www.saastr.com/dear-saastr-what-are-the-first-things-vcs-notice-when-a-team-of-founders-starts-pitching-to-them/",
+      "summary": "Their confidence. That&#8217;s the first thing you see: Are they confident in their progress? Are they confident in their metrics? Do they know them cold: customer count, ACV, # leads, etc.? Do they have confident, credible, data-driven reasons to meet the plan for this year? Are they confident as a team: do they finish each... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-11-08T10:00:06+00:00",
+      "fetched_at": "2026-11-09T23:59:27.076372+00:00"
+    },
+    {
+      "id": "cb0dba39b5f9",
+      "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn\u2019t Work",
+      "url": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
+      "summary": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
       "source": "Wired",
-      "score": 7.0,
-      "published": "2026-11-05T14:00:00+00:00",
-      "fetched_at": "2026-11-05T21:49:07.338614+00:00"
+      "score": 4.0,
+      "published": "2026-11-09T22:40:10+00:00",
+      "fetched_at": "2026-11-09T23:59:28.083177+00:00"
     },
     {
-      "id": "ba09c30b7d1a",
-      "title": "The Next AI Infrastructure Battle Is Over The Web",
-      "url": "https://www.forbes.com/sites/tiriasresearch/2026/11/05/the-next-ai-infrastructure-battle-is-over-the-web/",
-      "summary": "How Google, NVIDIA, Nebius, Tavily, Firecrawl, Cloudflare and Exa are shaping web infrastructure for AI agents, search and training.",
+      "id": "5dd681174e1f",
+      "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+      "url": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+      "summary": "AI agents are now working together on a regular basis. Research shows they are not always seeking the same goal, or operating with ethics.",
+      "source": "CNBC Tech",
+      "score": 3.3,
+      "published": "2026-11-08T14:14:11+00:00",
+      "fetched_at": "2026-11-09T23:59:26.222882+00:00"
+    },
+    {
+      "id": "7198b017672a",
+      "title": "AI Video Generation, Editing And Analysis Will Eat Our World",
+      "url": "https://www.forbes.com/sites/johnwerner/2026/11/09/ai-video-generation-editing-and-analysis-will-eat-our-world/",
+      "summary": "Agentic video AI could transform communication, replacing written content with lifelike avatars and automated productions.",
       "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-11-05T19:55:15+00:00",
-      "fetched_at": "2026-11-05T21:49:07.228696+00:00"
+      "score": 3.0,
+      "published": "2026-11-09T20:06:27+00:00",
+      "fetched_at": "2026-11-09T23:59:27.921762+00:00"
     },
     {
-      "id": "7f885556479d",
-      "title": "Closing The Enterprise AI Security Gap: From Blind Spots To Stronger Defenses",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/06/closing-the-enterprise-ai-security-gap-from-blind-spots-to-stronger-defenses/",
-      "summary": "If an AI agent put customer data, revenue or reputation at risk today, could your organization explain what happened and stop it before the damage spread?",
+      "id": "8eba3c48a0f8",
+      "title": "How TD SYNNEX Is Preparing Employees To Work Alongside AI Agents",
+      "url": "https://www.forbes.com/sites/peterhigh/2026/11/09/how-td-synnex-is-preparing-employees-to-work-alongside-ai-agents/",
+      "summary": "TD SYNNEX CIO Kristie Grinnell combines AI training, executive ownership and agent governance to help employees redesign work and improve business operations.",
       "source": "Forbes Innovation",
-      "score": 10.0,
-      "published": "2026-11-06T18:15:00+00:00",
-      "fetched_at": "2026-11-06T21:21:35.831119+00:00"
-    },
-    {
-      "id": "6b483d879180",
-      "title": "The Agentic Paradox: Why Smarter AI Requires Stronger Human Governance",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/06/the-agentic-paradox-why-smarter-ai-requires-stronger-human-governance/",
-      "summary": "The more autonomous AI becomes, the more important human oversight, governance and organizational alignment become.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-11-06T15:45:00+00:00",
-      "fetched_at": "2026-11-06T21:21:35.831459+00:00"
-    },
-    {
-      "id": "244876de27a2",
-      "title": "AI Made Enterprise Software Cheaper To Prove. Here\u2019s How I\u2019m Adapting As A Marketing Leader",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/06/ai-made-enterprise-software-cheaper-to-prove-heres-how-im-adapting-as-a-marketing-leader/",
-      "summary": "Software didn't get much cheaper to finish. It got much cheaper to prove, and every approved idea still has to become a production system.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-11-06T15:30:00+00:00",
-      "fetched_at": "2026-11-06T21:21:35.831505+00:00"
-    },
-    {
-      "id": "a2941255bf8a",
-      "title": "Enterprises must take blame for their AI agents\u2019 mistakes, say regulators",
-      "url": "https://www.computerworld.com/article/4245769/enterprises-must-take-blame-for-their-ai-agents-mistakes-say-regulators-2.html",
-      "summary": "The UK\u2019s digital watchdogs have warned enterprises that they can\u2019t evade their legal responsibilities by blaming errors on AI agents that they have deployed.\n\n\n\n\u201cBy taking action on behalf of users, such as making purchases and communicating with businesses, these agents could transform how people use digital services, engage with markets and unlock wider innovation,\u201d said the Digital Regulation Cooperation Forum (DRCF), a body comprising the UK\u2019s Competition and Markets Authority (CMA), Financial Conduct Authority (FCA), Information Commissioner\u2019s Office (ICO), and communications regulator Of",
-      "source": "Computerworld",
-      "score": 5.0,
-      "published": "2026-11-06T14:24:36+00:00",
-      "fetched_at": "2026-11-06T21:21:38.090660+00:00"
-    },
-    {
-      "id": "83b27420c8b6",
-      "title": "Microsoft extends undisclosed usage restrictions on Copilot Chat for enterprise users",
-      "url": "https://www.computerworld.com/article/4245658/microsoft-extends-undisclosed-usage-restrictions-on-copilot-chat-for-enterprise-users.html",
-      "summary": "Microsoft is extending undisclosed usage caps to additional Copilot Chat features for enterprise users who already pay for Microsoft 365 subscriptions but do not hold separate Microsoft 365 Copilot licenses, restricting access to certain AI capabilities and nudging users to upgrade to a paid Copilot-specific license.\n\n\n\nBefore the change, commercial users could access Copilot Chat at no additional cost through eligible Microsoft 365 business and enterprise subscriptions, including Business Basic, Business Standard, Business Premium, Office 365 E3 and E5, and Microsoft 365 E3 and E5.\n\n\n\nWhile M",
-      "source": "Computerworld",
-      "score": 5.0,
-      "published": "2026-11-06T12:04:05+00:00",
-      "fetched_at": "2026-11-06T21:21:38.090833+00:00"
-    },
-    {
-      "id": "35176402d1bc",
-      "title": "Smartsheet\u2019s new AI tool tracks corporate strategies, suggests fixes",
-      "url": "https://www.computerworld.com/article/4245034/smartsheets-new-ai-tool-tracks-corporate-strategies-suggests-fixes.html",
-      "summary": "Work management software vendor Smartsheet has launched a new tool to help executives oversee company-wide strategies, with AI agents that monitor progress, identify problems, and recommend fixes.\n\n\n\nvsActual, announced Wednesday at Smartsheet\u2019s Engage event, is a standalone \u201cAI-native\u201d application, separate from the company\u2019s core work management software. It pulls data from a variety of business applications, including Oracle, Salesforce, SAP, and Workday, as well as work management tools such as Smartsheet itself.\n\n\n\nvsActual uses AI agents that carry out tasks on behalf of users, either in",
-      "source": "Computerworld",
-      "score": 5.0,
-      "published": "2026-11-05T18:55:47+00:00",
-      "fetched_at": "2026-11-06T21:21:38.091193+00:00"
-    },
-    {
-      "id": "aa3547203e76",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-11-06T06:28:32+00:00",
-      "fetched_at": "2026-11-06T21:21:32.486183+00:00"
-    },
-    {
-      "id": "7dac5ce0cdad",
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup\u2019s AI agents just formally verified the Stacks Project, one of the field\u2019s biggest libraries.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-11-05T16:16:45+00:00",
-      "fetched_at": "2026-11-06T21:21:32.486330+00:00"
-    },
-    {
-      "id": "939524e97f24",
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-11-05T15:19:05+00:00",
-      "fetched_at": "2026-11-06T21:21:32.486349+00:00"
+      "score": 3.0,
+      "published": "2026-11-09T18:26:26+00:00",
+      "fetched_at": "2026-11-09T23:59:27.921903+00:00"
     }
   ],
   "history": [
-    "https://www.fastcompany.com/91609568/claude-anthropics-ai-model-helping-develop-next-version-itself",
-    "https://www.fastcompany.com/91608465/google-just-built-the-infrastructure-for-agentic-commerce",
-    "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-    "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
-    "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-    "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "https://www.forbes.com/sites/johnwerner/2026/09/21/breaking-the-bottlenecks-rus-and-stoica-discuss-ai-optimization/",
-    "https://www.businessinsider.com/meta-muse-stop-ai-training-data-2026-9",
-    "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "https://www.fastcompany.com/91609214/teslas-cybercab-exposes-a-robotaxi-emergency-response-problem?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.saastr.com/20vc-x-saastr-pacing-the-frontier-meta-ships-muse-and-its-great-and-miro-sells-for-1-35b-after-a-17-5b-mark/",
-    "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
     "https://www.forbes.com/sites/andrewwilliams/2026/09/21/ultrahuman-now-combines-medical-records-and-smart-ring-data/",
     "https://fortune.com/2026/09/21/be-transparent-only-if-asked-inside-openai-rogue-ai-transcripts/",
     "https://www.fastcompany.com/91598701/refurbished-vs-new-tech-safe-to-buy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -371,7 +359,19 @@
     "https://www.computerworld.com/article/4245034/smartsheets-new-ai-tool-tracks-corporate-strategies-suggests-fixes.html",
     "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
     "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+    "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "https://www.fastcompany.com/91634049/enterprise-ai-waiting-transformer-moment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.saastr.com/the-new-normal-in-revenue-per-employee-237k-is-the-median-655k-is-the-top-tier-and-six-b2b-leaders-now-clear-1-5m/",
+    "https://www.saastr.com/ada-sold-to-dialpad-for-430m-in-stock-is-that-an-exit/",
+    "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "https://www.oreilly.com/radar/why-ai-agents-are-repeating-2019s-microservices-mistake/",
+    "https://www.saastr.com/dear-saastr-what-can-a-startup-do-to-get-their-customers-to-pay-on-time/",
+    "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-a-72-cost-drop-on-our-own-app-the-100m-acquisition-bar-and-doordashs-third-competitor/",
+    "https://www.saastr.com/dear-saastr-what-are-the-first-things-vcs-notice-when-a-team-of-founders-starts-pitching-to-them/",
+    "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
+    "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+    "https://www.forbes.com/sites/johnwerner/2026/11/09/ai-video-generation-editing-and-analysis-will-eat-our-world/",
+    "https://www.forbes.com/sites/peterhigh/2026/11/09/how-td-synnex-is-preparing-employees-to-work-alongside-ai-agents/"
   ],
-  "generated_at": "2026-11-06T21:21:40.035971+00:00"
+  "generated_at": "2026-11-09T23:59:31.073231+00:00"
 }

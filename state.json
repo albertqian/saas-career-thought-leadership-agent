@@ -1,16 +1,6 @@
 {
   "queue": [
     {
-      "id": "5c32c7c57da6",
-      "title": "Enterprise AI is waiting for its Transformer moment",
-      "url": "https://www.fastcompany.com/91634049/enterprise-ai-waiting-transformer-moment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "As a professor of innovation, I have a slide in my deck I use every time I start a session on artificial intelligence: a fragment of the first page from the \u201cAttention Is All You Need\u201d paper, from 2017. I use just a fragment because I don\u2019t want the students to read it. . . . I usually refrain from using a lot of academic papers when I teach MBAs and executives; they tend to be boring, and this one is no exception and is not particularly easy to read. However, it is historic. Written by eight Google researchers, it is the paper that defines the Transformer architecture, which among other thing",
-      "source": "Fast Company Tech",
-      "score": 6.6,
-      "published": "2026-11-08T13:00:00+00:00",
-      "fetched_at": "2026-11-09T23:59:30.851104+00:00"
-    },
-    {
       "id": "444c602aaa5e",
       "title": "The New Normal in Revenue Per Employee: $237K Is the OldMedian, $655K Is the New Top Tier, and Six B2B Leaders Now Clear $1.5M",
       "url": "https://www.saastr.com/the-new-normal-in-revenue-per-employee-237k-is-the-median-655k-is-the-top-tier-and-six-b2b-leaders-now-clear-1-5m/",
@@ -61,26 +51,6 @@
       "fetched_at": "2026-11-09T23:59:27.076275+00:00"
     },
     {
-      "id": "8f62dd11fd71",
-      "title": "Jason\u2019s Takes on This Week\u2019s 20VC: A 72% Cost Drop on Our Own App, the $100M Acquisition Bar, and DoorDash\u2019s Third Competitor",
-      "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-a-72-cost-drop-on-our-own-app-the-100m-acquisition-bar-and-doordashs-third-competitor/",
-      "summary": "The decisions behind this week&#8217;s headlines: how to price for falling model costs, how to report growth when your percentages are shrinking, and why you need to test whether you&#8217;re expanding the TAM or just taking share. On Thursday&#8217;s 20VC x SaaStr, Harry, Rory and I covered OpenAI cutting its valuation to $1.25T, Anthropic&#8217;s slowing... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-11-08T17:00:28+00:00",
-      "fetched_at": "2026-11-09T23:59:27.076314+00:00"
-    },
-    {
-      "id": "c0fb7661de5c",
-      "title": "Dear SaaStr: What Are the First Things VCs Notice When a Team of Founders Starts Pitching to Them?",
-      "url": "https://www.saastr.com/dear-saastr-what-are-the-first-things-vcs-notice-when-a-team-of-founders-starts-pitching-to-them/",
-      "summary": "Their confidence. That&#8217;s the first thing you see: Are they confident in their progress? Are they confident in their metrics? Do they know them cold: customer count, ACV, # leads, etc.? Do they have confident, credible, data-driven reasons to meet the plan for this year? Are they confident as a team: do they finish each... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-11-08T10:00:06+00:00",
-      "fetched_at": "2026-11-09T23:59:27.076372+00:00"
-    },
-    {
       "id": "cb0dba39b5f9",
       "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn\u2019t Work",
       "url": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
@@ -89,16 +59,6 @@
       "score": 4.0,
       "published": "2026-11-09T22:40:10+00:00",
       "fetched_at": "2026-11-09T23:59:28.083177+00:00"
-    },
-    {
-      "id": "5dd681174e1f",
-      "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-      "url": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
-      "summary": "AI agents are now working together on a regular basis. Research shows they are not always seeking the same goal, or operating with ethics.",
-      "source": "CNBC Tech",
-      "score": 3.3,
-      "published": "2026-11-08T14:14:11+00:00",
-      "fetched_at": "2026-11-09T23:59:26.222882+00:00"
     },
     {
       "id": "7198b017672a",
@@ -119,13 +79,49 @@
       "score": 3.0,
       "published": "2026-11-09T18:26:26+00:00",
       "fetched_at": "2026-11-09T23:59:27.921903+00:00"
+    },
+    {
+      "id": "8abebdda7252",
+      "title": "What\u2019s Behind The Agentic Security Operations Boom?",
+      "url": "https://www.forbes.com/sites/rscottraynovich/2026/11/10/whats-behind-the-agentic-security-operations-boom/",
+      "summary": "Billions in venture capital dollars are funding agentic operations and automated SOCs. Some startups to watch include Formal, Imply, Stellar Cyber, and TENEX.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-11-10T18:40:45+00:00",
+      "fetched_at": "2026-11-10T21:41:41.413106+00:00"
+    },
+    {
+      "id": "131b298f7ca4",
+      "title": "PAM: Securing Digital Identities In The Age Of AI",
+      "url": "https://www.forbes.com/sites/chuckbrooks/2026/11/10/pam-securing-digital-identities-in-the-age-of-ai/",
+      "summary": "PAM: Privileged access management is evolving to protect critical digital assets as cloud computing, automation, and AI agents expand the threat environment",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-11-10T17:00:55+00:00",
+      "fetched_at": "2026-11-10T21:41:41.413277+00:00"
+    },
+    {
+      "id": "9549e10a7360",
+      "title": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
+      "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
+      "summary": "Graphon is trying to solve agents' memory problem with software that lets agents store and retrieve information over time.",
+      "source": "Business Insider",
+      "score": 5.0,
+      "published": "2026-11-10T16:01:01+00:00",
+      "fetched_at": "2026-11-10T21:41:43.646607+00:00"
+    },
+    {
+      "id": "bf33ad331a73",
+      "title": "Adobe is fully in its agent era",
+      "url": "https://www.fastcompany.com/91637530/adobe-is-fully-entering-its-agent-era",
+      "summary": "Adobe is giving agents more agency, including a  new local MCP integration that would let ChatGPT, Claude, and other AI agents work directly inside your computer\u2019s Adobe apps.\n\nI am a big fan of artificial intelligence taking on the miserable tasks of creative work. Renaming and tagging footage, syncing multiple camera angles, reformatting an ad for 50 different aspect ratios? Let the computer do that, thanks. Adobe showed me how its AI agent can do all that, right inside its apps, back in June. But actual creative work? Pass.",
+      "source": "Fast Company",
+      "score": 5.0,
+      "published": "2026-11-10T14:00:00+00:00",
+      "fetched_at": "2026-11-10T21:41:44.173241+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/sites/andrewwilliams/2026/09/21/ultrahuman-now-combines-medical-records-and-smart-ring-data/",
-    "https://fortune.com/2026/09/21/be-transparent-only-if-asked-inside-openai-rogue-ai-transcripts/",
-    "https://www.fastcompany.com/91598701/refurbished-vs-new-tech-safe-to-buy?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91607444/using-ai-isnt-the-advantage-rethinking-work-is",
     "https://www.forbes.com/councils/forbestechcouncil/2026/09/22/enterprise-software-is-learning-to-act-not-just-record/",
     "https://www.oreilly.com/radar/mcp-is-not-just-another-api-standard/",
     "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
@@ -371,7 +367,11 @@
     "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
     "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
     "https://www.forbes.com/sites/johnwerner/2026/11/09/ai-video-generation-editing-and-analysis-will-eat-our-world/",
-    "https://www.forbes.com/sites/peterhigh/2026/11/09/how-td-synnex-is-preparing-employees-to-work-alongside-ai-agents/"
+    "https://www.forbes.com/sites/peterhigh/2026/11/09/how-td-synnex-is-preparing-employees-to-work-alongside-ai-agents/",
+    "https://www.forbes.com/sites/rscottraynovich/2026/11/10/whats-behind-the-agentic-security-operations-boom/",
+    "https://www.forbes.com/sites/chuckbrooks/2026/11/10/pam-securing-digital-identities-in-the-age-of-ai/",
+    "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
+    "https://www.fastcompany.com/91637530/adobe-is-fully-entering-its-agent-era"
   ],
-  "generated_at": "2026-11-09T23:59:31.073231+00:00"
+  "generated_at": "2026-11-10T21:41:44.173335+00:00"
 }

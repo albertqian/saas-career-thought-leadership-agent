@@ -1,56 +1,6 @@
 {
   "queue": [
     {
-      "id": "444c602aaa5e",
-      "title": "The New Normal in Revenue Per Employee: $237K Is the OldMedian, $655K Is the New Top Tier, and Six B2B Leaders Now Clear $1.5M",
-      "url": "https://www.saastr.com/the-new-normal-in-revenue-per-employee-237k-is-the-median-655k-is-the-top-tier-and-six-b2b-leaders-now-clear-1-5m/",
-      "summary": "For 15 years, B2B ran on one planning ratio that almost no one questioned: Every $200K to $300K of new revenue needed another person. Boards approved hiring plans against it, CFOs modeled against it, and founders raised money to fund it. That ratio still describes the median older B2B / SaaS company. But it no... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-11-09T15:00:02+00:00",
-      "fetched_at": "2026-11-09T23:59:27.076214+00:00"
-    },
-    {
-      "id": "56632a4ff2ee",
-      "title": "Ada Sold to Dialpad for $430M in Stock. Is That an Exit?",
-      "url": "https://www.saastr.com/ada-sold-to-dialpad-for-430m-in-stock-is-that-an-exit/",
-      "summary": "This week Ada, an early player in enterprise AI CX, agreed to merge with Dialpad, a larger decade+ old leader in CX and contact center in an all-share deal valuing the Canadian enterprise at around $600-millionCAD , or about US$430-million. Most coverage called it a down-round exit, since that marks a steep decline from Ada&#8217;s... Continue Reading",
-      "source": "SaaStr",
-      "score": 5.5,
-      "published": "2026-11-09T13:00:58+00:00",
-      "fetched_at": "2026-11-09T23:59:27.076248+00:00"
-    },
-    {
-      "id": "08088be30a8e",
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;",
-      "source": "MIT Technology Review",
-      "score": 4.8,
-      "published": "2026-11-09T13:00:00+00:00",
-      "fetched_at": "2026-11-09T23:59:26.344358+00:00"
-    },
-    {
-      "id": "d0dc59383052",
-      "title": "Why AI Agents Are Repeating 2019\u2019s Microservices Mistake",
-      "url": "https://www.oreilly.com/radar/why-ai-agents-are-repeating-2019s-microservices-mistake/",
-      "summary": "Microservices changed how we build software by breaking large applications into smaller, independently deployable services. That made systems easier to develop and scale, but it introduced a different class of problems: The behavior of the whole system got harder to see. AI agents are now following a similar path. A workflow that once lived inside [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 4.4,
-      "published": "2026-11-09T11:55:04+00:00",
-      "fetched_at": "2026-11-09T23:59:29.623002+00:00"
-    },
-    {
-      "id": "be9f9f9db24f",
-      "title": "Dear SaaStr: What Can a Startup Do to Get Their Customers to Pay on Time?",
-      "url": "https://www.saastr.com/dear-saastr-what-can-a-startup-do-to-get-their-customers-to-pay-on-time/",
-      "summary": "We found it fairly easy once we worked out a good process. Treat your customers with respect, be understanding &#8230; and then respect the value of your service. Here&#8217;s what we worked out: #1. Communicate. Notify customers 60 days prior to renewal that they have 60 days to pay in a proper, corporate invoice. Most... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-11-09T10:00:13+00:00",
-      "fetched_at": "2026-11-09T23:59:27.076275+00:00"
-    },
-    {
       "id": "cb0dba39b5f9",
       "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn\u2019t Work",
       "url": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
@@ -59,26 +9,6 @@
       "score": 4.0,
       "published": "2026-11-09T22:40:10+00:00",
       "fetched_at": "2026-11-09T23:59:28.083177+00:00"
-    },
-    {
-      "id": "7198b017672a",
-      "title": "AI Video Generation, Editing And Analysis Will Eat Our World",
-      "url": "https://www.forbes.com/sites/johnwerner/2026/11/09/ai-video-generation-editing-and-analysis-will-eat-our-world/",
-      "summary": "Agentic video AI could transform communication, replacing written content with lifelike avatars and automated productions.",
-      "source": "Forbes Innovation",
-      "score": 3.0,
-      "published": "2026-11-09T20:06:27+00:00",
-      "fetched_at": "2026-11-09T23:59:27.921762+00:00"
-    },
-    {
-      "id": "8eba3c48a0f8",
-      "title": "How TD SYNNEX Is Preparing Employees To Work Alongside AI Agents",
-      "url": "https://www.forbes.com/sites/peterhigh/2026/11/09/how-td-synnex-is-preparing-employees-to-work-alongside-ai-agents/",
-      "summary": "TD SYNNEX CIO Kristie Grinnell combines AI training, executive ownership and agent governance to help employees redesign work and improve business operations.",
-      "source": "Forbes Innovation",
-      "score": 3.0,
-      "published": "2026-11-09T18:26:26+00:00",
-      "fetched_at": "2026-11-09T23:59:27.921903+00:00"
     },
     {
       "id": "8abebdda7252",
@@ -119,16 +49,79 @@
       "score": 5.0,
       "published": "2026-11-10T14:00:00+00:00",
       "fetched_at": "2026-11-10T21:41:44.173241+00:00"
+    },
+    {
+      "id": "64ab8c4165d1",
+      "title": "Edelbyte Raises $70 Million To Bring Big Data Analytics To AI Agents",
+      "url": "https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents/",
+      "summary": "Ex Microsoft engineers launched Edelbyte, a big data analytics tool for AI agents with $70 million in funding.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-11-11T14:00:30+00:00",
+      "fetched_at": "2026-11-11T22:32:09.603038+00:00"
+    },
+    {
+      "id": "a12c5f3d8f2d",
+      "title": "Databricks\u2019 new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-11-11T15:00:00+00:00",
+      "fetched_at": "2026-11-11T22:32:07.311603+00:00"
+    },
+    {
+      "id": "b620d8966c8d",
+      "title": "Tests as data: ensuring AI-generated code does what we want",
+      "url": "https://martinfowler.com/articles/tests-as-data.html",
+      "summary": "Automated testing in the age of AI coding assistants is problematic:\n     when AI agents write both production and test code, developers risk losing\n     the assurance that automated tests protect against functional errors.\n     Matteo Vaccari makes three claims: (1) when AI writes the\n     code, developers become its customers; (2) therefore customer tests, not\n     developer tests, become the primary contract between humans and AI; (3)\n     moving that contract into test data rather than test code makes it easier\n     to protect it from unexpected modifications by coding agents. All of this\n",
+      "source": "Martin Fowler",
+      "score": 4.4,
+      "published": "2026-11-11T15:17:00+00:00",
+      "fetched_at": "2026-11-11T22:32:11.335279+00:00"
+    },
+    {
+      "id": "21fbad97449f",
+      "title": "Higgsfield Went From $1B to $1.35B in Run Rate in One Month. Now It\u2019s Aiming for $2B by Year-End.",
+      "url": "https://www.saastr.com/higgsfield-went-from-1b-to-1-35b-in-run-rate-in-one-month-now-its-aiming-for-2b-by-year-end/",
+      "summary": "Disclosure: Higgsfield is a SaaStr Fund portfolio company. We invested early, and we&#8217;ve been customers since the early days. Higgsfield crossed $1 billion in annualized revenue run rate in September. Alex Mashrabov just sent me the October number: $1.35 billion. That&#8217;s $350 million of new run rate in about a month. Most companies at that... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-11-11T13:00:26+00:00",
+      "fetched_at": "2026-11-11T22:32:09.007799+00:00"
+    },
+    {
+      "id": "321125615c9c",
+      "title": "Anthropic\u2019s IPO Puts ~$216 Billion in Employee Hands. Another $160 Billion Is Reserved for the Next Hires.",
+      "url": "https://www.saastr.com/anthropics-ipo-puts-216-billion-in-employee-hands-another-160-billion-is-reserved-for-the-next-hires/",
+      "summary": "Anthropic's employees hold ~$216B of equity at the IPO price. Another $160B is reserved for future hires. 5,300 employees. ~$41M each on average. Every B2B founder now competes for talent against liquid ANT stock.https://t.co/lMJbuEJzEQ pic.twitter.com/T6hdBolVeU &#8212; Jason \u2728\ud83d\udc7eSaaStr.Ai\u2728 Lemkin (@jasonlk) November 10, 2026 Anthropic&#8217;s amended S-1 is out, and most of the coverage is about... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-11-10T18:00:03+00:00",
+      "fetched_at": "2026-11-11T22:32:09.007861+00:00"
+    },
+    {
+      "id": "c469d7bbc40a",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-11-11T14:00:00+00:00",
+      "fetched_at": "2026-11-11T22:32:07.311631+00:00"
+    },
+    {
+      "id": "03233ef5761d",
+      "title": "AI Startups May Have Fewer Sales Reps. But Not as a Percent of the Team. Has The Playbook Really Changed All That Much?",
+      "url": "https://www.saastr.com/ai-startups-may-have-fewer-sales-reps-but-not-as-a-percent-of-the-team-has-the-playbook-really-changed-all-that-much/",
+      "summary": "The common view for the past 12-18 months has been that AI-native companies reach $100M+ ARR with very small teams, that agents handle much of the selling, and that the traditional B2B sales org is shrinking away. Part of that holds up. AI-forward companies do run smaller go-to-market teams in absolute terms. ICONIQ&#8217;s State of... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-11-10T15:10:06+00:00",
+      "fetched_at": "2026-11-11T22:32:09.007903+00:00"
     }
   ],
   "history": [
-    "https://www.forbes.com/councils/forbestechcouncil/2026/09/22/enterprise-software-is-learning-to-act-not-just-record/",
-    "https://www.oreilly.com/radar/mcp-is-not-just-another-api-standard/",
-    "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-    "https://www.computerworld.com/article/4225562/from-admin-to-architect-jamfs-vision-for-the-autonomous-apple-enterprise.html",
-    "https://www.saastr.com/the-saastr-ai-guide-to-building-a-top-tier-inbound-ai-agent-17000-conversations-600-meetings-booked-and-60-more-new-business/",
-    "https://www.forbes.com/sites/reliaquest/2026/09/23/to-fight-ai-powered-attackers-enterprises-need-agentic-defense/",
-    "https://www.forbes.com/sites/jimosman/2026/09/23/meta-stock-added-200-billion-but-its-new-ai-may-not-scale/",
     "https://www.saastr.com/being-a-system-of-record-helps-with-retention-but-alone-it-wont-equal-growth/",
     "https://www.fastcompany.com/91610667/cloud-seeding-rainmaker-100-million-series-b?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
@@ -371,7 +364,14 @@
     "https://www.forbes.com/sites/rscottraynovich/2026/11/10/whats-behind-the-agentic-security-operations-boom/",
     "https://www.forbes.com/sites/chuckbrooks/2026/11/10/pam-securing-digital-identities-in-the-age-of-ai/",
     "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
-    "https://www.fastcompany.com/91637530/adobe-is-fully-entering-its-agent-era"
+    "https://www.fastcompany.com/91637530/adobe-is-fully-entering-its-agent-era",
+    "https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents/",
+    "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "https://martinfowler.com/articles/tests-as-data.html",
+    "https://www.saastr.com/higgsfield-went-from-1b-to-1-35b-in-run-rate-in-one-month-now-its-aiming-for-2b-by-year-end/",
+    "https://www.saastr.com/anthropics-ipo-puts-216-billion-in-employee-hands-another-160-billion-is-reserved-for-the-next-hires/",
+    "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+    "https://www.saastr.com/ai-startups-may-have-fewer-sales-reps-but-not-as-a-percent-of-the-team-has-the-playbook-really-changed-all-that-much/"
   ],
-  "generated_at": "2026-11-10T21:41:44.173335+00:00"
+  "generated_at": "2026-11-11T22:32:12.184438+00:00"
 }

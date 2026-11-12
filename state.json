@@ -1,56 +1,6 @@
 {
   "queue": [
     {
-      "id": "cb0dba39b5f9",
-      "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn\u2019t Work",
-      "url": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
-      "summary": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
-      "source": "Wired",
-      "score": 4.0,
-      "published": "2026-11-09T22:40:10+00:00",
-      "fetched_at": "2026-11-09T23:59:28.083177+00:00"
-    },
-    {
-      "id": "8abebdda7252",
-      "title": "What\u2019s Behind The Agentic Security Operations Boom?",
-      "url": "https://www.forbes.com/sites/rscottraynovich/2026/11/10/whats-behind-the-agentic-security-operations-boom/",
-      "summary": "Billions in venture capital dollars are funding agentic operations and automated SOCs. Some startups to watch include Formal, Imply, Stellar Cyber, and TENEX.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-11-10T18:40:45+00:00",
-      "fetched_at": "2026-11-10T21:41:41.413106+00:00"
-    },
-    {
-      "id": "131b298f7ca4",
-      "title": "PAM: Securing Digital Identities In The Age Of AI",
-      "url": "https://www.forbes.com/sites/chuckbrooks/2026/11/10/pam-securing-digital-identities-in-the-age-of-ai/",
-      "summary": "PAM: Privileged access management is evolving to protect critical digital assets as cloud computing, automation, and AI agents expand the threat environment",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-11-10T17:00:55+00:00",
-      "fetched_at": "2026-11-10T21:41:41.413277+00:00"
-    },
-    {
-      "id": "9549e10a7360",
-      "title": "This startup says AI agents suffer from 'amnesia.' It raised $35 million to solve that with this pitch deck.",
-      "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
-      "summary": "Graphon is trying to solve agents' memory problem with software that lets agents store and retrieve information over time.",
-      "source": "Business Insider",
-      "score": 5.0,
-      "published": "2026-11-10T16:01:01+00:00",
-      "fetched_at": "2026-11-10T21:41:43.646607+00:00"
-    },
-    {
-      "id": "bf33ad331a73",
-      "title": "Adobe is fully in its agent era",
-      "url": "https://www.fastcompany.com/91637530/adobe-is-fully-entering-its-agent-era",
-      "summary": "Adobe is giving agents more agency, including a  new local MCP integration that would let ChatGPT, Claude, and other AI agents work directly inside your computer\u2019s Adobe apps.\n\nI am a big fan of artificial intelligence taking on the miserable tasks of creative work. Renaming and tagging footage, syncing multiple camera angles, reformatting an ad for 50 different aspect ratios? Let the computer do that, thanks. Adobe showed me how its AI agent can do all that, right inside its apps, back in June. But actual creative work? Pass.",
-      "source": "Fast Company",
-      "score": 5.0,
-      "published": "2026-11-10T14:00:00+00:00",
-      "fetched_at": "2026-11-10T21:41:44.173241+00:00"
-    },
-    {
       "id": "64ab8c4165d1",
       "title": "Edelbyte Raises $70 Million To Bring Big Data Analytics To AI Agents",
       "url": "https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents/",
@@ -91,16 +41,6 @@
       "fetched_at": "2026-11-11T22:32:09.007799+00:00"
     },
     {
-      "id": "321125615c9c",
-      "title": "Anthropic\u2019s IPO Puts ~$216 Billion in Employee Hands. Another $160 Billion Is Reserved for the Next Hires.",
-      "url": "https://www.saastr.com/anthropics-ipo-puts-216-billion-in-employee-hands-another-160-billion-is-reserved-for-the-next-hires/",
-      "summary": "Anthropic's employees hold ~$216B of equity at the IPO price. Another $160B is reserved for future hires. 5,300 employees. ~$41M each on average. Every B2B founder now competes for talent against liquid ANT stock.https://t.co/lMJbuEJzEQ pic.twitter.com/T6hdBolVeU &#8212; Jason \u2728\ud83d\udc7eSaaStr.Ai\u2728 Lemkin (@jasonlk) November 10, 2026 Anthropic&#8217;s amended S-1 is out, and most of the coverage is about... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-11-10T18:00:03+00:00",
-      "fetched_at": "2026-11-11T22:32:09.007861+00:00"
-    },
-    {
       "id": "c469d7bbc40a",
       "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
       "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
@@ -111,24 +51,77 @@
       "fetched_at": "2026-11-11T22:32:07.311631+00:00"
     },
     {
-      "id": "03233ef5761d",
-      "title": "AI Startups May Have Fewer Sales Reps. But Not as a Percent of the Team. Has The Playbook Really Changed All That Much?",
-      "url": "https://www.saastr.com/ai-startups-may-have-fewer-sales-reps-but-not-as-a-percent-of-the-team-has-the-playbook-really-changed-all-that-much/",
-      "summary": "The common view for the past 12-18 months has been that AI-native companies reach $100M+ ARR with very small teams, that agents handle much of the selling, and that the traditional B2B sales org is shrinking away. Part of that holds up. AI-forward companies do run smaller go-to-market teams in absolute terms. ICONIQ&#8217;s State of... Continue Reading",
+      "id": "f296d34ee4cc",
+      "title": "Why Personal Agents Don\u2019t Belong In The Enterprise (Yet)",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/12/why-personal-agents-dont-belong-in-the-enterprise-yet/",
+      "summary": "Giving a personal agent access to your work inbox, Microsoft 365 or any SaaS or autonomous business application would be seriously risky business.",
+      "source": "Forbes Innovation",
+      "score": 8.0,
+      "published": "2026-11-12T16:00:00+00:00",
+      "fetched_at": "2026-11-12T22:07:16.352247+00:00"
+    },
+    {
+      "id": "fcebd1f05bff",
+      "title": "Why Git Needs Help: Moving from Files to Systems for Source Control",
+      "url": "https://www.oreilly.com/radar/why-git-needs-help-moving-from-files-to-systems-for-source-control/",
+      "summary": "The shift to agentic reality When Git was designed in 2005, Linus Torvalds solved a brilliant problem for humans collaborating over terminal windows by trading line-by-line diffs. Fast-forward to 2026: Autonomous coding agents don\u2019t think in flat text files or line breaks. They reason across syntax trees, execution traces, call graphs, and type constraints. In [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 6.6,
+      "published": "2026-11-12T11:54:27+00:00",
+      "fetched_at": "2026-11-12T22:07:18.406363+00:00"
+    },
+    {
+      "id": "9203a6861052",
+      "title": "Dear SaaStr: How Do You Become Successful at Enterprise Sales? What Are the Biggest Challenges People Experience?",
+      "url": "https://www.saastr.com/dear-saastr-how-do-you-become-successful-at-enterprise-sales-what-are-the-biggest-challenges-people-experience/",
+      "summary": "If you haven&#8217;t done enterprise sales yourself before, the biggest thing to understand: you can do it. But, you&#8217;re going to have to hustle. Really hustle. Many founders want the customers and leads and users to come to them. They want to focus then on the funnel, A/B testing, optimization, SEO, SEM, etc. etc. That&#8217;s... Continue Reading",
       "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-11-10T15:10:06+00:00",
-      "fetched_at": "2026-11-11T22:32:09.007903+00:00"
+      "score": 5.5,
+      "published": "2026-11-12T10:00:53+00:00",
+      "fetched_at": "2026-11-12T22:07:15.412767+00:00"
+    },
+    {
+      "id": "908864b05260",
+      "title": "Generative AI in the Real World: Memory for Personal AI with Duncan Davidson",
+      "url": "https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-memory-for-personal-ai-with-duncan-davidson/",
+      "summary": "This post was created with the assistance of AI, based on a transcript of the conversation. AI tools have started to remember their users, but each tool remembers a different version of the same person. Duncan Davidson, an independent consultant and longtime software engineer, has been trying to connect those fragments. He joined Ben Lorica [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 4.4,
+      "published": "2026-11-12T16:55:03+00:00",
+      "fetched_at": "2026-11-12T22:07:18.406311+00:00"
+    },
+    {
+      "id": "04b149507afe",
+      "title": "Claris Harbor could turn Mac fleets into on-prem AI servers",
+      "url": "https://www.computerworld.com/article/4247680/claris-harbor-could-turn-mac-fleets-into-on-prem-ai-servers.html",
+      "summary": "It feels quite appropriate that one of Apple\u2019s more\u00a0interesting AI deployments\u00a0may not come from the company itself, but from its more business-focused subsidiary, Claris, still better known to many as FileMaker. What we know is limited: It intends to release an app that uses\u00a0Apple Silicon Macs\u00a0to create a private AI server.\n\n\n\nWhat Claris is promising\n\n\n\nThe company, famous for its\u00a0database software for the enterprise, has\u00a0initiated a private preview of what sounds\u00a0\u2014 at least on the surface \u2014 like something worth watching for enterprise users seeking to achieve AI insights from their data. Th",
+      "source": "Computerworld",
+      "score": 4.0,
+      "published": "2026-11-12T11:20:00+00:00",
+      "fetched_at": "2026-11-12T22:07:18.013870+00:00"
+    },
+    {
+      "id": "076e5b99074a",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-11-12T21:27:10+00:00",
+      "fetched_at": "2026-11-12T22:07:13.248514+00:00"
+    },
+    {
+      "id": "0a010acdd07c",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-11-12T19:11:00+00:00",
+      "fetched_at": "2026-11-12T22:07:13.248589+00:00"
     }
   ],
   "history": [
-    "https://www.saastr.com/being-a-system-of-record-helps-with-retention-but-alone-it-wont-equal-growth/",
-    "https://www.fastcompany.com/91610667/cloud-seeding-rainmaker-100-million-series-b?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-    "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
-    "https://www.computerworld.com/article/4216459/cool-things-copilot-can-do-in-microsoft-word.html",
-    "https://www.saastr.com/stripes-ai-cro-on-the-fastest-growing-ai-companies-175-growth-48-of-revenue-from-outside-the-home-market-and-agents-about-to-read-more-stripe-docs-than-human/",
-    "https://www.computerworld.com/article/4226159/jamf-in-the-age-of-agentic-it-an-interview-with-ceo-beth-tschida.html",
     "https://www.computerworld.com/article/4226128/uipaths-new-tool-could-unlock-a-much-bigger-wave-of-automated-business-processes-2.html",
     "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
     "https://fortune.com/2026/09/25/microsoft-unveils-copilot-super-app-targeting-business-users-with-ai-agents/",
@@ -371,7 +364,14 @@
     "https://www.saastr.com/higgsfield-went-from-1b-to-1-35b-in-run-rate-in-one-month-now-its-aiming-for-2b-by-year-end/",
     "https://www.saastr.com/anthropics-ipo-puts-216-billion-in-employee-hands-another-160-billion-is-reserved-for-the-next-hires/",
     "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-    "https://www.saastr.com/ai-startups-may-have-fewer-sales-reps-but-not-as-a-percent-of-the-team-has-the-playbook-really-changed-all-that-much/"
+    "https://www.saastr.com/ai-startups-may-have-fewer-sales-reps-but-not-as-a-percent-of-the-team-has-the-playbook-really-changed-all-that-much/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/12/why-personal-agents-dont-belong-in-the-enterprise-yet/",
+    "https://www.oreilly.com/radar/why-git-needs-help-moving-from-files-to-systems-for-source-control/",
+    "https://www.saastr.com/dear-saastr-how-do-you-become-successful-at-enterprise-sales-what-are-the-biggest-challenges-people-experience/",
+    "https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-memory-for-personal-ai-with-duncan-davidson/",
+    "https://www.computerworld.com/article/4247680/claris-harbor-could-turn-mac-fleets-into-on-prem-ai-servers.html",
+    "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
   ],
-  "generated_at": "2026-11-11T22:32:12.184438+00:00"
+  "generated_at": "2026-11-12T22:07:19.826432+00:00"
 }

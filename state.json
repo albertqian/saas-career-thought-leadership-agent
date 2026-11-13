@@ -1,56 +1,6 @@
 {
   "queue": [
     {
-      "id": "64ab8c4165d1",
-      "title": "Edelbyte Raises $70 Million To Bring Big Data Analytics To AI Agents",
-      "url": "https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents/",
-      "summary": "Ex Microsoft engineers launched Edelbyte, a big data analytics tool for AI agents with $70 million in funding.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-11-11T14:00:30+00:00",
-      "fetched_at": "2026-11-11T22:32:09.603038+00:00"
-    },
-    {
-      "id": "a12c5f3d8f2d",
-      "title": "Databricks\u2019 new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-11-11T15:00:00+00:00",
-      "fetched_at": "2026-11-11T22:32:07.311603+00:00"
-    },
-    {
-      "id": "b620d8966c8d",
-      "title": "Tests as data: ensuring AI-generated code does what we want",
-      "url": "https://martinfowler.com/articles/tests-as-data.html",
-      "summary": "Automated testing in the age of AI coding assistants is problematic:\n     when AI agents write both production and test code, developers risk losing\n     the assurance that automated tests protect against functional errors.\n     Matteo Vaccari makes three claims: (1) when AI writes the\n     code, developers become its customers; (2) therefore customer tests, not\n     developer tests, become the primary contract between humans and AI; (3)\n     moving that contract into test data rather than test code makes it easier\n     to protect it from unexpected modifications by coding agents. All of this\n",
-      "source": "Martin Fowler",
-      "score": 4.4,
-      "published": "2026-11-11T15:17:00+00:00",
-      "fetched_at": "2026-11-11T22:32:11.335279+00:00"
-    },
-    {
-      "id": "21fbad97449f",
-      "title": "Higgsfield Went From $1B to $1.35B in Run Rate in One Month. Now It\u2019s Aiming for $2B by Year-End.",
-      "url": "https://www.saastr.com/higgsfield-went-from-1b-to-1-35b-in-run-rate-in-one-month-now-its-aiming-for-2b-by-year-end/",
-      "summary": "Disclosure: Higgsfield is a SaaStr Fund portfolio company. We invested early, and we&#8217;ve been customers since the early days. Higgsfield crossed $1 billion in annualized revenue run rate in September. Alex Mashrabov just sent me the October number: $1.35 billion. That&#8217;s $350 million of new run rate in about a month. Most companies at that... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-11-11T13:00:26+00:00",
-      "fetched_at": "2026-11-11T22:32:09.007799+00:00"
-    },
-    {
-      "id": "c469d7bbc40a",
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-11-11T14:00:00+00:00",
-      "fetched_at": "2026-11-11T22:32:07.311631+00:00"
-    },
-    {
       "id": "f296d34ee4cc",
       "title": "Why Personal Agents Don\u2019t Belong In The Enterprise (Yet)",
       "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/12/why-personal-agents-dont-belong-in-the-enterprise-yet/",
@@ -119,14 +69,59 @@
       "score": 3.6,
       "published": "2026-11-12T19:11:00+00:00",
       "fetched_at": "2026-11-12T22:07:13.248589+00:00"
+    },
+    {
+      "id": "26d265ce671c",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-11-13T19:37:57+00:00",
+      "fetched_at": "2026-11-13T21:49:57.016098+00:00"
+    },
+    {
+      "id": "01c1ed5fe990",
+      "title": "Jensen Resigns, Sequoia Pulls Back to the Bay, and Anthropic\u2019s IPO Draws 6x Demand: The Top Takeaways from 20VC x SaaStr",
+      "url": "https://www.saastr.com/jensen-resigns-sequoia-pulls-back-to-the-bay-and-anthropics-ipo-draws-6x-demand-the-top-takeaways-from-20vc-x-saastr/",
+      "summary": "Also this week: why the AI trade only cracks on demand, an investment committee fight over Zipline, fal and Revolut, the API key crime wave, and why seat-based B2B can&#8217;t get a bid This was one of the busiest news weeks we&#8217;ve had on the pod. Sequoia unwound years of expansion in a single memo.... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-11-13T17:25:27+00:00",
+      "fetched_at": "2026-11-13T21:49:58.942919+00:00"
+    },
+    {
+      "id": "da38b6518f40",
+      "title": "Why Most Companies Fail to See Bottom-Line Returns From Deploying AI Agents",
+      "url": "https://www.forbes.com/video/f7b5dfd4-70ce-4347-8292-07ebeec80cf1/",
+      "summary": "On today\u2019s episode of Iconoclast, 01.ai Founder and CEO Dr. Kai-Fu Lee sat down with Forbes to discuss his book \u2018AI Native: The Mandate to Transform Your Company\u2019. Lee talks about restructuring corporate hierarchies to manage AI agents through designated responsible individuals, pivoting his company away from building frontier models to focus on enterprise ontology and executive tools like Boss AI, and preparing for a potential Hong Kong listing.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-11-13T18:00:30+00:00",
+      "fetched_at": "2026-11-13T21:49:59.696160+00:00"
+    },
+    {
+      "id": "b5d8e3ece75e",
+      "title": "ChatGPT Wallet lets OpenAI\u2019s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
+      "source": "The Verge",
+      "score": 4.0,
+      "published": "2026-11-13T20:45:10+00:00",
+      "fetched_at": "2026-11-13T21:49:59.961996+00:00"
+    },
+    {
+      "id": "d821e7a60e95",
+      "title": "The Four Pillars Of Data Readiness For Agentic Commerce",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/13/the-four-pillars-of-data-readiness-for-agentic-commerce/",
+      "summary": "Those who wait will inherit whatever architecture others build for them.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-11-13T16:00:00+00:00",
+      "fetched_at": "2026-11-13T21:49:59.696370+00:00"
     }
   ],
   "history": [
-    "https://www.computerworld.com/article/4226128/uipaths-new-tool-could-unlock-a-much-bigger-wave-of-automated-business-processes-2.html",
-    "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-    "https://fortune.com/2026/09/25/microsoft-unveils-copilot-super-app-targeting-business-users-with-ai-agents/",
-    "https://www.computerworld.com/article/4226343/around-the-corner-agentic-ai-pcs-that-cut-token-costs.html",
-    "https://www.computerworld.com/article/4226817/microsofts-new-copilot-unifies-enterprise-context-for-chat-and-code.html",
     "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/09/25/why-enterprise-ai-chatbots-succeed-or-fail-lessons-from-deploying-at-fortune-50-scale/",
     "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
@@ -371,7 +366,12 @@
     "https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-memory-for-personal-ai-with-duncan-davidson/",
     "https://www.computerworld.com/article/4247680/claris-harbor-could-turn-mac-fleets-into-on-prem-ai-servers.html",
     "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-    "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+    "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "https://www.saastr.com/jensen-resigns-sequoia-pulls-back-to-the-bay-and-anthropics-ipo-draws-6x-demand-the-top-takeaways-from-20vc-x-saastr/",
+    "https://www.forbes.com/video/f7b5dfd4-70ce-4347-8292-07ebeec80cf1/",
+    "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/13/the-four-pillars-of-data-readiness-for-agentic-commerce/"
   ],
-  "generated_at": "2026-11-12T22:07:19.826432+00:00"
+  "generated_at": "2026-11-13T21:50:02.681196+00:00"
 }

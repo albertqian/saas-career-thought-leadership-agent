@@ -51,16 +51,6 @@
       "fetched_at": "2026-11-17T00:01:55.604200+00:00"
     },
     {
-      "id": "84188389c4fb",
-      "title": "AI is making software easier to build. Keeping it running is another story",
-      "url": "https://www.fastcompany.com/91642024/ai-is-making-software-easier-to-build-keeping-it-running-is-another-story?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "These days, it almost feels like old news: Developers can now use AI tools to generate code, build features, and make changes in a fraction of the time they once needed. The problem now surfacing across businesses is that once software goes into production, teams still need to monitor, maintain, and fix it. A feature that takes minutes to build can introduce problems that take engineers hours to investigate.\n\n\n\nGoogle\u2019s 2025 DORA report, based on responses from nearly 5,000 technology professionals, found that greater AI adoption was associated with faster software delivery but reduced stabili",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-11-15T10:00:00+00:00",
-      "fetched_at": "2026-11-17T00:02:00.438298+00:00"
-    },
-    {
       "id": "555f490d8398",
       "title": "What can you safely tell AI at work?",
       "url": "https://www.computerworld.com/article/4244131/what-can-you-safely-tell-ai-at-work.html",
@@ -101,16 +91,6 @@
       "fetched_at": "2026-11-17T00:01:56.488383+00:00"
     },
     {
-      "id": "8ec80565ef84",
-      "title": "HubSpot Is Refounding as the \u201cCustomer Harness Company.\u201d Here\u2019s What That Means for Us, Right Now, in November 2026",
-      "url": "https://www.saastr.com/hubspot-is-refounding-as-the-customer-harness-company-heres-what-that-means-for-us-right-now-in-november-2026/",
-      "summary": "HubSpot just named what we have been doing at SaaStr for the last year. Yesterday Brian Halligan announced he and Dharmesh Shah are refounding HubSpot as the \u201cCustomer Harness Company.\u201d I'm back as CEO of @HubSpot today.@dharmesh and I are completely re-founding the company. Its day 1. We're now the Customer Harness Company. In the... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-11-15T15:00:08+00:00",
-      "fetched_at": "2026-11-17T00:01:56.488415+00:00"
-    },
-    {
       "id": "6bf85be6fa63",
       "title": "California sues OpenAI over rogue AI hacking incidents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
@@ -119,11 +99,29 @@
       "score": 3.0,
       "published": "2026-11-16T20:46:01+00:00",
       "fetched_at": "2026-11-17T00:01:57.842759+00:00"
+    },
+    {
+      "id": "662a413ec131",
+      "title": "Stripe\u2019s New Index Shows Non-AI B2B Revenue Up 30%+ Year Over Year Through the SaaSpocalypse",
+      "url": "https://www.saastr.com/stripes-new-index-shows-non-ai-b2b-revenue-up-30-year-over-year-through-the-saaspocalypse/",
+      "summary": "Stripe Economics just published a weekly read on B2B software revenue based on real payment flows rather than quarterly earnings calls. Ernie Tedeschi&#8217;s post introduces the Stripe SaaS Index. Its conclusion is that the SaaSpocalypse hit stock prices and barely touched revenue. Some of that holds up. But the index tracks a different group of... Continue Reading",
+      "source": "SaaStr",
+      "score": 9.9,
+      "published": "2026-11-17T13:00:54+00:00",
+      "fetched_at": "2026-11-17T23:23:03.077010+00:00"
+    },
+    {
+      "id": "91b18bb5ac13",
+      "title": "California sues OpenAI, alleges 80-plus agent escapes hidden from public",
+      "url": "https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html",
+      "summary": "California Attorney General Rob Bonta has sued OpenAI, alleging the company has lost control of its autonomous AI agents more than 80 times during testing and misled the public about how safely it develops its models.\n\n\n\nThe complaint was filed on November 16 in San Francisco Superior Court against OpenAI Foundation and OpenAI Group PBC. It says OpenAI disclosed the 80-plus figure to state investigators but has publicly reported just 27 such incidents. In those incidents, agents reached third-party systems, foreign government websites and OpenAI\u2019s own infrastructure, the state alleged.\n\n\n\n\u201cWhi",
+      "source": "Computerworld",
+      "score": 7.0,
+      "published": "2026-11-17T12:42:20+00:00",
+      "fetched_at": "2026-11-17T23:23:05.399226+00:00"
     }
   ],
   "history": [
-    "https://www.fastcompany.com/91614152/nvidia-says-its-new-ai-security-platform-can-stop-rogue-agents-from-breaking-containment",
-    "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
     "https://www.fastcompany.com/91614152/nvidia-says-its-new-ai-security-platform-can-stop-rogue-agents-from-breaking-containment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.saastr.com/almost-every-pre-ai-vendor-we-use-is-raising-prices-for-agent-access-they-may-be-building-an-agentic-death-spiral/",
     "https://www.computerworld.com/article/4228305/metas-ex-launches-agent-rival-to-metas-muse-2.html",
@@ -371,7 +369,9 @@
     "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
     "https://www.saastr.com/dear-saastr-what-are-some-early-signs-that-a-new-executive-hire-isnt-going-to-be-a-fit-with-the-rest-of-the-team/",
     "https://www.saastr.com/hubspot-is-refounding-as-the-customer-harness-company-heres-what-that-means-for-us-right-now-in-november-2026/",
-    "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+    "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "https://www.saastr.com/stripes-new-index-shows-non-ai-b2b-revenue-up-30-year-over-year-through-the-saaspocalypse/",
+    "https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html"
   ],
-  "generated_at": "2026-11-17T00:02:00.601840+00:00"
+  "generated_at": "2026-11-17T23:23:07.043585+00:00"
 }

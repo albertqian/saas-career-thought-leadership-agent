@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "id": "0f553794f8a7",
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,&#8230;",
-      "source": "MIT Technology Review",
-      "score": 10.8,
-      "published": "2026-11-16T13:00:00+00:00",
-      "fetched_at": "2026-11-17T00:01:55.604254+00:00"
-    },
-    {
-      "id": "a9037ef72380",
-      "title": "Your enterprise AI access can be sold for pennies \u2013 beware \u2018LLM Mixers\u2019",
-      "url": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/",
-      "summary": "Underground brokers are selling access to hijacked enterprise AI accounts, with companies footing the usage bill, Google reports.",
-      "source": "ZDNet",
-      "score": 8.0,
-      "published": "2026-11-16T14:00:00+00:00",
-      "fetched_at": "2026-11-17T00:01:58.352242+00:00"
-    },
-    {
-      "id": "4b9ec37d0b35",
-      "title": "Perplexity\u2019s Gambit To Turn AI Assistants Into Autonomous Workers",
-      "url": "https://www.forbes.com/sites/jasonwingard/2026/11/16/perplexitys-gambit-to-turn-ai-assistants-into-autonomous-workers/",
-      "summary": "Perplexity\u2019s new autonomous AI agents could transform knowledge work, reshape professional services, and challenge how businesses price their services and capture profits",
-      "source": "Forbes Innovation",
-      "score": 7.0,
-      "published": "2026-11-16T18:36:51+00:00",
-      "fetched_at": "2026-11-17T00:01:57.488395+00:00"
-    },
-    {
-      "id": "77c970602001",
-      "title": "What\u2019s Standing Between GenAI And Healthcare Disruption?",
-      "url": "https://www.forbes.com/sites/robertpearl/2026/11/16/whats-standing-between-genai-and-healthcare-disruption/",
-      "summary": "Businesses are investing in generative AI tools, but healthcare entrepreneurs struggle to sell innovations that could save lives and money.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-11-16T16:09:01+00:00",
-      "fetched_at": "2026-11-17T00:01:57.488507+00:00"
-    },
-    {
-      "id": "78c3bdf8c94d",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn\u2019t. No rule had told the agents to do&#8230;",
-      "source": "MIT Technology Review",
-      "score": 4.8,
-      "published": "2026-11-16T16:04:28+00:00",
-      "fetched_at": "2026-11-17T00:01:55.604200+00:00"
-    },
-    {
-      "id": "555f490d8398",
-      "title": "What can you safely tell AI at work?",
-      "url": "https://www.computerworld.com/article/4244131/what-can-you-safely-tell-ai-at-work.html",
-      "summary": "When Bhaskar Bharat Sawant troubleshoots a software problem, an error message often provides the first clue. It can also present a dilemma: how much of that message can he safely share with AI tools?\n\n\n\nSawant, a lead engineer and solution architect at building-products manufacturer Cornerstone Building Brands, works with legacy applications and newer technologies. GenAI can help explain an error or suggest a way forward. But the input it needs to understand the problem may expose personally identifiable information, a customer\u2019s competitive secrets, or his own company\u2019s proprietary informatio",
-      "source": "Computerworld",
-      "score": 4.0,
-      "published": "2026-11-16T12:04:12+00:00",
-      "fetched_at": "2026-11-17T00:01:59.106591+00:00"
-    },
-    {
-      "id": "6296ae2cf375",
-      "title": "The EPA\u2019s Chemical-Detecting Plane Isn\u2019t Doing Its Job Anymore",
-      "url": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
-      "summary": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
-      "source": "Wired",
-      "score": 4.0,
-      "published": "2026-11-16T11:30:00+00:00",
-      "fetched_at": "2026-11-17T00:01:57.686610+00:00"
-    },
-    {
-      "id": "33c7d15f513b",
-      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-      "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-11-16T14:48:13+00:00",
-      "fetched_at": "2026-11-17T00:01:54.731485+00:00"
-    },
-    {
-      "id": "d3fba2145b9f",
-      "title": "Dear SaaStr: What Are Some Early Signs That a New Executive Hire Isn\u2019t Going to Be a Fit With the Rest of the Team?",
-      "url": "https://www.saastr.com/dear-saastr-what-are-some-early-signs-that-a-new-executive-hire-isnt-going-to-be-a-fit-with-the-rest-of-the-team/",
-      "summary": "The top one for me is when they don&#8217;t embrace the goals given to them. A tough part of being a VP is you have to try to hit the goals you are given. Don&#8217;t like the ARR plan? You can&#8217;t just go change it. Want to do press, not generate leads? Too bad. Don&#8217;t... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-11-16T10:00:25+00:00",
-      "fetched_at": "2026-11-17T00:01:56.488383+00:00"
-    },
-    {
-      "id": "6bf85be6fa63",
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [&#8230;]",
-      "source": "The Verge",
-      "score": 3.0,
-      "published": "2026-11-16T20:46:01+00:00",
-      "fetched_at": "2026-11-17T00:01:57.842759+00:00"
-    },
-    {
       "id": "662a413ec131",
       "title": "Stripe\u2019s New Index Shows Non-AI B2B Revenue Up 30%+ Year Over Year Through the SaaSpocalypse",
       "url": "https://www.saastr.com/stripes-new-index-shows-non-ai-b2b-revenue-up-30-year-over-year-through-the-saaspocalypse/",
@@ -119,19 +19,109 @@
       "score": 7.0,
       "published": "2026-11-17T12:42:20+00:00",
       "fetched_at": "2026-11-17T23:23:05.399226+00:00"
+    },
+    {
+      "id": "a90a597f379f",
+      "title": "Data Contracts",
+      "url": "https://martinfowler.com/articles/data-contracts.html",
+      "summary": "Data contracts are a way to describe the contents and guarantees of\n     datasets. Simon Harrer and Arif Wider\n     describe in detail what they are and how to use them. They apply practices\n     from API design to data by treating them as data-providing services - such\n     as data products - whose interfaces we want to define as clearly as\n     possible. This approach significantly increases the robustness of\n     large-scale data landscapes, and gives both people and AI agents the\n     explicit, trustworthy metadata they need to work with data autonomously,\n     which is why more and more e",
+      "source": "Martin Fowler",
+      "score": 8.8,
+      "published": "2026-11-18T14:02:00+00:00",
+      "fetched_at": "2026-11-18T22:52:27.122604+00:00"
+    },
+    {
+      "id": "10e24888b35f",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "source": "TechCrunch AI",
+      "score": 7.2,
+      "published": "2026-11-18T12:00:00+00:00",
+      "fetched_at": "2026-11-18T22:52:21.047209+00:00"
+    },
+    {
+      "id": "8ab74fd8cbf9",
+      "title": "Optimizely confirms massive cyberattack on customer websites injected stealer malware",
+      "url": "https://www.computerworld.com/article/4249960/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware-2.html",
+      "summary": "Attackers apparently from China used an authentication security hole within the popular Optimizely AI platform for marketers to steal from at least 178 sites owned by some of the planet\u2019s largest companies.\u00a0\n\n\n\nNamed victims featured vendors including Zoom, Paychex, Equifax, and GitLab, and end-user enterprises including Starbucks, IKEA, Mattel, American Eagle, Air France, Mutual of Omaha, Heineken, Home Chef, Cinnabon, American Eagle, Levi, Costco and HSBC.\n\n\n\nSalesforce issued a statement confirming that it had also been impacted by the attack.\n\n\n\n\u201cSalesforce is investigating unauthorized mo",
+      "source": "Computerworld",
+      "score": 6.0,
+      "published": "2026-11-18T01:39:40+00:00",
+      "fetched_at": "2026-11-18T22:52:26.313224+00:00"
+    },
+    {
+      "id": "137548587fdc",
+      "title": "AI Agents Reward-Max. Your Enterprise Needs To Govern The Path To The Goal",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/18/ai-agents-reward-max-your-enterprise-needs-to-govern-the-path-to-the-goal/",
+      "summary": "The answer to reward-maxing isn't to block agents until every risk has been eliminated.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-11-18T16:30:00+00:00",
+      "fetched_at": "2026-11-18T22:52:24.138139+00:00"
+    },
+    {
+      "id": "3ce560fd35a0",
+      "title": "22 Reasons to Sponsor SaaStr AI 2027. 900+ Qualified Leads Is Just One of Them.",
+      "url": "https://www.saastr.com/22-reasons-to-sponsor-saastr-ai-2027-900-qualified-leads-is-just-one-of-them/",
+      "summary": "Most B2B + AI companies are locking their 2027 event budgets between now and January. Most will spread that budget across too many events, picked off lists built from organizer press releases. We run SaaStr AI Annual, so discount this post accordingly. But we&#8217;re going to do what almost no event organizer does: show you... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-11-18T18:00:58+00:00",
+      "fetched_at": "2026-11-18T22:52:23.145515+00:00"
+    },
+    {
+      "id": "8eb4fcf5c6ec",
+      "title": "Jeff Bezos\u2019s $41 billion AI startup Prometheus is shrouded in secrecy. We found out who\u2019s building it",
+      "url": "https://www.fastcompany.com/91642361/jeff-bezoss-41-billion-ai-startup-prometheus-is-shrouded-in-secrecy-we-found-out-whos-building-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "For many in the tech industry, physical AI is the next world to conquer. While developers of large language models like OpenAI and Anthropic seek to push reasoning models distilled on billions of streams of text to their limits, an emerging crop of companies are focusing on an even more ambitious goal: developing AI programs designed to speak the language of physics. Should they succeed, these firms have a stake in everything from building models that might power self-driving manufacturing or enable drug discovery to those that can take on plane design and weapons development.&nbsp;\n\n\n\nThe pro",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-11-18T10:00:00+00:00",
+      "fetched_at": "2026-11-18T22:52:27.884031+00:00"
+    },
+    {
+      "id": "c80cbceb1b06",
+      "title": "The Value of Human Expertise in The Software Factory",
+      "url": "https://www.oreilly.com/radar/the-value-of-human-expertise-in-the-software-factory/",
+      "summary": "\u201cAny sufficiently advanced technology is indistinguishable from magic.\u201d \u2013 Arthur C. Clarke Most developers now write less code by hand. Gergely Orosz recently posted that modern software engineering is no longer done without LLMs and will no longer be done without them. Some miss writing code, while others question how much of the code that [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 4.4,
+      "published": "2026-11-17T16:55:03+00:00",
+      "fetched_at": "2026-11-18T22:52:26.581709+00:00"
+    },
+    {
+      "id": "10d1bc5a6ffd",
+      "title": "When AI-Generated Data Becomes Tomorrow\u2019s Ground Truth",
+      "url": "https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/",
+      "summary": "Manufacturers qualify suppliers before trusting them with critical work. Before a supplier can provide parts for a regulated product such as a medical device, the manufacturer collects evidence: quality certifications, test reports, insurance documents, and regulatory approvals. Increasingly, an AI agent reads that evidence first. The agent reviews the documents and proposes a finding, and [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 4.4,
+      "published": "2026-11-17T11:54:15+00:00",
+      "fetched_at": "2026-11-18T22:52:26.581743+00:00"
+    },
+    {
+      "id": "ed487c8c54aa",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "source": "Ars Technica",
+      "score": 4.0,
+      "published": "2026-11-18T00:27:29+00:00",
+      "fetched_at": "2026-11-18T22:52:24.526251+00:00"
+    },
+    {
+      "id": "aacd1ca8f1aa",
+      "title": "Hackers exploit Microsoft 365 outage to launch credential phishing campaign",
+      "url": "https://www.computerworld.com/article/4249607/hackers-exploit-microsoft-365-outage-to-launch-credential-phishing-campaign.html",
+      "summary": "Cybercriminals are exploiting genuine cloud service disruptions to make phishing attacks more convincing. Just a day after a prolonged outage disrupted several Microsoft services, including Outlook, Exchange Online, Teams and Copilot, Microsoft Threat Intelligence identified a coordinated, high-volume phishing campaign targeting organisations across multiple industry sectors.\n\n\n\nThe attackers impersonated service notifications and sent emails disguised as legitimate Microsoft 365 service-health notifications. Claiming emails held during the outage would be permanently deleted within 24 hours u",
+      "source": "Computerworld",
+      "score": 4.0,
+      "published": "2026-11-17T11:06:44+00:00",
+      "fetched_at": "2026-11-18T22:52:26.313344+00:00"
     }
   ],
   "history": [
-    "https://www.fastcompany.com/91614152/nvidia-says-its-new-ai-security-platform-can-stop-rogue-agents-from-breaking-containment?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.saastr.com/almost-every-pre-ai-vendor-we-use-is-raising-prices-for-agent-access-they-may-be-building-an-agentic-death-spiral/",
-    "https://www.computerworld.com/article/4228305/metas-ex-launches-agent-rival-to-metas-muse-2.html",
-    "https://www.fastcompany.com/91613131/this-is-what-women-leaders-can-teach-us-about-using-ai-well",
-    "https://www.forbes.com/sites/johnwerner/2026/09/30/the-race-for-ai-and-can-we-control-agents/",
-    "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-    "https://www.fastcompany.com/91615759/openai-is-accused-of-taking-dangerous-cyber-risks-for-private-gain-in-lawsuit-over-rogue-ai-agents",
-    "https://www.saastr.com/what-17000-subscription-apps-tell-us-about-free-trial-length-annual-plans-convert-86-better-with-30-day-trials-monthly-tops-out-at-two-weeks-and-ai-apps-hit-a-wall-at-16-days/",
-    "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
     "https://www.fastcompany.com/91614930/openai-researchers-voice-concerns-over-gpt-6-1-astra-delaying-the-release-of-this-latest-model?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://martinfowler.com/fragments/2026-09-29.html",
     "https://www.saastr.com/where-should-a-new-product-owner-focus-in-their-first-30-days/",
@@ -371,7 +361,17 @@
     "https://www.saastr.com/hubspot-is-refounding-as-the-customer-harness-company-heres-what-that-means-for-us-right-now-in-november-2026/",
     "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
     "https://www.saastr.com/stripes-new-index-shows-non-ai-b2b-revenue-up-30-year-over-year-through-the-saaspocalypse/",
-    "https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html"
+    "https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html",
+    "https://martinfowler.com/articles/data-contracts.html",
+    "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "https://www.computerworld.com/article/4249960/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware-2.html",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/18/ai-agents-reward-max-your-enterprise-needs-to-govern-the-path-to-the-goal/",
+    "https://www.saastr.com/22-reasons-to-sponsor-saastr-ai-2027-900-qualified-leads-is-just-one-of-them/",
+    "https://www.fastcompany.com/91642361/jeff-bezoss-41-billion-ai-startup-prometheus-is-shrouded-in-secrecy-we-found-out-whos-building-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.oreilly.com/radar/the-value-of-human-expertise-in-the-software-factory/",
+    "https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/",
+    "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+    "https://www.computerworld.com/article/4249607/hackers-exploit-microsoft-365-outage-to-launch-credential-phishing-campaign.html"
   ],
-  "generated_at": "2026-11-17T23:23:07.043585+00:00"
+  "generated_at": "2026-11-18T22:52:28.250856+00:00"
 }

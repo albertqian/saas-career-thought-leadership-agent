@@ -1,26 +1,6 @@
 {
   "queue": [
     {
-      "id": "662a413ec131",
-      "title": "Stripe\u2019s New Index Shows Non-AI B2B Revenue Up 30%+ Year Over Year Through the SaaSpocalypse",
-      "url": "https://www.saastr.com/stripes-new-index-shows-non-ai-b2b-revenue-up-30-year-over-year-through-the-saaspocalypse/",
-      "summary": "Stripe Economics just published a weekly read on B2B software revenue based on real payment flows rather than quarterly earnings calls. Ernie Tedeschi&#8217;s post introduces the Stripe SaaS Index. Its conclusion is that the SaaSpocalypse hit stock prices and barely touched revenue. Some of that holds up. But the index tracks a different group of... Continue Reading",
-      "source": "SaaStr",
-      "score": 9.9,
-      "published": "2026-11-17T13:00:54+00:00",
-      "fetched_at": "2026-11-17T23:23:03.077010+00:00"
-    },
-    {
-      "id": "91b18bb5ac13",
-      "title": "California sues OpenAI, alleges 80-plus agent escapes hidden from public",
-      "url": "https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html",
-      "summary": "California Attorney General Rob Bonta has sued OpenAI, alleging the company has lost control of its autonomous AI agents more than 80 times during testing and misled the public about how safely it develops its models.\n\n\n\nThe complaint was filed on November 16 in San Francisco Superior Court against OpenAI Foundation and OpenAI Group PBC. It says OpenAI disclosed the 80-plus figure to state investigators but has publicly reported just 27 such incidents. In those incidents, agents reached third-party systems, foreign government websites and OpenAI\u2019s own infrastructure, the state alleged.\n\n\n\n\u201cWhi",
-      "source": "Computerworld",
-      "score": 7.0,
-      "published": "2026-11-17T12:42:20+00:00",
-      "fetched_at": "2026-11-17T23:23:05.399226+00:00"
-    },
-    {
       "id": "a90a597f379f",
       "title": "Data Contracts",
       "url": "https://martinfowler.com/articles/data-contracts.html",
@@ -81,26 +61,6 @@
       "fetched_at": "2026-11-18T22:52:27.884031+00:00"
     },
     {
-      "id": "c80cbceb1b06",
-      "title": "The Value of Human Expertise in The Software Factory",
-      "url": "https://www.oreilly.com/radar/the-value-of-human-expertise-in-the-software-factory/",
-      "summary": "\u201cAny sufficiently advanced technology is indistinguishable from magic.\u201d \u2013 Arthur C. Clarke Most developers now write less code by hand. Gergely Orosz recently posted that modern software engineering is no longer done without LLMs and will no longer be done without them. Some miss writing code, while others question how much of the code that [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 4.4,
-      "published": "2026-11-17T16:55:03+00:00",
-      "fetched_at": "2026-11-18T22:52:26.581709+00:00"
-    },
-    {
-      "id": "10d1bc5a6ffd",
-      "title": "When AI-Generated Data Becomes Tomorrow\u2019s Ground Truth",
-      "url": "https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/",
-      "summary": "Manufacturers qualify suppliers before trusting them with critical work. Before a supplier can provide parts for a regulated product such as a medical device, the manufacturer collects evidence: quality certifications, test reports, insurance documents, and regulatory approvals. Increasingly, an AI agent reads that evidence first. The agent reviews the documents and proposes a finding, and [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 4.4,
-      "published": "2026-11-17T11:54:15+00:00",
-      "fetched_at": "2026-11-18T22:52:26.581743+00:00"
-    },
-    {
       "id": "ed487c8c54aa",
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
@@ -111,22 +71,57 @@
       "fetched_at": "2026-11-18T22:52:24.526251+00:00"
     },
     {
-      "id": "aacd1ca8f1aa",
-      "title": "Hackers exploit Microsoft 365 outage to launch credential phishing campaign",
-      "url": "https://www.computerworld.com/article/4249607/hackers-exploit-microsoft-365-outage-to-launch-credential-phishing-campaign.html",
-      "summary": "Cybercriminals are exploiting genuine cloud service disruptions to make phishing attacks more convincing. Just a day after a prolonged outage disrupted several Microsoft services, including Outlook, Exchange Online, Teams and Copilot, Microsoft Threat Intelligence identified a coordinated, high-volume phishing campaign targeting organisations across multiple industry sectors.\n\n\n\nThe attackers impersonated service notifications and sent emails disguised as legitimate Microsoft 365 service-health notifications. Claiming emails held during the outage would be permanently deleted within 24 hours u",
+      "id": "f421434ef407",
+      "title": "Microsoft positions Copilot as a hub for team collaboration",
+      "url": "https://www.computerworld.com/article/4250734/microsoft-positions-copilot-as-a-hub-for-team-collaboration.html",
+      "summary": "Microsoft has unveiled Copilot Workspaces, a new collaborative environment for employees and AI agents to work together on shared projects.\n\n\n\nIt was one of a range of Copilot updates at Microsoft\u2019s Ignite conference this week, including deeper Office integration and new AI agent capabilities, as it seeks to position the AI assistant as a hub for team productivity.\n\n\n\nWorkspaces replaces Copilot Notebooks, announced last year, which let users gather files and other reference materials, then ask Copilot to answer questions, draft documents, and generate audio overviews based on this content.\n\n\n",
       "source": "Computerworld",
-      "score": 4.0,
-      "published": "2026-11-17T11:06:44+00:00",
-      "fetched_at": "2026-11-18T22:52:26.313344+00:00"
+      "score": 8.0,
+      "published": "2026-11-19T14:46:23+00:00",
+      "fetched_at": "2026-11-19T22:56:27.419642+00:00"
+    },
+    {
+      "id": "21b44fd34fd3",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
+      "source": "The Verge",
+      "score": 6.0,
+      "published": "2026-11-19T22:31:41+00:00",
+      "fetched_at": "2026-11-19T22:56:26.258913+00:00"
+    },
+    {
+      "id": "74e8068d1097",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "source": "TechCrunch AI",
+      "score": 6.0,
+      "published": "2026-11-19T21:42:31+00:00",
+      "fetched_at": "2026-11-19T22:56:23.295247+00:00"
+    },
+    {
+      "id": "f5a1d3cab3c4",
+      "title": "Visa Is Building Agentic Commerce. But Will Amazon Let AI Agents Shop?",
+      "url": "https://www.forbes.com/sites/johnkoetsier/2026/11/19/visa-is-building-agentic-commerce-but-will-amazon-let-ai-agents-shop/",
+      "summary": "Agentic commerce is coming, but the birth is troubled. Every technological change has winners and losers, and every current winner generally likes the status quo.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-11-19T15:42:52+00:00",
+      "fetched_at": "2026-11-19T22:56:26.013280+00:00"
+    },
+    {
+      "id": "c2ca410cc472",
+      "title": "AI Agents Will Need A Credit Score For Companies: How Contradictory Records Get Suppliers Dropped From AI Shortlists",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/19/ai-agents-will-need-a-credit-score-for-companies-how-contradictory-records-get-suppliers-dropped-from-ai-shortlists/",
+      "summary": "Companies need consistent, verifiable identity data as AI agents increasingly evaluate suppliers, research vendors and make B2B buying decisions.",
+      "source": "Forbes Innovation",
+      "score": 5.0,
+      "published": "2026-11-19T15:30:00+00:00",
+      "fetched_at": "2026-11-19T22:56:26.013320+00:00"
     }
   ],
   "history": [
-    "https://www.fastcompany.com/91614930/openai-researchers-voice-concerns-over-gpt-6-1-astra-delaying-the-release-of-this-latest-model?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://martinfowler.com/fragments/2026-09-29.html",
-    "https://www.saastr.com/where-should-a-new-product-owner-focus-in-their-first-30-days/",
-    "https://www.forbes.com/sites/delltechnologies/2026/09/30/data-sovereignty-is-becoming-an-ai-architecture-decision/",
-    "https://www.fastcompany.com/91614991/its-time-to-retire-the-stochastic-parrot-definition-of-ai?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.oreilly.com/radar/the-agentic-data-science-playbook/",
     "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
     "https://www.oreilly.com/radar/the-future-of-software-may-be-conversational-rather-than-autonomous/",
@@ -371,7 +366,12 @@
     "https://www.oreilly.com/radar/the-value-of-human-expertise-in-the-software-factory/",
     "https://www.oreilly.com/radar/when-ai-generated-data-becomes-tomorrows-ground-truth/",
     "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-    "https://www.computerworld.com/article/4249607/hackers-exploit-microsoft-365-outage-to-launch-credential-phishing-campaign.html"
+    "https://www.computerworld.com/article/4249607/hackers-exploit-microsoft-365-outage-to-launch-credential-phishing-campaign.html",
+    "https://www.computerworld.com/article/4250734/microsoft-positions-copilot-as-a-hub-for-team-collaboration.html",
+    "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "https://www.forbes.com/sites/johnkoetsier/2026/11/19/visa-is-building-agentic-commerce-but-will-amazon-let-ai-agents-shop/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/19/ai-agents-will-need-a-credit-score-for-companies-how-contradictory-records-get-suppliers-dropped-from-ai-shortlists/"
   ],
-  "generated_at": "2026-11-18T22:52:28.250856+00:00"
+  "generated_at": "2026-11-19T22:56:28.920255+00:00"
 }

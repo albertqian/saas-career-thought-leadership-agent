@@ -1,76 +1,6 @@
 {
   "queue": [
     {
-      "id": "a90a597f379f",
-      "title": "Data Contracts",
-      "url": "https://martinfowler.com/articles/data-contracts.html",
-      "summary": "Data contracts are a way to describe the contents and guarantees of\n     datasets. Simon Harrer and Arif Wider\n     describe in detail what they are and how to use them. They apply practices\n     from API design to data by treating them as data-providing services - such\n     as data products - whose interfaces we want to define as clearly as\n     possible. This approach significantly increases the robustness of\n     large-scale data landscapes, and gives both people and AI agents the\n     explicit, trustworthy metadata they need to work with data autonomously,\n     which is why more and more e",
-      "source": "Martin Fowler",
-      "score": 8.8,
-      "published": "2026-11-18T14:02:00+00:00",
-      "fetched_at": "2026-11-18T22:52:27.122604+00:00"
-    },
-    {
-      "id": "10e24888b35f",
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "source": "TechCrunch AI",
-      "score": 7.2,
-      "published": "2026-11-18T12:00:00+00:00",
-      "fetched_at": "2026-11-18T22:52:21.047209+00:00"
-    },
-    {
-      "id": "8ab74fd8cbf9",
-      "title": "Optimizely confirms massive cyberattack on customer websites injected stealer malware",
-      "url": "https://www.computerworld.com/article/4249960/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware-2.html",
-      "summary": "Attackers apparently from China used an authentication security hole within the popular Optimizely AI platform for marketers to steal from at least 178 sites owned by some of the planet\u2019s largest companies.\u00a0\n\n\n\nNamed victims featured vendors including Zoom, Paychex, Equifax, and GitLab, and end-user enterprises including Starbucks, IKEA, Mattel, American Eagle, Air France, Mutual of Omaha, Heineken, Home Chef, Cinnabon, American Eagle, Levi, Costco and HSBC.\n\n\n\nSalesforce issued a statement confirming that it had also been impacted by the attack.\n\n\n\n\u201cSalesforce is investigating unauthorized mo",
-      "source": "Computerworld",
-      "score": 6.0,
-      "published": "2026-11-18T01:39:40+00:00",
-      "fetched_at": "2026-11-18T22:52:26.313224+00:00"
-    },
-    {
-      "id": "137548587fdc",
-      "title": "AI Agents Reward-Max. Your Enterprise Needs To Govern The Path To The Goal",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/18/ai-agents-reward-max-your-enterprise-needs-to-govern-the-path-to-the-goal/",
-      "summary": "The answer to reward-maxing isn't to block agents until every risk has been eliminated.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-11-18T16:30:00+00:00",
-      "fetched_at": "2026-11-18T22:52:24.138139+00:00"
-    },
-    {
-      "id": "3ce560fd35a0",
-      "title": "22 Reasons to Sponsor SaaStr AI 2027. 900+ Qualified Leads Is Just One of Them.",
-      "url": "https://www.saastr.com/22-reasons-to-sponsor-saastr-ai-2027-900-qualified-leads-is-just-one-of-them/",
-      "summary": "Most B2B + AI companies are locking their 2027 event budgets between now and January. Most will spread that budget across too many events, picked off lists built from organizer press releases. We run SaaStr AI Annual, so discount this post accordingly. But we&#8217;re going to do what almost no event organizer does: show you... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-11-18T18:00:58+00:00",
-      "fetched_at": "2026-11-18T22:52:23.145515+00:00"
-    },
-    {
-      "id": "8eb4fcf5c6ec",
-      "title": "Jeff Bezos\u2019s $41 billion AI startup Prometheus is shrouded in secrecy. We found out who\u2019s building it",
-      "url": "https://www.fastcompany.com/91642361/jeff-bezoss-41-billion-ai-startup-prometheus-is-shrouded-in-secrecy-we-found-out-whos-building-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "For many in the tech industry, physical AI is the next world to conquer. While developers of large language models like OpenAI and Anthropic seek to push reasoning models distilled on billions of streams of text to their limits, an emerging crop of companies are focusing on an even more ambitious goal: developing AI programs designed to speak the language of physics. Should they succeed, these firms have a stake in everything from building models that might power self-driving manufacturing or enable drug discovery to those that can take on plane design and weapons development.&nbsp;\n\n\n\nThe pro",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-11-18T10:00:00+00:00",
-      "fetched_at": "2026-11-18T22:52:27.884031+00:00"
-    },
-    {
-      "id": "ed487c8c54aa",
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-      "source": "Ars Technica",
-      "score": 4.0,
-      "published": "2026-11-18T00:27:29+00:00",
-      "fetched_at": "2026-11-18T22:52:24.526251+00:00"
-    },
-    {
       "id": "f421434ef407",
       "title": "Microsoft positions Copilot as a hub for team collaboration",
       "url": "https://www.computerworld.com/article/4250734/microsoft-positions-copilot-as-a-hub-for-team-collaboration.html",
@@ -119,16 +49,79 @@
       "score": 5.0,
       "published": "2026-11-19T15:30:00+00:00",
       "fetched_at": "2026-11-19T22:56:26.013320+00:00"
+    },
+    {
+      "id": "ddf85af7aa32",
+      "title": "This Week in AI: AI\u2019s Next Reality Check",
+      "url": "https://www.oreilly.com/radar/this-week-in-ai-ais-next-reality-check/",
+      "summary": "AI\u2019s growing role in business is exposing challenges that new models alone can\u2019t solve. On the latest episode of This Week in AI, we examined restrictions on autonomous agents, NVIDIA\u2019s leadership crisis, and research into making AI systems more reliable. Agentic commerce is running into resistance Anthropic is turning Claude into a broader workplace platform. [&#8230;]",
+      "source": "O'Reilly Radar",
+      "score": 7.7,
+      "published": "2026-11-20T16:55:12+00:00",
+      "fetched_at": "2026-11-20T22:31:42.330616+00:00"
+    },
+    {
+      "id": "7ed3ad3075b2",
+      "title": "Apple doesn\u2019t need the smartest AI agent. It needs the most trusted one",
+      "url": "https://www.computerworld.com/article/4251496/apple-doesnt-need-the-smartest-ai-agent-it-needs-the-most-trusted-one.html",
+      "summary": "When\u00a0MacPaw,\u00a0Proton,\u00a0Google,\u00a0OpenAI,\u00a0Anthropic, and others are doing it, it\u2019s not really such a surprise that Apple is working to introduce agentic AI tools in Siri and Apple Intelligence. The wider question is how the company plans to deploy these tools \u2014 how it will deliver the maximum convenience at the least possible cost to user privacy and data integrity.\n\n\n\nSome of those answers are already easy to speculate on. Apple has already put some of the building blocks in place, including the recent move to make consumers think more deeply\u00a0when providing AI agents with Full Disk Access.\u00a0\n\n\n\nCon",
+      "source": "Computerworld",
+      "score": 7.0,
+      "published": "2026-11-20T10:30:00+00:00",
+      "fetched_at": "2026-11-20T22:31:41.949293+00:00"
+    },
+    {
+      "id": "70d2f7ab4693",
+      "title": "The Top 10 Things That Have Changed in Sales & GTM in the Age of AI. And 10 Things \u2026 That Really Haven\u2019t",
+      "url": "https://www.saastr.com/the-top-10-things-that-have-changed-in-sales-gtm-in-the-age-of-ai-and-10-things-that-really-havent/",
+      "summary": "We&#8217;re on track to do about $20M at SaaStr this year with 3 humans and roughly 20 AI agents in production. Our sales team went from a full team to 1.5 people through attrition we never backfilled. Agents now run all of our SDR and outbound work, and our inbound agent has had 17,000 conversations... Continue Reading",
+      "source": "SaaStr",
+      "score": 6.6,
+      "published": "2026-11-20T15:00:03+00:00",
+      "fetched_at": "2026-11-20T22:31:40.755847+00:00"
+    },
+    {
+      "id": "6a1ac2e71a5b",
+      "title": "AI vendors say companies are measuring ROI the wrong way. What will convince CFOs to keep paying?",
+      "url": "https://www.fastcompany.com/91643388/ai-vendors-say-companies-are-measuring-roi-the-wrong-way-what-will-convince-cfos-to-keep-paying?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Artificial intelligence companies want their customers to use more AI. Their customers want AI to help them spend less money. That creates a tricky dynamic for an industry whose revenue depends on selling more of a technology that&#8217;s supposed to make businesses more efficient. As CFOs prepare their 2027 budgets, the question is becoming harder to avoid: Is all this AI spending actually paying off?\n\n\n\nThe industry\u2019s preferred measures of progress offer an incomplete answer. Salesforce reports that its technology has performed 7 billion agentic work units, which count activities such as inv",
+      "source": "Fast Company Tech",
+      "score": 5.5,
+      "published": "2026-11-20T10:09:00+00:00",
+      "fetched_at": "2026-11-20T22:31:43.206901+00:00"
+    },
+    {
+      "id": "d4ac00708f40",
+      "title": "Microsoft brings AI inference closer to enterprise data with Windows Server 2028",
+      "url": "https://www.computerworld.com/article/4250505/microsoft-brings-ai-inference-closer-to-enterprise-data-with-windows-server-2028-2.html",
+      "summary": "Microsoft is betting on a hybrid future where AI inferencing takes place where it makes the most sense. Which, logically, is where data already lives: On enterprise-controlled infrastructure.\n\n\n\nTo that end, this week at Microsoft Ignite, the tech giant announced Windows Server 2028, its largest platform update since Windows Server 2025.\n\n\n\nNow in public preview, the next generation server is positioned as a foundation for AI inference that supports \u201centerprise hybrid intelligence.\u201d It introduces new AI accelerators so enterprises can run inference on their own infrastructure, storage tools fo",
+      "source": "Computerworld",
+      "score": 5.0,
+      "published": "2026-11-19T02:28:42+00:00",
+      "fetched_at": "2026-11-20T22:31:41.949521+00:00"
+    },
+    {
+      "id": "4e6c3fbd0dea",
+      "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-11-19T17:38:40+00:00",
+      "fetched_at": "2026-11-20T22:31:39.036508+00:00"
+    },
+    {
+      "id": "5f4a3265a840",
+      "title": "20VC x SaaStr: Jensen Out at Nvidia, Anthropic\u2019s $1.4 Trillion IPO, and HubSpot Brings Back Brian Halligan",
+      "url": "https://www.saastr.com/20vc-x-saastr-jensen-out-at-nvidia-anthropics-1-4-trillion-ipo-and-hubspot-brings-back-brian-halligan/",
+      "summary": "Plus: why LPs will now grade VCs on $20B+ outcomes, why SMBs stopped buying software, and what a two-day Microsoft outage says about how fragile everything has become There was more news this week than in almost any week since Harry, Rory and I started doing this together. Nvidia lost its founder. Anthropic got set... Continue Reading",
+      "source": "SaaStr",
+      "score": 4.4,
+      "published": "2026-11-19T18:34:10+00:00",
+      "fetched_at": "2026-11-20T22:31:40.755941+00:00"
     }
   ],
   "history": [
-    "https://www.oreilly.com/radar/the-agentic-data-science-playbook/",
-    "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-    "https://www.oreilly.com/radar/the-future-of-software-may-be-conversational-rather-than-autonomous/",
-    "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
-    "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-    "https://www.fastcompany.com/91615966/servicenow-just-built-the-ai-startup-that-was-supposed-to-kill-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.saastr.com/dear-saastr-when-should-we-start-pushing-for-multi-year-contracts/",
     "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
     "https://www.fastcompany.com/91613569/publishers-ai-buyers-content-market?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
@@ -371,7 +364,14 @@
     "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
     "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
     "https://www.forbes.com/sites/johnkoetsier/2026/11/19/visa-is-building-agentic-commerce-but-will-amazon-let-ai-agents-shop/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/11/19/ai-agents-will-need-a-credit-score-for-companies-how-contradictory-records-get-suppliers-dropped-from-ai-shortlists/"
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/19/ai-agents-will-need-a-credit-score-for-companies-how-contradictory-records-get-suppliers-dropped-from-ai-shortlists/",
+    "https://www.oreilly.com/radar/this-week-in-ai-ais-next-reality-check/",
+    "https://www.computerworld.com/article/4251496/apple-doesnt-need-the-smartest-ai-agent-it-needs-the-most-trusted-one.html",
+    "https://www.saastr.com/the-top-10-things-that-have-changed-in-sales-gtm-in-the-age-of-ai-and-10-things-that-really-havent/",
+    "https://www.fastcompany.com/91643388/ai-vendors-say-companies-are-measuring-roi-the-wrong-way-what-will-convince-cfos-to-keep-paying?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.computerworld.com/article/4250505/microsoft-brings-ai-inference-closer-to-enterprise-data-with-windows-server-2028-2.html",
+    "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "https://www.saastr.com/20vc-x-saastr-jensen-out-at-nvidia-anthropics-1-4-trillion-ipo-and-hubspot-brings-back-brian-halligan/"
   ],
-  "generated_at": "2026-11-19T22:56:28.920255+00:00"
+  "generated_at": "2026-11-20T22:31:43.326306+00:00"
 }

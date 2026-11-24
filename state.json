@@ -1,139 +1,127 @@
 {
   "queue": [
     {
-      "id": "f421434ef407",
-      "title": "Microsoft positions Copilot as a hub for team collaboration",
-      "url": "https://www.computerworld.com/article/4250734/microsoft-positions-copilot-as-a-hub-for-team-collaboration.html",
-      "summary": "Microsoft has unveiled Copilot Workspaces, a new collaborative environment for employees and AI agents to work together on shared projects.\n\n\n\nIt was one of a range of Copilot updates at Microsoft\u2019s Ignite conference this week, including deeper Office integration and new AI agent capabilities, as it seeks to position the AI assistant as a hub for team productivity.\n\n\n\nWorkspaces replaces Copilot Notebooks, announced last year, which let users gather files and other reference materials, then ask Copilot to answer questions, draft documents, and generate audio overviews based on this content.\n\n\n",
-      "source": "Computerworld",
-      "score": 8.0,
-      "published": "2026-11-19T14:46:23+00:00",
-      "fetched_at": "2026-11-19T22:56:27.419642+00:00"
-    },
-    {
-      "id": "21b44fd34fd3",
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
-      "source": "The Verge",
-      "score": 6.0,
-      "published": "2026-11-19T22:31:41+00:00",
-      "fetched_at": "2026-11-19T22:56:26.258913+00:00"
-    },
-    {
-      "id": "74e8068d1097",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "source": "TechCrunch AI",
-      "score": 6.0,
-      "published": "2026-11-19T21:42:31+00:00",
-      "fetched_at": "2026-11-19T22:56:23.295247+00:00"
-    },
-    {
-      "id": "f5a1d3cab3c4",
-      "title": "Visa Is Building Agentic Commerce. But Will Amazon Let AI Agents Shop?",
-      "url": "https://www.forbes.com/sites/johnkoetsier/2026/11/19/visa-is-building-agentic-commerce-but-will-amazon-let-ai-agents-shop/",
-      "summary": "Agentic commerce is coming, but the birth is troubled. Every technological change has winners and losers, and every current winner generally likes the status quo.",
-      "source": "Forbes Innovation",
-      "score": 6.0,
-      "published": "2026-11-19T15:42:52+00:00",
-      "fetched_at": "2026-11-19T22:56:26.013280+00:00"
-    },
-    {
-      "id": "c2ca410cc472",
-      "title": "AI Agents Will Need A Credit Score For Companies: How Contradictory Records Get Suppliers Dropped From AI Shortlists",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/19/ai-agents-will-need-a-credit-score-for-companies-how-contradictory-records-get-suppliers-dropped-from-ai-shortlists/",
-      "summary": "Companies need consistent, verifiable identity data as AI agents increasingly evaluate suppliers, research vendors and make B2B buying decisions.",
-      "source": "Forbes Innovation",
-      "score": 5.0,
-      "published": "2026-11-19T15:30:00+00:00",
-      "fetched_at": "2026-11-19T22:56:26.013320+00:00"
-    },
-    {
-      "id": "ddf85af7aa32",
-      "title": "This Week in AI: AI\u2019s Next Reality Check",
-      "url": "https://www.oreilly.com/radar/this-week-in-ai-ais-next-reality-check/",
-      "summary": "AI\u2019s growing role in business is exposing challenges that new models alone can\u2019t solve. On the latest episode of This Week in AI, we examined restrictions on autonomous agents, NVIDIA\u2019s leadership crisis, and research into making AI systems more reliable. Agentic commerce is running into resistance Anthropic is turning Claude into a broader workplace platform. [&#8230;]",
-      "source": "O'Reilly Radar",
-      "score": 7.7,
-      "published": "2026-11-20T16:55:12+00:00",
-      "fetched_at": "2026-11-20T22:31:42.330616+00:00"
-    },
-    {
-      "id": "7ed3ad3075b2",
-      "title": "Apple doesn\u2019t need the smartest AI agent. It needs the most trusted one",
-      "url": "https://www.computerworld.com/article/4251496/apple-doesnt-need-the-smartest-ai-agent-it-needs-the-most-trusted-one.html",
-      "summary": "When\u00a0MacPaw,\u00a0Proton,\u00a0Google,\u00a0OpenAI,\u00a0Anthropic, and others are doing it, it\u2019s not really such a surprise that Apple is working to introduce agentic AI tools in Siri and Apple Intelligence. The wider question is how the company plans to deploy these tools \u2014 how it will deliver the maximum convenience at the least possible cost to user privacy and data integrity.\n\n\n\nSome of those answers are already easy to speculate on. Apple has already put some of the building blocks in place, including the recent move to make consumers think more deeply\u00a0when providing AI agents with Full Disk Access.\u00a0\n\n\n\nCon",
-      "source": "Computerworld",
-      "score": 7.0,
-      "published": "2026-11-20T10:30:00+00:00",
-      "fetched_at": "2026-11-20T22:31:41.949293+00:00"
-    },
-    {
-      "id": "70d2f7ab4693",
-      "title": "The Top 10 Things That Have Changed in Sales & GTM in the Age of AI. And 10 Things \u2026 That Really Haven\u2019t",
-      "url": "https://www.saastr.com/the-top-10-things-that-have-changed-in-sales-gtm-in-the-age-of-ai-and-10-things-that-really-havent/",
-      "summary": "We&#8217;re on track to do about $20M at SaaStr this year with 3 humans and roughly 20 AI agents in production. Our sales team went from a full team to 1.5 people through attrition we never backfilled. Agents now run all of our SDR and outbound work, and our inbound agent has had 17,000 conversations... Continue Reading",
-      "source": "SaaStr",
-      "score": 6.6,
-      "published": "2026-11-20T15:00:03+00:00",
-      "fetched_at": "2026-11-20T22:31:40.755847+00:00"
-    },
-    {
-      "id": "6a1ac2e71a5b",
-      "title": "AI vendors say companies are measuring ROI the wrong way. What will convince CFOs to keep paying?",
-      "url": "https://www.fastcompany.com/91643388/ai-vendors-say-companies-are-measuring-roi-the-wrong-way-what-will-convince-cfos-to-keep-paying?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Artificial intelligence companies want their customers to use more AI. Their customers want AI to help them spend less money. That creates a tricky dynamic for an industry whose revenue depends on selling more of a technology that&#8217;s supposed to make businesses more efficient. As CFOs prepare their 2027 budgets, the question is becoming harder to avoid: Is all this AI spending actually paying off?\n\n\n\nThe industry\u2019s preferred measures of progress offer an incomplete answer. Salesforce reports that its technology has performed 7 billion agentic work units, which count activities such as inv",
-      "source": "Fast Company Tech",
-      "score": 5.5,
-      "published": "2026-11-20T10:09:00+00:00",
-      "fetched_at": "2026-11-20T22:31:43.206901+00:00"
-    },
-    {
-      "id": "d4ac00708f40",
-      "title": "Microsoft brings AI inference closer to enterprise data with Windows Server 2028",
-      "url": "https://www.computerworld.com/article/4250505/microsoft-brings-ai-inference-closer-to-enterprise-data-with-windows-server-2028-2.html",
-      "summary": "Microsoft is betting on a hybrid future where AI inferencing takes place where it makes the most sense. Which, logically, is where data already lives: On enterprise-controlled infrastructure.\n\n\n\nTo that end, this week at Microsoft Ignite, the tech giant announced Windows Server 2028, its largest platform update since Windows Server 2025.\n\n\n\nNow in public preview, the next generation server is positioned as a foundation for AI inference that supports \u201centerprise hybrid intelligence.\u201d It introduces new AI accelerators so enterprises can run inference on their own infrastructure, storage tools fo",
-      "source": "Computerworld",
-      "score": 5.0,
-      "published": "2026-11-19T02:28:42+00:00",
-      "fetched_at": "2026-11-20T22:31:41.949521+00:00"
-    },
-    {
-      "id": "4e6c3fbd0dea",
-      "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "id": "a42ef673b6ac",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
       "source": "TechCrunch AI",
       "score": 4.8,
-      "published": "2026-11-19T17:38:40+00:00",
-      "fetched_at": "2026-11-20T22:31:39.036508+00:00"
+      "published": "2026-11-23T22:02:05+00:00",
+      "fetched_at": "2026-11-24T02:46:24.654963+00:00"
     },
     {
-      "id": "5f4a3265a840",
-      "title": "20VC x SaaStr: Jensen Out at Nvidia, Anthropic\u2019s $1.4 Trillion IPO, and HubSpot Brings Back Brian Halligan",
-      "url": "https://www.saastr.com/20vc-x-saastr-jensen-out-at-nvidia-anthropics-1-4-trillion-ipo-and-hubspot-brings-back-brian-halligan/",
-      "summary": "Plus: why LPs will now grade VCs on $20B+ outcomes, why SMBs stopped buying software, and what a two-day Microsoft outage says about how fragile everything has become There was more news this week than in almost any week since Harry, Rory and I started doing this together. Nvidia lost its founder. Anthropic got set... Continue Reading",
+      "id": "af5b3833a3c5",
+      "title": "CrowdStrike CEO: Companies are choosing between getting hacked and shutting down",
+      "url": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "Microsoft systems down. Air traffic systems down. Problems at Chase, United, and Apple. After a week of outages across big systems, the AI conspiracy theories are in full swing. CrowdStrike founder and CEO George Kurtz describes how AI agents can turn a patch into a working exploit within an hour, and how CEOs are now taking services offline rather than risk being hacked. He also discusses CrowdStrike\u2019s new AI Kill Switch, and why slowing down the frontier labs won\u2019t slow down the attackers.\n\n\n\nThis is an abridged transcript of an interview from Rapid Response, hosted by former Fast Company ed",
+      "source": "Fast Company Tech",
+      "score": 4.4,
+      "published": "2026-11-22T10:11:00+00:00",
+      "fetched_at": "2026-11-24T02:46:29.860761+00:00"
+    },
+    {
+      "id": "c272135a47de",
+      "title": "Dear SaaStr: What Are Your Biggest Regrets When Starting a Company? Culture, Scaling, Hiring, Marketing, Etc.",
+      "url": "https://www.saastr.com/dear-saastr-what-are-your-biggest-regrets-when-starting-a-company-culture-scaling-hiring-marketing-etc/",
+      "summary": "I don&#8217;t have any true regrets in either of the companies I co-founded. But let me list the Top 10 mistakes I made in the first 12-18 months starting a B2B company that still ended up being a pretty solid success: Launching Too Early. This paid off with press, PR, etc. But we should have... Continue Reading",
       "source": "SaaStr",
       "score": 4.4,
-      "published": "2026-11-19T18:34:10+00:00",
-      "fetched_at": "2026-11-20T22:31:40.755941+00:00"
+      "published": "2026-11-22T10:00:08+00:00",
+      "fetched_at": "2026-11-24T02:46:26.319896+00:00"
+    },
+    {
+      "id": "448617c90cd2",
+      "title": "CrowdStrike is buying Zscaler to create a cybersecurity giant built for the era of AI agents",
+      "url": "https://www.fastcompany.com/91647412/crowdstrike-is-buying-zscaler-to-create-a-cybersecurity-giant-built-for-the-era-of-ai-agents",
+      "summary": "The $43 billion all-stock deal comes amid growing concerns over vulnerable tech infrastructure and a future of bot-fueled cyberattacks.\n\nTwo cybersecurity companies are coming together in one of the industry\u2019s biggest ever mergers.",
+      "source": "Fast Company",
+      "score": 4.0,
+      "published": "2026-11-23T14:03:00+00:00",
+      "fetched_at": "2026-11-24T02:46:30.050989+00:00"
+    },
+    {
+      "id": "eb99b0230f8d",
+      "title": "AI agent security concerns kick-start confidential computing",
+      "url": "https://www.computerworld.com/article/4245310/ai-agent-security-concerns-kick-start-confidential-computing.html",
+      "summary": "As incident after incident reveals AI agents running wild and causing security concerns, confidential computing is emerging as a way to lock down AI models in a secure vault. The technology has been slow to catch on, but security concerns around AI and agents \u2014 and the need to protect data and models \u2014 are sparking renewed interest in it.\n\n\n\nTraditional encryption protects data in transit and at rest, but not while it\u2019s being used. Confidential computing provides a way to protect data in use. It\u2019s been around for many years, but speed, cost, and complexity have stymied adoption. That may be ch",
+      "source": "Computerworld",
+      "score": 4.0,
+      "published": "2026-11-23T12:42:27+00:00",
+      "fetched_at": "2026-11-24T02:46:28.569062+00:00"
+    },
+    {
+      "id": "fc410e023e94",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-11-23T22:05:50+00:00",
+      "fetched_at": "2026-11-24T02:46:24.654939+00:00"
+    },
+    {
+      "id": "9c2dc730d65c",
+      "title": "How SaaStr Uses Muse for GTM: 5 Jobs We Didn\u2019t Want to Build Into Our Own Agents",
+      "url": "https://www.saastr.com/how-saastr-uses-muse-for-gtm-5-jobs-we-didnt-want-to-build-into-our-own-agents/",
+      "summary": "How SaaStr Uses Muse for GTM: 5 Jobs We Didn&#8217;t Want to Build Into Our Own Agents We have a rule at SaaStr: if we add an agent, we remove one. We haven&#8217;t enforced it well, and Muse is the most recent agent that got past it. We already run 10K, our main GTM agent,... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-11-23T15:00:01+00:00",
+      "fetched_at": "2026-11-24T02:46:26.319773+00:00"
+    },
+    {
+      "id": "93579cead821",
+      "title": "Sam Blond Met 200+ AI Sales Startups at Founders Fund, Then Built Monaco: Why Most Get It Wrong, Where AI Beats Your Reps, and the $15,000 Plane",
+      "url": "https://www.saastr.com/sam-blond-met-200-ai-sales-startups-at-founders-fund-then-built-monaco-why-most-get-it-wrong-where-ai-beats-your-reps-and-the-15000-plane/",
+      "summary": "Sam Blond scaled sales at Brex, then joined Founders Fund as a partner. Because his background is sales, a large share of the AI GTM startups pitching Founders Fund ended up in his meetings. He met with hundreds of them. Then he co-founded Monaco, an AI-native revenue platform for startups, and raised a Series A... Continue Reading",
+      "source": "SaaStr",
+      "score": 3.3,
+      "published": "2026-11-22T15:00:31+00:00",
+      "fetched_at": "2026-11-24T02:46:26.319839+00:00"
+    },
+    {
+      "id": "69ffc9ff0e53",
+      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+      "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+      "summary": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey.",
+      "source": "CNBC Economy",
+      "score": 3.0,
+      "published": "2026-11-23T23:42:27+00:00",
+      "fetched_at": "2026-11-24T02:46:25.470691+00:00"
+    },
+    {
+      "id": "de982014dc2f",
+      "title": "Making 6 figures? You might still be using \u2018buy now, pay later,\u2019 according to new research",
+      "url": "https://www.fastcompany.com/91647629/making-six-figures-you-might-still-be-using-buy-now-pay-later-according-to-new-research",
+      "summary": "Nearly 7 in 10 surveyed deferred-payment users in households earning at least $100,000 used installment financing in the past year.\n\nWe are a nation united in our desire to pay tomorrow for what we\u2019re buying today.",
+      "source": "Fast Company",
+      "score": 3.0,
+      "published": "2026-11-23T20:51:23+00:00",
+      "fetched_at": "2026-11-24T02:46:30.050413+00:00"
+    },
+    {
+      "id": "51f732bdea59",
+      "title": "Prevent AI Agents From Going Rogue By Sending Them To Human Psychologists For Needed Therapy",
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/11/23/prevent-ai-agents-from-going-rogue-by-sending-them-to-human-psychologists-for-needed-therapy/",
+      "summary": "A provocative proposal borrows techniques from human therapy to correct deceptive AI behavior. But can counseling produce lasting changes in machines?",
+      "source": "Forbes Innovation",
+      "score": 3.0,
+      "published": "2026-11-23T19:05:37+00:00",
+      "fetched_at": "2026-11-24T02:46:27.281928+00:00"
+    },
+    {
+      "id": "0719c45f6eb3",
+      "title": "Ground Truth: The Unsung Foundation Of Industrial Autonomy",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/23/ground-truth-the-unsung-foundation-of-industrial-autonomy/",
+      "summary": "Technology leaders considering autonomous solutions for their operations should keep these three principles in mind.",
+      "source": "Forbes Innovation",
+      "score": 3.0,
+      "published": "2026-11-23T15:45:00+00:00",
+      "fetched_at": "2026-11-24T02:46:27.282180+00:00"
     }
   ],
   "history": [
-    "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-    "https://www.fastcompany.com/91613569/publishers-ai-buyers-content-market?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-    "https://www.forbes.com/sites/ariredbord/2026/10/02/i-sent-my-ai-agent-to-find-caitlin-clarks-new-shoe/",
-    "https://www.cnbc.com/2026/10/01/jim-cramer-akamai-ai-traffic.html",
-    "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-    "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-    "https://www.oreilly.com/radar/how-to-build-reliable-ai-agent-systems-for-production/",
-    "https://www.saastr.com/astra-6-replaced-a-core-engine-of-saastr-connect-with-two-words-do-it-twice-in-under-an-hour-then-it-said-i-did-not-make-that-edit/",
-    "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
-    "https://www.saastr.com/youll-probably-end-up-with-40-of-your-revenue-from-international-invest-earlier-there/",
-    "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
     "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
     "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
     "https://martinfowler.com/fragments/2026-10-04.html",
@@ -371,7 +359,19 @@
     "https://www.fastcompany.com/91643388/ai-vendors-say-companies-are-measuring-roi-the-wrong-way-what-will-convince-cfos-to-keep-paying?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.computerworld.com/article/4250505/microsoft-brings-ai-inference-closer-to-enterprise-data-with-windows-server-2028-2.html",
     "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "https://www.saastr.com/20vc-x-saastr-jensen-out-at-nvidia-anthropics-1-4-trillion-ipo-and-hubspot-brings-back-brian-halligan/"
+    "https://www.saastr.com/20vc-x-saastr-jensen-out-at-nvidia-anthropics-1-4-trillion-ipo-and-hubspot-brings-back-brian-halligan/",
+    "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.saastr.com/dear-saastr-what-are-your-biggest-regrets-when-starting-a-company-culture-scaling-hiring-marketing-etc/",
+    "https://www.fastcompany.com/91647412/crowdstrike-is-buying-zscaler-to-create-a-cybersecurity-giant-built-for-the-era-of-ai-agents",
+    "https://www.computerworld.com/article/4245310/ai-agent-security-concerns-kick-start-confidential-computing.html",
+    "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "https://www.saastr.com/how-saastr-uses-muse-for-gtm-5-jobs-we-didnt-want-to-build-into-our-own-agents/",
+    "https://www.saastr.com/sam-blond-met-200-ai-sales-startups-at-founders-fund-then-built-monaco-why-most-get-it-wrong-where-ai-beats-your-reps-and-the-15000-plane/",
+    "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+    "https://www.fastcompany.com/91647629/making-six-figures-you-might-still-be-using-buy-now-pay-later-according-to-new-research",
+    "https://www.forbes.com/sites/lanceeliot/2026/11/23/prevent-ai-agents-from-going-rogue-by-sending-them-to-human-psychologists-for-needed-therapy/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/23/ground-truth-the-unsung-foundation-of-industrial-autonomy/"
   ],
-  "generated_at": "2026-11-20T22:31:43.326306+00:00"
+  "generated_at": "2026-11-24T02:46:30.051042+00:00"
 }

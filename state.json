@@ -11,26 +11,6 @@
       "fetched_at": "2026-11-24T02:46:24.654963+00:00"
     },
     {
-      "id": "af5b3833a3c5",
-      "title": "CrowdStrike CEO: Companies are choosing between getting hacked and shutting down",
-      "url": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "summary": "Microsoft systems down. Air traffic systems down. Problems at Chase, United, and Apple. After a week of outages across big systems, the AI conspiracy theories are in full swing. CrowdStrike founder and CEO George Kurtz describes how AI agents can turn a patch into a working exploit within an hour, and how CEOs are now taking services offline rather than risk being hacked. He also discusses CrowdStrike\u2019s new AI Kill Switch, and why slowing down the frontier labs won\u2019t slow down the attackers.\n\n\n\nThis is an abridged transcript of an interview from Rapid Response, hosted by former Fast Company ed",
-      "source": "Fast Company Tech",
-      "score": 4.4,
-      "published": "2026-11-22T10:11:00+00:00",
-      "fetched_at": "2026-11-24T02:46:29.860761+00:00"
-    },
-    {
-      "id": "c272135a47de",
-      "title": "Dear SaaStr: What Are Your Biggest Regrets When Starting a Company? Culture, Scaling, Hiring, Marketing, Etc.",
-      "url": "https://www.saastr.com/dear-saastr-what-are-your-biggest-regrets-when-starting-a-company-culture-scaling-hiring-marketing-etc/",
-      "summary": "I don&#8217;t have any true regrets in either of the companies I co-founded. But let me list the Top 10 mistakes I made in the first 12-18 months starting a B2B company that still ended up being a pretty solid success: Launching Too Early. This paid off with press, PR, etc. But we should have... Continue Reading",
-      "source": "SaaStr",
-      "score": 4.4,
-      "published": "2026-11-22T10:00:08+00:00",
-      "fetched_at": "2026-11-24T02:46:26.319896+00:00"
-    },
-    {
       "id": "448617c90cd2",
       "title": "CrowdStrike is buying Zscaler to create a cybersecurity giant built for the era of AI agents",
       "url": "https://www.fastcompany.com/91647412/crowdstrike-is-buying-zscaler-to-create-a-cybersecurity-giant-built-for-the-era-of-ai-agents",
@@ -71,16 +51,6 @@
       "fetched_at": "2026-11-24T02:46:26.319773+00:00"
     },
     {
-      "id": "93579cead821",
-      "title": "Sam Blond Met 200+ AI Sales Startups at Founders Fund, Then Built Monaco: Why Most Get It Wrong, Where AI Beats Your Reps, and the $15,000 Plane",
-      "url": "https://www.saastr.com/sam-blond-met-200-ai-sales-startups-at-founders-fund-then-built-monaco-why-most-get-it-wrong-where-ai-beats-your-reps-and-the-15000-plane/",
-      "summary": "Sam Blond scaled sales at Brex, then joined Founders Fund as a partner. Because his background is sales, a large share of the AI GTM startups pitching Founders Fund ended up in his meetings. He met with hundreds of them. Then he co-founded Monaco, an AI-native revenue platform for startups, and raised a Series A... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-11-22T15:00:31+00:00",
-      "fetched_at": "2026-11-24T02:46:26.319839+00:00"
-    },
-    {
       "id": "69ffc9ff0e53",
       "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
       "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
@@ -119,12 +89,39 @@
       "score": 3.0,
       "published": "2026-11-23T15:45:00+00:00",
       "fetched_at": "2026-11-24T02:46:27.282180+00:00"
+    },
+    {
+      "id": "ba625c17c59c",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As&#8230;",
+      "source": "MIT Technology Review",
+      "score": 10.8,
+      "published": "2026-11-24T15:15:16+00:00",
+      "fetched_at": "2026-11-25T00:25:38.327469+00:00"
+    },
+    {
+      "id": "36abf03219c1",
+      "title": "\u200bBuilding A Data Foundation That Makes Enterprise AI Work",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/24/building-a-data-foundation-that-makes-enterprise-ai-work/",
+      "summary": "An agent-ready platform has to serve decisions to a machine in real time, with context, semantics and governance built into its design.",
+      "source": "Forbes Innovation",
+      "score": 7.0,
+      "published": "2026-11-24T17:15:34+00:00",
+      "fetched_at": "2026-11-25T00:25:39.921695+00:00"
+    },
+    {
+      "id": "6e7150d9caf7",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "source": "TechCrunch AI",
+      "score": 4.8,
+      "published": "2026-11-24T17:00:00+00:00",
+      "fetched_at": "2026-11-25T00:25:37.196625+00:00"
     }
   ],
   "history": [
-    "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-    "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-    "https://martinfowler.com/fragments/2026-10-04.html",
     "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
     "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
     "https://www.fastcompany.com/91609929/data-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -371,7 +368,10 @@
     "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
     "https://www.fastcompany.com/91647629/making-six-figures-you-might-still-be-using-buy-now-pay-later-according-to-new-research",
     "https://www.forbes.com/sites/lanceeliot/2026/11/23/prevent-ai-agents-from-going-rogue-by-sending-them-to-human-psychologists-for-needed-therapy/",
-    "https://www.forbes.com/councils/forbestechcouncil/2026/11/23/ground-truth-the-unsung-foundation-of-industrial-autonomy/"
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/23/ground-truth-the-unsung-foundation-of-industrial-autonomy/",
+    "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/24/building-a-data-foundation-that-makes-enterprise-ai-work/",
+    "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
   ],
-  "generated_at": "2026-11-24T02:46:30.051042+00:00"
+  "generated_at": "2026-11-25T00:25:43.141896+00:00"
 }

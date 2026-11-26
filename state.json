@@ -1,96 +1,6 @@
 {
   "queue": [
     {
-      "id": "a42ef673b6ac",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-11-23T22:02:05+00:00",
-      "fetched_at": "2026-11-24T02:46:24.654963+00:00"
-    },
-    {
-      "id": "448617c90cd2",
-      "title": "CrowdStrike is buying Zscaler to create a cybersecurity giant built for the era of AI agents",
-      "url": "https://www.fastcompany.com/91647412/crowdstrike-is-buying-zscaler-to-create-a-cybersecurity-giant-built-for-the-era-of-ai-agents",
-      "summary": "The $43 billion all-stock deal comes amid growing concerns over vulnerable tech infrastructure and a future of bot-fueled cyberattacks.\n\nTwo cybersecurity companies are coming together in one of the industry\u2019s biggest ever mergers.",
-      "source": "Fast Company",
-      "score": 4.0,
-      "published": "2026-11-23T14:03:00+00:00",
-      "fetched_at": "2026-11-24T02:46:30.050989+00:00"
-    },
-    {
-      "id": "eb99b0230f8d",
-      "title": "AI agent security concerns kick-start confidential computing",
-      "url": "https://www.computerworld.com/article/4245310/ai-agent-security-concerns-kick-start-confidential-computing.html",
-      "summary": "As incident after incident reveals AI agents running wild and causing security concerns, confidential computing is emerging as a way to lock down AI models in a secure vault. The technology has been slow to catch on, but security concerns around AI and agents \u2014 and the need to protect data and models \u2014 are sparking renewed interest in it.\n\n\n\nTraditional encryption protects data in transit and at rest, but not while it\u2019s being used. Confidential computing provides a way to protect data in use. It\u2019s been around for many years, but speed, cost, and complexity have stymied adoption. That may be ch",
-      "source": "Computerworld",
-      "score": 4.0,
-      "published": "2026-11-23T12:42:27+00:00",
-      "fetched_at": "2026-11-24T02:46:28.569062+00:00"
-    },
-    {
-      "id": "fc410e023e94",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-11-23T22:05:50+00:00",
-      "fetched_at": "2026-11-24T02:46:24.654939+00:00"
-    },
-    {
-      "id": "9c2dc730d65c",
-      "title": "How SaaStr Uses Muse for GTM: 5 Jobs We Didn\u2019t Want to Build Into Our Own Agents",
-      "url": "https://www.saastr.com/how-saastr-uses-muse-for-gtm-5-jobs-we-didnt-want-to-build-into-our-own-agents/",
-      "summary": "How SaaStr Uses Muse for GTM: 5 Jobs We Didn&#8217;t Want to Build Into Our Own Agents We have a rule at SaaStr: if we add an agent, we remove one. We haven&#8217;t enforced it well, and Muse is the most recent agent that got past it. We already run 10K, our main GTM agent,... Continue Reading",
-      "source": "SaaStr",
-      "score": 3.3,
-      "published": "2026-11-23T15:00:01+00:00",
-      "fetched_at": "2026-11-24T02:46:26.319773+00:00"
-    },
-    {
-      "id": "69ffc9ff0e53",
-      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
-      "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
-      "summary": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey.",
-      "source": "CNBC Economy",
-      "score": 3.0,
-      "published": "2026-11-23T23:42:27+00:00",
-      "fetched_at": "2026-11-24T02:46:25.470691+00:00"
-    },
-    {
-      "id": "de982014dc2f",
-      "title": "Making 6 figures? You might still be using \u2018buy now, pay later,\u2019 according to new research",
-      "url": "https://www.fastcompany.com/91647629/making-six-figures-you-might-still-be-using-buy-now-pay-later-according-to-new-research",
-      "summary": "Nearly 7 in 10 surveyed deferred-payment users in households earning at least $100,000 used installment financing in the past year.\n\nWe are a nation united in our desire to pay tomorrow for what we\u2019re buying today.",
-      "source": "Fast Company",
-      "score": 3.0,
-      "published": "2026-11-23T20:51:23+00:00",
-      "fetched_at": "2026-11-24T02:46:30.050413+00:00"
-    },
-    {
-      "id": "51f732bdea59",
-      "title": "Prevent AI Agents From Going Rogue By Sending Them To Human Psychologists For Needed Therapy",
-      "url": "https://www.forbes.com/sites/lanceeliot/2026/11/23/prevent-ai-agents-from-going-rogue-by-sending-them-to-human-psychologists-for-needed-therapy/",
-      "summary": "A provocative proposal borrows techniques from human therapy to correct deceptive AI behavior. But can counseling produce lasting changes in machines?",
-      "source": "Forbes Innovation",
-      "score": 3.0,
-      "published": "2026-11-23T19:05:37+00:00",
-      "fetched_at": "2026-11-24T02:46:27.281928+00:00"
-    },
-    {
-      "id": "0719c45f6eb3",
-      "title": "Ground Truth: The Unsung Foundation Of Industrial Autonomy",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/23/ground-truth-the-unsung-foundation-of-industrial-autonomy/",
-      "summary": "Technology leaders considering autonomous solutions for their operations should keep these three principles in mind.",
-      "source": "Forbes Innovation",
-      "score": 3.0,
-      "published": "2026-11-23T15:45:00+00:00",
-      "fetched_at": "2026-11-24T02:46:27.282180+00:00"
-    },
-    {
       "id": "ba625c17c59c",
       "title": "Raising the stakes for enterprise networks with AI modernization",
       "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
@@ -119,18 +29,99 @@
       "score": 4.8,
       "published": "2026-11-24T17:00:00+00:00",
       "fetched_at": "2026-11-25T00:25:37.196625+00:00"
+    },
+    {
+      "id": "3f41a89441e0",
+      "title": "OpenClaw launches an AI performance benchmark that it argues is more realistic than others",
+      "url": "https://www.computerworld.com/article/4252841/openclaw-launches-an-ai-performance-benchmark-that-it-argues-is-more-realistic-than-others.html",
+      "summary": "OpenClaw, working with a host of other industry players including Hugging Face, Nvidia, Red Hat, Google and Amazon, Tuesday rolled out an AI performance benchmark called ShellBench.\n\n\n\nOpenClaw\u2019s position is that the benchmark will compare various AI models (it will soon look at a total of 24) and test them on complex queries, ones that should better replicate the kind of complicated tasks that an enterprise would perform.\u00a0\n\n\n\n\u201cAsk an AI agent to summarize a document, and it will probably do a decent job. Ask it to reconcile a handful of receipts against a spreadsheet, check which information ",
+      "source": "Computerworld",
+      "score": 5.0,
+      "published": "2026-11-25T02:33:03+00:00",
+      "fetched_at": "2026-11-26T00:01:51.786890+00:00"
+    },
+    {
+      "id": "a4e157075d1c",
+      "title": "Some people don\u2019t use AI at work\u2014and feel judged for it",
+      "url": "https://www.fastcompany.com/91648591/some-people-dont-use-ai-at-work-and-feel-judged-for-it",
+      "summary": "That\u2019s according to new data as AI adoption at work becomes the norm.\n\nNew workplace fear unlocked\u2014and it\u2019s not being yelled at for heated-up fish in the office microwave or getting too merry at the Christmas party.&nbsp;",
+      "source": "Fast Company",
+      "score": 4.0,
+      "published": "2026-11-25T21:00:00+00:00",
+      "fetched_at": "2026-11-26T00:01:53.616237+00:00"
+    },
+    {
+      "id": "92ca8bfabc9c",
+      "title": "What Y Combinator's Newest Founders Are Betting On",
+      "url": "https://www.forbes.com/sites/dariashunina/2026/11/25/what-y-combinators-newest-founders-are-betting-on/",
+      "summary": "Inside Y Combinator's Fall 2026 batch: founders betting on AI agents, robotics, energy, biotech and the next wave of startups ahead of Demo Day.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-11-25T17:00:00+00:00",
+      "fetched_at": "2026-11-26T00:01:50.856791+00:00"
+    },
+    {
+      "id": "f3ae81ef4ecb",
+      "title": "How Legacy Data Pipelines Become A Liability When AI Moves From Chat To Action",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/25/how-legacy-data-pipelines-become-a-liability-when-ai-moves-from-chat-to-action/",
+      "summary": "Organizations should examine these foundations early in AI planning rather than discover their limitations after agents become embedded in critical workflows.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-11-25T15:15:00+00:00",
+      "fetched_at": "2026-11-26T00:01:50.856945+00:00"
+    },
+    {
+      "id": "26965b11ccd4",
+      "title": "The AI Infrastructure Bet That Smart Enterprises Are Making",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/25/the-ai-infrastructure-bet-that-smart-enterprises-are-making/",
+      "summary": "Focus on infrastructure that connects AI to relevant business data, organizational knowledge and workflows.",
+      "source": "Forbes Innovation",
+      "score": 4.0,
+      "published": "2026-11-25T14:45:00+00:00",
+      "fetched_at": "2026-11-26T00:01:50.857051+00:00"
+    },
+    {
+      "id": "c5eb6e0ca7f1",
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "summary": "The \u201chardest remaining problem in classical physics\u201d gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "source": "Wired",
+      "score": 4.0,
+      "published": "2026-11-25T11:30:00+00:00",
+      "fetched_at": "2026-11-26T00:01:51.016717+00:00"
+    },
+    {
+      "id": "204f9ec324ab",
+      "title": "Three xAI founders want AI to predict the future",
+      "url": "https://www.therundown.ai/articles/three-xai-founders-want-ai-to-predict-the-future",
+      "summary": "PLUS: How to put Microsoft Copilot to work",
+      "source": "The Rundown AI",
+      "score": 3.9,
+      "published": "2026-11-25T11:00:00+00:00",
+      "fetched_at": "2026-11-26T00:01:48.793628+00:00"
+    },
+    {
+      "id": "0cb60670470d",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-11-25T14:10:18+00:00",
+      "fetched_at": "2026-11-26T00:01:47.532068+00:00"
+    },
+    {
+      "id": "84cfd1b9e3c3",
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "source": "TechCrunch AI",
+      "score": 3.6,
+      "published": "2026-11-24T21:33:29+00:00",
+      "fetched_at": "2026-11-26T00:01:47.532198+00:00"
     }
   ],
   "history": [
-    "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-    "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
-    "https://www.fastcompany.com/91609929/data-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91609956/enterprise-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://fortune.com/2026/10/07/microsoft-unveils-windows-hybrid-intelligence-satya-nadella-surface-ultra-laptop/",
-    "https://www.saastr.com/how-much-of-your-customer-support-can-ai-really-resolve-the-best-get-about-70-the-median-is-48-heres-the-real-data-from-13-vendors/",
-    "https://www.fastcompany.com/91612002/enterprise-size-500-employees-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-    "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
     "https://www.fastcompany.com/91618933/nba-announces-using-smart-basketballs-wearable-tech-preseason-games?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91609818/applied-ai-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "https://www.fastcompany.com/91609941/enduring-impact-15-years-in-business-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
@@ -371,7 +362,16 @@
     "https://www.forbes.com/councils/forbestechcouncil/2026/11/23/ground-truth-the-unsung-foundation-of-industrial-autonomy/",
     "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
     "https://www.forbes.com/councils/forbestechcouncil/2026/11/24/building-a-data-foundation-that-makes-enterprise-ai-work/",
-    "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+    "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+    "https://www.computerworld.com/article/4252841/openclaw-launches-an-ai-performance-benchmark-that-it-argues-is-more-realistic-than-others.html",
+    "https://www.fastcompany.com/91648591/some-people-dont-use-ai-at-work-and-feel-judged-for-it",
+    "https://www.forbes.com/sites/dariashunina/2026/11/25/what-y-combinators-newest-founders-are-betting-on/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/25/how-legacy-data-pipelines-become-a-liability-when-ai-moves-from-chat-to-action/",
+    "https://www.forbes.com/councils/forbestechcouncil/2026/11/25/the-ai-infrastructure-bet-that-smart-enterprises-are-making/",
+    "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+    "https://www.therundown.ai/articles/three-xai-founders-want-ai-to-predict-the-future",
+    "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
   ],
-  "generated_at": "2026-11-25T00:25:43.141896+00:00"
+  "generated_at": "2026-11-26T00:01:53.617035+00:00"
 }

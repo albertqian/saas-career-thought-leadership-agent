@@ -1,36 +1,6 @@
 {
   "queue": [
     {
-      "id": "ba625c17c59c",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As&#8230;",
-      "source": "MIT Technology Review",
-      "score": 10.8,
-      "published": "2026-11-24T15:15:16+00:00",
-      "fetched_at": "2026-11-25T00:25:38.327469+00:00"
-    },
-    {
-      "id": "36abf03219c1",
-      "title": "\u200bBuilding A Data Foundation That Makes Enterprise AI Work",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/24/building-a-data-foundation-that-makes-enterprise-ai-work/",
-      "summary": "An agent-ready platform has to serve decisions to a machine in real time, with context, semantics and governance built into its design.",
-      "source": "Forbes Innovation",
-      "score": 7.0,
-      "published": "2026-11-24T17:15:34+00:00",
-      "fetched_at": "2026-11-25T00:25:39.921695+00:00"
-    },
-    {
-      "id": "6e7150d9caf7",
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-      "source": "TechCrunch AI",
-      "score": 4.8,
-      "published": "2026-11-24T17:00:00+00:00",
-      "fetched_at": "2026-11-25T00:25:37.196625+00:00"
-    },
-    {
       "id": "3f41a89441e0",
       "title": "OpenClaw launches an AI performance benchmark that it argues is more realistic than others",
       "url": "https://www.computerworld.com/article/4252841/openclaw-launches-an-ai-performance-benchmark-that-it-argues-is-more-realistic-than-others.html",
@@ -111,21 +81,47 @@
       "fetched_at": "2026-11-26T00:01:47.532068+00:00"
     },
     {
-      "id": "84cfd1b9e3c3",
-      "title": "Even the best AI agents struggle with everyday life",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "id": "481d8fec5513",
+      "title": "Are AI companies \u2018glosslighting\u2019 you with misleading jargon? This report says yes",
+      "url": "https://www.fastcompany.com/91649101/are-ai-companies-glosslighting-you-with-misleading-jargon-this-report-says-yes",
+      "summary": "Careful word choice can make AI sound safer, greener, or more independent than it actually is.\n\nEver describe an AI agent\u2019s error as a \u201challucination\u201d? Fret over the threat of \u201csuperintelligence\u201d? How about call an AI assistant your \u201ccopilot\u201d? Beware: you may have been glosslit by the AI industry.",
+      "source": "Fast Company",
+      "score": 6.0,
+      "published": "2026-11-25T23:30:00+00:00",
+      "fetched_at": "2026-11-27T00:22:21.625338+00:00"
+    },
+    {
+      "id": "270b612305ff",
+      "title": "20VC x SaaStr: Anthropic\u2019s $1.5 Trillion IPO, Jensen Huang\u2019s Return, and Mailchimp Sells for Under a Third of What Intuit Paid",
+      "url": "https://www.saastr.com/20vc-x-saastr-anthropics-1-5-trillion-ipo-jensen-huangs-return-and-mailchimp-sells-for-under-a-third-of-what-intuit-paid/",
+      "summary": "Plus Cognition at $75B, a Sierra vs. Databricks vs. Ramp investment committee, CrowdStrike&#8217;s $43.9B Zscaler deal, and why marketing automation may be a dead category Rory O&#8217;Driscoll was on holiday this week, and Matt Murphy of Menlo Ventures took his seat. Matt was one of Anthropic&#8217;s earliest investors and joined the same week Anthropic went... Continue Reading",
+      "source": "SaaStr",
+      "score": 5.5,
+      "published": "2026-11-26T17:09:01+00:00",
+      "fetched_at": "2026-11-27T00:22:18.378666+00:00"
+    },
+    {
+      "id": "2083a751626f",
+      "title": "Microsoft sets one-hour recovery goal after worst-ever M365 outage",
+      "url": "https://www.computerworld.com/article/4253555/microsoft-sets-one-hour-recovery-goal-after-worst-ever-m365-outage.html",
+      "summary": "Microsoft has ordered an overhaul of its Microsoft 365 engineering and incident response practices after a 24-hour outage disrupted businesses and governments worldwide, setting a target of resolving future service disruptions globally within an hour, Reuters reported.\n\n\n\nMicrosoft attributed the November 12-13 disruption to a scalability flaw in Windows that went undetected for months after its introduction in July, the report said. The outage affected Exchange Online and other Microsoft 365 services, including Teams. Microsoft said neither cyber activity nor AI agents were responsible.\n\n\n\nJa",
+      "source": "Computerworld",
+      "score": 3.0,
+      "published": "2026-11-26T10:20:34+00:00",
+      "fetched_at": "2026-11-27T00:22:20.430417+00:00"
+    },
+    {
+      "id": "45abf29e2969",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "summary": "\u2060Nvidia has made clear\u2060 it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.\u00a0 \u2060Anita Verma-Lallian\u2060 has been selling exactly that. [&#8230;]",
       "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-11-24T21:33:29+00:00",
-      "fetched_at": "2026-11-26T00:01:47.532198+00:00"
+      "score": 2.4,
+      "published": "2026-11-25T15:41:43+00:00",
+      "fetched_at": "2026-11-27T00:22:16.916842+00:00"
     }
   ],
   "history": [
-    "https://www.fastcompany.com/91618933/nba-announces-using-smart-basketballs-wearable-tech-preseason-games?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91609818/applied-ai-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.fastcompany.com/91609941/enduring-impact-15-years-in-business-next-big-things-in-tech-2026?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "https://www.computerworld.com/article/4231552/atlassians-critical-flaw-turns-eight-enterprise-products-into-one-big-security-problem-2.html",
     "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
     "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
     "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
@@ -371,7 +367,11 @@
     "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
     "https://www.therundown.ai/articles/three-xai-founders-want-ai-to-predict-the-future",
     "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-    "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+    "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "https://www.fastcompany.com/91649101/are-ai-companies-glosslighting-you-with-misleading-jargon-this-report-says-yes",
+    "https://www.saastr.com/20vc-x-saastr-anthropics-1-5-trillion-ipo-jensen-huangs-return-and-mailchimp-sells-for-under-a-third-of-what-intuit-paid/",
+    "https://www.computerworld.com/article/4253555/microsoft-sets-one-hour-recovery-goal-after-worst-ever-m365-outage.html",
+    "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/"
   ],
-  "generated_at": "2026-11-26T00:01:53.617035+00:00"
+  "generated_at": "2026-11-27T00:22:21.625803+00:00"
 }

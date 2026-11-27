@@ -1,96 +1,6 @@
 {
   "queue": [
     {
-      "id": "3f41a89441e0",
-      "title": "OpenClaw launches an AI performance benchmark that it argues is more realistic than others",
-      "url": "https://www.computerworld.com/article/4252841/openclaw-launches-an-ai-performance-benchmark-that-it-argues-is-more-realistic-than-others.html",
-      "summary": "OpenClaw, working with a host of other industry players including Hugging Face, Nvidia, Red Hat, Google and Amazon, Tuesday rolled out an AI performance benchmark called ShellBench.\n\n\n\nOpenClaw\u2019s position is that the benchmark will compare various AI models (it will soon look at a total of 24) and test them on complex queries, ones that should better replicate the kind of complicated tasks that an enterprise would perform.\u00a0\n\n\n\n\u201cAsk an AI agent to summarize a document, and it will probably do a decent job. Ask it to reconcile a handful of receipts against a spreadsheet, check which information ",
-      "source": "Computerworld",
-      "score": 5.0,
-      "published": "2026-11-25T02:33:03+00:00",
-      "fetched_at": "2026-11-26T00:01:51.786890+00:00"
-    },
-    {
-      "id": "a4e157075d1c",
-      "title": "Some people don\u2019t use AI at work\u2014and feel judged for it",
-      "url": "https://www.fastcompany.com/91648591/some-people-dont-use-ai-at-work-and-feel-judged-for-it",
-      "summary": "That\u2019s according to new data as AI adoption at work becomes the norm.\n\nNew workplace fear unlocked\u2014and it\u2019s not being yelled at for heated-up fish in the office microwave or getting too merry at the Christmas party.&nbsp;",
-      "source": "Fast Company",
-      "score": 4.0,
-      "published": "2026-11-25T21:00:00+00:00",
-      "fetched_at": "2026-11-26T00:01:53.616237+00:00"
-    },
-    {
-      "id": "92ca8bfabc9c",
-      "title": "What Y Combinator's Newest Founders Are Betting On",
-      "url": "https://www.forbes.com/sites/dariashunina/2026/11/25/what-y-combinators-newest-founders-are-betting-on/",
-      "summary": "Inside Y Combinator's Fall 2026 batch: founders betting on AI agents, robotics, energy, biotech and the next wave of startups ahead of Demo Day.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-11-25T17:00:00+00:00",
-      "fetched_at": "2026-11-26T00:01:50.856791+00:00"
-    },
-    {
-      "id": "f3ae81ef4ecb",
-      "title": "How Legacy Data Pipelines Become A Liability When AI Moves From Chat To Action",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/25/how-legacy-data-pipelines-become-a-liability-when-ai-moves-from-chat-to-action/",
-      "summary": "Organizations should examine these foundations early in AI planning rather than discover their limitations after agents become embedded in critical workflows.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-11-25T15:15:00+00:00",
-      "fetched_at": "2026-11-26T00:01:50.856945+00:00"
-    },
-    {
-      "id": "26965b11ccd4",
-      "title": "The AI Infrastructure Bet That Smart Enterprises Are Making",
-      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/11/25/the-ai-infrastructure-bet-that-smart-enterprises-are-making/",
-      "summary": "Focus on infrastructure that connects AI to relevant business data, organizational knowledge and workflows.",
-      "source": "Forbes Innovation",
-      "score": 4.0,
-      "published": "2026-11-25T14:45:00+00:00",
-      "fetched_at": "2026-11-26T00:01:50.857051+00:00"
-    },
-    {
-      "id": "c5eb6e0ca7f1",
-      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
-      "summary": "The \u201chardest remaining problem in classical physics\u201d gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
-      "source": "Wired",
-      "score": 4.0,
-      "published": "2026-11-25T11:30:00+00:00",
-      "fetched_at": "2026-11-26T00:01:51.016717+00:00"
-    },
-    {
-      "id": "204f9ec324ab",
-      "title": "Three xAI founders want AI to predict the future",
-      "url": "https://www.therundown.ai/articles/three-xai-founders-want-ai-to-predict-the-future",
-      "summary": "PLUS: How to put Microsoft Copilot to work",
-      "source": "The Rundown AI",
-      "score": 3.9,
-      "published": "2026-11-25T11:00:00+00:00",
-      "fetched_at": "2026-11-26T00:01:48.793628+00:00"
-    },
-    {
-      "id": "0cb60670470d",
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-      "source": "TechCrunch AI",
-      "score": 3.6,
-      "published": "2026-11-25T14:10:18+00:00",
-      "fetched_at": "2026-11-26T00:01:47.532068+00:00"
-    },
-    {
-      "id": "481d8fec5513",
-      "title": "Are AI companies \u2018glosslighting\u2019 you with misleading jargon? This report says yes",
-      "url": "https://www.fastcompany.com/91649101/are-ai-companies-glosslighting-you-with-misleading-jargon-this-report-says-yes",
-      "summary": "Careful word choice can make AI sound safer, greener, or more independent than it actually is.\n\nEver describe an AI agent\u2019s error as a \u201challucination\u201d? Fret over the threat of \u201csuperintelligence\u201d? How about call an AI assistant your \u201ccopilot\u201d? Beware: you may have been glosslit by the AI industry.",
-      "source": "Fast Company",
-      "score": 6.0,
-      "published": "2026-11-25T23:30:00+00:00",
-      "fetched_at": "2026-11-27T00:22:21.625338+00:00"
-    },
-    {
       "id": "270b612305ff",
       "title": "20VC x SaaStr: Anthropic\u2019s $1.5 Trillion IPO, Jensen Huang\u2019s Return, and Mailchimp Sells for Under a Third of What Intuit Paid",
       "url": "https://www.saastr.com/20vc-x-saastr-anthropics-1-5-trillion-ipo-jensen-huangs-return-and-mailchimp-sells-for-under-a-third-of-what-intuit-paid/",
@@ -111,27 +21,107 @@
       "fetched_at": "2026-11-27T00:22:20.430417+00:00"
     },
     {
-      "id": "45abf29e2969",
-      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-      "summary": "\u2060Nvidia has made clear\u2060 it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.\u00a0 \u2060Anita Verma-Lallian\u2060 has been selling exactly that. [&#8230;]",
-      "source": "TechCrunch AI",
-      "score": 2.4,
-      "published": "2026-11-25T15:41:43+00:00",
-      "fetched_at": "2026-11-27T00:22:16.916842+00:00"
+      "id": "2045379674ad",
+      "title": "AI Agents Will Take The Middleman's Chores, Not Its Risks",
+      "url": "https://www.forbes.com/sites/stephenwunker/2026/11/27/ai-agents-will-take-the-middlemans-chores-not-its-risks/",
+      "summary": "Agentic commerce is transformative for \"middleman\" businesses, and it's not all bad news. Leaders from Expedia and Northern Trust say what becomes more critical now.",
+      "source": "Forbes Innovation",
+      "score": 6.0,
+      "published": "2026-11-27T14:00:00+00:00",
+      "fetched_at": "2026-11-27T23:56:14.506300+00:00"
+    },
+    {
+      "id": "7f79b9fd3196",
+      "title": "Mark Zuckerberg's Thanksgiving menu: 'GTA 6,' smoked meat, and Meta's AI gadget",
+      "url": "https://www.businessinsider.com/mark-zuckerberg-plays-gta-6-muse-charm-tracks-thanksgiving-turkey-2026-11",
+      "summary": "Mark Zuckerberg shared a Thanksgiving video showing him playing \"GTA 6\" while Meta's Muse AI agent kept track of his turkey.",
+      "source": "Business Insider",
+      "score": 3.0,
+      "published": "2026-11-27T12:02:44+00:00",
+      "fetched_at": "2026-11-27T23:56:16.559171+00:00"
+    },
+    {
+      "id": "93b4ce7a06f7",
+      "title": "Who wants a lamp that wants to be wanted?",
+      "url": "https://www.computerworld.com/article/4251660/who-wants-a-lamp-that-wants-to-be-wanted.html",
+      "summary": "In the 2004 comedy Anchorman: The Legend of Ron Burgundy, the dim-witted Brick Tamland (played by Steve Carell) blurts, \u201cI love lamp!\u201d\n\n\n\nIn 2004, it was a joke. Now it\u2019s a business plan.\n\n\n\nA burgeoning industry is working hard to make us all \u201clove lamp.\u201d But how do you make a lamp lovable?\n\n\n\nThe Apple research\n\n\n\nIn February of last year, I told you about an Apple research project, and the paper it produced, aimed at giving a lamp a personality. Created by Apple\u2019s Machine Learning Research division, the ELEGNT project used AI to give a non-humanoid desktop robot the expressiveness of a pers",
+      "source": "Computerworld",
+      "score": 3.0,
+      "published": "2026-11-27T11:00:00+00:00",
+      "fetched_at": "2026-11-27T23:56:15.910446+00:00"
+    },
+    {
+      "id": "b0ff44b9821f",
+      "title": "Former xAI Founders Built A Time Machine For AI Agents. Will It Help Them Predict The Future?",
+      "url": "https://www.forbes.com/sites/anishasircar/2026/11/27/former-xai-founders-built-a-time-machine-for-ai-agents-will-it-help-them-predict-the-future/",
+      "summary": "Epochal's Time Portal lets AI agents browse the internet as it looked on a past date. The company's first test is encouraging, but does not yet show better forecasts.",
+      "source": "Forbes Innovation",
+      "score": 3.0,
+      "published": "2026-11-27T09:21:31+00:00",
+      "fetched_at": "2026-11-27T23:56:14.506389+00:00"
+    },
+    {
+      "id": "17ca3eecd509",
+      "title": "Why SAP\u2019s second 10,000-job overhaul in two years matters to CIOs",
+      "url": "https://www.computerworld.com/article/4253982/why-saps-second-10000-job-overhaul-in-two-years-matters-to-cios-2.html",
+      "summary": "When SAP restructured roughly 10,000 roles in 2024, executives framed the move as a workforce transformation designed to prepare the company for cloud computing and AI. Two years later, SAP is reportedly considering eliminating another 10,000 positions, but this time the rationale appears different. \n\n\n\nRather than reshaping skills while maintaining headcount, analysts say the latest overhaul reflects a growing belief among technology companies that AI can permanently reduce labor needs, raising new questions for CIOs about vendor stability, support quality, and the economics of the AI era.\n\n\n",
+      "source": "Computerworld",
+      "score": 2.0,
+      "published": "2026-11-27T12:38:03+00:00",
+      "fetched_at": "2026-11-27T23:56:15.910374+00:00"
+    },
+    {
+      "id": "b820185249e0",
+      "title": "Trump, NATO chief caution Russia as attacks on Ukraine\u2019s energy infrastructure intensify",
+      "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+      "summary": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution.",
+      "source": "CNBC Economy",
+      "score": 2.0,
+      "published": "2026-11-26T16:12:47+00:00",
+      "fetched_at": "2026-11-27T23:56:12.777978+00:00"
+    },
+    {
+      "id": "fdc03894c819",
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "summary": "Over the last few weeks, I\u2019ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He\u2019s also taking&#8230;",
+      "source": "MIT Technology Review",
+      "score": 1.2,
+      "published": "2026-11-27T10:00:00+00:00",
+      "fetched_at": "2026-11-27T23:56:13.074471+00:00"
+    },
+    {
+      "id": "4d9e317009fb",
+      "title": "\u2018It was the talk of the playground\u2019: Google\u2019s AI features blocked by L.A. school officials",
+      "url": "https://www.fastcompany.com/91649464/it-was-talk-playground-googles-ai-features-blocked-la-school-officials?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "summary": "School districts are taking steps to block Google&#8217;s artificial intelligence features and are considering dropping Google products entirely unless the company gives them a permanent AI workaround, pitting them against the tech giant whose Chromebook computers and learning tools are deeply embedded in America&#8217;s classrooms.In a major step, Los Angeles school officials have quietly disabled AI-generated summaries, known as AI Overview, in Google searches on school-issued devices. The move makes the Los Angeles Unified School District (LAUSD) the largest district to sideline the company",
+      "source": "Fast Company Tech",
+      "score": 1.1,
+      "published": "2026-11-27T15:31:06+00:00",
+      "fetched_at": "2026-11-27T23:56:16.907963+00:00"
+    },
+    {
+      "id": "30e4e091b1d8",
+      "title": "What\u2019s Hot in B2B? Adtech. Yes, Adtech.",
+      "url": "https://www.saastr.com/whats-hot-in-b2b-adtech-yes-adtech/",
+      "summary": "AppLovin at 55% Growth and 66% Net Margins, Zeta Accelerating to 46%, and The Trade Desk Shrinking in the Same Quarter For most of the last decade, adtech was the part of B2B that investors avoided. It had low multiples, was exposed to whatever Apple and Google did to privacy, and seemed to be one... Continue Reading",
+      "source": "SaaStr",
+      "score": 1.1,
+      "published": "2026-11-27T15:00:04+00:00",
+      "fetched_at": "2026-11-27T23:56:13.763748+00:00"
+    },
+    {
+      "id": "4096bff4d9ab",
+      "title": "Tech rally lifts stock futures to wrap up a volatile week of trading",
+      "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
+      "summary": "President Trump demands a probe into the GDP revision data.",
+      "source": "CNBC Tech",
+      "score": 1.1,
+      "published": "2026-11-27T11:55:41+00:00",
+      "fetched_at": "2026-11-27T23:56:12.975677+00:00"
     }
   ],
   "history": [
-    "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-    "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
-    "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-    "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
-    "https://www.forbes.com/sites/garydrenik/2026/10/08/data-access-not-models-will-determine-enterprise-ais-ceiling/",
-    "https://www.computerworld.com/article/4232487/microsoft-will-let-copilot-act-on-local-files-on-windows-pcs.html",
-    "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-    "https://www.fastcompany.com/91620148/metas-muse-is-taking-off-so-are-the-privacy-concerns",
-    "https://www.computerworld.com/article/4232827/google-wants-to-be-the-gatekeeper-for-enterprise-ai-agents.html",
     "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
     "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
     "https://www.saastr.com/the-latest-saastr-ai-agent-playbook-for-gtm-is-out-everything-weve-learned-running-saastr-on-3-humans-and-21-ai-agents-in-one-handy-guide/",
@@ -371,7 +361,17 @@
     "https://www.fastcompany.com/91649101/are-ai-companies-glosslighting-you-with-misleading-jargon-this-report-says-yes",
     "https://www.saastr.com/20vc-x-saastr-anthropics-1-5-trillion-ipo-jensen-huangs-return-and-mailchimp-sells-for-under-a-third-of-what-intuit-paid/",
     "https://www.computerworld.com/article/4253555/microsoft-sets-one-hour-recovery-goal-after-worst-ever-m365-outage.html",
-    "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/"
+    "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "https://www.forbes.com/sites/stephenwunker/2026/11/27/ai-agents-will-take-the-middlemans-chores-not-its-risks/",
+    "https://www.businessinsider.com/mark-zuckerberg-plays-gta-6-muse-charm-tracks-thanksgiving-turkey-2026-11",
+    "https://www.computerworld.com/article/4251660/who-wants-a-lamp-that-wants-to-be-wanted.html",
+    "https://www.forbes.com/sites/anishasircar/2026/11/27/former-xai-founders-built-a-time-machine-for-ai-agents-will-it-help-them-predict-the-future/",
+    "https://www.computerworld.com/article/4253982/why-saps-second-10000-job-overhaul-in-two-years-matters-to-cios-2.html",
+    "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+    "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+    "https://www.fastcompany.com/91649464/it-was-talk-playground-googles-ai-features-blocked-la-school-officials?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "https://www.saastr.com/whats-hot-in-b2b-adtech-yes-adtech/",
+    "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html"
   ],
-  "generated_at": "2026-11-27T00:22:21.625803+00:00"
+  "generated_at": "2026-11-27T23:56:17.039841+00:00"
 }
